@@ -286,8 +286,8 @@ A session producing drift, generic register, or Persona collapse is evidence aga
 
 ---
 
-*Kai Schlüter — KAI Worlds — 2026*
+*Kai Schlüter — KAI HACKS AI — 2026*
 *CC BY-NC-ND 4.0*
-*github.com/ChBrain/KAIWorlds*
+*KAI Worlds — github.com/ChBrain/KAIWorlds*
 
 *v0.1.0*
