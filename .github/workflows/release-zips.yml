@@ -41,13 +41,12 @@ jobs:
           gh release upload "$TAG" dist/*.zip --clobber
 
       - name: Notify Discord
-        if: github.event_name == 'release'
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          RELEASE_NAME: ${{ github.event.release.name }}
-          RELEASE_URL: ${{ github.event.release.html_url }}
-          RELEASE_TAG: ${{ github.event.release.tag_name }}
-          RELEASE_BODY: ${{ github.event.release.body }}
+          RELEASE_NAME: ${{ github.event.release.name || 'v0.3.0 — Sønderjysk Kaffebord' }}
+          RELEASE_URL: ${{ github.event.release.html_url || 'https://github.com/ChBrain/KAIWorlds/releases/tag/v0.3.0' }}
+          RELEASE_TAG: ${{ github.event.release.tag_name || 'v0.3.0' }}
+          RELEASE_BODY: ${{ github.event.release.body || '' }}
         run: |
           python3 << 'EOF'
           import os, json, urllib.request, re, glob
