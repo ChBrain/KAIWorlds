@@ -37,6 +37,14 @@ A world about transmission. One persona, three roles, one place, sixteen pieces,
 
 ---
 
+### [Sønderjysk Kaffebord](kaffebord/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/kaffebord.zip)
+
+*Sønderjylland. Als. A table set for coffee at nine in the evening.*
+
+A world about resistance that became identity that became a table. Four personas, one place, twenty-one pieces. The language was banned. The cakes stayed Danish. The table survived by insisting on itself. This world is in Danish.
+
+---
+
 ## Join the conversation
 
 Running a world? Found something the files didn't predict?
