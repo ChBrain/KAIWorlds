@@ -27,7 +27,7 @@ The definitive German biography. For understanding who Büchner was at twenty-tw
 
 *The Lenz world in this repository claims no intellectual property in Büchner's*
 *characters, world, or writing. Büchner's work is in the public domain.*
-*The KAI Worlds architecture — its methods, templates, and structural elements —*
+*The KAI HACKS AI architecture — its methods, templates, and structural elements —*
 *is the original contribution claimed under this license.*
 
 *Read the book.*
@@ -35,7 +35,7 @@ The definitive German biography. For understanding who Büchner was at twenty-tw
 ---
 
 The persona, place, and piece structure is original architecture by Kai Schlüter, 2026.
-More: [github.com/ChBrain/KAIHACKS](https://github.com/ChBrain/KAIHACKS)
+More: [github.com/ChBrain/KAIWorlds](https://github.com/ChBrain/KAIWorlds)
 
 ---
 

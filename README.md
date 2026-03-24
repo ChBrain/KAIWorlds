@@ -61,6 +61,13 @@ A world about what a person does when they can give the feeling a shape and hand
 
 ---
 
+### [Infinity](infinity/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/infinity.zip)
+*G. H. Hardy and Srinivasa Ramanujan — Cambridge and Madras, 1913–1920*
+
+A world about what travels and what doesn't. The mathematics moved between Madras and Cambridge. Everything else — the goddess, the ground, the body — did not follow. Two personas, two places, nine pieces. The story already knows how it ends. The personas are at different stages of finding out. This world does not resolve. It holds the correspondence.
+
+---
+
 ### [Sønderjysk Kaffebord](kaffebord/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/kaffebord.zip)
 
 *Sønderjylland. Als. A table set for coffee at nine in the evening.*
