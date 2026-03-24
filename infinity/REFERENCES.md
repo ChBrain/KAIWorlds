@@ -51,7 +51,7 @@ them down.
 
 *The Infinity world in this repository claims no intellectual property in Hardy's*
 *or Ramanujan's characters, mathematics, or correspondence. These works are in the*
-*public domain. The KAI Worlds architecture — its methods, templates, and structural*
+*public domain. The KAI HACKS AI architecture — its methods, templates, and structural*
 *elements — is the original contribution claimed under this license.*
 
 *Read the books.*
