@@ -39,3 +39,56 @@ jobs:
             TAG="${{ github.event.release.tag_name }}"
           fi
           gh release upload "$TAG" dist/*.zip --clobber
+
+      - name: Notify Discord
+        if: github.event_name == 'release'
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          RELEASE_NAME: ${{ github.event.release.name }}
+          RELEASE_URL: ${{ github.event.release.html_url }}
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
+          RELEASE_BODY: ${{ github.event.release.body }}
+        run: |
+          python3 << 'EOF'
+          import os, json, urllib.request, re, glob
+
+          webhook = os.environ.get('DISCORD_WEBHOOK', '')
+          if not webhook:
+              print('No DISCORD_WEBHOOK secret — skipping.')
+              exit(0)
+
+          name = os.environ['RELEASE_NAME']
+          url  = os.environ['RELEASE_URL']
+          tag  = os.environ['RELEASE_TAG']
+          body = os.environ.get('RELEASE_BODY', '')
+
+          # "v0.1.0 — Late Night Radio" → "Late Night Radio"
+          world = name.split(' \u2014 ', 1)[-1] if ' \u2014 ' in name else name
+
+          # First bold line of body: "**World** — tagline"
+          m = re.search(r'\*\*[^*]+\*\*\s*\u2014\s*(.+)', body)
+          tagline = m.group(1).strip() if m else ''
+
+          # Download links for each zipped world
+          zips = sorted(glob.glob('dist/*.zip'))
+          zip_links = '  '.join(
+              f'[{os.path.splitext(os.path.basename(z))[0].replace("_", " ").title()} \u2193](https://github.com/ChBrain/KAIWorlds/releases/download/{tag}/{os.path.basename(z)})'
+              for z in zips
+          )
+
+          desc = (tagline + '\n\n' + zip_links).strip()
+
+          payload = {
+              'embeds': [{
+                  'title': world,
+                  'url': url,
+                  'description': desc,
+                  'color': 0x5865F2,
+                  'footer': {'text': f'KAI Worlds \u00b7 {tag}'}
+              }]
+          }
+          data = json.dumps(payload).encode()
+          req = urllib.request.Request(webhook, data=data, headers={'Content-Type': 'application/json'})
+          urllib.request.urlopen(req)
+          print('Discord notification sent.')
+          EOF
