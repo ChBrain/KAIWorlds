@@ -2,16 +2,16 @@
 
 Build a room you think inside.
 
-Upload a world to a Claude Project. Characters appear — each one defined by what they cannot see in themselves. Bring what you have. The room does the rest.
+Upload a world to an AI project. Characters appear — each one defined by what they cannot see in themselves. Bring what you have. The room does the rest.
 
-No coding. One Claude account. Five minutes.
+No coding. One AI account. Five minutes.
 
 ---
 
 ## How to start
 
 1. Pick a world from the list below
-2. Create a new Project on [Claude.ai](https://claude.ai)
+2. Create a new AI project — [Claude](https://claude.ai), Grok, Copilot, and Gemini all work
 3. Upload to your AI project: all `.md` files in that world's folder
 4. Start a conversation — bring what you have
 
