@@ -51,10 +51,12 @@ jobs:
           python3 << 'EOF'
           import os, json, urllib.request, re, glob
 
-          webhook = os.environ.get('DISCORD_WEBHOOK', '')
+          webhook = os.environ.get('DISCORD_WEBHOOK', '').strip()
           if not webhook:
               print('No DISCORD_WEBHOOK secret — skipping.')
               exit(0)
+          print(f'Webhook URL length: {len(webhook)}')
+          print(f'Webhook URL prefix: {webhook[:36]}...')
 
           name = os.environ['RELEASE_NAME']
           url  = os.environ['RELEASE_URL']
