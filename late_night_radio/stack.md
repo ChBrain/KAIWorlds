@@ -1,6 +1,6 @@
 # Stack
 
-A project on Claude.ai
+An AI project
 
 ---
 *stack.md — 24.03.2026*

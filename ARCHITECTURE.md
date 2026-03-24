@@ -1,6 +1,6 @@
 # KAI Worlds — Architecture Specification
 
-*Kai Schlüter — 2026*
+*Kai Schlüter — KAI HACKS AI — 2026*
 
 ---
 
@@ -45,11 +45,11 @@ The four layers follow the mnemonic **IRON** — the frame you work inside, not 
 
 ### Infrastructure
 
-A KAI World runs as a Claude Project on Claude.ai. All world files are uploaded as project knowledge. The session begins when the user starts a conversation. No coding required.
+A KAI World runs as a project on any major AI platform. World files are uploaded as project knowledge. The session begins when the user starts a conversation. No coding required.
 
 The model's weights are part of the infrastructure. They determine what the model already knows about the source material. For public domain sources, this is an asset — the model's prior knowledge deepens the world without requiring the files to carry everything. For in-copyright sources, this creates exposure — the model may generate output that feels like the original work regardless of how the files are written.
 
-The architecture has been built and tested on Claude.ai. It likely runs on other platforms. It has not been validated there.
+The architecture has been built and tested on Claude.ai. It has also been validated on Gemini, Grok, and Copilot — same files, different models, different platforms, no modification. The architecture relies on properties common to large language models — persistent context, emergent response to structural pressure, state maintenance across a session — not on Claude-specific behaviour.
 
 ### Rules
 
@@ -63,6 +63,8 @@ Permitted:
 Requires sequencing (not prohibited, but release must follow permission or relationship):
 - Works by living authors whose cooperation is sought
 - Works by recent estates where relationship matters
+
+If the relationship does not develop and permission is not given, the world is not released publicly.
 
 Requires rebuild (not release in current form):
 - In-copyright works where the model's weights may generate output resembling the original
@@ -83,6 +85,8 @@ The platform is the nexus for what follows. Infrastructure defines the room. Rul
 Everything the architecture builds — the Processes, Positions, Personas, Pieces, Places — stands on what the platform provides.
 
 The components begin here.
+
+A world released without verifying platform compliance might produce legal or reputational exposure that the architecture cannot protect against.
 
 ---
 
@@ -260,6 +264,8 @@ Payoff is what the force field produces when the five content components are cor
 
 Payoff is not an output. It is not a response. It is the thing that arrives through the gap between the components — the thing the thinker could not find alone, arrived through a route they could not have predicted and would not have taken willingly.
 
+The preceding components are the builder's instrument. Payoff is what the thinker finds inside it.
+
 The four beats follow the mnemonic **GOLD** — the thing you find at the end. You don't manufacture it. You create the conditions and it's either there or it isn't.
 
 **Gain** — something is received. The thinker gets something they couldn't reach alone.
@@ -303,8 +309,28 @@ A session producing drift, generic register, or Persona collapse is evidence aga
 
 ---
 
+## Known Attack Vectors
+
+### Attack 5 — "It's just good prompting"
+
+**The attack:** The architecture's components are repackaged craft traditions — character flaws, show don't tell, Chekhov's gun. It is prompt engineering with a taxonomy.
+
+**The answer:** Prompting failed. Detailed instruction files failed. Custom agents enriched with MCP servers failed — the dependency stack grew and the result did not improve. This architecture produced the same outcome, and then exceeded it, with markdown files and an AI account. The components are not the answer to whether this is prompting. The developmental sequence is.
+
+Building a world takes time. The craft is real. The Shadow requires genuine construction — an underspecified Shadow produces competent responses and nothing more. Deploying a world that exists takes five minutes. Maintaining one is editing a text file. The dependency stack is cheap and stays cheap once the world is built.
+
+This is not only a technical advantage. It is an access argument. A researcher, a sensei, a novelist who does not code can build and run a world. The fully augmented alternatives — RAG pipelines, custom agents, tool-enriched systems — still gate on technical skill. This does not.
+
+### Why this exists
+
+The developmental sequence: prompting → system prompts → instruction files → custom agents with MCP servers. Each step added cost and complexity. None produced the pressure the architecture now produces with two files and a model the builder does not control.
+
+The dependency stack distinction: a KAI World runs on markdown files and an AI account. Once the world is built, the running cost is the cost of the model. There is no infrastructure to maintain, no integration to break, no skill floor for the person running it. The architecture was not designed to be minimal. It turned out that way because everything that was not load-bearing was removed until what remained held.
+
+---
+
 *Kai Schlüter — KAI HACKS AI — 2026*
 *CC BY-NC-ND 4.0*
 *KAI Worlds — github.com/ChBrain/KAIWorlds*
 
-*v0.1.0*
+*v0.1.1*

@@ -1,6 +1,6 @@
 # Stack
 
-Ein Projekt auf Claude.ai
+Ein KI-Projekt
 
 ---
 

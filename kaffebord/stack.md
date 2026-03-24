@@ -4,7 +4,7 @@
 Project: Sønderjysk Kaffebord
 
 ## Overview
-Et projekt i Claude.ai
+Et AI-projekt
 
 ---
 *stack.md — 18.03.2026*
