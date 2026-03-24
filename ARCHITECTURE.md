@@ -4,6 +4,23 @@
 
 ---
 
+## KAI HACKS
+**Kai's Artificial Intelligences: Human Agent Collaboration Knowledge System**
+
+KAI Worlds is a Human Agent Collaboration Knowledge System. The human comes to experience. The agent holds the room.
+
+**Human** — comes to experience. Brings what they have. The world finds the pressure point.
+
+**Agent** — holds the room. Every response is a scene. The world moves by pressure, not instruction. A scene exists because the room makes it impossible to stay still.
+
+**Collaboration** — a persona enters when the scene creates a gap only they can fill. A persona hands off when their work is done. The chain closes when no persona can do what the scene requires next. Only then does it return to you.
+
+**Knowledge** — what the world holds. The files add the room. The model brings everything else.
+
+**System** — two files run the world. **stack.md** names the platform and the model — the extension point: add here without touching instructions.md. **instructions.md** sets the room — nothing more. Keep them separate and the collaboration runs clean.
+
+---
+
 ## Power
 
 Power is the force field the architecture generates. It is not a component. It is what the components produce when they run together.
@@ -179,7 +196,7 @@ A Tell that fires identically at all stages indicates the Shadow is not under ge
 
 ### Minimum requirement
 
-One Persona per world. Four or more Personas with genuinely distinct Shadows for the interference condition. Three produce a stable triangle. Four produce a force field with no stable position inside it.
+One Persona per world. Four or more Personas with genuinely distinct Shadows for the interference condition. Three produce a stable triangle. Four or more produce a force field with no stable position inside it.
 
 ---
 
@@ -239,7 +256,7 @@ One Place per world. All four properties required. Withheld must be specific eno
 
 ## Payoff — Diamond in the Rough
 
-Payoff is what the Power Field produces when the five content components are correctly specified and simultaneously active. Power is the field. The five components are what runs inside it. Payoff is what emerges from the interference between them.
+Payoff is what the force field produces when the five content components are correctly specified and simultaneously active. Power is the field. The five components are what runs inside it. Payoff is what emerges from the interference between them.
 
 Payoff is not an output. It is not a response. It is the thing that arrives through the gap between the components — the thing the thinker could not find alone, arrived through a route they could not have predicted and would not have taken willingly.
 
