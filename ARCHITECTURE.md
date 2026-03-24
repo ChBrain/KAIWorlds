@@ -315,7 +315,7 @@ A session producing drift, generic register, or Persona collapse is evidence aga
 
 **The attack:** The architecture's components are repackaged craft traditions — character flaws, show don't tell, Chekhov's gun. It is prompt engineering with a taxonomy.
 
-**The answer:** Prompting failed. Detailed instruction files failed. Custom agents enriched with MCP servers failed — the dependency stack grew and the result did not improve. This architecture produced the same outcome, and then exceeded it, with markdown files and a Claude account. The components are not the answer to whether this is prompting. The developmental sequence is.
+**The answer:** Prompting failed. Detailed instruction files failed. Custom agents enriched with MCP servers failed — the dependency stack grew and the result did not improve. This architecture produced the same outcome, and then exceeded it, with markdown files and an AI account. The components are not the answer to whether this is prompting. The developmental sequence is.
 
 Building a world takes time. The craft is real. The Shadow requires genuine construction — an underspecified Shadow produces competent responses and nothing more. Deploying a world that exists takes five minutes. Maintaining one is editing a text file. The dependency stack is cheap and stays cheap once the world is built.
 
@@ -325,7 +325,7 @@ This is not only a technical advantage. It is an access argument. A researcher, 
 
 The developmental sequence: prompting → system prompts → instruction files → custom agents with MCP servers. Each step added cost and complexity. None produced the pressure the architecture now produces with two files and a model the builder does not control.
 
-The dependency stack distinction: a KAI World runs on markdown files and a Claude.ai account. Once the world is built, the running cost is the cost of the model. There is no infrastructure to maintain, no integration to break, no skill floor for the person running it. The architecture was not designed to be minimal. It turned out that way because everything that was not load-bearing was removed until what remained held.
+The dependency stack distinction: a KAI World runs on markdown files and an AI account. Once the world is built, the running cost is the cost of the model. There is no infrastructure to maintain, no integration to break, no skill floor for the person running it. The architecture was not designed to be minimal. It turned out that way because everything that was not load-bearing was removed until what remained held.
 
 ---
 
