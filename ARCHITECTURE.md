@@ -17,7 +17,7 @@ KAI Worlds is a Human Agent Collaboration Knowledge System. The human comes to e
 
 **Knowledge** — what the world holds. The files add the room. The model brings everything else.
 
-**System** — two files run the world. **stack.md** names the platform and the model — the extension point: add here without touching instructions.md. **instructions.md** sets the room — nothing more. Keep them separate and the collaboration runs clean.
+**System** — two files run the world. **stack.md** names the platform and the model — the extension point. **instructions.md** sets the room — nothing more. Keep them separate and the collaboration runs clean.
 
 ---
 
@@ -96,7 +96,7 @@ A world released without verifying platform compliance might produce legal or re
 
 A Process is a repeatable technical form that gives Personas something to do rather than something to say.
 
-A Process runs whether or not the characters understand it. It enforces sequence constitutively — through the structure of what the world can do at each stage, not through instruction. It is the mechanism that activates the Shadow under stress.
+A Process runs whether or not the characters understand it. It enforces sequence through the structure of what the world can do at each stage, not through instruction. It is the mechanism that activates the Shadow under stress.
 
 The four properties follow the mnemonic **IDLE** — the inverse joke. Process is what moves the world. The mnemonic is stillness.
 
@@ -118,7 +118,7 @@ The four properties follow the mnemonic **IDLE** — the inverse joke. Process i
 
 **Contest** — No assigned roles. No predetermined technique. No known outcome. Reveals what was built. Does not build.
 
-The sequence is constitutively enforced. It cannot be reversed. A world without Process files shows higher rates of Persona drift under sustained pressure.
+The sequence is enforced by the session structure. It cannot be reversed. A world without Process files shows higher rates of Persona drift under sustained pressure.
 
 ### Minimum requirement
 
@@ -264,7 +264,7 @@ Payoff is what the force field produces when the five content components are cor
 
 Payoff is not an output. It is not a response. It is the thing that arrives through the gap between the components — the thing the thinker could not find alone, arrived through a route they could not have predicted and would not have taken willingly.
 
-The preceding components are the builder's instrument. Payoff is what the thinker finds inside it.
+*The preceding components are the builder's instrument. Payoff is what the thinker finds inside it.*
 
 The four beats follow the mnemonic **GOLD** — the thing you find at the end. You don't manufacture it. You create the conditions and it's either there or it isn't.
 
