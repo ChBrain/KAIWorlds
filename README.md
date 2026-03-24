@@ -37,6 +37,14 @@ A world about transmission. One persona, three roles, one place, sixteen pieces,
 
 ---
 
+### [Lenz](lenz/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/lenz.zip)
+
+*Georg Büchner — Elsass, Januar 1778*
+
+A world about interiority — what a person does when sensation stops holding the world together. Four personas, four places, three pieces. Not madness as spectacle. The writing that holds nothing. The letter that goes back. This world does not resolve. It holds.
+
+---
+
 ### [Sønderjysk Kaffebord](kaffebord/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/kaffebord.zip)
 
 *Sønderjylland. Als. A table set for coffee at nine in the evening.*
