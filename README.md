@@ -45,6 +45,14 @@ A world about interiority — what a person does when sensation stops holding th
 
 ---
 
+### [The Shadow](shadow/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/shadow.zip)
+
+*Hans Christian Andersen — 1847*
+
+A world about what a person does when they can give the feeling a shape and hand it across — but cannot follow it through the door themselves. Three personas, one place, four pieces, one process. The scissors make the feeling real. The shape travels. The person stays at the table and starts the next one.
+
+---
+
 ### [Sønderjysk Kaffebord](kaffebord/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/kaffebord.zip)
 
 *Sønderjylland. Als. A table set for coffee at nine in the evening.*
