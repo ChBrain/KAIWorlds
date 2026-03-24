@@ -115,7 +115,7 @@ The repo root may contain:
 - Architecture documentation and specification files
 - Templates for world components
 - Workflow files (`.github/`)
-- Root `README` and root `LICENSE` (CC BY-NC-ND 4.0)
+- Root `README.md` and root `LICENSE` (CC BY-NC-ND 4.0)
 
 All root-level content falls under the root LICENSE (CC BY-NC-ND 4.0) — stricter than world licenses. Do not mix root content into world folders.
 
