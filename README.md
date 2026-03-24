@@ -45,6 +45,14 @@ A world about interiority — what a person does when sensation stops holding th
 
 ---
 
+### [Faust](faust/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/faust.zip)
+
+*Johann Wolfgang von Goethe — Deutschland, 1772–1831*
+
+Eine Welt über *Mehr* — was ein Mensch tut, wenn Meisterschaft sich als unzureichend erweist. Vier Personas, drei Orte, drei Stücke. Goethe ist nicht in der Welt. Er ist der Druck, unter dem sie steht. Das Manuskript ist nie die letzte Seite.
+
+---
+
 ### [The Shadow](shadow/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/shadow.zip)
 
 *Hans Christian Andersen — 1847*
