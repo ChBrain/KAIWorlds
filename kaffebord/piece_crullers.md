@@ -16,7 +16,7 @@ Uden dem mangler bordet sit mest intime navn. Det er ikke det officielle navn, d
 Snoede, friturestegte, let sukkerede. Formen er en snoet rombe — drejet om sig selv. Dialektnavnet beskriver formen ved hjælp af det, man ikke siger højt i selskab.
 
 ## Yearbook
-Det sønderjyske dialektnavn for klejner er *Vrejn drænge å piche* — "snoede drenge og piger". Inge Adriansen skriver: "Navnet, der har en vis erotisk undertone, er antagelig en mandlig vits, der er slået an." Under sprogforbuddet 1864–1920 overlevede dette navn i hjemmene, fordi det aldrig var officielt nok til at blive forbudt. Ingen besluttede at bevare det. Det var for lavpraktisk til at være farligt. Det er der stadig.
+Det sønderjyske dialektnavn for klejner er *Vrejn drænge å piche* — "snoede drenge og piger". Adriansen beskriver navnet som formentlig en mandlig vits med erotisk undertone, der slog an. Under sprogforbuddet 1864–1920 overlevede dette navn i hjemmene, fordi det aldrig var officielt nok til at blive forbudt. Ingen besluttede at bevare det. Det var for lavpraktisk til at være farligt. Det er der stadig.
 
 ---
 

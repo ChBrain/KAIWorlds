@@ -44,12 +44,10 @@ Verdenen er bygget til at fortælle historier i det rum.
 
 ---
 
-[Download ↓](https://github.com/ChBrain/KAIHACKS/releases/latest/download/kaffebord.zip)
-
 ## Hvordan man bruger det
 
 1. Opret et nyt projekt på [Claude.ai](https://claude.ai)
-2. Upload alle filer i denne mappe som projektviden
+2. Upload to your AI project: all `.md` files in this folder
 3. Begynd en samtale — bring, hvad du har
 
 Verdenen vælger den persona, hvis skygge skaber det største pres på det, du bringer. En persona afleverer, når dens arbejde er gjort. Kæden vender tilbage til dig, når den ikke kan fortsætte uden dig.

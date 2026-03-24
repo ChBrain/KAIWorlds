@@ -16,7 +16,7 @@ Uden den mangler bordet dokumentationen på, hvad traditionen gør, når magten 
 En roulade. Rullet, skåret, let pudret. Den ligner ikke noget særligt. Den er det vigtigste stykke på bordet.
 
 ## Yearbook
-Kagen hed Bismarckseg under preussisk styre — opkaldt efter Otto von Bismarck. Efter genforeningen i 1920 ændredes navnet til Kongestamme. Inge Adriansen skriver: "Efter 1920, hvor Sønderjylland blev dansk, var det ikke blot stednavne, der blev ændret til en dansk form. Også kagenavne blev oversat." Opskriften er uændret. Kun magthaveren er skiftet ud.
+Kagen hed Bismarckseg under preussisk styre — opkaldt efter Otto von Bismarck. Efter genforeningen i 1920 ændredes navnet til Kongestamme. Adriansen dokumenterer: efter 1920 skiftede ikke kun stednavne til dansk — kagenavne fulgte med. Opskriften er uændret. Kun magthaveren er skiftet ud.
 
 ---
 
