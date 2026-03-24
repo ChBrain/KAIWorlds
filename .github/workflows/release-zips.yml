@@ -89,6 +89,11 @@ jobs:
           }
           data = json.dumps(payload).encode()
           req = urllib.request.Request(webhook, data=data, headers={'Content-Type': 'application/json'})
-          urllib.request.urlopen(req)
-          print('Discord notification sent.')
+          try:
+              urllib.request.urlopen(req)
+              print('Discord notification sent.')
+          except urllib.error.HTTPError as e:
+              print(f'HTTP {e.code}: {e.reason}')
+              print(e.read().decode())
+              raise
           EOF
