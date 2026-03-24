@@ -1,0 +1,41 @@
+name: Release world zips
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+jobs:
+  zip-worlds:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Zip world folders
+        run: |
+          mkdir -p dist
+          for dir in */; do
+            name="${dir%/}"
+            if [ -f "$name/stack.md" ]; then
+              zip -r "dist/$name.zip" "$name/"
+              echo "Zipped: $name"
+            fi
+          done
+
+      - name: Upload release assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! ls dist/*.zip 1>/dev/null 2>&1; then
+            echo "No world zips found — skipping upload."
+            exit 0
+          fi
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            TAG=$(gh release list --limit 1 --json tagName --jq '.[0].tagName')
+          else
+            TAG="${{ github.event.release.tag_name }}"
+          fi
+          gh release upload "$TAG" dist/*.zip --clobber
