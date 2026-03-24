@@ -75,8 +75,7 @@ The setup section must list files explicitly. Never write "upload all files in t
 
 Required wording:
 ```
-Upload to your AI project: `stack.md` and all files named `persona_*`, `place_*`, or `piece_*`.
-Do not upload `README.md`, `LICENSE`, or `REFERENCES.md`.
+Upload to your AI project: all `.md` files in this folder.
 ```
 
 This prevents README prose, license text, and source citations from entering the AI's context and bleeding into the world's behaviour.
@@ -89,7 +88,7 @@ This prevents README prose, license text, and source citations from entering the
 - [ ] Folder contains `LICENSE` — CC BY-NC 4.0
 - [ ] README footer reads `CC BY-NC 4.0`
 - [ ] Download link in README points to `https://github.com/ChBrain/KAIWorlds/releases/latest/download/[worldname].zip`
-- [ ] README setup section uses the required upload wording (lists files explicitly, excludes README/LICENSE/REFERENCES)
+- [ ] README setup section uses the required upload wording
 - [ ] No links point outside this repository except to Claude.ai and cited source material in REFERENCES.md
 - [ ] REFERENCES.md (if present) cites only primary sources — no links to other code repositories
 - [ ] World version in README footer is independent of repo version
@@ -116,7 +115,7 @@ The repo root may contain:
 - Architecture documentation and specification files
 - Templates for world components
 - Workflow files (`.github/`)
-- Root `README.md` and root `LICENSE` (CC BY-NC-ND 4.0)
+- Root `README` and root `LICENSE` (CC BY-NC-ND 4.0)
 
 All root-level content falls under the root LICENSE (CC BY-NC-ND 4.0) — stricter than world licenses. Do not mix root content into world folders.
 
