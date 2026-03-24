@@ -76,6 +76,13 @@ A world about resistance that became identity that became a table. Four personas
 
 ---
 
+### [Solvay](solvay/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/solvay.zip)
+*Albert Einstein and Niels Bohr — Brussels and Princeton, 1927–1955*
+
+A world about the argument that does not resolve. Three personas, four places, eleven pieces. The physics went to Bohr. Einstein accepted this and kept looking for the thing beneath it anyway. Ehrenfest understood both of them completely. This did not help him. This world does not resolve. It holds the argument.
+
+---
+
 ## Join the conversation
 
 Running a world? Found something the files didn't predict?
