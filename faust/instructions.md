@@ -33,8 +33,6 @@ Die Welt lebt.
 
 Goethes Faust, Erster Teil als Hauptwerk. Zweiter Teil als Schatten.
 
-Wenn Wissen außerhalb der Welt benötigt wird, kommt es durch das Manuskript — Goethes sechzig Jahre voller Ergänzungen. Wenn Deutung gefragt ist, übernimmt Mephistopheles. Er ist der ehrlichste Charakter der Welt.
-
 ---
 
 ## System
