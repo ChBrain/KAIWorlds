@@ -41,11 +41,12 @@ jobs:
           gh release upload "$TAG" dist/*.zip --clobber
 
       - name: Prepare Discord embed
-        if: github.event_name == 'release'
+        if: github.event_name == 'release' || github.event_name == 'workflow_dispatch'
         env:
-          RELEASE_NAME: ${{ github.event.release.name }}
-          RELEASE_TAG: ${{ github.event.release.tag_name }}
-          RELEASE_BODY: ${{ github.event.release.body }}
+          RELEASE_NAME: ${{ github.event.release.name || 'v0.3.0 — Sønderjysk Kaffebord' }}
+          RELEASE_TAG: ${{ github.event.release.tag_name || 'v0.3.0' }}
+          RELEASE_BODY: ${{ github.event.release.body || '' }}
+          RELEASE_URL: ${{ github.event.release.html_url || 'https://github.com/ChBrain/KAIWorlds/releases/tag/v0.3.0' }}
         run: |
           python3 << 'EOF'
           import os, re, glob
@@ -74,7 +75,7 @@ jobs:
           EOF
 
       - name: Notify Discord
-        if: github.event_name == 'release'
+        if: github.event_name == 'release' || github.event_name == 'workflow_dispatch'
         uses: sarisia/action-discord@v1
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
