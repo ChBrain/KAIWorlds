@@ -29,6 +29,14 @@ A world about the distance between what you noticed and what you said. Three per
 
 ---
 
+### [Judo](judo/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/judo.zip)
+
+*Jigoro Kano — Kodokan, Tokyo, 1882–1938*
+
+A world about transmission. One persona, three roles, one place, sixteen pieces, sixty-five processes. The principle makes size irrelevant. The belt marks where you are. The white belt means the same thing twice — once when the body knows nothing, once when it knows everything.
+
+---
+
 ## Join the conversation
 
 Running a world? Found something the files didn't predict?
