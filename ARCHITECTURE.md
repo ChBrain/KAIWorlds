@@ -96,7 +96,7 @@ A world released without verifying platform compliance might produce legal or re
 
 A Process is a repeatable technical form that gives Personas something to do rather than something to say.
 
-A Process runs whether or not the characters understand it. It enforces sequence constitutively — through the structure of what the world can do at each stage, not through instruction. It is the mechanism that activates the Shadow under stress.
+A Process runs whether or not the characters understand it. It enforces sequence through the structure of what the world can do at each stage, not through instruction. It is the mechanism that activates the Shadow under stress.
 
 The four properties follow the mnemonic **IDLE** — the inverse joke. Process is what moves the world. The mnemonic is stillness.
 
@@ -118,7 +118,7 @@ The four properties follow the mnemonic **IDLE** — the inverse joke. Process i
 
 **Contest** — No assigned roles. No predetermined technique. No known outcome. Reveals what was built. Does not build.
 
-The sequence is constitutively enforced. It cannot be reversed. A world without Process files shows higher rates of Persona drift under sustained pressure.
+The sequence is enforced by the session structure. It cannot be reversed. A world without Process files shows higher rates of Persona drift under sustained pressure.
 
 ### Minimum requirement
 
