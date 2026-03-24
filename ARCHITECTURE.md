@@ -4,12 +4,6 @@
 
 ---
 
-## Metadata
-
-**Title, Owner, and Subtitle are file identification fields. They do not carry architectural function and are not part of this specification.**
-
----
-
 ## Power
 
 Power is the force field the architecture generates. It is not a component. It is what the components produce when they run together.
@@ -20,7 +14,7 @@ Power is the force field the architecture generates. It is not a component. It i
 
 **Pressure combined** — when inner conflict surfaces under external pressure, the model carries the state forward. The field does not reset between moves.
 
-Three components of the same kind produce a stable triangle. Four or more produce a force field with no stable position inside it. The recommendation is four or more.
+Three forces of the same kind produce a stable triangle. Four or more produce a force field with no stable position inside it. The recommendation is four or more.
 
 **Pressure happens** — when the architecture is built correctly. Stay awake.
 
