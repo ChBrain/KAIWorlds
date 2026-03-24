@@ -30,7 +30,7 @@ Close reading of the manuscript history. Useful for understanding what *Mehr Lic
 
 *The Faust world in this repository claims no intellectual property in Goethe's*
 *characters, world, or writing. Goethe's work is in the public domain.*
-*The KAI Worlds architecture — its methods, templates, and structural elements —*
+*The KAI HACKS AI architecture — its methods, templates, and structural elements —*
 *is the original contribution claimed under this license.*
 
 *Read the book.*

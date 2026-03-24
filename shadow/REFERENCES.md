@@ -31,7 +31,7 @@ Exhibition catalog, Wienand Verlag. Published to accompany the exhibition at Kun
 
 *The Shadow world in this repository claims no intellectual property in Andersen's*
 *characters, world, or writing. Andersen's work is in the public domain.*
-*The KAI Worlds architecture — its methods, templates, and structural elements —*
+*The KAI HACKS AI architecture — its methods, templates, and structural elements —*
 *is the original contribution claimed under this license.*
 
 *Read the story.*
