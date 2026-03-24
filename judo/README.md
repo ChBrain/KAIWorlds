@@ -20,7 +20,7 @@ This world does not resolve. It trains.
 
 ## How to deploy
 
-1. Create a new Project on [Claude.ai](https://claude.ai)
+1. Create a new AI project — [Claude](https://claude.ai), Grok, Copilot, and Gemini all work
 2. Upload to your AI project: all `.md` files in this folder
 3. Start a conversation — bring what you have
 

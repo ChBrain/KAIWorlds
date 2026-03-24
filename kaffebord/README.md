@@ -46,7 +46,7 @@ Verdenen er bygget til at fortælle historier i det rum.
 
 ## Hvordan man bruger det
 
-1. Opret et nyt projekt på [Claude.ai](https://claude.ai)
+1. Opret et nyt AI-projekt — [Claude](https://claude.ai), Grok, Copilot og Gemini virker alle
 2. Upload to your AI project: all `.md` files in this folder
 3. Begynd en samtale — bring, hvad du har
 
