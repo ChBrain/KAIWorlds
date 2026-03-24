@@ -20,7 +20,7 @@ Diese Welt löst sich nicht auf. Sie hält.
 
 ## Wie man sie einrichtet
 
-1. Erstelle ein neues Projekt auf [Claude.ai](https://claude.ai)
+1. Erstelle ein neues KI-Projekt — [Claude](https://claude.ai), Grok, Copilot und Gemini funktionieren alle
 2. Upload to your AI project: all .md files in this folder
 3. Beginne ein Gespräch — bring, was du hast
 
