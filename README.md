@@ -83,6 +83,16 @@ A world about the argument that does not resolve. Three personas, four places, e
 
 ---
 
+### [Baltic Sea Ecosystem](baltic_sea_ecosystem/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_ecosystem.zip)
+
+*The western Baltic. Kiel Bight and the Belts. The Boknis Eck station, recording since 1957.*
+
+*For the person who wants to understand what exists before it doesn't.*
+
+A world about the paradox that does not resolve. Ten personas, two places, seven processes. The nutrients have been declining since the late 1980s. The oxygen is still falling. Warming has taken over from eutrophication as the driver. The right thing has already been done. It is no longer enough. RECOVER is building the instrument that will translate what the sea knows into language decisions can use. This world does not resolve. It witnesses.
+
+---
+
 ## Join the conversation
 
 Running a world? Found something the files didn't predict?
