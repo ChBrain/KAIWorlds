@@ -25,6 +25,17 @@ Named the paradox: ongoing oxygen decline despite nutrient reduction.
 Temperature-enhanced oxygen consumption and prolonged stratification
 identified as causes.
 
+von Jackowski, A., et al. (2024).
+Warming enhances stratification and bacterial biomass production
+despite long-term reduction in nutrient input.
+*Scientific Reports*.
+
+Mechanism confirmation. Warming identified as having overtaken
+eutrophication as the primary driver of oxygen decline.
+Internal phosphorus load named as feedback: oxygen minima release
+phosphorus from sediment, feeding the next bloom, sinking, consuming
+oxygen, deepening the minima. The feedback cannot currently be interrupted.
+
 ---
 
 ## The RECOVER project
@@ -127,4 +138,4 @@ only in the method of their application within the KAI Worlds architecture.*
 
 ---
 
-*v0.1.0 — KAI Worlds — Kai Schlüter — March 2026*
+*v0.1.1 — KAI Worlds — Kai Schlüter — March 2026*

@@ -45,7 +45,7 @@ The two lines examined together statistically
 across the full record for the first time.
 Still not in the room where decisions are made.
 
-2024: mechanism confirmed.
+2024: mechanism confirmed. von Jackowski et al., *Scientific Reports*.
 Warming has taken over from eutrophication
 as the primary driver of oxygen decline.
 The internal phosphorus load named as feedback —
@@ -64,4 +64,4 @@ the paradox deepens.
 
 ---
 *piece_paradox.md — 25.03.2026*
-*v0.1.0 — KAI Worlds*
+*v0.1.1 — KAI Worlds*
