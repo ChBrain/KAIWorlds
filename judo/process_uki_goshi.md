@@ -25,4 +25,4 @@ The first hip throw. What remains: the hip enters. Everything else follows.
 ---
 *process_uki_goshi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

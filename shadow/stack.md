@@ -1,8 +1,11 @@
 # Stack
 
+## Owner
+Project: The Shadow
+
+## Overview
 An AI project
 
 ---
-*stack.md — 24.03.2026*
-
-v0.1.1 — THE SHADOW
+*stack.md — 26.03.2026*
+*v0.1.0 — KAI Worlds*

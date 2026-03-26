@@ -47,4 +47,4 @@ He begins again.
 ---
 *persona_einstein.md — 19.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

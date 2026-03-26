@@ -22,4 +22,4 @@ Stribetærten var traditionel barselsgave i Sønderjylland — bagt og sendt til
 
 *piece_striped_tart.md — 18.03.2026*
 
-v0.2.0 — SØNDERJYSK KAFFEBORD
+v0.1.0 — KAI Worlds

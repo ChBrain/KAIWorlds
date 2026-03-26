@@ -88,7 +88,7 @@ The world will find the mat. The role will enter. The technique runs between com
 
 ---
 
-*Kai Schlüter — KAI HACKS AI — 2026*
+*Kai Schlüter — KAI Worlds — 2026*
 
 *CC BY-NC 4.0*
 

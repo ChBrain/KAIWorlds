@@ -74,8 +74,8 @@ Siehe [REFERENCES.md](REFERENCES.md).
 
 ---
 
-*Kai Schlüter — KAI HACKS AI — 2026*
+*Kai Schlüter — KAI Worlds — 2026*
 *CC BY-NC 4.0*
 *KAI Worlds — github.com/ChBrain/KAIWorlds*
 
-*v0.1.2*
+*v0.1.0*

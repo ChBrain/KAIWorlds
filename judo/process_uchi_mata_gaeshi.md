@@ -28,4 +28,4 @@ The most committed throw reversed. What remains: maximum commitment created maxi
 ---
 *process_uchi_mata_gaeshi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

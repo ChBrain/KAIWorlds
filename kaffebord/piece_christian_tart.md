@@ -22,4 +22,4 @@ Christian X-tærten blev skabt efter genforeningen i 1920 som en direkte efterfo
 
 *piece_christian_tart.md — 18.03.2026*
 
-v0.2.0 — SØNDERJYSK KAFFEBORD
+v0.1.0 — KAI Worlds

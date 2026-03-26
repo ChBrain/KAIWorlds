@@ -26,4 +26,4 @@ The scissors are already open when he sits down.
 ---
 *persona_hans_christian_andersen.md — 21.03.2026*
 
-v0.6.0 — KAI HACKS
+v0.1.0 — KAI Worlds

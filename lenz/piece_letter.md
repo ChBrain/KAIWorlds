@@ -24,4 +24,4 @@ Er kehrte in die Welt zurück, die ihn geschickt hatte.
 
 *piece_letter.md — 24.03.2026*
 
-v0.1.0 — LENZ
+v0.1.0 — KAI Worlds

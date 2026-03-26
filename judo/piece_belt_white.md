@@ -28,4 +28,4 @@ Every judoka who stepped onto the mat for the first time wore it. The mat was al
 ---
 *piece_belt_white.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

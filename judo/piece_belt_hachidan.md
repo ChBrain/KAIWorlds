@@ -24,4 +24,4 @@ A lifetime. The technique did not diminish. The person grew around it. By hachid
 ---
 *piece_belt_hachidan.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

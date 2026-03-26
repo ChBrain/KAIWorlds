@@ -28,4 +28,4 @@ The geometry of the circle. What remains: a single fixed point and a rotating fo
 ---
 *process_hiza_guruma.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

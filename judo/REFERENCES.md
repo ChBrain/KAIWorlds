@@ -44,4 +44,4 @@ in Kano's techniques, principles, or system — only in the method of their appl
 
 ---
 
-*v0.1.0 — KAI HACKS — Kai Schlüter — March 2026*
+*v0.1.0 — KAI Worlds — Kai Schlüter — March 2026*

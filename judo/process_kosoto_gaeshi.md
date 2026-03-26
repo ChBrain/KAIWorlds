@@ -28,4 +28,4 @@ The outer reversed. What remains: the reaching leg is the most exposed part of t
 ---
 *process_kosoto_gaeshi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

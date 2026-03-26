@@ -23,4 +23,4 @@ He demonstrates the technique himself. At seventy. Slowly. So every part is visi
 ---
 *persona_kano.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

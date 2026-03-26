@@ -25,4 +25,4 @@ The difference between sweep and hook. What remains: the hook holds the point. T
 ---
 *process_kosoto_gake.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds
