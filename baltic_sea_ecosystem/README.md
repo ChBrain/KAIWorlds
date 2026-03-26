@@ -1,4 +1,4 @@
-# Baltic Sea Ecosystem [↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_ecosystem.zip)
+﻿# Baltic Sea Ecosystem [↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_ecosystem.zip)
 
 *The western Baltic. Kiel Bight and the Belts. Deep past to present.*
 
@@ -147,7 +147,7 @@ Stay awake.
 
 ---
 
-*Kai Schlüter — KAI Worlds — 2026*
+*Kai Schlüter — KAI HACKS AI — 2026*
 *CC BY-NC 4.0*
 *KAI Worlds — github.com/ChBrain/KAIWorlds*
 *v0.1.0*
