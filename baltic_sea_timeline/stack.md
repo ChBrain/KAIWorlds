@@ -1,28 +1,10 @@
 ﻿# Stack
 
 ## Owner
-**Project:** Baltic Sea Timeline
+Project: Baltic Sea Timeline
 
 ## Overview
-An AI project — Baltic Sea Timeline is a foundation world.
-It does not deploy as a standalone session.
-It supports the five Baltic Sea worlds by providing
-the full timeline from The Ancient Water to The Future.
-
-Ten timeslots. Nine processes. Ten places.
-Ten personas. Ten pieces.
-
-The chain runs:
-Process → Place + Persona + Piece → Process → Place + Persona + Piece
-
-Each Echo is the next Initiates condition.
-The chain is irreversible from The First Breath to The Deciding.
-The Deciding produces two Echoes simultaneously.
-
-Timeslot 0 is the scale reference.
-It does not contain a human.
-It contains the process that made humans possible
-and is still running beneath all of them.
+An AI project
 
 ---
 
