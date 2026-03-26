@@ -103,6 +103,16 @@ A world about the translation gap that does not close. Five personas, six places
 
 ---
 
+### [Baltic Sea Nations](baltic_sea_nations/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_nations.zip)
+
+*The Danish-German border region. The water on both sides. 1920–2026.*
+
+*For the person responsible for one side of a problem that has two.*
+
+A world about the gap between the waterline and the border line. Four personas, four places, seven pieces, eight processes. The Schlei and the Flensburg Fjord cross the border without asking permission. The research has already crossed. The governance structures have not. This world builds the gap and runs it on whoever has to govern across both.
+
+---
+
 ## Join the conversation
 
 Running a world? Found something the files didn't predict?
