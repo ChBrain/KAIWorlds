@@ -22,4 +22,4 @@ What the training did is now known. Not understood — known. The body either ha
 ---
 *process_shiai.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

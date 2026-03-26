@@ -29,4 +29,4 @@ Mock theta functions. Unsolved until 2002.
 
 *piece_the_last_letter.md — 19.03.2026*
 
-v0.1.1 — KAI HACKS
+v0.1.0 — KAI Worlds

@@ -22,4 +22,4 @@ The body knows. Not the mind — the body. What kata leaves behind is not unders
 ---
 *process_kata.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

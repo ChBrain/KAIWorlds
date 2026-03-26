@@ -28,4 +28,4 @@ The inner reap. What remains: the inside of the stance.
 ---
 *process_ouchi_gari.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

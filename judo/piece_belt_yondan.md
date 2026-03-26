@@ -24,4 +24,4 @@ The first time the technique served the dojo more than it served the person hold
 ---
 *piece_belt_yondan.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

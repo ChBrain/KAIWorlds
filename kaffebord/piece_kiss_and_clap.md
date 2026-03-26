@@ -22,4 +22,4 @@ Det er dokumenteret som en social norm ved det sønderjyske kaffebord: det betra
 
 *piece_kiss_and_clap.md — 18.03.2026*
 
-v0.2.0 — SØNDERJYSK KAFFEBORD
+v0.1.0 — KAI Worlds

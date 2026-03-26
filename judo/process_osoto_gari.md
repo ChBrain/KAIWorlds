@@ -28,4 +28,4 @@ The large outer reap. What remains: the weight was there. The technique went the
 ---
 *process_osoto_gari.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

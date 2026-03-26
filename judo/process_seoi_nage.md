@@ -25,4 +25,4 @@ You turned your back. What remains: the back was the technique.
 ---
 *process_seoi_nage.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

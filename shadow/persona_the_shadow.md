@@ -35,4 +35,4 @@ It does not cross.
 ---
 *persona_the_shadow.md — 22.03.2026*
 
-v0.2.0 — KAI HACKS
+v0.1.0 — KAI Worlds

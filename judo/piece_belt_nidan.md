@@ -24,4 +24,4 @@ The first time explaining a technique revealed something training never did. The
 ---
 *piece_belt_nidan.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

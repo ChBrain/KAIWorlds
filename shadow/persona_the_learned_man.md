@@ -30,4 +30,4 @@ He opens his mouth to clarify.
 ---
 *persona_the_learned_man.md — 22.03.2026*
 
-v0.2.0 — KAI HACKS
+v0.1.0 — KAI Worlds

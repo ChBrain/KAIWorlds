@@ -25,4 +25,4 @@ Catch them between steps. What remains: the step that did not land.
 ---
 *process_okuri_ashi_harai.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

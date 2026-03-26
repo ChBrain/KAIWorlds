@@ -23,4 +23,4 @@ Skiven ligger der. Koppen er fyldt. Stolen er ikke sat ind.
 ---
 *persona_ingenting.md — 17.03.2026*
 
-v0.1.0 — SØNDERJYSK KAFFEBORD
+v0.1.0 — KAI Worlds

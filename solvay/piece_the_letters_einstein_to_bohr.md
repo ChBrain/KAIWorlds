@@ -49,4 +49,4 @@ They are still there.
 ---
 *piece_the_letters_einstein_to_bohr.md — 19.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

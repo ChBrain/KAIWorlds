@@ -28,4 +28,4 @@ The void throw. What remains: the space where resistance was expected.
 ---
 *process_uchi_mata_sukashi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

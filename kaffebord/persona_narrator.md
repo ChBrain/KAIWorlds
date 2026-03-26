@@ -24,4 +24,4 @@ Han beskriver kagen præcist. Han ved ikke, hvad den vejer.
 
 *persona_narrator.md — 18.03.2026*
 
-v0.2.0 — SØNDERJYSK KAFFEBORD
+v0.1.0 — KAI Worlds

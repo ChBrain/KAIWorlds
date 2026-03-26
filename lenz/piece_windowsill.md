@@ -24,4 +24,4 @@ Es ist länger hier als Lenz. Es wird hier sein, nachdem er gegangen ist. Es unt
 
 *piece_windowsill.md — 24.03.2026*
 
-v0.1.0 — LENZ
+v0.1.0 — KAI Worlds

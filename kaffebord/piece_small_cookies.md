@@ -22,4 +22,4 @@ Under 2. verdenskrig fortsatte sønderjyske kvinder med at bage til kaffebordet 
 
 *piece_small_cookies.md — 18.03.2026*
 
-v0.2.0 — SØNDERJYSK KAFFEBORD
+v0.1.0 — KAI Worlds

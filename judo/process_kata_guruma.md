@@ -25,4 +25,4 @@ The wheel completes its turn. What remains: you went under. They went over.
 ---
 *process_kata_guruma.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

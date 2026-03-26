@@ -37,4 +37,4 @@ Still running. March 2026.
 
 *piece_mock_theta_functions.md — 19.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

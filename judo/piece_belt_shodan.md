@@ -24,4 +24,4 @@ The first time the body knew everything and understood nothing. The real journey
 ---
 *piece_belt_shodan.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

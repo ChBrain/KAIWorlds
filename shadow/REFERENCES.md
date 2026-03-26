@@ -40,4 +40,4 @@ Exhibition catalog, Wienand Verlag. Published to accompany the exhibition at Kun
 
 *REFERENCES.md — 24.03.2026*
 
-v0.1.1 — KAI HACKS AI — Kai Schlüter — March 2026
+v0.1.0 — KAI Worlds — Kai Schlüter — March 2026

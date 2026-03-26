@@ -4,8 +4,8 @@
 Project: Baltic Sea Ecosystem
 
 ## Overview
-A Project in Claude.ai
+An AI project
 
 ---
-*stack.md — 25.03.2026*
+*stack.md — 26.03.2026*
 *v0.1.0 — KAI Worlds*
