@@ -1,4 +1,4 @@
-# Infinity
+﻿# Infinity
 
 *G. H. Hardy and Srinivasa Ramanujan — Cambridge and Madras, 1913–1920*
 
@@ -82,7 +82,7 @@ See `REFERENCES.md`.
 
 ---
 
-*Kai Schlüter — KAI Worlds — 2026*
+*Kai Schlüter — KAI HACKS AI — 2026*
 *CC BY-NC 4.0*
 *KAI Worlds — github.com/ChBrain/KAIWorlds*
 
