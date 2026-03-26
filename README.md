@@ -113,6 +113,16 @@ A world about the gap between the waterline and the border line. Four personas, 
 
 ---
 
+### [Baltic Sea Stewardship](baltic_sea_stewardship/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_stewardship.zip)
+
+*The Flensburg Fjord and the Schlei. The people who tend them.*
+
+*For the person who arrived to rest and left carrying something they did not order.*
+
+A world about custodial grief — the grief of tending something that declines despite the tending. Three historical figures, five positions, four places, four pieces, two processes. The Fisher, the Farmer, the Harbour Master, the Elder. The Tourist arrives without prior knowledge and is the only person who can receive what the stewards have been carrying. The clean arrival is gone.
+
+---
+
 ## Join the conversation
 
 Running a world? Found something the files didn't predict?
