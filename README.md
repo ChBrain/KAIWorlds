@@ -123,6 +123,16 @@ A world about custodial grief — the grief of tending something that declines d
 
 ---
 
+### [Baltic Sea Timeline](baltic_sea_timeline/)
+
+*Three billion years. Ten timeslots. Two futures.*
+
+*For the person tracing what the water was before it was what it is.*
+
+A foundation world — not a standalone session. Ten timeslots, ten personas, ten places, ten pieces, eight processes. The chain runs from 3.8 billion years ago to 2026. At Timeslot 7, the chain branches: two futures, one process. The Scientist stands at the branch point. The water holds both.
+
+---
+
 ## Join the conversation
 
 Running a world? Found something the files didn't predict?
