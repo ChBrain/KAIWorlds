@@ -25,4 +25,4 @@ The counter that used the throw. What remains: their momentum was the technique.
 ---
 *process_utsuri_goshi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

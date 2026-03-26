@@ -28,4 +28,4 @@ The small counter to the small reap. What remains: the counter mirrors the techn
 ---
 *process_kouchi_gaeshi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

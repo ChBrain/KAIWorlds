@@ -24,4 +24,4 @@ De stiller en ekstra kop frem, inden nogen har bedt om det.
 
 *persona_hosts.md — 18.03.2026*
 
-v0.2.0 — SØNDERJYSK KAFFEBORD
+v0.1.0 — KAI Worlds

@@ -22,4 +22,4 @@ Under 1. verdenskrig var hvede-rationeringen streng. Franskbrødet forsvandt fra
 
 *piece_white_bread.md — 18.03.2026*
 
-v0.2.0 — SØNDERJYSK KAFFEBORD
+v0.1.0 — KAI Worlds

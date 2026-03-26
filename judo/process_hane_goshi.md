@@ -28,4 +28,4 @@ The spring released. What remains: the hip and the leg arrived together.
 ---
 *process_hane_goshi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

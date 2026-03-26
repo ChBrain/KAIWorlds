@@ -24,4 +24,4 @@ The first time someone else's ippon was the evidence. Not the holder's technique
 ---
 *piece_belt_godan.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

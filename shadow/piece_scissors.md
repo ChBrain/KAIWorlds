@@ -34,4 +34,4 @@ A year before his death he added a skull to the iconography. Cupids. A hanged ma
 ---
 *piece_scissors.md — 21.03.2026*
 
-v0.6.0 — KAI HACKS
+v0.1.0 — KAI Worlds

@@ -23,3 +23,5 @@ Sechzig Jahre Nächte, in denen Faust ihn bewegt und zurückgestellt hat. Der Br
 
 ---
 *piece_skull.md — 16.03.2026*
+
+v0.1.0 — KAI Worlds

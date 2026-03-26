@@ -25,4 +25,4 @@ Three simultaneous forces. What remains: they arrived together or they did not a
 ---
 *process_harai_tsurikomi_ashi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

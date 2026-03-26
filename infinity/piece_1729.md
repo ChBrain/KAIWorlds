@@ -26,4 +26,4 @@ Hardy never stopped telling the story.
 
 *piece_1729.md — 18.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

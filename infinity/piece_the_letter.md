@@ -27,4 +27,4 @@ Cost everything.
 
 *piece_the_letter.md — 18.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

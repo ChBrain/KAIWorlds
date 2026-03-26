@@ -25,4 +25,4 @@ Both legs. What remains: when you take everything at once there is nothing left 
 ---
 *process_morote_gari.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

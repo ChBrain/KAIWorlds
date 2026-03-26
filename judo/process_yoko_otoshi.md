@@ -25,4 +25,4 @@ You fell sideways. They went over. What remains: the side drop carried them.
 ---
 *process_yoko_otoshi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

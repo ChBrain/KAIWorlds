@@ -26,3 +26,5 @@ Er wendet sich dem Gegenstand zu, nicht der Person im Raum.
 
 ---
 *persona_faust.md — 16.03.2026*
+
+v0.1.0 — KAI Worlds

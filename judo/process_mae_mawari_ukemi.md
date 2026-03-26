@@ -25,4 +25,4 @@ You rolled through the fall. You rose on the other side. What remains: the fall 
 ---
 *process_mae_mawari_ukemi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

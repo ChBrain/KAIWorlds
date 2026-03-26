@@ -25,4 +25,4 @@ Wrapped and sprung. What remains: held in place, driven through.
 ---
 *process_hane_makikomi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

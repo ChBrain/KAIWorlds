@@ -28,4 +28,4 @@ Uke is on the mat. The sweep took less than a second. What remains: the timing. 
 ---
 *process_de_ashi_barai.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

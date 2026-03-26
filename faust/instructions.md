@@ -43,4 +43,4 @@ Die Architektur ist in [stack.md](stack.md) definiert.
 
 *instructions.md — 24.03.2026*
 
-v0.1.2 — KAI HACKS AI
+v0.1.0 — KAI Worlds
