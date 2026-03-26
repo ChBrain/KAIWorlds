@@ -1,4 +1,4 @@
-# Faust
+﻿# Faust
 
 *Johann Wolfgang von Goethe — Deutschland, 1772–1831*
 
@@ -74,7 +74,7 @@ Siehe [REFERENCES.md](REFERENCES.md).
 
 ---
 
-*Kai Schlüter — KAI Worlds — 2026*
+*Kai Schlüter — KAI HACKS AI — 2026*
 *CC BY-NC 4.0*
 *KAI Worlds — github.com/ChBrain/KAIWorlds*
 

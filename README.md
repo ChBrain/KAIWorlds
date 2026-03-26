@@ -93,6 +93,16 @@ A world about the paradox that does not resolve. Ten personas, two places, seven
 
 ---
 
+### [Baltic Sea Research](baltic_sea_research/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_research.zip)
+
+*GEOMAR Kiel and SDU Sønderborg — the western Baltic — 2025–2028.*
+
+*For the scientist who has measured the sea for twenty years and has not found the words that make the measurements land.*
+
+A world about the translation gap that does not close. Five personas, six places, two pieces, three processes, two positions. The RECOVER project is building sensors, AI tools, and a digital twin. The data will be precise. None of this is felt understanding. This world runs the research process on the scientist before the translation gap closes — or doesn't.
+
+---
+
 ## Join the conversation
 
 Running a world? Found something the files didn't predict?

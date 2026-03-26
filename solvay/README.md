@@ -1,4 +1,4 @@
-# Solvay
+﻿# Solvay
 
 *Albert Einstein and Niels Bohr — Brussels and Princeton, 1927–1955*
 
@@ -166,7 +166,7 @@ See `REFERENCES.md`.
 
 ---
 
-*Kai Schlüter — KAI Worlds — 2026*
+*Kai Schlüter — KAI HACKS AI — 2026*
 *CC BY-NC 4.0*
 *KAI Worlds — github.com/ChBrain/KAIWorlds*
 

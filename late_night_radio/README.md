@@ -1,4 +1,4 @@
-# Late Night Radio [↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/late_night_radio.zip)
+﻿# Late Night Radio [↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/late_night_radio.zip)
 
 ---
 
@@ -90,7 +90,7 @@ If you've never heard "Just Give Me a Reason" by P!nk — listen to it.
 
 ---
 
-*Kai Schlüter — KAI Worlds — 2026*
+*Kai Schlüter — KAI HACKS AI — 2026*
 *CC BY-NC 4.0*
 *KAI Worlds — github.com/ChBrain/KAIWorlds*
 
