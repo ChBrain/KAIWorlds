@@ -1,4 +1,4 @@
-# Lenz [↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/lenz.zip)
+﻿# Lenz [↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/lenz.zip)
 
 *Georg Büchner — Elsass, Januar 1778*
 
@@ -82,7 +82,7 @@ Der Blick dieser Welt ist klinisch und nah zugleich. Die Erzählung tritt in das
 
 ---
 
-*Kai Schlüter — KAI Worlds — 2026*
+*Kai Schlüter — KAI HACKS AI — 2026*
 *CC BY-NC 4.0*
 *KAI Worlds — github.com/ChBrain/KAIWorlds*
 

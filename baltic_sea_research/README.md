@@ -1,4 +1,4 @@
-# Baltic Sea Research [↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_research.zip)
+﻿# Baltic Sea Research [↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_research.zip)
 
 *GEOMAR Kiel and SDU Sønderborg — the western Baltic — 2025–2028.*
 
@@ -90,7 +90,7 @@ What you cannot make land. A finding. A measurement. A recommendation that has n
 
 ---
 
-*Kai Schlüter — KAI Worlds — 2026*
+*Kai Schlüter — KAI HACKS AI — 2026*
 *CC BY-NC 4.0*
 *KAI Worlds — github.com/ChBrain/KAIWorlds*
 *v0.1.0*
