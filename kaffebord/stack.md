@@ -7,6 +7,5 @@ Project: Sønderjysk Kaffebord
 Et AI-projekt
 
 ---
-*stack.md — 18.03.2026*
-
-v0.2.0 — SØNDERJYSK KAFFEBORD
+*stack.md — 26.03.2026*
+*v0.1.0 — KAI Worlds*

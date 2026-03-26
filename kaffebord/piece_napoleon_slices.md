@@ -22,4 +22,4 @@ Napoleonsnitter er opkaldt efter Napoleon Bonaparte. Under den preussiske annekt
 
 *piece_napoleon_slices.md — 18.03.2026*
 
-v0.2.0 — SØNDERJYSK KAFFEBORD
+v0.1.0 — KAI Worlds

@@ -115,4 +115,4 @@ is the original contribution claimed under this license.*
 
 ---
 
-*v0.1.0 — KAI HACKS AI — Kai Schlüter — March 2026*
+*v0.1.0 — KAI Worlds — Kai Schlüter — March 2026*

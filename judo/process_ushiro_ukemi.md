@@ -25,4 +25,4 @@ You fell backward into what you could not see. You rose. What remains: falling t
 ---
 *process_ushiro_ukemi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

@@ -34,7 +34,7 @@ Den primære historiske kilde for kagernes navne, opskrifter og politiske kontek
 
 Persona-, place- og piece-strukturen er original arkitektur udviklet af Kai Schlüter, 2026. Verdenen er bygget med disse metoder.
 
-Læs mere: [github.com/ChBrain/KAIHACKS](https://github.com/ChBrain/KAIHACKS)
+Læs mere: [github.com/ChBrain/KAIWorlds](https://github.com/ChBrain/KAIWorlds)
 
 ---
 

@@ -22,4 +22,4 @@ Both personas have been both. What each one knows about throwing they now know f
 ---
 *process_randori.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

@@ -25,4 +25,4 @@ Your arm against your shoulder. What remains: the joint is the limit. The limit 
 ---
 *process_ude_garami.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

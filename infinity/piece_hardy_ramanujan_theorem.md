@@ -28,4 +28,4 @@ He knew.
 
 *piece_hardy_ramanujan_theorem.md — 18.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

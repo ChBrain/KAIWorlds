@@ -25,4 +25,4 @@ Your arm against your neck. What remains: the arm that was free is now the hold.
 ---
 *process_kata_gatame.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

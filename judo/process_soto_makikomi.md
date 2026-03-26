@@ -25,4 +25,4 @@ Outside in. What remains: the angle they were not protecting.
 ---
 *process_soto_makikomi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

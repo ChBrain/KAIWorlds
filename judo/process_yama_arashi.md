@@ -25,4 +25,4 @@ The mountain storm. What remains: the sweep and the pull arrived as one force. T
 ---
 *process_yama_arashi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

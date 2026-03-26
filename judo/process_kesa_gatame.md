@@ -25,4 +25,4 @@ The first hold. What remains: control on the ground begins beside, not above.
 ---
 *process_kesa_gatame.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

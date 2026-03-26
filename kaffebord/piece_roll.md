@@ -22,4 +22,4 @@ Grænsen flyttede to gange — 1864 og 1920. Rundstykket var på bordet begge ga
 
 *piece_roll.md — 18.03.2026*
 
-v0.2.0 — SØNDERJYSK KAFFEBORD
+v0.1.0 — KAI Worlds

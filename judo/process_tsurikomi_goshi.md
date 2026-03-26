@@ -25,4 +25,4 @@ The hands prepared the space. The hip completed it. What remains: kuzushi before
 ---
 *process_tsurikomi_goshi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

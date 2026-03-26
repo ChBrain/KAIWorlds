@@ -25,4 +25,4 @@ You made the valley. They fell into it. What remains: the space you created by g
 ---
 *process_tani_otoshi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

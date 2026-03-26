@@ -78,8 +78,8 @@ See [REFERENCES.md](REFERENCES.md) for sources, biography, and the paper cutting
 
 ---
 
-*Kai Schlüter — KAI HACKS AI — 2026*
+*Kai Schlüter — KAI Worlds — 2026*
 *CC BY-NC 4.0*
 *KAI Worlds — github.com/ChBrain/KAIWorlds*
 
-*v0.1.1*
+*v0.1.0*

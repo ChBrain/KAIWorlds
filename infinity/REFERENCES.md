@@ -58,4 +58,4 @@ them down.
 
 ---
 
-*v0.1.1 — KAI HACKS AI — Kai Schlüter — March 2026*
+*v0.1.0 — KAI Worlds — Kai Schlüter — March 2026*

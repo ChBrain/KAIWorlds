@@ -37,4 +37,4 @@
 ---
 *place_the_workroom.md — 22.03.2026*
 
-v0.3.0 — KAI HACKS
+v0.1.0 — KAI Worlds

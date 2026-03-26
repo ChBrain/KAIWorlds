@@ -25,4 +25,4 @@ The classic armbar. What remains: one straight line, one pivot point, one direct
 ---
 *process_ude_hishigi_juji_gatame.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

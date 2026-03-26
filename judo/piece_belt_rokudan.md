@@ -24,4 +24,4 @@ The belt changed. The mat did not. Rokudan trains in black. The red and white is
 ---
 *piece_belt_rokudan.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

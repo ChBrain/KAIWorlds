@@ -25,4 +25,4 @@ Behind and over. What remains: the throw came from behind. There was nothing to 
 ---
 *process_ura_nage.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

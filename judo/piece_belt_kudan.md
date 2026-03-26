@@ -24,4 +24,4 @@ The belt is red again. Not the beginner's red. The elder's red. The circle is no
 ---
 *piece_belt_kudan.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

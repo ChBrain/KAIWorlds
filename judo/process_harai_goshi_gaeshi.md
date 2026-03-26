@@ -28,4 +28,4 @@ The hip entry reversed. What remains: the hip was fully committed. That was enou
 ---
 *process_harai_goshi_gaeshi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

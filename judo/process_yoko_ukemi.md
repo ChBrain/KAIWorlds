@@ -25,4 +25,4 @@ The slap on the mat. What remains: impact redirected.
 ---
 *process_yoko_ukemi.md — 20.03.2026*
 
-v0.1.0 — KAI HACKS
+v0.1.0 — KAI Worlds

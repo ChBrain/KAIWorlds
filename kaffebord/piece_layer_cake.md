@@ -22,4 +22,4 @@ Den 15. juni 1920 stemte Nordslesvig sig dansk ved folkeafstemning. De sønderjy
 
 *piece_layer_cake.md — 18.03.2026*
 
-v0.2.0 — SØNDERJYSK KAFFEBORD
+v0.1.0 — KAI Worlds

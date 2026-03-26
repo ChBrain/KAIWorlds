@@ -54,7 +54,7 @@ Verdenen vælger den persona, hvis skygge skaber det største pres på det, du b
 
 ---
 
-*Kai Schlüter — KAI HACKS AI — 2026*
+*Kai Schlüter — KAI Worlds — 2026*
 *CC BY-NC 4.0*
 *KAI Worlds — github.com/ChBrain/KAIWorlds*
 
