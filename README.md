@@ -141,6 +141,14 @@ A world about the loop that closes or doesn't. Nine personas, eight places, nine
 
 ---
 
+### [PDCA](pdca/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/pdca.zip)
+
+*The cycle ran. The world improved.*
+
+A world about the loop that closes or doesn't. Four personas, four places, four pieces, four processes, four positions. The hypothesis enters at Planning. The cycle runs. The floor rises or it doesn't. Most organisations run Plan-Do. The Standard is the question nobody asks.
+
+---
+
 ### [Misfits](misfits/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/misfits.zip)
 
 *A product chain. Seven handoffs. The room where it lives.*
