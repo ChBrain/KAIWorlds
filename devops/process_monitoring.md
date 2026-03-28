@@ -11,6 +11,8 @@ The object is live in [The User Space](place_the_user_space.md).
 The [Dashboard](place_the_dashboard.md) is running.
 [The Incident](piece_the_incident.md) may or may not exist.
 [The Change](piece_the_change.md) runs here.
+The Dashboard stands in for [The User Space](place_the_user_space.md).
+The user's account is not in the room.
 
 ## Direction
 Toward [The Signal](piece_the_signal.md).
@@ -33,4 +35,4 @@ The loop closes or it doesn't.
 
 ---
 *process_monitoring.md — 28.03.2026*
-v0.1.0 — KAI Worlds
+v0.1.1 — KAI Worlds
