@@ -11,6 +11,8 @@ A need exists.
 Or is believed to exist.
 The [Backlog](place_the_backlog.md) is open.
 [The Change](piece_the_change.md) runs here.
+The Backlog stands in for [The User Space](place_the_user_space.md).
+The actual need is not in the room.
 
 ## Direction
 Toward [The Requirement](piece_the_requirement.md).
@@ -31,4 +33,4 @@ The [Software Developer](position_software_developer.md) receives it.
 
 ---
 *process_planning.md — 28.03.2026*
-v0.1.0 — KAI Worlds
+v0.1.1 — KAI Worlds
