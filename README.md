@@ -164,5 +164,5 @@ The most useful thing you can do is tell us what happened.
 ## Contact
 
 Kai Schlüter
-[ChBrain@gmail.com](mailto:ChBrain@gmail.com)
+[kai@kaihacks.ai](mailto:kai@kaihacks.ai)
 [GitHub](https://github.com/ChBrain/KAIWorlds)
