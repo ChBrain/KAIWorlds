@@ -133,6 +133,14 @@ A foundation world — not a standalone session. Ten timeslots, ten personas, te
 
 ---
 
+### [DEVOPS](devops/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/devops.zip)
+
+*The pipeline. The chain that ships.*
+
+A world about the loop that closes or doesn't. Nine personas, eight places, nine pieces, eight processes, eight positions. The requirement enters at Planning. The chain does not stop to check whether shipping is the right call. The chain ships. The user adapts.
+
+---
+
 ### [Misfits](misfits/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/misfits.zip)
 
 *A product chain. Seven handoffs. The room where it lives.*
@@ -156,5 +164,5 @@ The most useful thing you can do is tell us what happened.
 ## Contact
 
 Kai Schlüter
-[ChBrain@gmail.com](mailto:ChBrain@gmail.com)
+[kai@kaihacks.ai](mailto:kai@kaihacks.ai)
 [GitHub](https://github.com/ChBrain/KAIWorlds)
