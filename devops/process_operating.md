@@ -11,6 +11,8 @@
 The object is live in [The User Space](place_the_user_space.md).
 The user is in the room.
 [The Change](piece_the_change.md) runs here.
+The Incident stands in for [The User Space](place_the_user_space.md).
+What the user absorbs is not in the room.
 
 ## Direction
 Toward continuation.
@@ -35,4 +37,4 @@ The [Site Reliability Engineer](position_site_reliability_engineer.md) receives 
 
 ---
 *process_operating.md — 28.03.2026*
-v0.1.0 — KAI Worlds
+v0.1.1 — KAI Worlds
