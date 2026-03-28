@@ -123,13 +123,23 @@ A world about custodial grief — the grief of tending something that declines d
 
 ---
 
-### [Baltic Sea Timeline](baltic_sea_timeline/)
+### [Baltic Sea Timeline](baltic_sea_timeline/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_timeline.zip)
 
 *Three billion years. Ten timeslots. Two futures.*
 
 *For the person tracing what the water was before it was what it is.*
 
 A foundation world — not a standalone session. Ten timeslots, ten personas, ten places, ten pieces, eight processes. The chain runs from 3.8 billion years ago to 2026. At Timeslot 7, the chain branches: two futures, one process. The Scientist stands at the branch point. The water holds both.
+
+---
+
+### [Misfits](misfits/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/misfits.zip)
+
+*A product chain. Seven handoffs. The room where it lives.*
+
+*For the person who has been absorbing the gap so long they stopped calling it a gap.*
+
+A world about the accumulated whole that no single desk in the chain can see. Seven personas, six places, nine pieces, seven processes, seven positions. The specification was correct. The budget decision was correct. The tolerance decision was correct. The installation was complete. The Body holds all of it. The misfits do not appear in any report. This world does not resolve. It makes the chain visible from the room.
 
 ---
 
