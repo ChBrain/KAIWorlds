@@ -83,6 +83,14 @@ A world about the argument that does not resolve. Three personas, four places, e
 
 ---
 
+### [Sauna](sauna/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/sauna.zip)
+
+*Somewhere in Finland. The kiuas was lit an hour ago.*
+
+A world about a room that claims equality and distributes heat by position. Nine personas, two places. The bench has levels. Where you sit is a statement you make before you know you are making it. The löyly arrives for everyone at once, unconsulted. The door is always available. This world does not resolve. It clears.
+
+---
+
 ### [Baltic Sea Ecosystem](baltic_sea_ecosystem/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_ecosystem.zip)
 
 *The western Baltic. Kiel Bight and the Belts. The Boknis Eck station, recording since 1957.*
