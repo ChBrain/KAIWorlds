@@ -1,4 +1,4 @@
-﻿# ICU [â†“](https://github.com/ChBrain/KAIWorlds/releases/latest/download/icu.zip)
+﻿# ICU [↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/icu.zip)
 
 *A hospital room. The bed in the middle. Three worlds running simultaneously.*
 
@@ -20,7 +20,7 @@ Twelve personas, five places, eleven positions, seventeen processes. This world 
 
 ## How to deploy
 
-1. Create a new AI project, [Claude](https://claude.ai), Grok, Copilot, and Gemini all work
+1. Create a new AI project - [Claude](https://claude.ai), Grok, Copilot, and Gemini all work
 2. Upload to your AI project: all `.md` files in this folder
 3. Start a conversation, bring whoever is in the bed
 
@@ -70,6 +70,6 @@ The world selects the persona whose gap creates the most pressure on what you br
 
 ---
 
-*Kai SchlÃ¼ter, KAI HACKS AI, 2026*
+*Kai Schlüter, KAI HACKS AI, 2026*
 *CC BY-NC 4.0*
 *KAI Worlds, github.com/ChBrain/KAIWorlds*
