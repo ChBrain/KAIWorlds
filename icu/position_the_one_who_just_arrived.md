@@ -1,4 +1,4 @@
-# Position: The One Who Just Arrived
+﻿# Position: The One Who Just Arrived
 ## The travelling time that cannot be undone.
 
 ## Owner
@@ -10,7 +10,7 @@
 ## Has
 The journey and the guilt of the journey.
 Both arrived before the persona did.
-The hours in the car, the plane, the train —
+The hours in the car, the plane, the train
 every hour a calculation:
 *if I had left sooner,
 if I had known sooner,
@@ -28,7 +28,7 @@ and requires them to cross it.
 ## Loses
 The version of events they travelled with.
 They constructed it in the car
-from what the call told them —
+from what the call told them
 they needed it to be survivable
 in order to drive.
 The room corrects it immediately
@@ -40,7 +40,7 @@ The room takes the construction
 the moment they enter it.
 
 ## Drives
-On the loss of the constructed version —
+On the loss of the constructed version
 stands at the foot of the bed
 and tries to find the person they know
 inside what the room has made of them.
@@ -48,5 +48,5 @@ They are there.
 It takes longer than expected to find them.
 
 ---
-*position_the_one_who_just_arrived.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*position_the_one_who_just_arrived.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

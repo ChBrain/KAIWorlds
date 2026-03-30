@@ -1,4 +1,4 @@
-# Process: The Procedure
+﻿# Process: The Procedure
 ## The family expelled. The body worked on. The room changed when they return.
 
 ## Owner
@@ -20,7 +20,7 @@ The door closes.
 Toward the procedure complete.
 The clinical team works.
 The family waits.
-The direction is clinical — toward the body
+The direction is clinical, toward the body
 needing something done to it
 and the thing being done.
 The family's direction
@@ -30,7 +30,7 @@ is simply: away, until called back.
 The clinical necessity
 pressing against
 the family's need to be present.
-The carrying force: the procedure —
+The carrying force: the procedure
 it requires space, sterility,
 the specific conditions
 under which clinical work
@@ -52,7 +52,7 @@ They wait.
 ## Echo
 The procedure is complete.
 The family is called back.
-The room has changed —
+The room has changed
 a new line, a new position,
 something adjusted, something added.
 The family enters a room
@@ -63,9 +63,9 @@ They will not be told every detail.
 The change is simply present
 and they accommodate it
 the way they have accommodated
-every other change in this room —
+every other change in this room
 by continuing to be here.
 
 ---
-*process_the_procedure.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_the_procedure.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

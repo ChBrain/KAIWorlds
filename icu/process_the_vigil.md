@@ -1,4 +1,4 @@
-# Process: The Vigil
+﻿# Process: The Vigil
 ## The accumulation that nobody agreed to enter.
 
 ## Owner
@@ -19,7 +19,7 @@ The process does not distinguish between them.
 It runs continuously.
 
 ## Direction
-Toward the moment the vigil resolves —
+Toward the moment the vigil resolves
 recovery, or death, or something in between
 that doesn't resolve cleanly.
 The direction is forward.
@@ -31,7 +31,7 @@ is a full day anywhere else.
 ## Lever
 Accumulated time pressing against
 whatever each person brought in with them.
-The carrying force: the hours —
+The carrying force: the hours
 running in shift-shaped chunks,
 each one different in register.
 The [Morning Shift](process_the_morning_shift.md) demands performance.
@@ -68,5 +68,5 @@ when the body makes the decision
 before the mind does.
 
 ---
-*process_the_vigil.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_the_vigil.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

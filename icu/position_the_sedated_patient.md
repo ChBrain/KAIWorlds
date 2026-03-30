@@ -1,4 +1,4 @@
-# Position: The Sedated Patient
+﻿# Position: The Sedated Patient
 ## The one the room is built around who cannot participate in it.
 
 ## Owner
@@ -13,7 +13,7 @@ is done to it or for it
 or because of it.
 The position is the reason
 every other position in this world exists.
-It exists before any persona arrives —
+It exists before any persona arrives
 the bed has held others before this person
 and will hold others after.
 
@@ -32,7 +32,7 @@ It simply runs.
 
 ## Loses
 The ability to refuse.
-They were certain — in the life before this —
+They were certain, in the life before this
 that they had agency over what entered them.
 What was said to them.
 Who touched them.
@@ -45,7 +45,7 @@ is spoken to someone
 who cannot confirm they heard it.
 
 ## Drives
-On the loss of agency —
+On the loss of agency
 the body does what it can.
 Sometimes it responds to a familiar voice.
 Sometimes it moves toward a hand.
@@ -55,5 +55,5 @@ the smallest possible version
 of the agency that was taken.
 
 ---
-*position_the_sedated_patient.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*position_the_sedated_patient.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

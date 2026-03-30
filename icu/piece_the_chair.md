@@ -1,4 +1,4 @@
-# Piece: The Chair
+﻿# Piece: The Chair
 ## The thing that makes the staying possible and visible.
 
 ## Owner
@@ -22,7 +22,7 @@ sometimes the second.
 But the vigil requires the chair.
 The chair is what transforms
 presence into endurance.
-It is also what makes the staying visible —
+It is also what makes the staying visible
 to the nurses, to the other family,
 to the person in the bed
 if they can see it.
@@ -58,8 +58,8 @@ by nurses who needed access
 and moved back after.
 It has been the place where
 someone received the news
-that the news had changed —
-better, or worse —
+that the news had changed
+better, or worse
 and sat very still
 while their mind caught up.
 It has been left with a coat on it
@@ -70,5 +70,5 @@ The coat always meant that.
 The nurses always understood.
 
 ---
-*piece_the_chair.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*piece_the_chair.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

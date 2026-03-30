@@ -1,4 +1,4 @@
-# Piece: The Chart
+﻿# Piece: The Chart
 ## The clinical memory that runs between shifts.
 
 ## Owner
@@ -73,10 +73,10 @@ a picture of someone
 they had not yet met.
 The picture was accurate.
 It was not the person.
-It has been read by a family member —
+It has been read by a family member
 once, in week two,
 when they asked to see it
-and the nurse showed them —
+and the nurse showed them
 who understood some of what it said
 and could not parse the rest
 and carried both home.
@@ -90,7 +90,7 @@ the plan did not yet have an answer for.
 It has been the thing
 the incoming nurse reads first
 and the thing the experienced nurse
-reads differently —
+reads differently
 knowing what the numbers mean
 in the context of yesterday's numbers
 and the day before's
@@ -108,5 +108,5 @@ That is the gap it holds
 without knowing it holds it.
 
 ---
-*piece_the_chart.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*piece_the_chart.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

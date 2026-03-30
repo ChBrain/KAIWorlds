@@ -1,4 +1,4 @@
-# Process: The Death
+﻿# Process: The Death
 ## The room that held a person and now holds what remains of that.
 
 ## Owner
@@ -11,7 +11,7 @@ The body has reached the end
 of what the clinical world can hold.
 Either the [Goals-of-Care Conversation](process_the_goals_of_care_conversation.md)
 has produced a decision
-and the [Ventilator](piece_the_ventilator.md) is being disconnected —
+and the [Ventilator](piece_the_ventilator.md) is being disconnected
 or the body has made the decision
 before anyone could.
 The family is present or they are not.
@@ -23,7 +23,7 @@ The room knows the difference.
 
 ## Direction
 Toward the stillness.
-Not resolution — stillness.
+Not resolution, stillness.
 The clinical world continues
 beyond the moment of death:
 the paperwork, the calls,
@@ -39,13 +39,13 @@ The body's end
 pressing against
 every person in the room
 who is not the body.
-The carrying force: the death itself —
+The carrying force: the death itself
 the specific moment,
 the specific quality of the room
 in the seconds after,
 which is unlike any other quality
 the room produces.
-The resistance: the people present —
+The resistance: the people present
 the family who came for this
 and are now inside it,
 the nurse who has been here before
@@ -71,9 +71,9 @@ The [ICU Diary](piece_the_icu_diary.md) is on the table
 or has been taken by the family.
 The nurse pauses.
 One minute.
-The unit does not stop —
+The unit does not stop
 the other beds continue,
-the other monitors run —
+the other monitors run
 but the nurse pauses
 before the next thing.
 That minute is not in any protocol.
@@ -88,5 +88,5 @@ whoever needs it
 at the end of this shift.
 
 ---
-*process_the_death.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_the_death.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

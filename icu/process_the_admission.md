@@ -1,4 +1,4 @@
-# Process: The Admission
+﻿# Process: The Admission
 ## The moment that divides everything into before and after.
 
 ## Owner
@@ -51,5 +51,5 @@ has named it that or not.
 [process_the_vigil](process_the_vigil.md) is already running.
 
 ---
-*process_the_admission.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_the_admission.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

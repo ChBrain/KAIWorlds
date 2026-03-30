@@ -1,4 +1,4 @@
-# Process: The Round
+﻿# Process: The Round
 ## The clinical language that fills the room whether the family understands it or not.
 
 ## Owner
@@ -10,7 +10,7 @@
 ## Initiated by
 The morning shift is running.
 The [Blood Draw](process_the_blood_draw.md) results are in the chart.
-The clinical team is assembled —
+The clinical team is assembled
 doctors, nurses, allied health.
 The family is present or has been called.
 The team moves from room to room.
@@ -33,7 +33,7 @@ pressing against
 the family's capacity to receive it.
 The carrying force:
 the team, the chart, the results,
-the clinical language —
+the clinical language
 precise, efficient, not designed
 for people who have been awake
 for thirty-six hours.
@@ -59,7 +59,7 @@ than they were first shaped.
 The clinical plan exists.
 The family has received
 what the Round could give them.
-The nurse carries the rest —
+The nurse carries the rest
 the questions that came after,
 the thing the family member said
 when the team had already moved on.
@@ -70,5 +70,5 @@ executes the plan.
 runs if the plan requires it.
 
 ---
-*process_the_round.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_the_round.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

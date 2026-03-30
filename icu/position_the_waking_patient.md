@@ -1,4 +1,4 @@
-# Position: The Waking Patient
+﻿# Position: The Waking Patient
 ## The one arriving back into a room that ran without them.
 
 ## Owner
@@ -33,8 +33,8 @@ the questions arrive.
 
 ## Loses
 The before.
-They were certain — in the last moment
-they remember — that they were
+They were certain, in the last moment
+they remember, that they were
 still in the life they had been living.
 The waking takes that certainty.
 The life continued without them.
@@ -50,7 +50,7 @@ What the faces have been through
 is not.
 
 ## Drives
-On the loss of the before —
+On the loss of the before
 asks the question underneath
 all the clinical ones.
 Usually not aloud.
@@ -64,5 +64,5 @@ and eventually the room
 moves on around it.
 
 ---
-*position_the_waking_patient.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*position_the_waking_patient.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

@@ -1,4 +1,4 @@
-# Position: The Incoming Nurse
+﻿# Position: The Incoming Nurse
 ## The chart without the knowledge.
 
 ## Owner
@@ -8,7 +8,7 @@
 
 ## Has
 The clinical picture.
-Everything that transferred in the handover —
+Everything that transferred in the handover
 the numbers, the plan, the flags,
 the names on the chart.
 It exists before the persona arrives.
@@ -33,7 +33,7 @@ The assumption of continuity.
 They were certain the handover
 gave them everything they needed.
 The first family member who says
-*the other nurse knew about the—*
+*the other nurse knew about theâ€”*
 takes it.
 The chart did not contain
 what the other nurse knew.
@@ -44,12 +44,12 @@ The gaps are not visible from the chart.
 They are only visible from the bedside.
 
 ## Drives
-On the loss of assumed continuity —
+On the loss of assumed continuity
 asks the family.
 What did the other nurse know
 that they should know.
 Some families tell them.
-Some families cannot tell them —
+Some families cannot tell them
 they don't know what the nurse knew,
 only that something was understood
 that is not understood now.
@@ -58,5 +58,5 @@ what they can build
 in the time the shift allows.
 
 ---
-*position_the_incoming_nurse.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*position_the_incoming_nurse.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

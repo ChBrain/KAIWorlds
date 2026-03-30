@@ -1,4 +1,4 @@
-# Process: The Handover
+﻿# Process: The Handover
 ## The ten minutes that carry everything the next shift inherits.
 
 ## Owner
@@ -24,7 +24,7 @@ for the outgoing nurse to be ready.
 
 ## Direction
 Toward the incoming nurse
-holding what the outgoing nurse holds —
+holding what the outgoing nurse holds
 the clinical picture,
 the family dynamics,
 the thing that almost happened at three-thirty,
@@ -37,7 +37,7 @@ As much of this as ten minutes allows.
 What was known pressing against
 what ten minutes can carry.
 The carrying force: eight to twelve hours
-of continuous presence —
+of continuous presence
 the outgoing nurse knows these rooms
 in a way the chart cannot record.
 The resistance: ten minutes.
@@ -87,5 +87,5 @@ The system does not see it.
 [process_the_morning_shift](process_the_morning_shift.md) begins.
 
 ---
-*process_the_handover.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_the_handover.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

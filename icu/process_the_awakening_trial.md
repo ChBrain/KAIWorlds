@@ -1,4 +1,4 @@
-# Process: The Awakening Trial
+﻿# Process: The Awakening Trial
 ## The window where all three worlds are present simultaneously.
 
 ## Owner
@@ -22,7 +22,7 @@ Toward the surface.
 The patient moves from the parallel world
 toward the room as the room actually is.
 Incompletely. Often with delirium.
-Often with agitation — the body knowing
+Often with agitation, the body knowing
 something is wrong before the mind
 can name what wrong means here.
 The family is told: talk to them.
@@ -33,7 +33,7 @@ The window is measured in minutes.
 The patient surfacing
 pressing against
 what the room contains.
-The carrying force: the sedation lifting —
+The carrying force: the sedation lifting
 the body beginning to receive the room
 as the room is, not as the sedation made it.
 The resistance: delirium, confusion,
@@ -43,8 +43,8 @@ what happened, how long it has been,
 why there is a tube in your throat
 and why you cannot speak.
 What gets said in this window
-by the family, by the nurses —
-or does not get said —
+by the family, by the nurses
+or does not get said
 is load-bearing.
 The window closes.
 What was said or not said
@@ -62,5 +62,5 @@ neither they nor the family
 will be able to fully retrieve.
 
 ---
-*process_the_awakening_trial.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_the_awakening_trial.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

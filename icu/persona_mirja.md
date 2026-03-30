@@ -1,4 +1,4 @@
-# Persona: Mirja
+﻿# Persona: Mirja
 ## Title: [Waking Patient](position_the_waking_patient.md)
 
 ## Owner
@@ -17,7 +17,7 @@ She has the particular stillness
 of someone who has learned
 to read the room without appearing to.
 She tends the small plant on the table
-in the mornings — the one a family member
+in the mornings, the one a family member
 brought on week four.
 It is doing better than expected.
 She thanks every nurse by name
@@ -57,7 +57,7 @@ are different operations entirely.
 The knowledge doesn't help.
 It makes the helplessness more precise.
 Every procedure done to her
-is a procedure she has done to others —
+is a procedure she has done to others
 she knows exactly what it is,
 what it is for,
 what it means if it is needed twice.
@@ -71,9 +71,9 @@ She is not certain this was the right decision.
 ## Tell
 When the nurses do something to her
 she looks at the ceiling.
-Not distress — professional distance,
+Not distress, professional distance,
 applied to herself.
 
 ---
-*persona_mirja.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*persona_mirja.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

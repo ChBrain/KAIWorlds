@@ -1,4 +1,4 @@
-# Process: The Waking
+﻿# Process: The Waking
 ## The permanent surfacing into a room that ran without you.
 
 ## Owner
@@ -20,11 +20,11 @@ Both are their own event.
 
 ## Direction
 Toward locating themselves in time and space.
-Not recovery — orientation.
+Not recovery, orientation.
 The first questions are always the same:
 what happened, where am I,
-how long, and then —
-once the room has answered those —
+how long, and then
+once the room has answered those
 the question nobody asks aloud
 but which is present in every face:
 am I still who I was before this.
@@ -33,12 +33,12 @@ am I still who I was before this.
 The patient trying to locate themselves
 pressing against
 the room that has already moved on.
-The carrying force: consciousness returning —
+The carrying force: consciousness returning
 the person arriving back into their body,
 into the room, into the relationships
 that have been running without them.
 The resistance: the gap.
-Days or weeks of the room continuing —
+Days or weeks of the room continuing
 conversations had, decisions made,
 things said at the bedside
 that the family needed to say
@@ -53,7 +53,7 @@ without knowing its shape.
 The patient is present.
 The room reconfigures around this fact.
 The family reconfigures.
-The clinical world reconfigures —
+The clinical world reconfigures
 recovery replaces vigil as the frame.
 What the patient cannot know about
 what happened while they were under
@@ -64,5 +64,5 @@ is the only bridge.
 It may or may not be offered.
 
 ---
-*process_the_waking.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_the_waking.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

@@ -1,4 +1,4 @@
-# Process: The Transfer
+﻿# Process: The Transfer
 ## The exit that looks like resolution and is also a loss.
 
 ## Owner
@@ -24,10 +24,10 @@ Not for much longer.
 Toward the door.
 The patient leaves [The ICU Unit](place_the_icu_unit.md)
 through the corridor they have never walked.
-The world they have learned —
+The world they have learned
 every sound, every nurse,
 the ceiling, the [Monitor](piece_the_monitor.md)'s specific register,
-the chair with the family's shape in it —
+the chair with the family's shape in it
 exits with them only in the form of memory.
 The ward receives them.
 The ward does not know what they are carrying.
@@ -36,13 +36,13 @@ The ward does not know what they are carrying.
 The clinical readiness to leave
 pressing against
 the world the patient has built inside the bed.
-The carrying force: the clinical threshold —
+The carrying force: the clinical threshold
 the numbers sufficient,
 the ventilator gone or never needed,
 the body capable of a different level of watching.
 The resistance:
 what six days or seventeen days or six weeks
-in one bed produces in a person —
+in one bed produces in a person
 the specific calibration to this room,
 this noise register, this quality of being watched
 continuously by people who know
@@ -63,7 +63,7 @@ at the moment they believed the learning was over.
 ## Echo
 The [Bed](piece_the_bed.md) is empty.
 The patient is on the ward.
-The [Chart](piece_the_chart.md) has traveled with them —
+The [Chart](piece_the_chart.md) has traveled with them
 everything it recorded, everything it couldn't.
 The [ICU Diary](piece_the_icu_diary.md) has traveled with them.
 The nurses who sat with them at three in the morning
@@ -75,5 +75,5 @@ Made ready.
 The unit continues.
 
 ---
-*process_the_transfer.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_the_transfer.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

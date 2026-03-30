@@ -1,4 +1,4 @@
-# Persona: Kirsi
+﻿# Persona: Kirsi
 ## Title: [The One Who Stays](position_the_one_who_stays.md)
 
 ## Owner
@@ -39,7 +39,7 @@ in forty years.
 ## Shadow
 The argument from 1987
 has never been finished.
-Not resolved — unfinished.
+Not resolved, unfinished.
 Kirsi said something.
 Eeva responded.
 Neither of them said the next thing.
@@ -71,5 +71,5 @@ Precisely.
 Then goes still again.
 
 ---
-*persona_kirsi.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*persona_kirsi.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

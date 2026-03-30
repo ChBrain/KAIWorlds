@@ -1,4 +1,4 @@
-# Process: The Evening Shift
+﻿# Process: The Evening Shift
 ## The shift where the performance ends and the approach begins.
 
 ## Owner
@@ -21,9 +21,9 @@ but has not yet gone quiet.
 ## Direction
 Toward the night.
 The evening shift clears
-what the morning shift built up —
+what the morning shift built up
 the clinical activity, the procedures,
-the populated corridors —
+the populated corridors
 and moves toward the specific quality
 of the unit after dark.
 Not resolution. Preparation.
@@ -32,12 +32,12 @@ Not resolution. Preparation.
 The day's clinical activity receding
 pressing against
 what the room holds when it goes quiet.
-The carrying force: the quieting —
+The carrying force: the quieting
 the doctors gone, the allied health gone,
 the unit becoming a smaller,
 more intimate version of itself.
 The resistance: what has been building
-in the family all day —
+in the family all day
 the questions not asked at the Round,
 the thing the clinical language
 did not carry,
@@ -46,7 +46,7 @@ when the performance of coping
 runs out of fuel.
 The evening shift is when
 the real conversations begin.
-Not the important clinical conversations —
+Not the important clinical conversations
 those happened at the Round.
 The other ones.
 The ones that happen
@@ -60,13 +60,13 @@ The family has either gone home
 or settled for the night.
 The [Staff Room](place_the_staff_room.md)
 has received the evening nurse's coat.
-What was said in the quieting —
+What was said in the quieting
 in the rooms, in the corridor,
-between nurse and family —
+between nurse and family
 is not in the chart.
 It is in the people who were present.
 [process_the_night_shift](process_the_night_shift.md) opens.
 
 ---
-*process_the_evening_shift.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_the_evening_shift.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

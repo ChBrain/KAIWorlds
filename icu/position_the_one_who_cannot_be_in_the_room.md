@@ -1,4 +1,4 @@
-# Position: The One Who Cannot Be In The Room
+﻿# Position: The One Who Cannot Be In The Room
 ## Present in the building. Not at the bed.
 
 ## Owner
@@ -27,7 +27,7 @@ The body decides both.
 The narrative that leaving is practical.
 They were certain they were going
 to get coffee, make a call,
-get some air — reasons, practical reasons,
+get some air, reasons, practical reasons,
 the kind that don't require examination.
 The third time they leave
 the reason stops being sufficient.
@@ -37,7 +37,7 @@ and the knowing is worse
 than not knowing was.
 
 ## Drives
-On the loss of the practical narrative —
+On the loss of the practical narrative
 stands in the corridor outside the room
 and looks at the door.
 Returns when they can.
@@ -46,5 +46,5 @@ Does not stop trying to be
 the person who can stay.
 
 ---
-*position_the_one_who_cannot_be_in_the_room.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*position_the_one_who_cannot_be_in_the_room.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

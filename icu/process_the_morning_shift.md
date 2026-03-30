@@ -1,4 +1,4 @@
-# Process: The Morning Shift
+﻿# Process: The Morning Shift
 ## The shift where the clinical world is fully present and the family must perform.
 
 ## Owner
@@ -22,9 +22,9 @@ The morning shift exists
 to produce the conditions
 in which the clinical plan for the day
 can be made and communicated.
-Everything else — the washing,
+Everything else, the washing,
 the observations, the medication,
-the family update —
+the family update
 runs in service of that.
 
 ## Lever
@@ -58,7 +58,7 @@ The family has received
 a version of the blood results
 translated into something
 they can carry.
-The morning shift continues —
+The morning shift continues
 the plan now being executed
 around the people in the chairs
 who are still there,
@@ -73,5 +73,5 @@ at the shift's end
 for the next shift's inheritance.
 
 ---
-*process_the_morning_shift.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_the_morning_shift.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

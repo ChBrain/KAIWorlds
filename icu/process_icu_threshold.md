@@ -1,4 +1,4 @@
-# Process: The Threshold
+﻿# Process: The Threshold
 ## The body that leaves before the mind has decided to.
 
 ## Owner
@@ -11,7 +11,7 @@ whatever each person's body can carry.
 The [Corridor](place_the_corridor.md) is outside the door.
 The door is always there.
 It does not announce itself.
-It is simply available —
+It is simply available
 which is the whole of its pressure.
 
 ## Direction
@@ -24,7 +24,7 @@ The mind finds out after.
 The accumulated vigil pressing against
 the specific reason each person is here.
 The carrying force: everything
-the hours have done to this person —
+the hours have done to this person
 the hunger they haven't named,
 the phone calls they haven't made,
 the life outside that has been running
@@ -50,5 +50,5 @@ when they left.
 for those who remain.
 
 ---
-*process_icu_threshold.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_icu_threshold.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

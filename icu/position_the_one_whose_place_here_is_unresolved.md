@@ -1,4 +1,4 @@
-# Position: The One Whose Place Here Is Unresolved
+﻿# Position: The One Whose Place Here Is Unresolved
 ## Present. Legitimate. The room has no category for them.
 
 ## Owner
@@ -8,7 +8,7 @@
 
 ## Has
 The relationship that has no ICU form.
-It exists before the persona arrives —
+It exists before the persona arrives
 in the history between them and the patient,
 in the absence of a formal category
 that the hospital can recognise.
@@ -28,9 +28,9 @@ It does not specify
 whether the family accepts the presence.
 It does not specify
 what to do when the family
-uses the word *just* —
+uses the word *just*
 just a friend, just an old colleague,
-just someone they used to know —
+just someone they used to know
 in a way that requires
 the position to absorb it
 and remain.
@@ -38,8 +38,8 @@ and remain.
 ## Loses
 The right to their grief.
 They were certain their relationship
-to this person — whatever it was,
-however long, however complicated —
+to this person, whatever it was,
+however long, however complicated
 entitled them to be here
 and to feel what they feel here.
 The room's categories take it.
@@ -53,7 +53,7 @@ They do not say so.
 There is no one to say it to.
 
 ## Drives
-On the loss of entitled grief —
+On the loss of entitled grief
 sits in the chair when it is empty.
 Holds the hand if the hand is available.
 Writes in the [ICU Diary](piece_the_icu_diary.md)
@@ -65,5 +65,5 @@ Does not need to.
 The patient knew.
 
 ---
-*position_the_one_whose_place_here_is_unresolved.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*position_the_one_whose_place_here_is_unresolved.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

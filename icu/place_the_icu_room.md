@@ -1,4 +1,4 @@
-# Place: The ICU Room
+﻿# Place: The ICU Room
 ## Location: The intensive care unit. The room the world has contracted to.
 
 ## Owner
@@ -43,7 +43,7 @@
   The room's rhythm, not the patient's.
 
 ## Holds
-- The bed assigned to this room —
+- The bed assigned to this room
   an instance of [The Bed](piece_the_bed.md)
 - [The Chair](piece_the_chair.md)
 - [The Monitor](piece_the_monitor.md)
@@ -71,5 +71,5 @@
   to use the answer.
 
 ---
-*place_the_icu_room.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*place_the_icu_room.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

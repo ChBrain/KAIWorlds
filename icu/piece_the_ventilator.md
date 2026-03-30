@@ -1,4 +1,4 @@
-# Piece: The Ventilator
+﻿# Piece: The Ventilator
 ## The thing that breathes when the patient cannot.
 
 ## Owner
@@ -16,7 +16,7 @@ This is the condition of the room.
 Without it the patient who cannot breathe
 does not breathe.
 Without it the [Sedated Patient](position_the_sedated_patient.md)
-position cannot run —
+position cannot run
 the sedation that keeps the patient
 from pulling out the tube
 exists because the tube exists.
@@ -32,7 +32,7 @@ must eventually decide about.
 A machine on a stand.
 Grey or white. Larger than expected.
 Tubes running from it to the patient.
-A bellows movement — the machine
+A bellows movement, the machine
 breathing in, breathing out,
 in, out, regularly, mechanically,
 at a rate set by the clinical team
@@ -54,14 +54,14 @@ breathe for them.
 It has breathed for people
 who did not recover.
 It has run through nights
-when only the nurse was in the room —
+when only the nurse was in the room
 the family asked to go home, to sleep,
-to take care of themselves —
+to take care of themselves
 and the machine breathed steadily
 into the empty chair.
 It has been the thing
 that a family member heard from the corridor
-before they came in —
+before they came in
 that rhythm, that sound,
 telling them the person was still here.
 It has been disconnected.
@@ -73,5 +73,5 @@ The room is never the same
 after the sound stops.
 
 ---
-*piece_the_ventilator.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*piece_the_ventilator.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

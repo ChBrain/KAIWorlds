@@ -1,4 +1,4 @@
-# Persona: Lasse
+﻿# Persona: Lasse
 ## Title: [Incoming Nurse](position_the_incoming_nurse.md)
 
 ## Owner
@@ -13,8 +13,8 @@ to understand ever since.
 He has not told anyone this.
 
 ## Projection
-A young man who moves carefully —
-not slowly, carefully —
+A young man who moves carefully
+not slowly, carefully
 as though he is aware
 of taking up space in a room
 that has been running
@@ -29,7 +29,7 @@ He would have done it anyway.
 
 ## Action
 Learn this patient before this shift ends.
-Not the clinical picture — the person.
+Not the clinical picture, the person.
 What they respond to.
 What the chart does not say.
 He asks the family questions
@@ -45,7 +45,7 @@ He came here to understand
 what the nurse did
 in the room where someone he loved died.
 He has not found it yet.
-He keeps thinking he is close —
+He keeps thinking he is close
 a moment with a family member,
 a response from a sedated patient,
 a shift that ends with something
@@ -70,5 +70,5 @@ One breath.
 Then he moves.
 
 ---
-*persona_lasse.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*persona_lasse.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

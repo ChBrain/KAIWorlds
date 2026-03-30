@@ -1,4 +1,4 @@
-# Position: The Nurse On This Shift
+﻿# Position: The Nurse On This Shift
 ## The one who has been in this room with other families doing this same thing.
 
 ## Owner
@@ -33,10 +33,10 @@ They were certain they cared for families
 because it was right.
 They did. That was true.
 But somewhere in the accumulated vigils
-they began collecting moments of gratitude —
+they began collecting moments of gratitude
 a family's thank you, a hand briefly held,
 the specific look of relief
-when they explain something clearly —
+when they explain something clearly
 and using those moments as fuel
 for the next shift.
 The caring is real.
@@ -46,7 +46,7 @@ They have not tried.
 The shift requires both.
 
 ## Drives
-On the loss of neutral caring —
+On the loss of neutral caring
 finds the family member
 who most needs something explained
 and explains it.
@@ -57,5 +57,5 @@ Files it for later.
 Returns to the patient.
 
 ---
-*position_the_nurse_on_this_shift.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*position_the_nurse_on_this_shift.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

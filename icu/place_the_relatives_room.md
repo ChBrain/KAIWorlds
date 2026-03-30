@@ -1,4 +1,4 @@
-# Place: The Relatives' Room
+﻿# Place: The Relatives' Room
 ## Location: Off the corridor. The room for people who are not in the room.
 
 ## Owner
@@ -15,7 +15,7 @@
 - A box of tissues on the table.
   Always present. Replaced without comment
   when empty.
-- [The Phone](piece_the_phone.md) in use —
+- [The Phone](piece_the_phone.md) in use
   someone making a call they couldn't make
   in the corridor.
 - Other families, sometimes.
@@ -42,7 +42,7 @@
   Not good sleep. Possible sleep.
 - The other families.
   Their presence is not offered
-  — they are also just here —
+ , they are also just here
   but it is available.
   Some people find it unbearable.
   Some people find it
@@ -67,5 +67,5 @@
   all week.
 
 ---
-*place_the_relatives_room.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*place_the_relatives_room.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds
