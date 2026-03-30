@@ -87,5 +87,5 @@
   The room is through the door.
 
 ---
-*place_the_corridor.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*place_the_corridor.md - 29.03.2026*
+v0.1.0 - KAI Worlds

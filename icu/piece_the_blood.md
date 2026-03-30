@@ -76,5 +76,5 @@ The blood does not resolve this gap.
 It simply reports.
 
 ---
-*piece_the_blood.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*piece_the_blood.md - 29.03.2026*
+v0.1.0 - KAI Worlds

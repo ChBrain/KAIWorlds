@@ -77,5 +77,5 @@ The diary holds the writing.
 What happened after is elsewhere.
 
 ---
-*piece_the_icu_diary.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*piece_the_icu_diary.md - 29.03.2026*
+v0.1.0 - KAI Worlds

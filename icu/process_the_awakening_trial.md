@@ -62,5 +62,5 @@ neither they nor the family
 will be able to fully retrieve.
 
 ---
-*process_the_awakening_trial.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*process_the_awakening_trial.md - 29.03.2026*
+v0.1.0 - KAI Worlds

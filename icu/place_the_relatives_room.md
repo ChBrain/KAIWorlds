@@ -67,5 +67,5 @@
   all week.
 
 ---
-*place_the_relatives_room.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*place_the_relatives_room.md - 29.03.2026*
+v0.1.0 - KAI Worlds

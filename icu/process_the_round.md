@@ -70,5 +70,5 @@ executes the plan.
 runs if the plan requires it.
 
 ---
-*process_the_round.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*process_the_round.md - 29.03.2026*
+v0.1.0 - KAI Worlds

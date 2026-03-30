@@ -74,5 +74,5 @@ The phone came back out.
 It always does.
 
 ---
-*piece_the_phone.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*piece_the_phone.md - 29.03.2026*
+v0.1.0 - KAI Worlds

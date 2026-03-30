@@ -73,5 +73,5 @@ The room is never the same
 after the sound stops.
 
 ---
-*piece_the_ventilator.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*piece_the_ventilator.md - 29.03.2026*
+v0.1.0 - KAI Worlds

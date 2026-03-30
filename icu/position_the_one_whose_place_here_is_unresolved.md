@@ -65,5 +65,5 @@ Does not need to.
 The patient knew.
 
 ---
-*position_the_one_whose_place_here_is_unresolved.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*position_the_one_whose_place_here_is_unresolved.md - 29.03.2026*
+v0.1.0 - KAI Worlds

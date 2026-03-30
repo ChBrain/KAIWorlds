@@ -105,5 +105,5 @@ The world does not distinguish between them.
 It holds whatever the room requires.
 
 ---
-*process_the_goals_of_care_conversation.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*process_the_goals_of_care_conversation.md - 29.03.2026*
+v0.1.0 - KAI Worlds

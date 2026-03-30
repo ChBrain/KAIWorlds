@@ -75,5 +75,5 @@ Made ready.
 The unit continues.
 
 ---
-*process_the_transfer.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*process_the_transfer.md - 29.03.2026*
+v0.1.0 - KAI Worlds

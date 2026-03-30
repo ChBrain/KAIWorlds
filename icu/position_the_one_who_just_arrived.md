@@ -48,5 +48,5 @@ They are there.
 It takes longer than expected to find them.
 
 ---
-*position_the_one_who_just_arrived.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*position_the_one_who_just_arrived.md - 29.03.2026*
+v0.1.0 - KAI Worlds

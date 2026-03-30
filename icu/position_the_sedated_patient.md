@@ -55,5 +55,5 @@ the smallest possible version
 of the agency that was taken.
 
 ---
-*position_the_sedated_patient.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*position_the_sedated_patient.md - 29.03.2026*
+v0.1.0 - KAI Worlds

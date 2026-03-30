@@ -58,5 +58,5 @@ and the point at which the practitioner cannot locate the difference.
 
 ---
 
-*v0.1.0 â€” KAI Worlds*
+*v0.1.0 - KAI Worlds*
 *March 2026*

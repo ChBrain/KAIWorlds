@@ -50,5 +50,5 @@ when they left.
 for those who remain.
 
 ---
-*process_icu_threshold.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*process_icu_threshold.md - 29.03.2026*
+v0.1.0 - KAI Worlds

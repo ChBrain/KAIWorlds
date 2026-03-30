@@ -46,5 +46,5 @@ Does not stop trying to be
 the person who can stay.
 
 ---
-*position_the_one_who_cannot_be_in_the_room.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*position_the_one_who_cannot_be_in_the_room.md - 29.03.2026*
+v0.1.0 - KAI Worlds

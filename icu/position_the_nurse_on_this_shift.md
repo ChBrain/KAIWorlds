@@ -57,5 +57,5 @@ Files it for later.
 Returns to the patient.
 
 ---
-*position_the_nurse_on_this_shift.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*position_the_nurse_on_this_shift.md - 29.03.2026*
+v0.1.0 - KAI Worlds

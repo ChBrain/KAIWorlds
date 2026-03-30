@@ -67,5 +67,5 @@ every other change in this room
 by continuing to be here.
 
 ---
-*process_the_procedure.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*process_the_procedure.md - 29.03.2026*
+v0.1.0 - KAI Worlds

@@ -85,5 +85,5 @@ The bed holds that
 without being able to say so.
 
 ---
-*piece_bed_one.md â€” 29.03.2026*
-v0.1.2 â€” KAI Worlds
+*piece_bed_one.md - 29.03.2026*
+v0.1.2 - KAI Worlds

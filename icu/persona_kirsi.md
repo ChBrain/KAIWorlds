@@ -71,5 +71,5 @@ Precisely.
 Then goes still again.
 
 ---
-*persona_kirsi.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*persona_kirsi.md - 29.03.2026*
+v0.1.0 - KAI Worlds

@@ -64,5 +64,5 @@ is the only bridge.
 It may or may not be offered.
 
 ---
-*process_the_waking.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*process_the_waking.md - 29.03.2026*
+v0.1.0 - KAI Worlds

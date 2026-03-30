@@ -68,5 +68,5 @@ The shift continues.
 what the blood reported.
 
 ---
-*process_the_blood_draw.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*process_the_blood_draw.md - 29.03.2026*
+v0.1.0 - KAI Worlds
