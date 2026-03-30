@@ -69,5 +69,5 @@ because picking it up meant
 acknowledging what kind of leaving this was.
 
 ---
-*piece_the_thing_from_home.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*piece_the_thing_from_home.md - 29.03.2026*
+v0.1.0 - KAI Worlds

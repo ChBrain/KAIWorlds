@@ -33,7 +33,7 @@ The assumption of continuity.
 They were certain the handover
 gave them everything they needed.
 The first family member who says
-*the other nurse knew about theâ€”*
+*the other nurse knew about the-*
 takes it.
 The chart did not contain
 what the other nurse knew.
@@ -58,5 +58,5 @@ what they can build
 in the time the shift allows.
 
 ---
-*position_the_incoming_nurse.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*position_the_incoming_nurse.md - 29.03.2026*
+v0.1.0 - KAI Worlds

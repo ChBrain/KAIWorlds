@@ -66,5 +66,5 @@ He looks at the [ICU Diary](piece_the_icu_diary.md)
 on the table beside the bed.
 
 ---
-*persona_niko.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*persona_niko.md - 29.03.2026*
+v0.1.0 - KAI Worlds

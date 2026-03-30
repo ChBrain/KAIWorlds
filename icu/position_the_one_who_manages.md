@@ -54,5 +54,5 @@ They type the update.
 They do not put the phone down.
 
 ---
-*position_the_one_who_manages.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*position_the_one_who_manages.md - 29.03.2026*
+v0.1.0 - KAI Worlds

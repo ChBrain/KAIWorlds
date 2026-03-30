@@ -64,5 +64,5 @@ when the schedule does not require it.
 Does not document why.
 
 ---
-*position_the_doctor_on_this_case.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*position_the_doctor_on_this_case.md - 29.03.2026*
+v0.1.0 - KAI Worlds

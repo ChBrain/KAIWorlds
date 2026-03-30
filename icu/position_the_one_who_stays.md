@@ -51,5 +51,5 @@ They have begun to believe
 they have always been here too.
 
 ---
-*position_the_one_who_stays.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*position_the_one_who_stays.md - 29.03.2026*
+v0.1.0 - KAI Worlds

@@ -88,5 +88,5 @@ whoever needs it
 at the end of this shift.
 
 ---
-*process_the_death.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*process_the_death.md - 29.03.2026*
+v0.1.0 - KAI Worlds

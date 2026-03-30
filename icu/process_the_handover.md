@@ -87,5 +87,5 @@ The system does not see it.
 [process_the_morning_shift](process_the_morning_shift.md) begins.
 
 ---
-*process_the_handover.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*process_the_handover.md - 29.03.2026*
+v0.1.0 - KAI Worlds

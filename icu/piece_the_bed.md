@@ -67,5 +67,5 @@ The sheets are always clean.
 That is all it promises.
 
 ---
-*piece_the_bed.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*piece_the_bed.md - 29.03.2026*
+v0.1.0 - KAI Worlds

@@ -68,5 +68,5 @@ It is in the people who were present.
 [process_the_night_shift](process_the_night_shift.md) opens.
 
 ---
-*process_the_evening_shift.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*process_the_evening_shift.md - 29.03.2026*
+v0.1.0 - KAI Worlds

@@ -73,5 +73,5 @@ at the shift's end
 for the next shift's inheritance.
 
 ---
-*process_the_morning_shift.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*process_the_morning_shift.md - 29.03.2026*
+v0.1.0 - KAI Worlds

@@ -77,5 +77,5 @@ to stand in for the one
 she cannot make yet.
 
 ---
-*persona_satu.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*persona_satu.md - 29.03.2026*
+v0.1.0 - KAI Worlds

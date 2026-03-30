@@ -72,5 +72,5 @@ She has done this for eleven years.
 She does not know she does it.
 
 ---
-*persona_dr_anttila.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*persona_dr_anttila.md - 29.03.2026*
+v0.1.0 - KAI Worlds

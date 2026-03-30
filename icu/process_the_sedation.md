@@ -61,5 +61,5 @@ Some of it stays anyway.
 The body holds what the mind cannot file.
 
 ---
-*process_the_sedation.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*process_the_sedation.md - 29.03.2026*
+v0.1.0 - KAI Worlds

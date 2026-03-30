@@ -74,5 +74,5 @@
   without commentary.
 
 ---
-*place_the_icu_unit.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*place_the_icu_unit.md - 29.03.2026*
+v0.1.0 - KAI Worlds

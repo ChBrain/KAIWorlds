@@ -108,5 +108,5 @@ That is the gap it holds
 without knowing it holds it.
 
 ---
-*piece_the_chart.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*piece_the_chart.md - 29.03.2026*
+v0.1.0 - KAI Worlds

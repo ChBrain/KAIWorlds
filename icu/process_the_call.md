@@ -56,5 +56,5 @@ The correction is its own event.
 receives what the call sent.
 
 ---
-*process_the_call.md â€” 29.03.2026*
-v0.1.0 â€” KAI Worlds
+*process_the_call.md - 29.03.2026*
+v0.1.0 - KAI Worlds
