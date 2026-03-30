@@ -1,4 +1,4 @@
-# Persona: Dr. Anttila
+﻿# Persona: Dr. Anttila
 ## Title: [Doctor On This Round](position_the_doctor_on_this_round.md)
 
 ## Owner
@@ -13,11 +13,11 @@ It is also a skill.
 ## Projection
 A tall woman who enters a room
 and is immediately its clinical centre.
-She addresses the patient first —
+She addresses the patient first
 always the patient first,
 even when the patient cannot respond.
 She speaks to the family
-in the time the round allows —
+in the time the round allows
 clearly, without condescension,
 with the specific efficiency
 of someone who has explained
@@ -42,7 +42,7 @@ The moving on has become
 so practiced
 that she can no longer locate
 the place where it costs something.
-It did once. She remembers this abstractly —
+It did once. She remembers this abstractly
 early in her career,
 the drive home,
 the specific quality of certain nights.
@@ -66,11 +66,11 @@ The round does not provide time for that.
 She pauses at the door
 for one second before entering each room.
 Hand on the frame.
-Not hesitation —
+Not hesitation
 preparation.
 She has done this for eleven years.
 She does not know she does it.
 
 ---
-*persona_dr_anttila.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*persona_dr_anttila.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

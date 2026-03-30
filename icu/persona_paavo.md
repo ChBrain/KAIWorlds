@@ -1,4 +1,4 @@
-# Persona: Paavo
+﻿# Persona: Paavo
 ## Title: [The One Who Cannot Be In The Room](position_the_one_who_cannot_be_in_the_room.md)
 
 ## Owner
@@ -18,7 +18,7 @@ as though he is aware of being too big for it.
 He wears his work jacket
 even though he has not been to work
 in three weeks.
-He brings things — coffee from outside,
+He brings things, coffee from outside,
 something from the bakery,
 a newspaper he does not read.
 He is always carrying something
@@ -30,11 +30,11 @@ looking at the door.
 
 ## Action
 Come back.
-Whatever drove him to the corridor —
+Whatever drove him to the corridor
 the smell, the sounds,
 the specific quality of watching Mirja
 be patient in a way she has never had to be
-and having nothing useful to offer her —
+and having nothing useful to offer her
 he comes back.
 He sits.
 He brings something next time.
@@ -52,9 +52,9 @@ He cannot fix the room.
 He cannot fix the waiting.
 He cannot fix the specific way
 Mirja looks at the ceiling
-when the nurses do something to her —
+when the nurses do something to her
 that professional distance
-she applies to herself —
+she applies to herself
 which frightens him more
 than the machines do
 because he does not understand it
@@ -73,5 +73,5 @@ He straightens it in the afternoons.
 Neither of them has mentioned this.
 
 ---
-*persona_paavo.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*persona_paavo.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

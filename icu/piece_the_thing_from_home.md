@@ -1,4 +1,4 @@
-# Piece: The Thing Brought From Home
+﻿# Piece: The Thing Brought From Home
 ## The person's life, placed near the bed.
 
 ## Owner
@@ -17,7 +17,7 @@ of whoever is in the bed.
 Without it the room contains
 only what the hospital put here.
 The thing from home is the only object in the room
-that belongs to the person in the bed —
+that belongs to the person in the bed
 that knows them from outside this,
 from before this,
 from the life they were living
@@ -35,7 +35,7 @@ the machines cannot access.
 ## Apparent
 A photograph, usually.
 Or a child's drawing.
-Or a small object — a stone, a figurine,
+Or a small object, a stone, a figurine,
 the thing that has been on the bedside table
 for so many years
 nobody remembers where it came from.
@@ -63,11 +63,11 @@ It has been held by someone
 sitting in the [Chair](piece_the_chair.md)
 who needed something real to hold.
 It has been brought home after.
-That was the hardest part of leaving —
+That was the hardest part of leaving
 picking it up, putting it in a bag,
 because picking it up meant
 acknowledging what kind of leaving this was.
 
 ---
-*piece_the_thing_from_home.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*piece_the_thing_from_home.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

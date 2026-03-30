@@ -1,4 +1,4 @@
-# Piece: The ICU Diary
+﻿# Piece: The ICU Diary
 ## The things that cannot be said aloud, written down anyway.
 
 ## Owner
@@ -15,7 +15,7 @@ The pen is always beside it.
 Without it the things that cannot be said aloud
 have nowhere to go.
 The room is full of things
-that cannot be said aloud —
+that cannot be said aloud
 to the patient, because they may not hear;
 to each other, because the hearing
 would cost too much.
@@ -23,7 +23,7 @@ The diary receives them.
 It does not require the writer
 to say them to anyone.
 It holds them until the patient
-can read them — if they can —
+can read them, if they can
 or holds them after.
 Remove the diary and the room
 keeps everything inside the people.
@@ -36,7 +36,7 @@ Sometimes brought by a nurse
 who has seen what a diary does
 for the families who keep one.
 The handwriting changes
-depending on who wrote the entry —
+depending on who wrote the entry
 different people, different days,
 different hours of the night
 when the corridor was quiet
@@ -54,9 +54,9 @@ to confirm the person was still real.
 It has received things
 that had never been said in thirty years
 of knowing someone.
-It has received ordinary things —
+It has received ordinary things
 *the weather today, the dog is fine,
-your sister called* —
+your sister called*
 because ordinary things were
 the only anchor available.
 It has been read by a patient
@@ -77,5 +77,5 @@ The diary holds the writing.
 What happened after is elsewhere.
 
 ---
-*piece_the_icu_diary.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*piece_the_icu_diary.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

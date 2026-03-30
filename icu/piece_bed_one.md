@@ -1,4 +1,4 @@
-# Piece: Bed One
+﻿# Piece: Bed One
 ## The bed that has held the same person for eleven days without resolution.
 
 ## Owner
@@ -18,9 +18,9 @@ position has no address.
 The vigil has no centre.
 The [Ventilator](piece_the_ventilator.md) has nothing to connect to.
 The [ICU Diary](piece_the_icu_diary.md) has no bedside to sit beside.
-Eleven days of accumulation —
+Eleven days of accumulation
 in the family, in the clinical staff,
-in the room itself —
+in the room itself
 is anchored here.
 Remove this bed and everything
 the vigil has built
@@ -32,12 +32,12 @@ White sheets changed daily by the nurses
 with a care that is practical and also tender.
 The [Ventilator](piece_the_ventilator.md) beside it, running.
 Lines in both arms.
-A photograph on the windowsill —
+A photograph on the windowsill
 placed there on day three
 by someone who needed
 the room to know who this was.
 The chair pulled close.
-A folded coat on the chair's back —
+A folded coat on the chair's back
 the signal that someone is coming back.
 
 ## Yearbook
@@ -46,7 +46,7 @@ of one person for eleven days.
 The ceiling they look at.
 The light that changes
 from dark to grey to white and back.
-The hands that work on them —
+The hands that work on them
 the nurses' hands, the family's hands,
 the same hands returning
 at known intervals.
@@ -69,7 +69,7 @@ For this patient it is the entire world.
 
 ## Withheld
 What it holds when it is empty.
-The bed cleaned, remade, reset —
+The bed cleaned, remade, reset
 identical to how it was
 before this patient arrived.
 The room does not mark the difference.
@@ -85,5 +85,5 @@ The bed holds that
 without being able to say so.
 
 ---
-*piece_bed_one.md — 29.03.2026*
-v0.1.2 — KAI Worlds
+*piece_bed_one.md â€” 29.03.2026*
+v0.1.2 â€” KAI Worlds

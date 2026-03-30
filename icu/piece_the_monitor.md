@@ -1,4 +1,4 @@
-# Piece: The Monitor
+﻿# Piece: The Monitor
 ## The thing that speaks when the patient cannot.
 
 ## Owner
@@ -16,7 +16,7 @@ because that is its function.
 ## Load Bearing
 Without it the vigil has no language.
 The patient cannot report their own condition.
-The monitor reports it for them —
+The monitor reports it for them
 in numbers, in lines, in the specific sound
 of a heart that is still beating.
 Remove the monitor and the family
@@ -32,7 +32,7 @@ It does not do this gently.
 
 ## Apparent
 A screen. Numbers in different colours.
-A line tracing the heart —
+A line tracing the heart
 the green line that the room
 learns to read without wanting to.
 The sound: regular, metronomic,
@@ -56,10 +56,10 @@ It has been the thing that alarmed
 in the night when only one person was there
 and that person learned in that moment
 what kind of person they were.
-It has been looked at on a phone —
+It has been looked at on a phone
 the numbers, what do the numbers mean,
 typed into a search engine at 3am
-in the corridor outside —
+in the corridor outside
 by The One Who Manages,
 who needed to know
 and could not stop needing to know.
@@ -73,5 +73,5 @@ The silence after was different
 from any silence before it.
 
 ---
-*piece_the_monitor.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*piece_the_monitor.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

@@ -1,4 +1,4 @@
-# Position: The Doctor On This Round
+﻿# Position: The Doctor On This Round
 ## The clinical plan made and delivered and left behind.
 
 ## Owner
@@ -42,7 +42,7 @@ The nurse knows.
 The position does not ask the nurse.
 
 ## Drives
-On the loss of time —
+On the loss of time
 moves to the next room.
 The plan is made.
 The next patient requires it.
@@ -56,5 +56,5 @@ receive a clinical plan
 before noon.
 
 ---
-*position_the_doctor_on_this_round.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*position_the_doctor_on_this_round.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

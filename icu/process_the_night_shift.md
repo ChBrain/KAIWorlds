@@ -1,4 +1,4 @@
-# Process: The Night Shift
+﻿# Process: The Night Shift
 ## The shift where what happens happens because it had to.
 
 ## Owner
@@ -40,7 +40,7 @@ the specific quality of three in the morning
 that belongs to no shift
 but the night shift.
 The resistance:
-what the people in the chairs are carrying —
+what the people in the chairs are carrying
 the vigil accumulated over days,
 the questions not asked,
 the things not said at the Awakening Trial,
@@ -70,10 +70,10 @@ It is in the people who were present.
 The night is almost over.
 [process_the_handover](process_the_handover.md) runs at dawn.
 The morning shift inherits
-what the night produced —
+what the night produced
 and what the night produced
 will not all transfer.
 
 ---
-*process_the_night_shift.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_the_night_shift.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

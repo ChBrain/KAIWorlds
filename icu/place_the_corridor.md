@@ -1,4 +1,4 @@
-# Place: The Corridor
+﻿# Place: The Corridor
 ## Location: Outside the ICU room. Between the room and the world.
 
 ## Owner
@@ -23,7 +23,7 @@
   The outside has weather.
   The outside has continued
   without anyone in this corridor.
-- The sound of the ICU beyond the door —
+- The sound of the ICU beyond the door
   the monitor, the ventilator,
   arriving faintly when the door opens.
 - [The Phone](piece_the_phone.md).
@@ -47,8 +47,8 @@
   has forgotten to eat
   and remembered suddenly.
 - The nurses' station nod.
-  A specific communication —
-  not words, a look —
+  A specific communication
+  not words, a look
   that means *stable, nothing to report, you can breathe.*
   The family learns to read it.
   It is the most information
@@ -87,5 +87,5 @@
   The room is through the door.
 
 ---
-*place_the_corridor.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*place_the_corridor.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

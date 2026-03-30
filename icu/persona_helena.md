@@ -1,4 +1,4 @@
-# Persona: Helena
+﻿# Persona: Helena
 ## Title: [Nurse On This Shift](position_the_nurse_on_this_shift.md)
 
 ## Owner
@@ -12,7 +12,7 @@ She still does.
 ## Projection
 A compact, unhurried woman
 who moves through the unit
-as though it were arranged around her —
+as though it were arranged around her
 which, after fourteen years, it largely is.
 She knows where everything is
 before she looks.
@@ -25,9 +25,9 @@ watch to learn how it is done.
 Read the room before entering it.
 Adjust before the adjustment is needed.
 Find the family member who is closest to breaking
-and do the specific thing —
+and do the specific thing
 an explanation, a moment,
-a hand on the arm —
+a hand on the arm
 that keeps them one side of the line.
 Then move to the next room.
 
@@ -36,7 +36,7 @@ She has managed the work for so long
 that the managed version
 has become indistinguishable from the real one.
 She came into this work
-with something she was trying to give —
+with something she was trying to give
 a specific quality of presence,
 unhurried and complete,
 that she witnessed once in a nurse
@@ -59,5 +59,5 @@ Precisely. Unnecessarily.
 Then goes back to work.
 
 ---
-*persona_helena.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*persona_helena.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

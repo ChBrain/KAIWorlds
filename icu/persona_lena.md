@@ -1,4 +1,4 @@
-# Persona: Lena
+﻿# Persona: Lena
 ## Title: [The One Who Just Arrived](position_the_one_who_just_arrived.md)
 
 ## Owner
@@ -16,7 +16,7 @@ of someone who has been strong
 for a very long time
 and is not sure how much longer.
 She sits beside [Bed Two](piece_bed_two.md)
-differently than she sat during the vigil —
+differently than she sat during the vigil
 not leaning forward, watching,
 but leaning back, waiting.
 The [ICU Diary](piece_the_icu_diary.md) is on the table.
@@ -28,7 +28,7 @@ There is no right moment.
 ## Action
 Answer his questions.
 Give him the seventeen days
-in the order he needs them —
+in the order he needs them
 practical first, then the rest.
 Be the person he recognises
 when he looks at her.
@@ -38,7 +38,7 @@ She has been steady for seventeen days.
 
 ## Shadow
 She wrote in the diary every day.
-She said things she has never said aloud —
+She said things she has never said aloud
 to Niko, to anyone.
 She said them because he was sedated
 and could not hear them
@@ -68,5 +68,5 @@ Does not open it.
 Puts it back.
 
 ---
-*persona_lena.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*persona_lena.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

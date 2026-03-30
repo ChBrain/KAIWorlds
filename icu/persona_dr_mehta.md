@@ -1,4 +1,4 @@
-# Persona: Dr. Mehta
+﻿# Persona: Dr. Mehta
 ## Title: [Doctor On This Case](position_the_doctor_on_this_case.md)
 
 ## Owner
@@ -12,7 +12,7 @@ around day seven.
 
 ## Projection
 A careful man who reads the [Chart](piece_the_chart.md)
-the way someone reads a letter —
+the way someone reads a letter
 for what is said
 and for what the saying implies.
 He comes to the unit
@@ -25,11 +25,11 @@ He leaves.
 
 ## Action
 Track the trajectory.
-Not the individual results —
+Not the individual results
 the direction of travel across results.
 He knows this patient's numbers
 the way you know the routes
-you drive every day —
+you drive every day
 not by consulting the map
 but by feel,
 by the accumulated sense
@@ -52,7 +52,7 @@ what he is giving her.
 The something else is this:
 Eeva reminds him of his mother.
 Not in appearance.
-In the school photograph on the windowsill —
+In the school photograph on the windowsill
 the three hundred children in rows,
 the woman at the back
 slightly ahead of where she was meant to stand.
@@ -66,8 +66,8 @@ He is also being a person
 who is not ready to stop.
 
 ## Tell
-He speaks to [Bed One](piece_bed_one.md) sometimes —
-to Eeva directly —
+He speaks to [Bed One](piece_bed_one.md) sometimes
+to Eeva directly
 when he thinks no one is listening.
 Not clinical.
 Something else.
@@ -75,5 +75,5 @@ Brief.
 Then he leaves.
 
 ---
-*persona_dr_mehta.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*persona_dr_mehta.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

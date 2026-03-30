@@ -1,4 +1,4 @@
-# Position: The One Who Manages
+﻿# Position: The One Who Manages
 ## The information held so no one else has to hold it.
 
 ## Owner
@@ -12,7 +12,7 @@ What the doctors said. What the numbers mean.
 What happens next and in what order
 and what each option costs.
 It arrived the moment someone
-had to be the contact person —
+had to be the contact person
 and someone always has to be
 the contact person.
 The position does not ask
@@ -33,7 +33,7 @@ They were certain they could manage the information
 and also grieve.
 The managing takes everything.
 There is no room left
-for the thing they came here for —
+for the thing they came here for
 to be someone who loves this person,
 not someone who administers their crisis.
 They look at the [Monitor](piece_the_monitor.md)
@@ -44,7 +44,7 @@ They cannot put the numbers down.
 Nobody else in the room can pick them up.
 
 ## Drives
-On the loss of permission to not know —
+On the loss of permission to not know
 checks the [Phone](piece_the_phone.md).
 There are messages.
 There are always messages.
@@ -54,5 +54,5 @@ They type the update.
 They do not put the phone down.
 
 ---
-*position_the_one_who_manages.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*position_the_one_who_manages.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

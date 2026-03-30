@@ -1,4 +1,4 @@
-# Persona: Satu
+﻿# Persona: Satu
 ## Title: [The One Whose Place Here Is Unresolved](position_the_one_whose_place_here_is_unresolved.md)
 
 ## Owner
@@ -14,7 +14,7 @@ before she knew this room existed.
 A young woman who visits
 every Saturday and Wednesday.
 She sits beside [Bed Three](piece_bed_three.md)
-and talks about ordinary things —
+and talks about ordinary things
 her work, her flatmate,
 what is on television,
 the neighbourhood where she lives.
@@ -29,7 +29,7 @@ to ask the one that doesn't.
 Tend the visit.
 Fill it with the small things
 that make the room feel
-like a version of normal life —
+like a version of normal life
 the news from outside,
 the stories that require nothing back,
 the presence that does not demand.
@@ -39,7 +39,7 @@ She learned it from Mirja.
 ## Shadow
 Before her mother was admitted
 Satu had decided to tell her something.
-Not a secret — a direction.
+Not a secret, a direction.
 A decision she had made
 about her own life
 that she had been not-telling
@@ -77,5 +77,5 @@ to stand in for the one
 she cannot make yet.
 
 ---
-*persona_satu.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*persona_satu.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

@@ -1,4 +1,4 @@
-# Position: The Doctor On This Case
+﻿# Position: The Doctor On This Case
 ## The clinician for whom this patient has stopped being only a case.
 
 ## Owner
@@ -10,7 +10,7 @@
 ## Has
 The accumulated clinical knowledge
 of one patient across multiple days.
-It exists before this persona arrived —
+It exists before this persona arrived
 built from every round,
 every blood result,
 every conversation with the family,
@@ -55,7 +55,7 @@ that happens to the doctors
 who stay on a case long enough.
 
 ## Drives
-On the loss of clinical distance —
+On the loss of clinical distance
 stays longer than the round requires.
 Answers questions the rounding doctor
 did not have time to answer.
@@ -64,5 +64,5 @@ when the schedule does not require it.
 Does not document why.
 
 ---
-*position_the_doctor_on_this_case.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*position_the_doctor_on_this_case.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

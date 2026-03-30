@@ -1,4 +1,4 @@
-# Piece: The Bed
+﻿# Piece: The Bed
 ## The thing the world runs on.
 
 ## Owner
@@ -31,11 +31,11 @@ A hospital bed. Raised. Adjustable.
 Rails on the sides.
 White sheets changed by the nurses
 with a care that is practical and also tender.
-Tubes. Lines. The ventilator if there is one —
+Tubes. Lines. The ventilator if there is one
 its rhythm the room's rhythm,
 not the patient's anymore.
 The person in it is the person they were
-and also something else now —
+and also something else now
 something that requires all of this
 to continue.
 Both are true simultaneously.
@@ -67,5 +67,5 @@ The sheets are always clean.
 That is all it promises.
 
 ---
-*piece_the_bed.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*piece_the_bed.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

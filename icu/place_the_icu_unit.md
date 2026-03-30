@@ -1,4 +1,4 @@
-# Place: The ICU Unit
+﻿# Place: The ICU Unit
 ## Location: The intensive care unit. Three rooms. One architecture.
 
 ## Owner
@@ -18,7 +18,7 @@
   and is not always calm.
 - [The Corridor](place_the_corridor.md).
   Runs the length of the unit.
-  Doors on one side — one per room.
+  Doors on one side, one per room.
   The families of different beds
   use the same corridor.
   They do not always know each other.
@@ -38,10 +38,10 @@
   from wherever they are sitting.
 
 ## Holds
-- The beds assigned to this unit —
+- The beds assigned to this unit
   each one an instance of [The Bed](piece_the_bed.md),
   each one the entire world of one patient.
-- The [Monitors](piece_the_monitor.md) —
+- The [Monitors](piece_the_monitor.md)
   their sounds distinct enough
   that the nurses can tell them apart.
   The families cannot, at first.
@@ -74,5 +74,5 @@
   without commentary.
 
 ---
-*place_the_icu_unit.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*place_the_icu_unit.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

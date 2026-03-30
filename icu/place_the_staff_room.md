@@ -1,4 +1,4 @@
-# Place: The Staff Room
+﻿# Place: The Staff Room
 ## Location: Off the unit. Between the clinical world and the outside world.
 
 ## Owner
@@ -77,5 +77,5 @@
   without being able to name it.
 
 ---
-*place_the_staff_room.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*place_the_staff_room.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

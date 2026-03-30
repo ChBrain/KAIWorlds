@@ -1,4 +1,4 @@
-# Persona: Eeva
+﻿# Persona: Eeva
 ## Title: [Sedated Patient](position_the_sedated_patient.md)
 
 ## Owner
@@ -13,7 +13,7 @@ She is.
 ## Projection
 A woman in [Bed One](piece_bed_one.md).
 The [Ventilator](piece_the_ventilator.md) breathes at her rate, not hers.
-Her hands are folded on the sheet —
+Her hands are folded on the sheet
 the family arranged them that way.
 She would not have arranged them that way.
 A photograph on the windowsill:
@@ -24,7 +24,7 @@ slightly ahead of where she was meant to stand.
 
 ## Action
 Read the room.
-Every sound registers — the shift change,
+Every sound registers, the shift change,
 the drop in the nurses' voices,
 the difference between a monitor alarm
 that resolves in seconds
@@ -62,5 +62,5 @@ Her hand closes around the hand holding it.
 Not always. Not reliably.
 
 ---
-*persona_eeva.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*persona_eeva.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

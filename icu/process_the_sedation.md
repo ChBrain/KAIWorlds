@@ -1,4 +1,4 @@
-# Process: The Sedation
+﻿# Process: The Sedation
 ## The parallel world running inside the room.
 
 ## Owner
@@ -21,7 +21,7 @@ in the form the room believes it is.
 ## Direction
 Toward whatever the sedated body makes
 of what it receives.
-Not absence — translation.
+Not absence, translation.
 Voices arrive without faces.
 Touch arrives without context.
 The [Monitor](piece_the_monitor.md) sounds without meaning.
@@ -32,7 +32,7 @@ of the room.
 What the room is doing
 pressing against
 what the sedated body can receive.
-The carrying force: the room continues —
+The carrying force: the room continues
 the family speaks, the nurses work,
 the monitor runs, the light changes
 from day to night and back.
@@ -61,5 +61,5 @@ Some of it stays anyway.
 The body holds what the mind cannot file.
 
 ---
-*process_the_sedation.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_the_sedation.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

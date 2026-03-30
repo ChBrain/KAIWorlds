@@ -1,4 +1,4 @@
-# Piece: The Phone
+﻿# Piece: The Phone
 ## The thing that connects this room to every room that isn't it.
 
 ## Owner
@@ -16,7 +16,7 @@ does not know what is happening here.
 Without it [process_the_call](process_the_call.md)
 has no mechanism.
 The phone is the bridge
-between the room and everything outside it —
+between the room and everything outside it
 the people who couldn't come,
 the people who don't know yet,
 the people who need updates
@@ -32,7 +32,7 @@ The phone prevents this.
 ## Apparent
 A screen. Always slightly too bright
 for this room at this hour.
-Notifications arriving continuously —
+Notifications arriving continuously
 people who have heard,
 people who are asking,
 people who want to help
@@ -74,5 +74,5 @@ The phone came back out.
 It always does.
 
 ---
-*piece_the_phone.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*piece_the_phone.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

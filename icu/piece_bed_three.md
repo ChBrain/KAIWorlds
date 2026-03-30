@@ -1,4 +1,4 @@
-# Piece: Bed Three
+﻿# Piece: Bed Three
 ## The bed that has become someone's world.
 
 ## Owner
@@ -19,12 +19,12 @@ Without it the [Waking Patient](position_the_waking_patient.md)
 who has been here six weeks
 has no address for what has happened to them.
 The ICU has become their world.
-That is not metaphor — it is the position
+That is not metaphor, it is the position
 running at maximum duration,
 the accumulation building past
 what any session was designed to hold.
 The specific corner, the specific light,
-the known footsteps of the known nurses —
+the known footsteps of the known nurses
 all of it is anchored here.
 Remove this bed and six weeks
 of a person's world disappears.
@@ -35,7 +35,7 @@ That incapacity lives in this bed.
 ## Apparent
 A hospital bed that has been
 personalised within the rules.
-A card on the table — from someone,
+A card on the table, from someone,
 multiple someones, the handwriting changes.
 A small plant that a family member
 brought in on week four
@@ -50,14 +50,14 @@ for hours at a time now.
 ## Yearbook
 It has been the whole world
 of one person for six weeks.
-They know every surface of it —
+They know every surface of it
 the specific texture of the rail,
 the distance from the bed to the window
 measured in the angle of the afternoon light,
 the sound the wheels make
 when the nurses reposition it.
 They know the ceiling.
-They know it in different lights —
+They know it in different lights
 the flat white of day,
 the yellow of the evening lamp,
 the blue-grey of the unit at three in the morning.
@@ -68,14 +68,14 @@ They tend the plant each morning.
 The plant is the one thing in this world
 that is also growing.
 The bed has become what rooms become
-when a person lives in them long enough —
+when a person lives in them long enough
 not just a place but a territory.
 Their territory.
 The only one available.
 
 ## Withheld
 What it holds when it is empty.
-The bed cleaned, remade, reset —
+The bed cleaned, remade, reset
 identical to how it was
 before this patient arrived.
 The room does not mark the difference.
@@ -91,5 +91,5 @@ The bed holds that
 without being able to say so.
 
 ---
-*piece_bed_three.md — 29.03.2026*
-v0.1.2 — KAI Worlds
+*piece_bed_three.md â€” 29.03.2026*
+v0.1.2 â€” KAI Worlds

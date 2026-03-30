@@ -1,4 +1,4 @@
-# Piece: The Blood
+﻿# Piece: The Blood
 ## The body's report to the clinical world, made without the patient's knowledge.
 
 ## Owner
@@ -17,7 +17,7 @@ before the family arrives in the morning.
 Without it the clinical world
 cannot read what the patient's body
 is actually doing.
-The [Monitor](piece_the_monitor.md) reads surface signals —
+The [Monitor](piece_the_monitor.md) reads surface signals
 heart rate, oxygen levels, blood pressure.
 The blood reads everything underneath:
 organ function, infection, electrolytes,
@@ -31,7 +31,7 @@ The blood does not spare anyone.
 
 ## Apparent
 A vial. Small. Dark red.
-Several vials sometimes — different tests
+Several vials sometimes, different tests
 require different containers, different colours.
 Drawn from a line in the arm or the neck
 or a needle in the wrist
@@ -54,9 +54,9 @@ It has reported faithfully through every shift.
 The midnight draw that came back wrong
 and woke the doctor at 3am.
 The morning draw that showed
-the first sign of improvement —
+the first sign of improvement
 a number slightly better
-than the number from yesterday —
+than the number from yesterday
 and the nurse who saw it first
 and knew before the round
 that today would be different.
@@ -76,5 +76,5 @@ The blood does not resolve this gap.
 It simply reports.
 
 ---
-*piece_the_blood.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*piece_the_blood.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

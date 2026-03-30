@@ -1,4 +1,4 @@
-# Persona: Tuomas
+﻿# Persona: Tuomas
 ## Title: [The One Who Manages](position_the_one_who_manages.md)
 
 ## Owner
@@ -26,7 +26,7 @@ They do not.
 ## Action
 Hold the information.
 Update the family group message
-every morning and evening —
+every morning and evening
 precise, factual, the clinical language
 translated into something
 the aunts and cousins can carry.
@@ -39,7 +39,7 @@ when a decision is required.
 He is an engineer.
 He has spent his career
 solving problems by understanding systems.
-He understands this system —
+He understands this system
 the clinical logic, the protocols,
 what the numbers mean and why.
 Understanding has not given him
@@ -63,11 +63,11 @@ He checks the [Phone](piece_the_phone.md)
 when he sits down beside the bed.
 Updates sent. Messages read.
 Then he looks at her.
-For a moment — before the next thing —
+For a moment, before the next thing
 just looks.
 He does not know this is the most honest
 thing he does all day.
 
 ---
-*persona_tuomas.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*persona_tuomas.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds

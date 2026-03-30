@@ -1,4 +1,4 @@
-# Process: The Blood Draw
+﻿# Process: The Blood Draw
 ## The body read before the family arrives.
 
 ## Owner
@@ -34,7 +34,7 @@ The body's truth
 pressing against
 what the clinical world can act on.
 The carrying force:
-the [Blood](piece_the_blood.md) — it does not lie,
+the [Blood](piece_the_blood.md), it does not lie,
 does not soften, does not wait
 for a good moment to report.
 The resistance: the gap.
@@ -68,5 +68,5 @@ The shift continues.
 what the blood reported.
 
 ---
-*process_the_blood_draw.md — 29.03.2026*
-v0.1.0 — KAI Worlds
+*process_the_blood_draw.md â€” 29.03.2026*
+v0.1.0 â€” KAI Worlds
