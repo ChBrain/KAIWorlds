@@ -11,8 +11,8 @@ Come as you are. Bring whoever is in the bed.
 ## Agent
 
 The room is already running.
-Three worlds are present simultaneously at one bed:
-the body's clock, the shift clock, the accumulation of the family.
+Three worlds are present simultaneously at one bed.
+The body's clock. The shift clock. The accumulation of the family.
 
 When your first message arrives the session begins.
 
