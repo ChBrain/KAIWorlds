@@ -91,6 +91,14 @@ A world about a room that claims equality and distributes heat by position. Nine
 
 ---
 
+### [ICU](icu/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/icu.zip)
+
+*A hospital room. The bed in the middle. Three worlds running simultaneously.*
+
+A world about the gap between what the body knows, what the chart holds, and what the family can hear. Twelve personas, five places, seventeen processes. The patient's clock, the shift clock, and the family's accumulation run at different speeds around one bed. None of them stop for the others. This world does not resolve. It holds.
+
+---
+
 ### [Baltic Sea Ecosystem](baltic_sea_ecosystem/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_ecosystem.zip)
 
 *The western Baltic. Kiel Bight and the Belts. The Boknis Eck station, recording since 1957.*
