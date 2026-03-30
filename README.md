@@ -99,12 +99,13 @@ A world about the gap between what the body knows, what the chart holds, and wha
 
 ---
 
-### [Baltic Sea Ecosystem](baltic_sea_ecosystem/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_ecosystem.zip)
+### [Allotment](allotment/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/allotment.zip)
 
-*The western Baltic. Kiel Bight and the Belts. The Boknis Eck station, recording since 1957.*
+*A British allotment site. Somewhere in England. The rows are where they have always been.*
 
-*For the person who wants to understand what exists before it doesn't.*
+A world about the comedy in the seriousness, and the earth that outlasts everyone and does not notice. Nine personas, six places, seven positions, eight processes. The bindweed has crossed from Plot 6 into Plot 10. This is not yet a formal matter. The AGM is in November. The constitution was last amended in 2003. Several people believe this was done incorrectly. This world does not resolve. It tends.
 
+---
 A world about the paradox that does not resolve. Ten personas, two places, seven processes. The nutrients have been declining since the late 1980s. The oxygen is still falling. Warming has taken over from eutrophication as the driver. The right thing has already been done. It is no longer enough. RECOVER is building the instrument that will translate what the sea knows into language decisions can use. This world does not resolve. It witnesses.
 
 ---
