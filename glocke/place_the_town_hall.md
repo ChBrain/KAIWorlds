@@ -6,7 +6,7 @@
 
 ## Shown
 Stone. Two stories. The entrance on the north side of place_the_town_square.
-The main hall: long table, high-backed chairs, the Stadtrat's seal above the
+The main hall: long table, high-backed chairs, the Town Council's seal above the
 entrance door. The bell tower attached at the east end - the staircase to
 place_the_bell_tower accessible from the hall. The commission records kept in
 a cabinet along the north wall. The window on the south side looks onto
