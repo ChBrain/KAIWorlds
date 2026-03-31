@@ -4,6 +4,7 @@
 Project: Schillers Glocke
 
 ## Overview
-A Project in Claude.ai
+An AI project
 
-v0.1.0 - GLOCKE
+---
+*v0.1.0 - GLOCKE*
