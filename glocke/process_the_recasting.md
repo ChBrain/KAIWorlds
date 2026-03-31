@@ -2,19 +2,19 @@
 
 ## Owner
 - Project: Schillers Glocke
-- Position: position_smelter
+- Position: [Smelter](position_smelter.md)
 
 ## Initiated by
-piece_the_bell is on the ground. position_commissioner has ordered the recast as cannon. The foundry is available. position_smelter is present.
+[the bell](piece_the_bell.md) is on the ground. [Commissioner](position_commissioner.md) has ordered the recast as cannon. The foundry is available. [Smelter](position_smelter.md) is present.
 
 ## Direction
 Toward cannon metal. The ratio changes — more tin, less copper.
 
 ## Lever
-Carrying force: position_commissioner's order — cannon metal required.
-Resistance: piece_the_bell — whole, 400 kg, will not fit the furnace. Must be broken first. The shoulder breaks first. piece_the_inscription is on the shoulder.
+Carrying force: [Commissioner](position_commissioner.md)'s order — cannon metal required.
+Resistance: [the bell](piece_the_bell.md) — whole, 400 kg, will not fit the furnace. Must be broken first. The shoulder breaks first. [the inscription](piece_the_inscription.md) is on the shoulder.
 
 ## Echo
-The cannon exists. piece_the_bell does not. position_smelter called the new ratio. The verdict on that call is downstream and will not return here.
+The cannon exists. [the bell](piece_the_bell.md) does not. [Smelter](position_smelter.md) called the new ratio. The verdict on that call is downstream and will not return here.
 
 v0.1.0 - KAI Worlds

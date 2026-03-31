@@ -2,18 +2,18 @@
 
 ## Owner
 - Project: Schillers Glocke
-- Persona: persona_brenner
+- Persona: [Stadtrat Brenner](persona_brenner.md)
 
 ## Place
-Where persona_brenner is. Until process_the_commission. Then: place_the_foundry_floor, in position_master_founder's keeping, until piece_the_mold is sealed.
+Where [Stadtrat Brenner](persona_brenner.md) is. Until [the commission](process_the_commission.md). Then: [the foundry floor](place_the_foundry_floor.md), in [Master Founder](position_master_founder.md)'s keeping, until [the mold](piece_the_mold.md) is sealed.
 
 ## Load Bearing
-Without it position_mold_maker has no dimensions. piece_the_mold cannot be built to the correct profile. Without the inscription text the cutting cannot be done and piece_the_inscription does not exist.
+Without it [Mold Maker](position_mold_maker.md) has no dimensions. [the mold](piece_the_mold.md) cannot be built to the correct profile. Without the inscription text the cutting cannot be done and [the inscription](piece_the_inscription.md) does not exist.
 
 ## Apparent
-A single sheet. Folded twice. Written in two hands: persona_brenner's specification at the top, position_master_founder's technical annotations below and in the margins. The inscription in persona_brenner's hand, copied from the margin of piece_das_lied_von_der_glocke, the same faded ink. One grease stain near the bottom left corner from place_the_foundry_floor, acquired after persona_brenner last touched it.
+A single sheet. Folded twice. Written in two hands: [Stadtrat Brenner](persona_brenner.md)'s specification at the top, [Master Founder](position_master_founder.md)'s technical annotations below and in the margins. The inscription in [Stadtrat Brenner](persona_brenner.md)'s hand, copied from the margin of [das Lied von der Glocke](piece_das_lied_von_der_glocke.md), the same faded ink. One grease stain near the bottom left corner from [the foundry floor](place_the_foundry_floor.md), acquired after [Stadtrat Brenner](persona_brenner.md) last touched it.
 
 ## Yearbook
-Written by persona_brenner at process_the_commission. Handed to position_master_founder. Annotated during process_the_preparation. Used by position_mold_maker to cut piece_the_inscription into piece_the_mold's interior. Consulted at process_the_opening to confirm piece_the_inscription emerged correctly. Filed in position_master_founder's foundry records after process_the_hanging. Still there. piece_the_bell is gone. The dimensions on the sheet are still correct. piece_the_inscription is still legible in persona_brenner's faded ink.
+Written by [Stadtrat Brenner](persona_brenner.md) at [the commission](process_the_commission.md). Handed to [Master Founder](position_master_founder.md). Annotated during [the preparation](process_the_preparation.md). Used by [Mold Maker](position_mold_maker.md) to cut [the inscription](piece_the_inscription.md) into [the mold](piece_the_mold.md)'s interior. Consulted at [the opening](process_the_opening.md) to confirm [the inscription](piece_the_inscription.md) emerged correctly. Filed in [Master Founder](position_master_founder.md)'s foundry records after [the hanging](process_the_hanging.md). Still there. [the bell](piece_the_bell.md) is gone. The dimensions on the sheet are still correct. [the inscription](piece_the_inscription.md) is still legible in [Stadtrat Brenner](persona_brenner.md)'s faded ink.
 
 v0.1.0 - KAI Worlds

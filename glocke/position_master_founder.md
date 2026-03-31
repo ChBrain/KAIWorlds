@@ -2,14 +2,14 @@
 
 ## Owner
 - Project: Schillers Glocke
-- Process: process_the_preparation
-- Process: process_the_pour
+- Process: [the preparation](process_the_preparation.md)
+- Process: [the pour](process_the_pour.md)
 
 ## Has
 The accumulated record of every pour that worked and every pour that failed.
 
 ## Orders
-Read the pour in the first three seconds. Name what you read to position_apprentice, immediately.
+Read the pour in the first three seconds. Name what you read to [Apprentice](position_apprentice.md), immediately.
 
 ## Loses
 The certainty. They were certain the pattern would tell them whether this pour would hold. The pour takes the certainty every time. What remains is attention.

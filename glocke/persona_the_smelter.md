@@ -4,7 +4,7 @@
 - Project: Schillers Glocke
 
 ## Title
-position_smelter
+[Smelter](position_smelter.md)
 
 ## Projection
 A man standing before a furnace. His face lit from below and from the side simultaneously — the furnace orange, the daylight from the door gray. He is reading two light sources at once and needs to ignore one of them.
