@@ -2,10 +2,10 @@
 
 ## Owner
 - Project: Schillers Glocke
-- Process: process_the_first_strike
+- Process: [the first strike](process_the_first_strike.md)
 
 ## Has
-piece_the_rope. The authority to ring. Nothing else. The position begins at the moment every other position finishes.
+[the rope](piece_the_rope.md). The authority to ring. Nothing else. The position begins at the moment every other position finishes.
 
 ## Orders
 Strike once, fully, without hesitation.

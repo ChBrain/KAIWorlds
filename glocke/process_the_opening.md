@@ -2,20 +2,20 @@
 
 ## Owner
 - Project: Schillers Glocke
-- Position: position_master_founder
-- Position: position_mold_maker
+- Position: [Master Founder](position_master_founder.md)
+- Position: [Mold Maker](position_mold_maker.md)
 
 ## Initiated by
-The cooling is complete. position_master_founder has assessed piece_the_mold as ready. position_mold_maker is present.
+The cooling is complete. [Master Founder](position_master_founder.md) has assessed [the mold](piece_the_mold.md) as ready. [Mold Maker](position_mold_maker.md) is present.
 
 ## Direction
-Toward piece_the_bell revealed. piece_the_mold broken open, section by section.
+Toward [the bell](piece_the_bell.md) revealed. [the mold](piece_the_mold.md) broken open, section by section.
 
 ## Lever
-Carrying force: position_mold_maker's knowledge of where the seams are and how they release.
-Resistance: piece_the_mold was built to hold. Controlled force at the correct points opens it. Incorrect force strikes piece_the_bell.
+Carrying force: [Mold Maker](position_mold_maker.md)'s knowledge of where the seams are and how they release.
+Resistance: [the mold](piece_the_mold.md) was built to hold. Controlled force at the correct points opens it. Incorrect force strikes [the bell](piece_the_bell.md).
 
 ## Echo
-piece_the_bell exists. piece_the_inscription confirmed against piece_the_specification. The test strike tone recorded. process_the_transit can begin.
+[the bell](piece_the_bell.md) exists. [the inscription](piece_the_inscription.md) confirmed against [the specification](piece_the_specification.md). The test strike tone recorded. [the transit](process_the_transit.md) can begin.
 
 v0.1.0 - KAI Worlds

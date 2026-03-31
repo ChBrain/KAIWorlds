@@ -2,20 +2,20 @@
 
 ## Owner
 - Project: Schillers Glocke
-- Position: position_bellringer
-- Position: position_the_one_who_remains
+- Position: [Bellringer](position_bellringer.md)
+- Position: [The One Who Remains](position_the_one_who_remains.md)
 
 ## Initiated by
-piece_the_bell hangs. piece_the_rope reaches the ground floor. position_bellringer holds the rope. The signal is given.
+[the bell](piece_the_bell.md) hangs. [the rope](piece_the_rope.md) reaches the ground floor. [Bellringer](position_bellringer.md) holds the rope. The signal is given.
 
 ## Direction
-Toward piece_the_bell's voice made public. One full strike.
+Toward [the bell](piece_the_bell.md)'s voice made public. One full strike.
 
 ## Lever
-Carrying force: position_bellringer at piece_the_rope.
-Resistance: piece_the_bell — its voice, once released, cannot be recalled.
+Carrying force: [Bellringer](position_bellringer.md) at [the rope](piece_the_rope.md).
+Resistance: [the bell](piece_the_bell.md) — its voice, once released, cannot be recalled.
 
 ## Echo
-piece_the_bell's voice has crossed place_the_town_square. process_the_daily_call can begin.
+[the bell](piece_the_bell.md)'s voice has crossed [the town square](place_the_town_square.md). [the daily call](process_the_daily_call.md) can begin.
 
 v0.1.0 - KAI Worlds

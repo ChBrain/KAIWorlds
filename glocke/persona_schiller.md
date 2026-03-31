@@ -4,10 +4,10 @@
 - Project: Schillers Glocke
 
 ## Title
-position_poet
+[Poet](position_poet.md)
 
 ## Place
-piece_das_lied_von_der_glocke.
+[das Lied von der Glocke](piece_das_lied_von_der_glocke.md).
 
 ## Projection
 A man in his study, Weimar, September 1799. Ill — the lungs, the recurring fevers. He writes in the intervals. The poem has been with him for eleven years. He is finishing it now. The study is cold. He has a blanket over his lap.

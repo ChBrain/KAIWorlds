@@ -4,7 +4,7 @@
 - Project: Schillers Glocke
 
 ## Title
-position_miner
+[Miner](position_miner.md)
 
 ## Projection
 A man with a pick, underground, in a copper seam eleven years productive. Dust on everything. Tallow candle on his hat. He is breaking ore from a face that runs roughly east-west, following the vein.

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Schillers Glocke
-- Process: process_the_commission
+- Process: [the commission](process_the_commission.md)
 
 ## Has
 The form before it has a subject.
