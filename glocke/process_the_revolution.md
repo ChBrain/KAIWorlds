@@ -5,7 +5,7 @@
 - Position: position_commissioner
 
 ## Initiated by
-The revolution has reached the town. place_the_ratshaus is under new authority. position_commissioner has ordered piece_the_bell removed.
+The revolution has reached the town. place_the_town_hall is under new authority. position_commissioner has ordered piece_the_bell removed.
 
 ## Direction
 Toward piece_the_bell on the ground.
