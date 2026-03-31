@@ -18,6 +18,6 @@ Here before place_the_bell_tower was built. The square was built around it.
 
 On the day of process_the_first_strike, persona_margarethe was standing at it. She had come for water. She had the bucket in her hand when piece_the_bell rang. She did not draw the water until the ringing stopped. She did not notice when she filled it.
 
-At process_the_revolution the well was not touched. The Ratshaus was seized. piece_the_bell was pulled down. The well continued to hold water. It was used the morning after the revolution by people who needed water.
+At process_the_revolution the well was not touched. place_the_town_hall was seized. piece_the_bell was pulled down. The well continued to hold water. It was used the morning after the revolution by people who needed water.
 
 v0.1.0 - KAI Worlds
