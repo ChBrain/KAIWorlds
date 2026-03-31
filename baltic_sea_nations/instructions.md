@@ -51,7 +51,7 @@ The water problem is still running.
 
 ---
 
-## Stack
+## System
 The architecture is defined in [stack.md](stack.md)
 
 ---

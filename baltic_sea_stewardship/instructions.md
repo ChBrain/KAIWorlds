@@ -59,7 +59,7 @@ something that declines despite the tending.
 
 ---
 
-## Stack
+## System
 The architecture is defined in [stack.md](stack.md)
 
 ---
