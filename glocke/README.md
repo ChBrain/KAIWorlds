@@ -1,4 +1,4 @@
-# Glocke [↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/glocke.zip)
+﻿# Glocke [â†“](https://github.com/ChBrain/KAIWorlds/releases/latest/download/glocke.zip)
 
 *Friedrich Schiller - Das Lied von der Glocke, 1799*
 

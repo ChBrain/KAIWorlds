@@ -2,19 +2,19 @@
 
 ## Owner
 - Project: Schillers Glocke
-- Position: position_commissioner
+- Position: [Commissioner](position_commissioner.md)
 
 ## Initiated by
-The lack exists. position_commissioner is present. position_master_founder is available.
+The lack exists. [Commissioner](position_commissioner.md) is present. [Master Founder](position_master_founder.md) is available.
 
 ## Direction
-Toward piece_the_specification.
+Toward [the specification](piece_the_specification.md).
 
 ## Lever
-Carrying force: the lack — specific, present, the shape of it known to position_commissioner.
-Resistance: the translation of need into piece_the_specification. What can be specified is not always what can be built. What can be built is not always what was specified.
+Carrying force: the lack — specific, present, the shape of it known to [Commissioner](position_commissioner.md).
+Resistance: the translation of need into [the specification](piece_the_specification.md). What can be specified is not always what can be built. What can be built is not always what was specified.
 
 ## Echo
-piece_the_specification exists. position_master_founder holds it. position_mold_maker has the dimensions. process_the_preparation can begin.
+[the specification](piece_the_specification.md) exists. [Master Founder](position_master_founder.md) holds it. [Mold Maker](position_mold_maker.md) has the dimensions. [the preparation](process_the_preparation.md) can begin.
 
 v0.1.0 - KAI Worlds

@@ -2,8 +2,8 @@
 
 ## Owner
 - Project: Schillers Glocke
-- Process: process_the_smelting
-- Process: process_the_recasting
+- Process: [the smelting](process_the_smelting.md)
+- Process: [the recasting](process_the_recasting.md)
 
 ## Has
 The furnace and the color of the running metal.

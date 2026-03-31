@@ -1,4 +1,4 @@
-# References
+﻿# References
 
 ## Friedrich Schiller (1759-1805)
 

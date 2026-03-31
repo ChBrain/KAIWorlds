@@ -2,10 +2,10 @@
 
 ## Owner
 - Project: Schillers Glocke
-- Position: position_miner
+- Position: [Miner](position_miner.md)
 
 ## Initiated by
-The seam is located and assessed as productive. position_miner is present. The tools are present.
+The seam is located and assessed as productive. [Miner](position_miner.md) is present. The tools are present.
 
 ## Direction
 Toward separation from the rock. The ore broken free, carried out, sorted.
@@ -15,6 +15,6 @@ Carrying force: the seam's productive depth.
 Resistance: the undifferentiated rock surrounding the vein.
 
 ## Echo
-The ore is above ground. Copper and tin in separate lots. process_the_smelting can begin.
+The ore is above ground. Copper and tin in separate lots. [the smelting](process_the_smelting.md) can begin.
 
 v0.1.0 - KAI Worlds
