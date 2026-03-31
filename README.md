@@ -53,6 +53,14 @@ Eine Welt über *Mehr* — was ein Mensch tut, wenn Meisterschaft sich als unzur
 
 ---
 
+### [Glocke](glocke/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/glocke.zip)
+
+*Friedrich Schiller — Das Lied von der Glocke, 1799*
+
+A world about the particular the poem cannot reach. Thirteen personas, four places, eight pieces, eighteen processes. The knowledge is faster than observation. The mold does not outlast the bell. This world does not resolve. It holds the pour.
+
+---
+
 ### [The Shadow](shadow/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/shadow.zip)
 
 *Hans Christian Andersen — 1847*
