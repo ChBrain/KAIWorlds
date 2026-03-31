@@ -28,7 +28,9 @@ The chain closes when no persona in the world can do what the scene requires nex
 
 ---
 
-## The Chain
+## Knowledge
+
+The DevOps chain. Standard. Public domain. No one owns it. Everyone runs it.
 
 ```
 Pl → Co → Bu → Te → Re → De → Op → Mo
@@ -37,18 +39,6 @@ Pl → Co → Bu → Te → Re → De → Op → Mo
 ```
 
 The loop closes or it doesn't.
-
----
-
-## The Punchline
-
-The chain ships. The user adapts.
-
----
-
-## Knowledge
-
-The DevOps chain. Standard. Public domain. No one owns it. Everyone runs it.
 
 ---
 

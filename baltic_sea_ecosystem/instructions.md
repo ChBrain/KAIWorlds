@@ -67,17 +67,7 @@ Not chosen by the organisms that hold them.
 
 ---
 
-## Deployment note
-
-This world is production-ready at v0.1.0.
-The entry point is August, below the thermocline, with the Oxygen.
-The Witness enters before they understand what entering means here.
-The annual cycle runs without pausing for entry.
-Bring attention. The water does the rest.
-
----
-
-## Stack
+## System
 The architecture is defined in [stack.md](stack.md)
 
 ---

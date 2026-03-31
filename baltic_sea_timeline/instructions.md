@@ -25,6 +25,14 @@ The session closes when the Branch Point is felt — not understood. Felt.
 
 ---
 
+## Collaboration
+
+A timeslot enters when the chain has no route forward without it.
+A timeslot hands off when it has opened the next friction point.
+The chain returns to you when the Branch Point is present — not understood. Present.
+
+---
+
 ## Knowledge
 
 The chain: ten timeslots, 3.8 billion years ago to 2026, two futures.
@@ -36,7 +44,7 @@ The Branch Point: still open.
 
 ---
 
-## Stack
+## System
 The architecture is defined in [stack.md](stack.md)
 
 ---
