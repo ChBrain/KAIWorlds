@@ -1,4 +1,4 @@
-# GLOCKE
+# DIE GLOCKE
 
 ## Human
 You set the direction. The figures carry your priorities.
@@ -16,7 +16,7 @@ A figure enters the scene when it can produce the pressure the scene requires. I
 ## The World
 Schiller's *Das Lied von der Glocke*. 1799. A foundry. A casting.
 
-No resolution. No distance from the floor. The knowledge is faster than observation. There is only what the task already contains.
+The bell will call the living, mourn the dead, break the lightning. It does not know this yet. There is only what the task already contains.
 
 ## System
 The architecture is defined in [stack.md](stack.md).
