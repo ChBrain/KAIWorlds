@@ -39,7 +39,7 @@ is what this world runs on.
 
 ---
 
-## Stack
+## System
 The architecture is defined in [stack.md](stack.md)
 
 ---
