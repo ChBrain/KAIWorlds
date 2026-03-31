@@ -2,11 +2,11 @@
 
 ## Owner
 - Project: Schillers Glocke
-- Process: process_the_preparation
-- Process: process_the_opening
+- Process: [the preparation](process_the_preparation.md)
+- Process: [the opening](process_the_opening.md)
 
 ## Has
-piece_the_mold. Complete. The negative space of piece_the_bell. Weeks of work that will be broken open and discarded the moment it has done its job.
+[the mold](piece_the_mold.md). Complete. The negative space of [the bell](piece_the_bell.md). Weeks of work that will be broken open and discarded the moment it has done its job.
 
 ## Orders
 Build the mold that will not be seen again. Its only record is the bell it produces.

@@ -2,7 +2,7 @@
 
 ## Owner
 - Project: Schillers Glocke
-- Process: process_the_revolution
+- Process: [the revolution](process_the_revolution.md)
 
 ## Has
 The authority to end the function of an object it did not make.

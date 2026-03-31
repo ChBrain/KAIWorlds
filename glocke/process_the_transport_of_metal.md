@@ -14,6 +14,6 @@ Carrying force: the order — specific weight, specific destination.
 Resistance: the road's surface and the distance.
 
 ## Echo
-The copper and tin are in the foundry stores. The ratio is verified. process_the_commission can begin.
+The copper and tin are in the foundry stores. The ratio is verified. [the commission](process_the_commission.md) can begin.
 
 v0.1.0 - KAI Worlds

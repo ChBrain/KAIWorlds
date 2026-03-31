@@ -4,15 +4,15 @@
 - Project: Schillers Glocke
 
 ## Shown
-Stone paving, uneven at the center. place_the_bell_tower at the north end, piece_the_bell visible in the open chamber above. piece_the_well at the center. Market stalls on the east and west sides, currently occupied. The inn on the south side. The street north to place_the_bell_tower entrance. The street south toward place_the_foundry_floor. The foundry chimney visible above the southern roofline. The sky above: open.
+Stone paving, uneven at the center. [the bell tower](place_the_bell_tower.md) at the north end, [the bell](piece_the_bell.md) visible in the open chamber above. [the well](piece_the_well.md) at the center. Market stalls on the east and west sides, currently occupied. The inn on the south side. The street north to [the bell tower](place_the_bell_tower.md) entrance. The street south toward [the foundry floor](place_the_foundry_floor.md). The foundry chimney visible above the southern roofline. The sky above: open.
 
 ## Holds
-piece_the_well.
+[the well](piece_the_well.md).
 
 ## Offers
-The full voice of piece_the_bell at distance. position_the_one_who_remains can hear piece_the_bell from here as the town hears it.
+The full voice of [the bell](piece_the_bell.md) at distance. [The One Who Remains](position_the_one_who_remains.md) can hear [the bell](piece_the_bell.md) from here as the town hears it.
 
 ## Withheld
-Where piece_the_bell's voice is fullest. The square's geometry distributes the sound unevenly. The position nearest piece_the_well receives the direct voice and the wall reflection simultaneously.
+Where [the bell](piece_the_bell.md)'s voice is fullest. The square's geometry distributes the sound unevenly. The position nearest [the well](piece_the_well.md) receives the direct voice and the wall reflection simultaneously.
 
 v0.1.0 - KAI Worlds

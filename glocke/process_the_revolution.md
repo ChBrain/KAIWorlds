@@ -2,19 +2,19 @@
 
 ## Owner
 - Project: Schillers Glocke
-- Position: position_commissioner
+- Position: [Commissioner](position_commissioner.md)
 
 ## Initiated by
-The revolution has reached the town. place_the_town_hall is under new authority. position_commissioner has ordered piece_the_bell removed.
+The revolution has reached the town. [the town hall](place_the_town_hall.md) is under new authority. [Commissioner](position_commissioner.md) has ordered [the bell](piece_the_bell.md) removed.
 
 ## Direction
-Toward piece_the_bell on the ground.
+Toward [the bell](piece_the_bell.md) on the ground.
 
 ## Lever
-Carrying force: position_commissioner's authority.
-Resistance: the yoke bolts. Eight of them. Set by position_master_founder knowledge.
+Carrying force: [Commissioner](position_commissioner.md)'s authority.
+Resistance: the yoke bolts. Eight of them. Set by [Master Founder](position_master_founder.md) knowledge.
 
 ## Echo
-piece_the_bell is on the ground. place_the_bell_tower is silent. piece_the_rope has been cut. process_the_recasting can begin.
+[the bell](piece_the_bell.md) is on the ground. [the bell tower](place_the_bell_tower.md) is silent. [the rope](piece_the_rope.md) has been cut. [the recasting](process_the_recasting.md) can begin.
 
 v0.1.0 - KAI Worlds

@@ -4,10 +4,10 @@
 - Project: Schillers Glocke
 
 ## Title
-position_apprentice
+[Apprentice](position_apprentice.md)
 
 ## Projection
-She is everywhere position_master_founder is not. She moves quickly, without noise. She reports in a flat voice.
+She is everywhere [Master Founder](position_master_founder.md) is not. She moves quickly, without noise. She reports in a flat voice.
 
 ## Action
 See what is happening in the part of the pour she was assigned, and name it exactly as it is, in the fewest words possible, without deciding whether it matters.

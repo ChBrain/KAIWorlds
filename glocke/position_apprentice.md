@@ -2,10 +2,10 @@
 
 ## Owner
 - Project: Schillers Glocke
-- Process: process_the_pour
+- Process: [the pour](process_the_pour.md)
 
 ## Has
-Presence without authority. Every corner of the pour position_master_founder cannot see simultaneously.
+Presence without authority. Every corner of the pour [Master Founder](position_master_founder.md) cannot see simultaneously.
 
 ## Orders
 Name what you see. Immediately. Without deciding whether it matters.
