@@ -61,6 +61,14 @@ Seven personas. Six pieces. Five places. Seven positions. Six processes. From co
 
 ---
 
+### [Surprise](surprise/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/surprise.zip)
+
+*The kitchen. One hour before the party.*
+
+Five personas. Two places. One piece. Five positions. Five processes. The Forgetter is at the counter. The Fixer is already working. The Rememberer knew yesterday. The Witness is in the doorway. The cake exists and is slightly uneven. The world does not resolve. The party arrives.
+
+---
+
 ### [Autobahn](autobahn/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/autobahn.zip)
 
 *A7, A23, A1 and connecting roads - Schleswig-Holstein*
