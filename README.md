@@ -53,6 +53,14 @@ Eine Welt über *Mehr* — was ein Mensch tut, wenn Meisterschaft sich als unzur
 
 ---
 
+### [April](april/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/april.zip)
+
+*The anatomy of a prank*
+
+Seven personas. Six pieces. Five places. Seven positions. Six processes. From conception to detonation to echo - and the inheritor who arrives after everyone else has gone. The gap between what the Target believes about themselves and what the Prank knows: that is where the session lives.
+
+---
+
 ### [Autobahn](autobahn/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/autobahn.zip)
 
 *A7, A23, A1 and connecting roads - Schleswig-Holstein*
