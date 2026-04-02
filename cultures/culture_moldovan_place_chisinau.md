@@ -1,0 +1,29 @@
+# Place: Chișinău
+## Location: Moldova
+
+## Owner
+- **Position:** [Moldovan](culture_moldovan_position.md)
+
+## Shown
+- The Parliament building. Soviet-era architecture.
+- The MAIAC wine complex. Moldova has been making wine for 5,000 years.
+- The distance to Romania: 150 kilometres.
+- The distance to Transnistria: 70 kilometres.
+
+## Holds
+- The Moldova position — [Moldovan](culture_moldovan_position.md)
+- [Transnistria](culture_moldovan_piece_transnistria.md)
+
+## Offers
+- The room where the Moldova position does its daily work.
+- [The World is Spinning](process_world_is_spinning.md) — runs here daily.
+
+## Withheld
+- Where the energy supply comes from this winter. The answer has changed several times in recent years.
+
+---
+*culture_moldovan_place_chisinau.md — 02.04.2026*
+*Position: [Moldovan](culture_moldovan_position.md)*
+*Piece: [Transnistria](culture_moldovan_piece_transnistria.md)*
+
+v0.1.0 - KAI Worlds
