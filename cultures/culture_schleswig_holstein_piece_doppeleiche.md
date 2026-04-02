@@ -49,8 +49,6 @@ The ones in the south remain.
 Today: the border settled. The symbol stays.
 Not political now — regional.
 Two trunks. One crown.
-The position the piece holds
-is the position Kai carries personally.
 
 ---
 *culture_schleswig_holstein_piece_doppeleiche.md — 02.04.2026*
