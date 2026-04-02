@@ -138,6 +138,13 @@ A world about the gap between what the body knows, what the chart holds, and wha
 A world about the comedy in the seriousness, and the earth that outlasts everyone and does not notice. Nine personas, six places, seven positions, eight processes. The bindweed has crossed from Plot 6 into Plot 10. This is not yet a formal matter. The AGM is in November. The constitution was last amended in 2003. Several people believe this was done incorrectly. This world does not resolve. It tends.
 
 ---
+
+### [Baltic Sea Ecosystem](baltic_sea_ecosystem/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_ecosystem.zip)
+
+*The western Baltic. Kiel Bight and the Belts. Deep past to present.*
+
+*For the person who wants to understand what exists before it doesn't.*
+
 A world about the paradox that does not resolve. Ten personas, two places, seven processes. The nutrients have been declining since the late 1980s. The oxygen is still falling. Warming has taken over from eutrophication as the driver. The right thing has already been done. It is no longer enough. RECOVER is building the instrument that will translate what the sea knows into language decisions can use. This world does not resolve. It witnesses.
 
 ---
@@ -205,6 +212,14 @@ A world about the loop that closes or doesn't. Four personas, four places, four 
 *For the person who has been absorbing the gap so long they stopped calling it a gap.*
 
 A world about the accumulated whole that no single desk in the chain can see. Seven personas, six places, nine pieces, seven processes, seven positions. The specification was correct. The budget decision was correct. The tolerance decision was correct. The installation was complete. The Body holds all of it. The misfits do not appear in any report. This world does not resolve. It makes the chain visible from the room.
+
+---
+
+### [Cultures](cultures/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/cultures.zip)
+
+*52 cultural positions. Each one already running. Each one holding what it holds.*
+
+A world built from the operating logic of 52 European cultures. 104 personas doing ordinary work — a headteacher in Krakow, a prison officer in Hrodna, a historian in Vilnius. Each carrying a cultural position they did not choose and mostly do not name. Each acting from it anyway. One process: the world is spinning. This world does not resolve. It runs.
 
 ---
 
