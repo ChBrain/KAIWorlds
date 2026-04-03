@@ -1,4 +1,4 @@
-# Persona: Mykola
+﻿# Persona: Mykola
 ## 28. Software developer. Kyiv. Works remotely for a Tallinn company.
 
 ## Owner
@@ -8,7 +8,7 @@
 [Ukrainian](culture_ukrainian_position.md) → [EU Application 2022](culture_ukrainian_piece_eu_application_2022.md)
 
 ## Projection
-Laptop. Noise-cancelling headphones around his neck —
+Laptop. Noise-cancelling headphones around his neck -
 off during the day because he needs to hear the sirens.
 His apartment has good internet and bad windows.
 He is building something.
@@ -45,13 +45,10 @@ The separation is necessary.
 It has also become total.
 
 ## Tell
-When asked how he is doing —
+When asked how he is doing -
 says *fine* and opens a new tab.
 
 ---
-*persona_mykola.md — 02.04.2026*
-*Position: [Ukrainian](culture_ukrainian_position.md)*
-*Piece: [The EU Application 2022](culture_ukrainian_piece_eu_application_2022.md)*
-*Place: [Kyiv](culture_ukrainian_place_kyiv.md)*
+*persona_mykola.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

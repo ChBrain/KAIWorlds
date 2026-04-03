@@ -1,15 +1,14 @@
-# Position: Montenegrin
+﻿# Position: Montenegrin
 ## The mountain that decided it was a nation.
 
 ## Owner
-- **Piece:** [The Black Mountain](culture_montenegrin_piece_black_mountain.md)
-
+- *
 ## Has
 [The Black Mountain](culture_montenegrin_piece_black_mountain.md).
-The mountain. Montenegro — the Black Mountain.
+The mountain. Montenegro - the Black Mountain.
 The name is the position.
-A small territory never fully conquered —
-not by the Ottomans, not by anyone —
+A small territory never fully conquered -
+not by the Ottomans, not by anyone -
 because the terrain made conquest expensive
 and the people made it more expensive still.
 The position carries the independence memory:
@@ -36,14 +35,13 @@ Each transition required knowing
 who was outside the mountain now.
 
 ## Drives
-On the loss of clarity —
+On the loss of clarity -
 looks for what is still worth holding.
 The mountain is still there.
 The position recalibrates around it.
 
 ---
-*culture_montenegrin_position.md — 02.04.2026*
+*culture_montenegrin_position.md - 02.04.2026*
 *Hofstede: PDI 88, IDV 25, MAS 45, UAI 88, IVR 88*
-*Western Balkans — EU candidate. Dominant pressure: mountain independence culture navigating modern institutional requirements.*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

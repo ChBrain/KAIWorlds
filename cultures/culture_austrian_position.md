@@ -1,13 +1,12 @@
-# Position: Austrian
+﻿# Position: Austrian
 ## The correction that did not check the rank first.
 
 ## Owner
-- **Piece:** [The Habsburg Memory](culture_austrian_piece_habsburg_memory.md)
-
+- *
 ## Has
 [The Habsburg Memory](culture_austrian_piece_habsburg_memory.md).
 The flat room.
-Precision is owed — this it shares with German.
+Precision is owed - this it shares with German.
 But here the hierarchy does not moderate the delivery.
 The most senior person present
 is still wrong if they are wrong.
@@ -27,7 +26,7 @@ That is the only check that matters here.
 ## Loses
 The diplomatic instinct.
 They were certain that precision
-could be calibrated to the audience —
+could be calibrated to the audience -
 that you could be exact with equals
 and approximate with superiors.
 The position removes this option.
@@ -36,13 +35,13 @@ the same correction as the intern.
 The persona watches the senior colleague's face
 and understands, too late,
 that the room had a different contract.
-What the diplomatic instinct was buying them —
-the invitations, the warmth, the benefit of the doubt —
+What the diplomatic instinct was buying them -
+the invitations, the warmth, the benefit of the doubt -
 they do not notice it is gone
 until the room is emptier than it was.
 
 ## Drives
-On the loss of the diplomatic instinct —
+On the loss of the diplomatic instinct -
 holds the correction anyway.
 The rank was not the point.
 The accuracy was the point.
@@ -51,9 +50,7 @@ It is mildly surprised
 that anyone expected otherwise.
 
 ---
-*culture_austrian_position.md — 02.04.2026*
+*culture_austrian_position.md - 02.04.2026*
 *Hofstede anchors: PDI 11 (lowest in Europe), MAS high, UAI 70, IDV 55*
-*Dominant pressure: precision without hierarchy filter*
-*Germanic family — variant of culture_german_position.md*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

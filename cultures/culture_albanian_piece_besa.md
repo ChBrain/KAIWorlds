@@ -1,4 +1,4 @@
-# Piece: The Besa
+﻿# Piece: The Besa
 ## The sworn word that cannot be broken.
 
 ## Owner
@@ -21,7 +21,7 @@ where institutions are incomplete.
 ## Apparent
 No document. No inscription.
 A word given. A handshake.
-The Kanun of Lekë Dukagjini — the 15th century customary code —
+The Kanun of Lekë Dukagjini - the 15th century customary code -
 written down much later, still consulted.
 The word *besa* itself: faith, trust, honour, sworn word.
 In Albanian hospitality: the guest under besa
@@ -29,7 +29,7 @@ cannot be harmed, cannot be turned away.
 
 ## Yearbook
 15th century: the Kanun codified.
-Lekë Dukagjini — the prince who collected the laws.
+Lekë Dukagjini - the prince who collected the laws.
 Ottoman occupation: the state is not Albanian.
 The Kanun is.
 1912: Albanian independence declared.
@@ -45,8 +45,6 @@ Today: EU candidacy, institutional building.
 The besa is still the faster mechanism.
 
 ---
-*culture_albanian_piece_besa.md — 02.04.2026*
-*Position: [Albanian](culture_albanian_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_albanian_piece_besa.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

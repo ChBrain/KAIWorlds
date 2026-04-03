@@ -1,4 +1,4 @@
-# Piece: The Winter War
+﻿# Piece: The Winter War
 ## The 105 days that told Finland who it was.
 
 ## Owner
@@ -15,7 +15,7 @@ against a force twelve times its size
 and found it structurally real.
 
 ## Apparent
-The Mannerheim Line — improvised defensive fortifications.
+The Mannerheim Line - improvised defensive fortifications.
 Finnish ski troops in white camouflage.
 The temperature: minus 40 Celsius on some days.
 Field Marshal Mannerheim.
@@ -41,8 +41,6 @@ The silence about what it cost to get here
 is still in the room.
 
 ---
-*culture_finnish_piece_winter_war.md — 02.04.2026*
-*Position: [Finnish](culture_finnish_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_finnish_piece_winter_war.md - 02.04.2026*
 
 v0.2.0 - KAI Worlds

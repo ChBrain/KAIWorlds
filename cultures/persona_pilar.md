@@ -1,4 +1,4 @@
-# Persona: Pilar
+﻿# Persona: Pilar
 ## 42. Florist. Seville.
 
 ## Owner
@@ -30,7 +30,7 @@ She did not mention the contract.
 She did not need to.
 
 ## Shadow
-She believes relationships are more durable than contracts —
+She believes relationships are more durable than contracts -
 that knowing the supplier as a person
 produces better outcomes than citing terms.
 What she cannot see:
@@ -39,17 +39,14 @@ She has no deputy.
 She has no documented terms.
 If she were ill for a month
 there would be no supplier, no priority Thursday,
-no revised price — because all three live entirely in her.
+no revised price - because all three live entirely in her.
 She has built something real and left no instructions for it.
 
 ## Tell
-When someone asks if she has anything written down —
+When someone asks if she has anything written down -
 laughs before she answers.
 
 ---
-*persona_pilar.md — 02.04.2026*
-*Position: [Spanish](culture_spanish_position.md)*
-*Piece: [La Transición](culture_spanish_piece_la_transicion.md)*
-*Place: [Seville](culture_spanish_place_madrid.md)*
+*persona_pilar.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

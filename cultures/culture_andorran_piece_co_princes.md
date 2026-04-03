@@ -1,13 +1,13 @@
-# Piece: The Co-Princes
+﻿# Piece: The Co-Princes
 ## Two heads of state from two different countries, serving simultaneously since 1278.
 
 ## Owner
 - **Place:** Andorra la Vella
 
 ## Place
-Andorra la Vella. The Casa de la Vall — the parliament.
-Also: the Élysée Palace, Paris — one co-prince's office.
-Also: Urgell, Spain — the other co-prince's see.
+Andorra la Vella. The Casa de la Vall - the parliament.
+Also: the Élysée Palace, Paris - one co-prince's office.
+Also: Urgell, Spain - the other co-prince's see.
 The government is here. The princes are not.
 
 ## Load Bearing
@@ -19,7 +19,7 @@ The arrangement resolved the conflict by making it permanent.
 It has worked for longer than any resolution by winner
 in the same region.
 Remove the co-princes and the question of sovereignty
-— French or Spanish or independent —
+- French or Spanish or independent -
 reopens immediately.
 
 ## Apparent
@@ -33,7 +33,7 @@ The Andorran constitution of 1993
 formalises their role.
 
 ## Yearbook
-1278: the Pareatge — the founding agreement.
+1278: the Pareatge - the founding agreement.
 Two lords claim Andorra. Solution: both rule jointly.
 The arrangement survives the French Revolution
 (the French co-prince becomes the French state),
@@ -48,8 +48,6 @@ How to integrate a co-principality into EU law
 is a question no one has answered yet.
 
 ---
-*culture_andorran_piece_co_princes.md — 02.04.2026*
-*Position: [Andorran](culture_andorran_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_andorran_piece_co_princes.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

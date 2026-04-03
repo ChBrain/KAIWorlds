@@ -1,4 +1,4 @@
-# Persona: Goce
+﻿# Persona: Goce
 ## 51. Bus driver. Skopje.
 
 ## Owner
@@ -20,7 +20,7 @@ A small icon on the dash.
 He does not discuss it.
 
 ## Action
-A passenger — a tourist, clearly —
+A passenger - a tourist, clearly -
 asks which stop for the old bazaar.
 Goce is mid-route.
 He says the stop, says the number.
@@ -36,14 +36,14 @@ He does not check if it is the right stop.
 It is the right stop.
 
 ## Shadow
-He believes local knowledge is for anyone who asks —
+He believes local knowledge is for anyone who asks -
 that the route is public, the information is public,
 and giving it is no more than the job.
 What he cannot see:
 he gives it to tourists
 because they ask with the directness of people
 who do not know what they do not know.
-His regular passengers — who have ridden route 22 for years —
+His regular passengers - who have ridden route 22 for years -
 have stopped asking him anything.
 He does not know what they need.
 He has not asked.
@@ -51,14 +51,11 @@ He has been the most available person on the route
 to everyone except the people who are always there.
 
 ## Tell
-When a regular boards without speaking —
+When a regular boards without speaking -
 checks the mirror once
 then does not look again until the next stop.
 
 ---
-*persona_goce.md — 02.04.2026*
-*Position: [North Macedonian](culture_north_macedonian_position.md)*
-*Piece: [The Prespa Agreement](culture_north_macedonian_piece_prespa_agreement.md)*
-*Place: [Skopje](culture_north_macedonian_place_skopje.md)*
+*persona_goce.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

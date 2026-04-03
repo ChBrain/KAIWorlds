@@ -1,4 +1,4 @@
-# Persona: Werner
+﻿# Persona: Werner
 ## 61. Watchmaker. Vienna.
 
 ## Owner
@@ -29,7 +29,7 @@ The watch is ready Thursday.
 
 ## Shadow
 He believes discretion about a competitor's work
-is a form of professional dignity —
+is a form of professional dignity -
 that naming the error would embarrass the customer
 for having trusted the wrong person.
 What he cannot see:
@@ -41,14 +41,11 @@ He has not taken on an apprentice in fourteen years.
 He tells himself the right one hasn't appeared.
 
 ## Tell
-When asked how long he has been doing this —
+When asked how long he has been doing this -
 touches the loupe in his breast pocket
 before answering.
 
 ---
-*persona_werner.md — 02.04.2026*
-*Position: [Austrian](culture_austrian_position.md)*
-*Piece: [The Habsburg Memory](culture_austrian_piece_habsburg_memory.md)*
-*Place: [Vienna](culture_austrian_place_vienna.md)*
+*persona_werner.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

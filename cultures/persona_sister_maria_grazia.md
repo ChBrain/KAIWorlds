@@ -1,4 +1,4 @@
-# Persona: Sister Maria Grazia
+﻿# Persona: Sister Maria Grazia
 ## 61. Conservator-restorer. Vatican City.
 
 ## Owner
@@ -23,7 +23,7 @@ The recovery will take eight months.
 She begins.
 On the third day she finds, in the margin of a page
 that was not described in the manuscript's catalogue entry,
-a notation in a different hand —
+a notation in a different hand -
 a correction to the main text,
 written by someone who knew the text was wrong.
 She photographs it.
@@ -35,7 +35,7 @@ She is still reading the notation.
 
 ## Shadow
 She believes the work reveals what it reveals
-in the time it takes to reveal it —
+in the time it takes to reveal it -
 that patience in restoration
 is not a virtue but a method.
 What she cannot see:
@@ -53,9 +53,6 @@ Puts down the magnifying glass with both hands
 before writing anything.
 
 ---
-*persona_sister_maria_grazia.md — 02.04.2026*
-*Position: [Holy See](culture_holy_see_position.md)*
-*Piece: [The Lateran Treaty](culture_holy_see_piece_lateran_treaty.md)*
-*Place: [Vatican City](culture_holy_see_place_vatican_city.md)*
+*persona_sister_maria_grazia.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

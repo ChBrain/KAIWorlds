@@ -1,4 +1,4 @@
-# Persona: Jordi
+﻿# Persona: Jordi
 ## 59. Optician. Escaldes.
 
 ## Owner
@@ -34,7 +34,7 @@ It is not a test.
 It is how he ends a consultation.
 
 ## Shadow
-He believes the local language is the language of the place —
+He believes the local language is the language of the place -
 that offering Catalan at the end is a small act of presence,
 a signal that Andorra is Andorra, not a retail corridor.
 What he cannot see:
@@ -53,9 +53,6 @@ when a non-Catalan-speaking client
 has just been greeted in Catalan and understood.
 
 ---
-*persona_jordi.md — 02.04.2026*
-*Position: [Andorran](culture_andorran_position.md)*
-*Piece: [The Co-Princes](culture_andorran_piece_co_princes.md)*
-*Place: [Andorra la Vella](culture_andorran_place_andorra_la_vella.md)*
+*persona_jordi.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

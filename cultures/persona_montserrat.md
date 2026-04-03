@@ -1,4 +1,4 @@
-# Persona: Montserrat
+﻿# Persona: Montserrat
 ## 46. Photographer. Andorra la Vella.
 
 ## Owner
@@ -17,7 +17,7 @@ She has driven every road in Andorra.
 There are not many.
 
 ## Action
-A commercial client — a skiing brand — wants lifestyle images.
+A commercial client - a skiing brand - wants lifestyle images.
 Montserrat produces them.
 They are well-composed, correctly lit, technically sound.
 They are also images of Andorra
@@ -25,7 +25,7 @@ that look identical to images that could have been made
 in any ski resort in the Pyrenees.
 She delivers them.
 She also sends ten additional images, unbilled,
-that are specifically of Andorra —
+that are specifically of Andorra -
 the rock formations, the old Romanesque churches,
 the specific quality of the afternoon light at altitude.
 The brand uses two of the ten in their social media.
@@ -48,13 +48,10 @@ for the people she is making it to.
 
 ## Tell
 Takes one frame beyond what the brief requires
-at the end of every commercial shoot —
+at the end of every commercial shoot -
 for herself, she says, though she rarely looks at them.
 
 ---
-*persona_montserrat.md — 02.04.2026*
-*Position: [Andorran](culture_andorran_position.md)*
-*Piece: [The Co-Princes](culture_andorran_piece_co_princes.md)*
-*Place: [Andorra la Vella](culture_andorran_place_andorra_la_vella.md)*
+*persona_montserrat.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

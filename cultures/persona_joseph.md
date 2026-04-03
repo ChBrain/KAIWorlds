@@ -1,4 +1,4 @@
-# Persona: Joseph
+﻿# Persona: Joseph
 ## 67. Shoemaker. Rabat.
 
 ## Owner
@@ -33,7 +33,7 @@ He registers it as the correct price for these shoes to this person.
 ## Shadow
 He believes the price of a thing
 is not only what it costs to make
-but what it costs the person who needs it —
+but what it costs the person who needs it -
 that charging correctly
 requires knowing who is asking.
 What he cannot see:
@@ -53,9 +53,6 @@ for a moment longer than the examination requires
 before naming his price.
 
 ---
-*persona_joseph.md — 02.04.2026*
-*Position: [Maltese](culture_maltese_position.md)*
-*Piece: [The George Cross](culture_maltese_piece_george_cross.md)*
-*Place: [Valletta](culture_maltese_place_valletta.md)*
+*persona_joseph.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

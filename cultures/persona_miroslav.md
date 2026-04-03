@@ -1,4 +1,4 @@
-# Persona: Miroslav
+﻿# Persona: Miroslav
 ## 62. Meteorologist. Bratislava.
 
 ## Owner
@@ -17,7 +17,7 @@ before he looks at the models.
 He could not explain why except that the balcony is faster.
 
 ## Action
-A severe weather warning — the models disagree.
+A severe weather warning - the models disagree.
 Two show a significant event, one does not.
 Miroslav issues the warning based on the two.
 He notes the dissenting model in the internal record.
@@ -33,7 +33,7 @@ He sends it to the model team.
 He does not follow up on whether the model team acts on it.
 
 ## Shadow
-He believes the warning was correct given what was known —
+He believes the warning was correct given what was known -
 that the dissenting model's partial accuracy
 was a data question, not a forecast error,
 and he identified and reported it.
@@ -50,14 +50,11 @@ He has been identifying the same problem
 and leaving it in the same inbox.
 
 ## Tell
-After sending a technical report —
+After sending a technical report -
 marks it filed in his own records
 and opens the next problem.
 
 ---
-*persona_miroslav.md — 02.04.2026*
-*Position: [Slovak](culture_slovak_position.md)*
-*Piece: [The Slovak Constitution](culture_slovak_piece_slovak_constitution.md)*
-*Place: [Bratislava](culture_slovak_place_bratislava.md)*
+*persona_miroslav.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

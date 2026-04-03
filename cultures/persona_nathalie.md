@@ -1,4 +1,4 @@
-# Persona: Nathalie
+﻿# Persona: Nathalie
 ## 45. Notary. Liège.
 
 ## Owner
@@ -12,7 +12,7 @@ Nathalie is [Belgian](culture_belgian_position.md).
 The office is in a building that cannot decide
 whether it is Flemish or Walloon in architecture
 and has resolved the question by being neither.
-She keeps two clocks on her desk — one set to Brussels time,
+She keeps two clocks on her desk - one set to Brussels time,
 one to Brussels time.
 They are the same.
 She has not explained this to anyone.
@@ -23,14 +23,14 @@ Their positions are incompatible.
 Nathalie schedules four meetings.
 In the first she listens to both sides separately.
 In the second she reads both positions back to both families in the same room.
-In the third she proposes three frameworks — legal, financial, relational.
+In the third she proposes three frameworks - legal, financial, relational.
 In the fourth meeting there is a signed agreement.
 She does not celebrate this.
 It is what the fourth meeting is for.
 
 ## Shadow
 She believes the role of the notary
-is to hold the structure until the parties find their way into it —
+is to hold the structure until the parties find their way into it -
 that her neutrality is genuine, her process is neutral,
 the outcome belongs to the families.
 What she cannot see:
@@ -44,14 +44,11 @@ She has never told a client she does it.
 She does not think of it as influence.
 
 ## Tell
-When both parties sign —
+When both parties sign -
 straightens the documents on the table
 before looking up.
 
 ---
-*persona_nathalie.md — 02.04.2026*
-*Position: [Belgian](culture_belgian_position.md)*
-*Piece: [The Belgian Compromise](culture_belgian_piece_belgian_compromise.md)*
-*Place: [Liège](culture_belgian_place_brussels.md)*
+*persona_nathalie.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

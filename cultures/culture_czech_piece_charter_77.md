@@ -1,4 +1,4 @@
-# Piece: Charter 77
+﻿# Piece: Charter 77
 ## The document that said the state was lying, signed by people who knew what it would cost.
 
 ## Owner
@@ -9,7 +9,7 @@ Prague. The National Archive.
 
 ## Load Bearing
 Remove it and Czech irony loses its specific form.
-Charter 77 was the direct statement the system could not handle —
+Charter 77 was the direct statement the system could not handle -
 242 people writing their names on a document
 that said the state was not keeping its own promises.
 
@@ -27,7 +27,7 @@ are not being kept.
 The question is the document.
 The state's response: arrests, job losses,
 forced emigration for signatories.
-The document circulates in samizdat —
+The document circulates in samizdat -
 self-published, hand-copied, passed person to person.
 1989: the Velvet Revolution.
 Václav Havel, Charter signatory, becomes president.
@@ -39,5 +39,5 @@ He keeps the irony.
 He keeps it in his speeches.
 
 ---
-*culture_czech_piece_charter_77.md — 02.04.2026*
+*culture_czech_piece_charter_77.md - 02.04.2026*
 v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Persona: Aleš
+﻿# Persona: Aleš
 ## 55. Locksmith. Maribor.
 
 ## Owner
@@ -17,7 +17,7 @@ He has had it on for twenty years.
 He cannot work without it and has not examined why.
 
 ## Action
-A woman calls — locked out, elderly, lives alone.
+A woman calls - locked out, elderly, lives alone.
 Aleš is in the middle of a job.
 He finishes the job, drives to her,
 opens the door in four minutes,
@@ -25,14 +25,14 @@ charges the standard callout fee.
 She offers more.
 He declines.
 She asks for his card.
-He writes his number on a piece of paper —
+He writes his number on a piece of paper -
 he ran out of cards three years ago
 and has not reprinted them.
 She puts it in her purse.
 He drives back.
 
 ## Shadow
-He believes the work speaks for itself —
+He believes the work speaks for itself -
 that the woman will call him again
 and will tell her neighbours,
 and the network will hold.
@@ -47,14 +47,11 @@ He has done everything right
 and left no path back.
 
 ## Tell
-When writing his number for a new customer —
+When writing his number for a new customer -
 writes it from memory
 without checking that it is current.
 
 ---
-*persona_ales.md — 02.04.2026*
-*Position: [Slovenian](culture_slovenian_position.md)*
-*Piece: [The Independence Declaration 1991](culture_slovenian_piece_independence_1991.md)*
-*Place: [Maribor](culture_slovenian_place_ljubljana.md)*
+*persona_ales.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

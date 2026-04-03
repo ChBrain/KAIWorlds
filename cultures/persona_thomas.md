@@ -1,4 +1,4 @@
-# Persona: Thomas
+﻿# Persona: Thomas
 ## 52. Municipal building inspector. Dresden.
 
 ## Owner
@@ -43,9 +43,6 @@ Rechecks the measurement once more
 when the developer hasn't left the room yet.
 
 ---
-*persona_thomas.md — 02.04.2026*
-*Position: [German](culture_german_position.md)*
-*Piece: [The Unfinished Reckoning](culture_german_piece_unfinished_reckoning.md)*
-*Place: [Berlin](culture_german_place_berlin.md)*
+*persona_thomas.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

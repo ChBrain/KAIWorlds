@@ -1,4 +1,4 @@
-# Persona: Maurizio
+﻿# Persona: Maurizio
 ## 63. Second-hand bookseller. San Marino.
 
 ## Owner
@@ -18,7 +18,7 @@ He has learned to tell the difference
 before they decide.
 
 ## Action
-A visitor picks up a book —
+A visitor picks up a book -
 a history of San Marino published in 1974.
 It is the only copy Maurizio has seen in thirty years.
 The visitor asks the price.
@@ -36,7 +36,7 @@ Maurizio does not mind.
 
 ## Shadow
 He believes books are conversations
-that start at the cover and continue indefinitely —
+that start at the cover and continue indefinitely -
 that selling a book is beginning something, not ending something.
 What he cannot see:
 the shop has not grown in twenty years
@@ -52,9 +52,6 @@ when a customer picks up a book
 he considers significant.
 
 ---
-*persona_maurizio.md — 02.04.2026*
-*Position: [San Marinese](culture_san_marinese_position.md)*
-*Piece: [The Captains Regent](culture_san_marinese_piece_captains_regent.md)*
-*Place: [San Marino](culture_san_marinese_place_san_marino.md)*
+*persona_maurizio.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

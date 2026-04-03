@@ -1,13 +1,12 @@
-# Position: Spanish
+﻿# Position: Spanish
 ## The plan that was also a feeling.
 
 ## Owner
-- **Piece:** [La Transición](culture_spanish_piece_la_transicion.md)
-
+- *
 ## Has
 [La Transición](culture_spanish_piece_la_transicion.md).
-The rules — present, load-bearing, not literal.
-The group — present, primary, warm.
+The rules - present, load-bearing, not literal.
+The group - present, primary, warm.
 The structure exists to hold the anxiety
 of not having structure.
 Whether it is executed precisely
@@ -32,7 +31,7 @@ The relationship is how you finish.
 ## Loses
 The literal contract.
 They were certain that the rule
-was the rule —
+was the rule -
 that the plan meant what it said,
 that agreement was a fixed point
 rather than a shared comfort.
@@ -45,7 +44,7 @@ The execution was also real.
 These are not the same thing.
 
 ## Drives
-On the loss of the literal contract —
+On the loss of the literal contract -
 finds the person who holds the warmth.
 The plan is renegotiated there.
 Not in writing.
@@ -54,10 +53,7 @@ at the point where relationship
 is doing what the contract could not.
 
 ---
-*culture_spanish_position.md — 02.04.2026*
+*culture_spanish_position.md - 02.04.2026*
 *Hofstede anchors: PDI 57, IDV 51, MAS 42, UAI 86*
-*Dominant pressure: structure as comfort, group as infrastructure*
-*Latin South family — variant of culture_italian_position.md*
-*Key divergence from Italian: collectivist not individualist; rules everywhere, not ignored — felt*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

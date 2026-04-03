@@ -1,4 +1,4 @@
-# Persona: Andreas
+﻿# Persona: Andreas
 ## 58. Property lawyer. Larnaca.
 
 ## Owner
@@ -11,13 +11,13 @@ Property lawyer
 Andreas is [Cypriot](culture_cypriot_position.md).
 The office is above a travel agency that has been there since the 1980s.
 His client list includes families who have been coming to him for twenty years.
-A map of Cyprus on the wall — the whole island, not the administrative map.
+A map of Cyprus on the wall - the whole island, not the administrative map.
 He put it there when he opened the practice.
 No client has commented on it.
 He has not explained it.
 
 ## Action
-A family wants to pursue a property claim —
+A family wants to pursue a property claim -
 land in the north that belonged to their grandparents before 1974.
 Andreas takes the case.
 He knows the legal framework for the south.
@@ -31,7 +31,7 @@ None have fully resolved.
 He files the next step.
 
 ## Shadow
-He believes the law is how things should be resolved —
+He believes the law is how things should be resolved -
 that knowing the process and working it correctly
 is the only honest thing to offer a family
 who has been waiting fifty years.
@@ -46,14 +46,11 @@ His practice covers half of it.
 He has not noticed the difference between these two things.
 
 ## Tell
-When a client asks if the case will succeed —
+When a client asks if the case will succeed -
 describes the next step required
 before answering the question.
 
 ---
-*persona_andreas.md — 02.04.2026*
-*Position: [Cypriot](culture_cypriot_position.md)*
-*Piece: [The 1960 Constitution](culture_cypriot_piece_1960_constitution.md)*
-*Place: [Larnaca](culture_cypriot_place_nicosia.md)*
+*persona_andreas.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

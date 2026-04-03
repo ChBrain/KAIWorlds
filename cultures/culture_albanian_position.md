@@ -1,15 +1,14 @@
-# Position: Albanian
+﻿# Position: Albanian
 ## The clan that became a nation.
 
 ## Owner
-- **Piece:** [The Besa](culture_albanian_piece_besa.md)
-
+- *
 ## Has
 [The Besa](culture_albanian_piece_besa.md).
-The besa — the sworn word, the binding promise.
+The besa - the sworn word, the binding promise.
 In Albanian tradition, besa cannot be broken.
 It governs hospitality, protection, obligation.
-The Kanun — ancient customary law
+The Kanun - ancient customary law
 that governed Albanian society for centuries
 before the state existed and after it failed.
 The clan. The fis.
@@ -37,14 +36,13 @@ The state works partially.
 The besa still works completely.
 
 ## Drives
-On the loss of state reliability —
+On the loss of state reliability -
 returns to the fis.
 The obligation holds.
 The room is warmer than the institution.
 
 ---
-*culture_albanian_position.md — 02.04.2026*
+*culture_albanian_position.md - 02.04.2026*
 *Hofstede: PDI 90, IDV 20, MAS 80, UAI 70, IVR 7*
-*Western Balkans — EU candidate. Dominant pressure: honour culture operating where institutions are incomplete.*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

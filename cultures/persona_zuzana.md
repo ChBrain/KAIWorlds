@@ -1,4 +1,4 @@
-# Persona: Zuzana
+﻿# Persona: Zuzana
 ## 37. Border guard. Košice.
 
 ## Owner
@@ -18,7 +18,7 @@ in her first week and has maintained her fitness to it since.
 She considers this a professional obligation and not a personal one.
 
 ## Action
-A family arrives — mother, three children, no documentation beyond a phone photograph
+A family arrives - mother, three children, no documentation beyond a phone photograph
 of a passport that may or may not be theirs.
 Zuzana follows procedure.
 She also follows procedure in the order
@@ -34,7 +34,7 @@ She has not deviated from procedure once.
 She has used procedure to create time.
 
 ## Shadow
-She believes in the procedure —
+She believes in the procedure -
 that it exists for exactly these situations
 and her job is to apply it completely, not selectively.
 What she cannot see:
@@ -47,14 +47,11 @@ The variable is invisible to her
 because it operates before the procedure begins.
 
 ## Tell
-When uncertain about a case —
+When uncertain about a case -
 asks for the colleague who speaks Ukrainian
 before she has assessed whether language is the issue.
 
 ---
-*persona_zuzana.md — 02.04.2026*
-*Position: [Slovak](culture_slovak_position.md)*
-*Piece: [The Slovak Constitution](culture_slovak_piece_slovak_constitution.md)*
-*Place: [Košice](culture_slovak_place_bratislava.md)*
+*persona_zuzana.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

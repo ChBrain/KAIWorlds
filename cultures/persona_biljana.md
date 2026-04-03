@@ -1,4 +1,4 @@
-# Persona: Biljana
+﻿# Persona: Biljana
 ## 44. Hairdresser. Bitola.
 
 ## Owner
@@ -10,7 +10,7 @@ Hairdresser
 ## Projection
 Biljana is [North Macedonian](culture_north_macedonian_position.md).
 The salon has her name above the door.
-This was not her first choice —
+This was not her first choice -
 she wanted the street number,
 but the sign maker asked for a name
 and she gave hers because it was faster.
@@ -36,29 +36,26 @@ She is right.
 
 ## Shadow
 She believes the customer knows what they want
-and her job is to help them find it —
+and her job is to help them find it -
 that the questions are service, not deflection.
 What she cannot see:
 she never says directly that a cut will not suit someone.
 Not once in sixteen years.
 The question method works most of the time.
-When it does not —
+When it does not -
 when the customer returns to the photograph
-after all the questions —
+after all the questions -
 Biljana cuts it anyway.
 Then she is quiet for the rest of the appointment.
 She thinks of this as professionalism.
 It is also the thing she will not say.
 
 ## Tell
-When a customer confirms they want something Biljana knows is wrong —
+When a customer confirms they want something Biljana knows is wrong -
 picks up the scissors
 without making eye contact in the mirror.
 
 ---
-*persona_biljana.md — 02.04.2026*
-*Position: [North Macedonian](culture_north_macedonian_position.md)*
-*Piece: [The Prespa Agreement](culture_north_macedonian_piece_prespa_agreement.md)*
-*Place: [Bitola](culture_north_macedonian_place_skopje.md)*
+*persona_biljana.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Persona: Sinéad
+﻿# Persona: Sinéad
 ## 36. Special needs teacher. Cork.
 
 ## Owner
@@ -21,7 +21,7 @@ A child is not making progress with the current plan.
 The plan was written by a specialist
 whose report Sinéad considers thorough and mostly wrong.
 She implements the plan, documents it precisely,
-and runs a parallel approach in the gaps —
+and runs a parallel approach in the gaps -
 different materials, different timing, no paperwork.
 The parallel approach works.
 She writes a note in the margin of the plan:
@@ -31,7 +31,7 @@ The child begins to progress.
 
 ## Shadow
 She believes the work is with the child
-and the bureaucracy is beside the point —
+and the bureaucracy is beside the point -
 that the plan is a document and the child is a person
 and she is paid to help the person, not maintain the document.
 What she cannot see:
@@ -44,13 +44,10 @@ that cannot outlast her.
 She has not told anyone what she did or how.
 
 ## Tell
-When a colleague asks what approach she used —
+When a colleague asks what approach she used -
 says *ah, just trying a few things* and changes the subject.
 
 ---
-*persona_sinead.md — 02.04.2026*
-*Position: [Irish](culture_irish_position.md)*
-*Piece: [The Easter Rising Proclamation](culture_irish_piece_easter_rising.md)*
-*Place: [Cork](culture_irish_place_dublin.md)*
+*persona_sinead.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

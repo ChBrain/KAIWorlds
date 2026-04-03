@@ -1,4 +1,4 @@
-# Persona: Mustafa
+﻿# Persona: Mustafa
 ## 54. Tiler. Nicosia (North).
 
 ## Owner
@@ -27,7 +27,7 @@ This is not the question that was asked.
 It is the answer he has.
 
 ## Shadow
-He believes his job is what he does with what he is given —
+He believes his job is what he does with what he is given -
 that a tiler's accountability is to the level and the line,
 not to the material choice.
 What he cannot see:
@@ -43,9 +43,6 @@ Checks the level twice on the first tile
 of a job he did not choose the materials for.
 
 ---
-*persona_mustafa.md — 02.04.2026*
-*Position: [North Cypriot](culture_north_cypriot_position.md)*
-*Piece: [The Green Line (Northern Side)](culture_north_cypriot_piece_green_line_north.md)*
-*Place: [Nicosia (North)](culture_north_cypriot_place_nicosia_north.md)*
+*persona_mustafa.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Persona: Ani
+﻿# Persona: Ani
 ## 36. Graphic designer. Gyumri.
 
 ## Owner
@@ -22,7 +22,7 @@ A client in Berlin asks for a visual identity
 for a project about migration and memory.
 Ani produces seven concepts.
 One of them uses a visual motif
-drawn from Armenian manuscript illumination —
+drawn from Armenian manuscript illumination -
 not obviously, structurally.
 She does not explain the source in the presentation.
 She presents all seven as options.
@@ -34,7 +34,7 @@ She delivers it without telling him.
 
 ## Shadow
 She believes the work carries what it carries
-without requiring annotation —
+without requiring annotation -
 that naming the source would make it archaeological
 rather than alive.
 What she cannot see:
@@ -47,15 +47,12 @@ She believes this is the correct form.
 It may also be the form that disappears.
 
 ## Tell
-When a client describes one of her designs —
+When a client describes one of her designs -
 listens for whether they find
 what she put in,
 and does not indicate either way.
 
 ---
-*persona_ani.md — 02.04.2026*
-*Position: [Armenian](culture_armenian_position.md)*
-*Piece: [The Armenian Genocide](culture_armenian_piece_armenian_genocide.md)*
-*Place: [Gyumri](culture_armenian_place_yerevan.md)*
+*persona_ani.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

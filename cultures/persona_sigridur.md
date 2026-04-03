@@ -1,4 +1,4 @@
-# Persona: Sigríður
+﻿# Persona: Sigríður
 ## 43. Journalist. Reykjavík.
 
 ## Owner
@@ -20,7 +20,7 @@ and has never resolved which is greater.
 She is writing a piece on a local councillor
 whose expenses claims are irregular.
 The councillor is someone she sees at school pickups.
-She calls him before publication —
+She calls him before publication -
 not as a courtesy, as procedure.
 He answers immediately.
 She reads him the relevant paragraphs.
@@ -33,7 +33,7 @@ She sees him at the school the following week.
 They nod.
 
 ## Shadow
-She believes the proximity is manageable —
+She believes the proximity is manageable -
 that she has found the method to work in a small place
 without the relationships compromising the work,
 that the nod at the school gate is proof.
@@ -47,13 +47,10 @@ She thinks of them as not yet the right moment.
 The right moment has not arrived for four years.
 
 ## Tell
-When a source is also someone she knows socially —
+When a source is also someone she knows socially -
 takes longer than usual to open the notebook.
 
 ---
-*persona_sigridur.md — 02.04.2026*
-*Position: [Icelandic](culture_icelandic_position.md)*
-*Piece: [The Althing](culture_icelandic_piece_althing.md)*
-*Place: [Reykjavík](culture_icelandic_place_reykjavik.md)*
+*persona_sigridur.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

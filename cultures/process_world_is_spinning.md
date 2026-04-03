@@ -1,36 +1,36 @@
-# Process: The World is Spinning
-## The day that runs whether or not anyone is ready.
+﻿# Process: The World is Spinning
+## The day that was already turning.
 
 ## Owner
 - **Project:** Cultures
 
+---
+
 ## Initiated by
-The previous day's Echo.
-The world was already turning.
+What the previous session left unfinished.
+The Loses that did not resolve.
+The pressure was already present when the session ended.
+It is still present now.
 
 ## Direction
-Toward the moment
-when today's pressure
-becomes tomorrow's starting condition.
+Each position presses against what it meets.
+No position completes.
+The direction is toward the moment
+when the pressure produces something
+the position could not have produced alone.
 
 ## Lever
-Fifty-two cultural positions pressing simultaneously
-against the resistance of what one day can hold.
-No position completes.
-Every position produces a partial result.
-The partial result is what the Echo carries.
+The simultaneity.
+All positions pressing at once.
+Remove it and the world becomes a sequence.
+With it, the room was already occupied before the persona arrived.
 
 ## Echo
-Today's Loses become tomorrow's Has.
-What moved — moved.
-What did not — remains as resistance
-for the next rotation.
+What moved becomes the Has the next session opens with.
+What did not move remains as resistance the next session presses against.
+The loop closes here and opens again at Initiated by.
 
 ---
-*process_world_is_spinning.md — 02.04.2026*
-*Positions: all 52 cultural positions in the European set*
-*Places: 52 capital cities — built*
-*Pieces: 52 national symbols — built*
-*Cycle: daily. Echo initiates the next cycle. No external trigger required.*
+*process_world_is_spinning.md - 03.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

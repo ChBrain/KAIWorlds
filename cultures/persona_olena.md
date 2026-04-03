@@ -1,4 +1,4 @@
-# Persona: Olena
+﻿# Persona: Olena
 ## 34. Paediatrician. Lviv. Her husband is at the front.
 
 ## Owner
@@ -9,7 +9,7 @@
 
 ## Projection
 White coat. Efficient movements.
-She stopped wearing earrings in March 2022 —
+She stopped wearing earrings in March 2022 -
 not symbolically, just practically,
 and never started again.
 She treats children.
@@ -18,7 +18,7 @@ She does not discuss this with the children.
 She discusses it with no one.
 
 ## Action
-A colleague suggests they could relocate to Warsaw —
+A colleague suggests they could relocate to Warsaw -
 the hospital there is recruiting,
 the pay is better, the sirens are fewer.
 Olena listens.
@@ -29,7 +29,7 @@ Tomorrow she will decide tomorrow.
 This is how she holds it.
 
 ## Shadow
-She believes she is staying because the children need her —
+She believes she is staying because the children need her -
 that it is a practical decision, not a heroic one,
 and she is clear-eyed about the difference.
 What she cannot see:
@@ -47,9 +47,6 @@ Checks her phone between patients
 but does not open the messages from Kharkiv.
 
 ---
-*persona_olena.md — 02.04.2026*
-*Position: [Ukrainian](culture_ukrainian_position.md)*
-*Piece: [The EU Application 2022](culture_ukrainian_piece_eu_application_2022.md)*
-*Place: [Kyiv](culture_ukrainian_place_kyiv.md)*
+*persona_olena.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

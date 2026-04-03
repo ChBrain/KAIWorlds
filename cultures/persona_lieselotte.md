@@ -1,4 +1,4 @@
-# Persona: Lieselotte
+﻿# Persona: Lieselotte
 ## 49. Bookbinder. Vaduz.
 
 ## Owner
@@ -17,7 +17,7 @@ The press she uses is from 1971.
 She knows its provenance exactly.
 
 ## Action
-A client brings a damaged 18th-century ledger —
+A client brings a damaged 18th-century ledger -
 a family document, irreplaceable.
 Lieselotte examines it.
 She identifies three binding methods
@@ -32,7 +32,7 @@ She says: the second one.
 She then does the second one.
 
 ## Shadow
-She believes the client's material is not hers to decide about —
+She believes the client's material is not hers to decide about -
 that her expertise is in options, not in outcomes.
 What she cannot see:
 she has restored 340 documents
@@ -49,9 +49,6 @@ an extra time when the client has chosen
 what she would not have chosen.
 
 ---
-*persona_lieselotte.md — 02.04.2026*
-*Position: [Liechtenstein](culture_liechtenstein_position.md)*
-*Piece: [Vaduz Castle](culture_liechtenstein_piece_vaduz_castle.md)*
-*Place: [Vaduz](culture_liechtenstein_place_vaduz.md)*
+*persona_lieselotte.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

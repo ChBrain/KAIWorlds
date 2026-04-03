@@ -1,4 +1,4 @@
-# Persona: Sabine
+﻿# Persona: Sabine
 ## 44. Bank branch manager. Zurich.
 
 ## Owner
@@ -12,7 +12,7 @@ Sabine is [Swiss](culture_swiss_position.md).
 Conservative blazer, never the same one two days running.
 The branch is quiet in the way that only expensive things are quiet.
 Her desk faces the door.
-A small cactus on the windowsill —
+A small cactus on the windowsill -
 the only object in the office that was not approved
 by the facilities management policy.
 
@@ -22,7 +22,7 @@ in a way that is technically permissible
 but that Sabine considers imprudent.
 She does not refuse.
 She schedules a second meeting,
-prepares a document showing three scenarios —
+prepares a document showing three scenarios -
 the client's preferred option, a moderate alternative, a conservative one.
 She presents all three without recommending any.
 She asks which the client would like to discuss further.
@@ -30,7 +30,7 @@ The client, faced with the document, chooses the moderate option.
 Sabine had expected this.
 
 ## Shadow
-She believes she gives clients genuine choice —
+She believes she gives clients genuine choice -
 that the three-scenario document is neutral,
 that the outcome is theirs.
 What she cannot see:
@@ -43,13 +43,10 @@ She has guided hundreds of clients
 without once believing she was guiding them.
 
 ## Tell
-When a client picks the option she expected —
+When a client picks the option she expected -
 a small exhale through the nose, almost inaudible.
 
 ---
-*persona_sabine.md — 02.04.2026*
-*Position: [Swiss](culture_swiss_position.md)*
-*Piece: [The Federal Charter](culture_swiss_piece_federal_charter.md)*
-*Place: [Zurich](culture_swiss_place_bern.md)*
+*persona_sabine.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

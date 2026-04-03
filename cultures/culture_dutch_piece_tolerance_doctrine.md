@@ -1,4 +1,4 @@
-# Piece: The Tolerance Doctrine
+﻿# Piece: The Tolerance Doctrine
 ## The principle that made Amsterdam the world's warehouse.
 
 ## Owner
@@ -9,12 +9,12 @@ Amsterdam. The canal ring.
 
 ## Load Bearing
 Remove it and Dutch directness loses its commercial logic.
-The tolerance is not moral philosophy —
+The tolerance is not moral philosophy -
 it is the discovery that excluding people
 is bad for business.
 
 ## Apparent
-The *gedoogbeleid* — tolerance policy.
+The *gedoogbeleid* - tolerance policy.
 Licensed cannabis coffeeshops. Regulated sex work.
 The legal category: illegal but not prosecuted.
 This category does not exist in most legal systems.
@@ -39,5 +39,5 @@ The doctrine adjusts.
 It has adjusted before.
 
 ---
-*culture_dutch_piece_tolerance_doctrine.md — 02.04.2026*
+*culture_dutch_piece_tolerance_doctrine.md - 02.04.2026*
 v0.2.0 - KAI Worlds

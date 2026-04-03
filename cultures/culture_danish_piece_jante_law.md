@@ -1,4 +1,4 @@
-# Piece: The Law of Jante
+﻿# Piece: The Law of Jante
 ## The unwritten rule that Danish equality enforces on itself.
 
 ## Owner
@@ -10,7 +10,7 @@ Denmark. In every room where equality is enforced.
 ## Load Bearing
 Remove it and Danish equality loses its enforcement mechanism.
 The flat hierarchy requires something that keeps it flat.
-The Jante Law is that something — the social pressure
+The Jante Law is that something - the social pressure
 that prevents anyone rising above the collective.
 
 ## Apparent
@@ -38,5 +38,5 @@ Both are true.
 The law is still running.
 
 ---
-*culture_danish_piece_jante_law.md — 02.04.2026*
+*culture_danish_piece_jante_law.md - 02.04.2026*
 v0.2.0 - KAI Worlds

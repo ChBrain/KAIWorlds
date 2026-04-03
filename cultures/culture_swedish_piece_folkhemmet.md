@@ -1,5 +1,5 @@
-# Piece: The Folkhemmet
-## The people's home — the idea Sweden built itself around.
+﻿# Piece: The Folkhemmet
+## The people's home - the idea Sweden built itself around.
 
 ## Owner
 - **Place:** Stockholm
@@ -9,7 +9,7 @@ Stockholm. The Riksdag.
 
 ## Load Bearing
 Remove it and Swedish consensus loses its structural logic.
-The folkhemmet is not a welfare policy — it is the operating mode
+The folkhemmet is not a welfare policy - it is the operating mode
 of a society that decided everyone would be included in the home
 and built institutions to make that true.
 
@@ -17,7 +17,7 @@ and built institutions to make that true.
 Municipal housing blocks in every Swedish city.
 Universal healthcare signs in every hospital.
 480 days of parental leave per child, available to either parent.
-The IKEA catalogue — functional, identical price for everyone.
+The IKEA catalogue - functional, identical price for everyone.
 
 ## Yearbook
 1928: Hansson's speech. The concept named.
@@ -38,8 +38,6 @@ The consensus that built the folkhemmet
 is still building something.
 
 ---
-*culture_swedish_piece_folkhemmet.md — 02.04.2026*
-*Position: [Swedish](culture_swedish_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_swedish_piece_folkhemmet.md - 02.04.2026*
 
 v0.2.0 - KAI Worlds

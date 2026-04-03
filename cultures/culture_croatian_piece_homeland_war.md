@@ -1,4 +1,4 @@
-# Piece: The Homeland War
+﻿# Piece: The Homeland War
 ## The war Croatia fought to exist as it had chosen to exist.
 
 ## Owner
@@ -9,7 +9,7 @@ Zagreb. The Croatian War of Independence Memorial. Also: Vukovar.
 
 ## Load Bearing
 Remove it and the Croatian position's westward choice becomes a preference.
-The Homeland War is the cost at which the choice was made —
+The Homeland War is the cost at which the choice was made -
 the western orientation tested under fire and held.
 
 ## Apparent
@@ -38,5 +38,5 @@ The choice confirmed.
 The scar kept visible.
 
 ---
-*culture_croatian_piece_homeland_war.md — 02.04.2026*
+*culture_croatian_piece_homeland_war.md - 02.04.2026*
 v0.2.0 - KAI Worlds

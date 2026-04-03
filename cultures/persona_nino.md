@@ -1,4 +1,4 @@
-# Persona: Nino
+﻿# Persona: Nino
 ## 39. Viticulturist. Kakheti.
 
 ## Owner
@@ -12,8 +12,8 @@ Nino is [Georgian](culture_georgian_position.md).
 The vineyard has been in her family since 1887,
 with a gap from 1921 to 1991 during which it was also in her family
 in a different administrative sense.
-She uses the amber wine method — qvevri buried in the earth,
-skin contact, no additives —
+She uses the amber wine method - qvevri buried in the earth,
+skin contact, no additives -
 the way it was done before the Soviet interruption
 and after.
 Her hands are stained at the harvest.
@@ -22,7 +22,7 @@ The rest of the year they are not.
 ## Action
 A wine importer from Berlin visits.
 He wants to stock the wine but has concerns
-about consistency — the amber method produces variation year to year.
+about consistency - the amber method produces variation year to year.
 Nino pours him four vintages.
 She explains the variation: the 2021 is drier because the summer was.
 The 2022 has more tannin because she extended the skin contact.
@@ -32,7 +32,7 @@ He buys the 2021 and the 2022.
 He comes back the following year.
 
 ## Shadow
-She believes the variation is the truth of the wine —
+She believes the variation is the truth of the wine -
 that consistency is the product of intervention
 and she is not in the intervention business.
 What she cannot see:
@@ -48,14 +48,11 @@ She has not found the terms that fit.
 She has stopped looking.
 
 ## Tell
-When asked if the wine is available outside Georgia —
+When asked if the wine is available outside Georgia -
 names the Berlin importer
 and does not mention she has looked for others.
 
 ---
-*persona_nino.md — 02.04.2026*
-*Position: [Georgian](culture_georgian_position.md)*
-*Piece: [The Georgian Script](culture_georgian_piece_georgian_script.md)*
-*Place: [Kakheti](culture_georgian_place_tbilisi.md)*
+*persona_nino.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

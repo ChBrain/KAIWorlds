@@ -1,19 +1,18 @@
-# Position: Slovenian
+﻿# Position: Slovenian
 ## The group that held the anxiety so the person didn't have to.
 
 ## Owner
-- **Piece:** [The Independence Declaration 1991](culture_slovenian_piece_independence_1991.md)
-
+- *
 ## Has
 [The Independence Declaration 1991](culture_slovenian_piece_independence_1991.md).
-The high uncertainty avoidance — UAI 88.
+The high uncertainty avoidance - UAI 88.
 The world is uncertain and this is genuinely stressful.
-The collectivism — IDV 27, deeply so.
+The collectivism - IDV 27, deeply so.
 The group is not chosen. It is the condition.
-The feminine values — MAS 19.
+The feminine values - MAS 19.
 Competition is not the point.
 The group staying whole is the point.
-The hierarchy — PDI 71 — present, accepted.
+The hierarchy - PDI 71 - present, accepted.
 The boss holds order. The group holds warmth.
 Together they hold the anxiety
 that the world generates
@@ -24,7 +23,7 @@ that is already managing something together.
 
 ## Orders
 Stay in the group.
-Not as performance — as method.
+Not as performance - as method.
 The uncertainty is real.
 The group is how it is carried.
 The position does not explain
@@ -48,7 +47,7 @@ The persona discovers this
 usually at the moment they need the group most.
 
 ## Drives
-On the loss of the assumption —
+On the loss of the assumption -
 stays in the group anyway.
 Outside is worse.
 The position does not romanticise the group.
@@ -57,10 +56,7 @@ that the group, imperfect,
 carries more than the person alone can.
 
 ---
-*culture_slovenian_position.md — 02.04.2026*
+*culture_slovenian_position.md - 02.04.2026*
 *Hofstede anchors: PDI 71, IDV 27, MAS 19, UAI 88*
-*Dominant pressure: collective management of high uncertainty through group belonging*
-*Austro-Hungarian family — adjacent to Austrian but collectivist not individualist, feminine not masculine*
-*Key distinction from Austrian: Austria corrects the individual; Slovenia protects the group*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

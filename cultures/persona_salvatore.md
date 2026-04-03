@@ -1,4 +1,4 @@
-# Persona: Salvatore
+﻿# Persona: Salvatore
 ## 59. Restaurant owner. Palermo.
 
 ## Owner
@@ -10,7 +10,7 @@ Restaurant owner
 ## Projection
 Salvatore is [Italian](culture_italian_position.md).
 The restaurant seats thirty-four.
-It has seated thirty-four for twenty-two years —
+It has seated thirty-four for twenty-two years -
 he has been offered the adjacent premises twice
 and declined both times.
 He works the tables in the evening,
@@ -19,21 +19,21 @@ The menu changes four times a year.
 The price of the wine does not appear on the menu.
 
 ## Action
-A table of eight — a birthday, a booking he took himself —
+A table of eight - a birthday, a booking he took himself -
 is not having the evening the booking suggested.
 The service is correct.
 The food is correct.
 Something in the table is not sitting right.
 Salvatore reads this by the third course.
-He sends a dish they did not order —
-something from the kitchen's test menu, on the house —
+He sends a dish they did not order -
+something from the kitchen's test menu, on the house -
 with a sentence about the birthday in dialect.
 The table shifts.
 The evening becomes what the booking was for.
 He returns to the kitchen.
 
 ## Shadow
-He believes the restaurant is the relationship —
+He believes the restaurant is the relationship -
 that his presence, his reading of the room, his interventions
 are the thing that makes the food into a meal.
 What he cannot see:
@@ -46,14 +46,11 @@ He assumes it is lesser.
 He has not checked.
 
 ## Tell
-When someone compliments the restaurant —
+When someone compliments the restaurant -
 says *my father started it*
 before saying anything else.
 
 ---
-*persona_salvatore.md — 02.04.2026*
-*Position: [Italian](culture_italian_position.md)*
-*Piece: [Article 1](culture_italian_piece_article_1.md)*
-*Place: [Palermo](culture_italian_place_rome.md)*
+*persona_salvatore.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

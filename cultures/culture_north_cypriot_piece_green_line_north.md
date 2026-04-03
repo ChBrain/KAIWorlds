@@ -1,4 +1,4 @@
-# Piece: The Green Line (Northern Side)
+﻿# Piece: The Green Line (Northern Side)
 ## The same line, the other account.
 
 ## Owner
@@ -13,7 +13,7 @@ The Ledra Street crossing: open since 2008.
 ## Load Bearing
 Remove it and the North Cypriot position
 loses its defining physical condition.
-The Green Line is not a border — it is a ceasefire line.
+The Green Line is not a border - it is a ceasefire line.
 Not internationally recognised as a border.
 But it separates two administrations,
 two currencies, two legal systems, two communities
@@ -30,8 +30,8 @@ A line through Nicosia.
 UN Buffer Zone: 4 kilometres wide in places, narrower in the city.
 UN peacekeepers: present since 1974.
 Abandoned buildings in the buffer zone.
-Varosha — the resort area of Famagusta, sealed since 1974.
-Partially reopened 2020 — contested.
+Varosha - the resort area of Famagusta, sealed since 1974.
+Partially reopened 2020 - contested.
 The Ledra Street crossing.
 Pedestrians cross.
 Goods cross with restrictions.
@@ -57,10 +57,8 @@ The political status is unchanged.
 Both sides continue.
 
 ---
-*culture_north_cypriot_piece_green_line_north.md — 02.04.2026*
-*Position: [North Cypriot](culture_north_cypriot_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_north_cypriot_piece_green_line_north.md - 02.04.2026*
 *Mirror piece: culture_cypriot_piece_1960_constitution.md (Greek Cypriot position)*
 *Same physical line. Different load.*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

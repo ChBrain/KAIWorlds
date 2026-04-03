@@ -1,4 +1,4 @@
-# Piece: The Lateran Treaty
+﻿# Piece: The Lateran Treaty
 ## The 1929 agreement that gave the papacy 44 hectares and kept the rest.
 
 ## Owner
@@ -41,7 +41,7 @@ The temporal power begins.
 1870: Italian unification. Rome taken.
 The Pope retreats to the Vatican.
 Does not leave for 59 years.
-The "Prisoner of the Vatican" — self-imposed.
+The "Prisoner of the Vatican" - self-imposed.
 1929: Mussolini negotiates. The Lateran Treaty.
 The papacy gets 44 hectares and a billion lire.
 Italy gets recognition and a concordat.
@@ -53,8 +53,6 @@ The reach: still global.
 The proportion continues to define the position.
 
 ---
-*culture_holy_see_piece_lateran_treaty.md — 02.04.2026*
-*Position: [Holy See](culture_holy_see_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_holy_see_piece_lateran_treaty.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds
