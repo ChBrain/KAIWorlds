@@ -1,4 +1,4 @@
-# Persona: Afonso
+﻿# Persona: Afonso
 ## 63. Stonemason. Évora.
 
 ## Owner
@@ -17,7 +17,7 @@ The dust is so deep in the lines of his hands
 that washing them makes no visible difference.
 
 ## Action
-A restoration project — a seventeenth-century church facade.
+A restoration project - a seventeenth-century church facade.
 The project lead wants to use a different stone
 because it is less expensive and will match closely.
 Afonso says they are not the same.
@@ -30,7 +30,7 @@ The facade will outlast the budget discussion by three centuries.
 Afonso considers this the relevant timeframe.
 
 ## Shadow
-He believes the work should last —
+He believes the work should last -
 that using the correct material
 is not perfectionism but basic respect for what was built before.
 What he cannot see:
@@ -44,14 +44,11 @@ The knowledge is in the hands.
 When the hands retire, most of it goes.
 
 ## Tell
-When the apprentice makes a cut he would not have made —
+When the apprentice makes a cut he would not have made -
 runs his thumb along the edge
 before saying anything.
 
 ---
-*persona_afonso.md — 02.04.2026*
-*Position: [Portuguese](culture_portuguese_position.md)*
-*Piece: [The Carnation Revolution](culture_portuguese_piece_carnation_revolution.md)*
-*Place: [Évora](culture_portuguese_place_lisbon.md)*
+*persona_afonso.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

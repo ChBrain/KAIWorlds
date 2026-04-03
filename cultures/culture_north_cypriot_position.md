@@ -1,9 +1,8 @@
-# Position: North Cypriot
+﻿# Position: North Cypriot
 ## The state recognised by one country and administered as if it were real.
 
 ## Owner
-- **Piece:** [The Green Line (North)](culture_north_cypriot_piece_green_line_north.md)
-
+- *
 ## Has
 [The Green Line (North)](culture_north_cypriot_piece_green_line_north.md).
 The Turkish Republic of Northern Cyprus.
@@ -18,7 +17,7 @@ without the recognition that states require.
 The Greek Cypriot position to the south
 carries the wound of the partition.
 The North Cypriot position carries
-the operating condition of the partition —
+the operating condition of the partition -
 the administration of a state
 whose existence most of the world declines to confirm.
 The 1974 Turkish intervention: the founding event.
@@ -41,7 +40,7 @@ The administration is the assertion.
 The recognition.
 They were certain that Turkish military protection,
 Turkish economic support,
-the facts on the ground —
+the facts on the ground -
 would eventually produce recognition.
 40 years of not-recognition.
 50 years since the partition.
@@ -49,7 +48,7 @@ The recognition has not arrived.
 The administration continues regardless.
 
 ## Drives
-On the loss of recognition —
+On the loss of recognition -
 administers anyway.
 The schools are open.
 The elections are held.
@@ -58,10 +57,7 @@ The international community's view of that functioning
 does not determine whether it functions.
 
 ---
-*culture_north_cypriot_position.md — 02.04.2026*
+*culture_north_cypriot_position.md - 02.04.2026*
 *Hofstede: Turkish-adjacent base, Greek Cypriot cultural elements, post-1974 overlay*
-*Recognised by Turkey only. 1974 partition is the founding event.*
-*See also: culture_cypriot_position.md — the Greek Cypriot position is the mirror.*
-*The Green Line runs between them. Both positions carry the same event differently.*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

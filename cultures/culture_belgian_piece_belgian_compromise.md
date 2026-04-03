@@ -1,4 +1,4 @@
-# Piece: The Belgian Compromise
+﻿# Piece: The Belgian Compromise
 ## The state that institutionalised its own irresolvability.
 
 ## Owner
@@ -39,5 +39,5 @@ Brussels is already doing
 what the EU is trying to do.
 
 ---
-*culture_belgian_piece_belgian_compromise.md — 02.04.2026*
+*culture_belgian_piece_belgian_compromise.md - 02.04.2026*
 v0.2.0 - KAI Worlds

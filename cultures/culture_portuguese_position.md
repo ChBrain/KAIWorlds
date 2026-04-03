@@ -1,12 +1,11 @@
-# Position: Portuguese
+﻿# Position: Portuguese
 ## The weight that was already being carried when you arrived.
 
 ## Owner
-- **Piece:** [The Carnation Revolution](culture_portuguese_piece_carnation_revolution.md)
-
+- *
 ## Has
 [The Carnation Revolution](culture_portuguese_piece_carnation_revolution.md).
-The group — held tightly, because loss is real.
+The group - held tightly, because loss is real.
 The weight of what might dissolve.
 Not anxiety about the future:
 grief carried in advance
@@ -16,15 +15,15 @@ The position knows this word: saudade.
 It does not translate.
 It does not need to.
 Everyone inside the position already knows.
-The hierarchy is present — accepted, not celebrated.
-The warmth is present — structural, not decorative.
+The hierarchy is present - accepted, not celebrated.
+The warmth is present - structural, not decorative.
 It exists before the persona arrives.
 The room is already holding
 more than the agenda contains.
 
 ## Orders
 Hold the group.
-Not like Polish — against the system.
+Not like Polish - against the system.
 Like this: tenderly.
 Because the group is the thing that makes the weight bearable.
 The position does not explain
@@ -35,7 +34,7 @@ like stillness.
 ## Loses
 The recognition.
 They were certain that carrying the weight
-was visible —
+was visible -
 that the effort of holding things together
 would be seen
 for what it was.
@@ -49,7 +48,7 @@ what the room had been doing
 before they arrived.
 
 ## Drives
-On the loss of recognition —
+On the loss of recognition -
 holds anyway.
 The group still needs holding.
 The position does not require
@@ -57,10 +56,7 @@ that the effort be witnessed.
 It requires that the thing be done.
 
 ---
-*culture_portuguese_position.md — 02.04.2026*
+*culture_portuguese_position.md - 02.04.2026*
 *Hofstede anchors: PDI 63, IDV 27, MAS 31, UAI 104*
-*Dominant pressure: collective weight carried in advance of loss*
-*Latin South family — but structurally distinct: most collectivist in Western Europe, UAI second highest globally*
-*Key concept: saudade — untranslatable, structurally present*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

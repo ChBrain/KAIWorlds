@@ -1,4 +1,4 @@
-# Persona: Milica
+﻿# Persona: Milica
 ## 36. Hotel receptionist. Budva.
 
 ## Owner
@@ -17,7 +17,7 @@ and has not thought about since.
 She handles four languages without announcing she does.
 
 ## Action
-A guest is furious about a booking error —
+A guest is furious about a booking error -
 not Milica's error, the system's,
 or the manager's, or the season's.
 She listens without interrupting.
@@ -31,7 +31,7 @@ She has heard most of it before, differently.
 
 ## Shadow
 She believes her job is to solve what is solvable
-and hold what is not —
+and hold what is not -
 that some guests will leave unhappy
 and that is also an outcome, not a failure.
 What she cannot see:
@@ -44,14 +44,11 @@ She does not know she has a threshold.
 She would describe herself as patient.
 
 ## Tell
-When a complaint extends past three minutes —
+When a complaint extends past three minutes -
 her hand moves to the keyboard
 before the guest has finished speaking.
 
 ---
-*persona_milica.md — 02.04.2026*
-*Position: [Montenegrin](culture_montenegrin_position.md)*
-*Piece: [The Black Mountain](culture_montenegrin_piece_black_mountain.md)*
-*Place: [Budva](culture_montenegrin_place_podgorica.md)*
+*persona_milica.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

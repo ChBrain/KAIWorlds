@@ -1,4 +1,4 @@
-# Piece: The Monaco Grand Prix
+﻿# Piece: The Monaco Grand Prix
 ## The race that runs through the streets of the state.
 
 ## Owner
@@ -22,9 +22,9 @@ The principality remains.
 The race is the one moment each year
 when Monaco abandons discretion
 and makes the wealth the display.
-Remove it and Monaco's operating logic —
+Remove it and Monaco's operating logic -
 wealth that maintains itself through visibility
-controlled by the Grimaldis —
+controlled by the Grimaldis -
 loses its annual proof of concept.
 
 ## Apparent
@@ -55,8 +55,6 @@ The arrangement adjusts.
 The race continues.
 
 ---
-*culture_monacan_piece_formula_1.md — 02.04.2026*
-*Position: [Monacan](culture_monacan_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_monacan_piece_formula_1.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

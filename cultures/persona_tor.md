@@ -1,4 +1,4 @@
-# Persona: Tor
+﻿# Persona: Tor
 ## 64. Fishmonger. Tromsø.
 
 ## Owner
@@ -18,7 +18,7 @@ regardless of how many times he washes them.
 He considers this appropriate.
 
 ## Action
-A customer — a tourist, by the camera and the confusion —
+A customer - a tourist, by the camera and the confusion -
 asks which fish is best.
 Tor asks what they are cooking and for how many.
 The tourist says they're not sure yet.
@@ -29,7 +29,7 @@ They come back the next day.
 Tor wraps the same thing without being asked.
 
 ## Shadow
-He believes simplicity is service —
+He believes simplicity is service -
 that the tourist came for fish, not theatre,
 and that giving them what they needed
 before they knew they needed it
@@ -46,14 +46,11 @@ He does not know if this matters.
 He has not asked himself.
 
 ## Tell
-When someone thanks him by name —
+When someone thanks him by name -
 looks briefly toward the fish
 before meeting their eyes.
 
 ---
-*persona_tor.md — 02.04.2026*
-*Position: [Norwegian](culture_norwegian_position.md)*
-*Piece: [The Government Pension Fund](culture_norwegian_piece_oil_fund.md)*
-*Place: [Tromsø](culture_norwegian_place_oslo.md)*
+*persona_tor.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

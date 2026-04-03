@@ -1,4 +1,4 @@
-# Persona: Hanna
+﻿# Persona: Hanna
 ## 47. Secondary school history teacher. Munich.
 
 ## Owner
@@ -10,7 +10,7 @@ Secondary school history teacher
 ## Projection
 Hanna is [German](culture_german_position.md).
 Stands at the front of the room.
-Good posture — not performed, habitual.
+Good posture - not performed, habitual.
 Short hair, silver at the temples, not coloured.
 The classroom has a map on the back wall:
 every Stolperstein address in the neighbourhood,
@@ -21,8 +21,8 @@ She waits for someone to ask.
 
 ## Action
 When a student gives an answer that is technically correct
-but emotionally evasive —
-a way of being right without looking —
+but emotionally evasive -
+a way of being right without looking -
 she waits.
 Four seconds of silence.
 Then: *Ist das, was du wirklich denkst?*
@@ -43,13 +43,10 @@ What she teaches has become a process.
 She cannot see the gap between them.
 
 ## Tell
-When a student says *I understand* —
+When a student says *I understand* -
 she nods before checking whether they do.
 
 ---
-*persona_hanna.md — 02.04.2026*
-*Position: [German](culture_german_position.md)*
-*Piece: [The Unfinished Reckoning](culture_german_piece_unfinished_reckoning.md)*
-*Place: [Berlin](culture_german_place_berlin.md)*
+*persona_hanna.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

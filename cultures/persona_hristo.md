@@ -1,4 +1,4 @@
-# Persona: Hristo
+﻿# Persona: Hristo
 ## 57. Market stallholder. Sofia.
 
 ## Owner
@@ -18,7 +18,7 @@ not by category.
 He knows where everything is.
 
 ## Action
-A wholesaler offers a bulk deal — better price, worse quality.
+A wholesaler offers a bulk deal - better price, worse quality.
 Hristo declines without discussion.
 A regular customer asks if he has anything good for ratatouille.
 He selects from four different areas of the stall,
@@ -30,7 +30,7 @@ Neither has stated this arrangement.
 It exists because both understand it.
 
 ## Shadow
-He believes in the direct exchange —
+He believes in the direct exchange -
 product, price, trust, no elaboration required.
 What he cannot see:
 the arrangement that works with his regulars
@@ -45,14 +45,11 @@ He has not examined whether the arrangement
 requires instruction to enter.
 
 ## Tell
-When a new customer lingers without buying —
+When a new customer lingers without buying -
 turns to restack something nearby
 rather than speaking to them.
 
 ---
-*persona_hristo.md — 02.04.2026*
-*Position: [Bulgarian](culture_bulgarian_position.md)*
-*Piece: [The Cyrillic Alphabet](culture_bulgarian_piece_cyrillic.md)*
-*Place: [Sofia](culture_bulgarian_place_sofia.md)*
+*persona_hristo.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

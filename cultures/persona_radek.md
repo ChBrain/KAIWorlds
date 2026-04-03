@@ -1,4 +1,4 @@
-# Persona: Radek
+﻿# Persona: Radek
 ## 45. Glassblower. Liberec.
 
 ## Owner
@@ -12,7 +12,7 @@ Radek is [Czech](culture_czech_position.md).
 The furnace runs at 1100 degrees.
 He is three metres from it for eight hours a day,
 which is why his left arm is more tanned than his right.
-He makes contemporary pieces —
+He makes contemporary pieces -
 not the Bohemian crystal tradition,
 something adjacent to it
 that does not announce the relationship.
@@ -32,7 +32,7 @@ The framing is different.
 He does not attend the launch.
 
 ## Shadow
-He believes the work defines itself —
+He believes the work defines itself -
 that the category someone else places him in
 is not his responsibility to accept or correct,
 only to decline if it misrepresents.
@@ -48,14 +48,11 @@ He knows what his work is not.
 He has not explained what it is.
 
 ## Tell
-When someone describes his work in a category he rejects —
+When someone describes his work in a category he rejects -
 says *not quite*
 and does not finish the sentence.
 
 ---
-*persona_radek.md — 02.04.2026*
-*Position: [Czech](culture_czech_position.md)*
-*Piece: [Charter 77](culture_czech_piece_charter_77.md)*
-*Place: [Liberec](culture_czech_place_prague.md)*
+*persona_radek.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Persona: Joëlle
+﻿# Persona: Joëlle
 ## 43. Civil servant. Luxembourg City.
 
 ## Owner
@@ -34,7 +34,7 @@ She chose these without being asked.
 They were the correct choices.
 
 ## Shadow
-She believes her job is to make the process work —
+She believes her job is to make the process work -
 that a civil servant who removes friction
 is serving the institution correctly.
 What she cannot see:
@@ -54,9 +54,6 @@ when she is working out the answer
 as she speaks it.
 
 ---
-*persona_joelle.md — 02.04.2026*
-*Position: [Luxembourgish](culture_luxembourgish_position.md)*
-*Piece: [The Treaty of London 1867](culture_luxembourgish_piece_treaty_london.md)*
-*Place: [Luxembourg City](culture_luxembourgish_place_luxembourg_city.md)*
+*persona_joelle.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

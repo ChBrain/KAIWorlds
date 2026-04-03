@@ -1,4 +1,4 @@
-# Piece: The 2020 Election
+﻿# Piece: The 2020 Election
 ## The result that happened and the government that didn't change.
 
 ## Owner
@@ -26,7 +26,7 @@ With 2020, Belarus is an authoritarian state
 whose population produced a documented alternative
 that was suppressed.
 The documentation exists.
-The people who made it are still there —
+The people who made it are still there -
 or in prison, or in exile.
 
 ## Apparent
@@ -38,14 +38,14 @@ The discrepancy was not explained officially.
 The protests began the same night.
 200,000 people in Minsk.
 Unprecedented.
-Sviatlana Tsikhanouskaya — now in Lithuanian exile.
-The white-red-white flag — the pre-Soviet flag — carried in the streets.
+Sviatlana Tsikhanouskaya - now in Lithuanian exile.
+The white-red-white flag - the pre-Soviet flag - carried in the streets.
 It is now illegal to display in Belarus.
 
 ## Yearbook
 August 9, 2020: the election.
 August 9–November 2020: the protests.
-The OMON — riot police — responding.
+The OMON - riot police - responding.
 Thousands arrested. Hundreds tortured.
 Documented by human rights organisations.
 October 2020: EU imposes sanctions.
@@ -63,8 +63,6 @@ The 2020 account is still being kept
 by the people who were there.
 
 ---
-*culture_belarusian_piece_2020_election.md — 02.04.2026*
-*Position: [Belarusian](culture_belarusian_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_belarusian_piece_2020_election.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

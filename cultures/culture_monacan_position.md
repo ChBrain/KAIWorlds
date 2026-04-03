@@ -1,9 +1,8 @@
-# Position: Monacan
+﻿# Position: Monacan
 ## The principality that runs on wealth and discretion.
 
 ## Owner
-- **Piece:** [The Monaco Grand Prix](culture_monacan_piece_formula_1.md)
-
+- *
 ## Has
 [The Monaco Grand Prix](culture_monacan_piece_formula_1.md).
 The principality. The Grimaldi family since 1297.
@@ -33,7 +32,7 @@ The principality adjusts.
 It has been adjusting since 1297.
 
 ## Drives
-On the loss of invisibility —
+On the loss of invisibility -
 adjusts the arrangement.
 The Grimaldis have held this territory for 727 years
 through many arrangements.
@@ -41,8 +40,7 @@ The current one will also be adjusted.
 The principality continues.
 
 ---
-*culture_monacan_position.md — 02.04.2026*
-*Hofstede: no official data — French-adjacent, estimated PDI moderate, IDV high, MAS high (wealth visible)*
-*Not EU member. Dominant pressure: wealth and discretion under increasing transparency pressure.*
+*culture_monacan_position.md - 02.04.2026*
+*Hofstede: no official data - French-adjacent, estimated PDI moderate, IDV high, MAS high (wealth visible)*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

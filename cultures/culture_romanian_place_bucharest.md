@@ -1,9 +1,8 @@
-# Place: Bucharest
+﻿# Place: Bucharest
 ## Location: Romania
 
 ## Owner
-- **Position:** [Romanian](culture_romanian_position.md)
-
+- *
 ## Shown
 - Revolution Square. The balcony of the former Central Committee building.
 - The Palace of the Parliament. Second largest building in the world by floor area. Built by Ceaușescu.
@@ -11,19 +10,17 @@
 - The Dâmbovița river. Running through the city, mostly channelled underground.
 
 ## Holds
-- The Romania position — [Romanian](culture_romanian_position.md)
+- The Romania position - [Romanian](culture_romanian_position.md)
 - [1989 Revolution](culture_romanian_piece_1989_revolution.md)
 
 ## Offers
 - The room where the Romania position does its daily work.
-- [The World is Spinning](process_world_is_spinning.md) — runs here daily.
+- [The World is Spinning](process_world_is_spinning.md) - runs here daily.
 
 ## Withheld
 - The private account. Kept internally since before 1989. Not displayed.
 
 ---
-*culture_romanian_place_bucharest.md — 02.04.2026*
-*Position: [Romanian](culture_romanian_position.md)*
-*Piece: [The Revolution of 1989](culture_romanian_piece_1989_revolution.md)*
+*culture_romanian_place_bucharest.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

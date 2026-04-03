@@ -1,9 +1,8 @@
-# Position: Cypriot
+﻿# Position: Cypriot
 ## The island that holds two unresolved positions simultaneously.
 
 ## Owner
-- **Piece:** [The 1960 Constitution](culture_cypriot_piece_1960_constitution.md)
-
+- *
 ## Has
 [The 1960 Constitution](culture_cypriot_piece_1960_constitution.md).
 Note: This file describes the Greek Cypriot position.
@@ -14,12 +13,12 @@ The partition is real. It is not named here
 as a political statement but as a structural fact
 the position carries before anyone speaks.
 
-The Greek base — collectivist, high UAI,
+The Greek base - collectivist, high UAI,
 argument as shelter, hierarchy present.
-The British layer — Common law,
+The British layer - Common law,
 English as working language,
 institutional administrative legacy.
-The island specificity — small, visible,
+The island specificity - small, visible,
 everyone knows everyone,
 the Mediterranean warmth structural.
 And the partition:
@@ -42,14 +41,14 @@ be addressed in every room.
 It requires that the persona
 be able to function in the ordinary
 while carrying what is not ordinary.
-The schools, the businesses, the families, the elections —
+The schools, the businesses, the families, the elections -
 these continue.
 The carrying continues alongside.
 
 ## Loses
 The resolution.
 They were certain that the situation
-was temporary — that the international community,
+was temporary - that the international community,
 the UN, the EU, would produce a resolution.
 Fifty years of not-resolution
 have recalibrated the expectation.
@@ -60,7 +59,7 @@ This is not acceptance.
 It is the adjustment that survival requires.
 
 ## Drives
-On the loss of resolution —
+On the loss of resolution -
 continues.
 The island is still there.
 The life is still being lived on it.
@@ -69,11 +68,8 @@ to begin.
 It has not waited since 1974.
 
 ---
-*culture_cypriot_position.md — 02.04.2026*
+*culture_cypriot_position.md - 02.04.2026*
 *Hofstede anchors: PDI 35, IDV 75, MAS 57, UAI 85, IVR 75*
 *Note: Hofstede scores reflect Greek Cypriot sample; Turkish Cypriot position is a separate file not yet built*
-*Dominant pressure: ordinary life continued alongside unresolved geopolitical partition*
-*Greek family base with British colonial layer and island specificity*
-*The partition (1974) is a structural fact of the position, not a political framing*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

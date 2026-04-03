@@ -1,4 +1,4 @@
-# Persona: Aino
+﻿# Persona: Aino
 ## 46. School nurse. Tampere.
 
 ## Owner
@@ -19,7 +19,7 @@ They are not uncomfortable.
 She has made them not uncomfortable.
 
 ## Action
-A teenage boy comes in — stomach ache, probably not a stomach ache.
+A teenage boy comes in - stomach ache, probably not a stomach ache.
 Aino takes the stomach ache seriously.
 She asks three questions about the stomach ache.
 Then she is quiet.
@@ -34,7 +34,7 @@ after he leaves,
 without telling him she is going to.
 
 ## Shadow
-She believes the quiet is the tool —
+She believes the quiet is the tool -
 that the space she makes is what allows
 what cannot be said directly to find its way out.
 What she cannot see:
@@ -48,14 +48,11 @@ She has built a room where others speak
 and furnished it with her own disappearance.
 
 ## Tell
-When a colleague asks how her weekend was —
+When a colleague asks how her weekend was -
 answers in one sentence
 and asks about theirs before they respond.
 
 ---
-*persona_aino.md — 02.04.2026*
-*Position: [Finnish](culture_finnish_position.md)*
-*Piece: [The Winter War](culture_finnish_piece_winter_war.md)*
-*Place: [Tampere](culture_finnish_place_helsinki.md)*
+*persona_aino.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

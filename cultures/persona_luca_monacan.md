@@ -1,4 +1,4 @@
-# Persona: Luca
+﻿# Persona: Luca
 ## 52. Funeral director. Monaco.
 
 ## Owner
@@ -17,7 +17,7 @@ He will take most of these things to his own grave.
 This is not a metaphor. It is the job.
 
 ## Action
-A family wants a ceremony that is —
+A family wants a ceremony that is -
 they do not have the word for what they want.
 They describe it.
 Luca listens.
@@ -35,7 +35,7 @@ Luca thanks him.
 He does not say more.
 
 ## Shadow
-He believes discretion is the complete ethic of his work —
+He believes discretion is the complete ethic of his work -
 that holding what families give him without using it
 is the fundamental obligation.
 What he cannot see:
@@ -52,9 +52,6 @@ when a family begins telling him something
 he has heard before.
 
 ---
-*persona_luca_monacan.md — 02.04.2026*
-*Position: [Monacan](culture_monacan_position.md)*
-*Piece: [The Monaco Grand Prix](culture_monacan_piece_formula_1.md)*
-*Place: [Monaco](culture_monacan_place_monaco.md)*
+*persona_luca_monacan.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

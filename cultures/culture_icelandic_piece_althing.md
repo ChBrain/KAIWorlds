@@ -1,4 +1,4 @@
-# Piece: The Althing
+﻿# Piece: The Althing
 ## The parliament that has been meeting since 930 AD.
 
 ## Owner
@@ -9,7 +9,7 @@ Reykjavík. The Althing building. Also: Þingvellir National Park.
 
 ## Load Bearing
 Remove it and Icelandic consensus loses its 1,100-year operating record.
-The Althing is not a monument — it is a practice.
+The Althing is not a monument - it is a practice.
 The small society has been managing its own visibility
 through this mechanism since 930 AD.
 
@@ -44,5 +44,5 @@ decided, collectively, how to survive.
 1,100 years of practice helped.
 
 ---
-*culture_icelandic_piece_althing.md — 02.04.2026*
+*culture_icelandic_piece_althing.md - 02.04.2026*
 v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Persona: Vuk
+﻿# Persona: Vuk
 ## 58. Shepherd. Nikšić.
 
 ## Owner
@@ -12,7 +12,7 @@ Vuk is [Montenegrin](culture_montenegrin_position.md).
 Three hundred and forty sheep.
 He knows the number because he counts them
 every morning and every evening.
-Not from anxiety — from practice.
+Not from anxiety - from practice.
 The mountain behind the winter pasture
 has a name that appears on no map.
 He uses it anyway.
@@ -20,7 +20,7 @@ His father used it. His grandfather used it.
 
 ## Action
 A government agricultural officer visits
-to discuss the new subsidy programme —
+to discuss the new subsidy programme -
 forms, compliance requirements, inspections.
 Vuk listens.
 He asks two questions, both practical.
@@ -36,7 +36,7 @@ Technically both things are true.
 
 ## Shadow
 He believes the land and the flock determine the method,
-not the form —
+not the form -
 that the form is for the office
 and the office does not know this mountain.
 What he cannot see:
@@ -52,14 +52,11 @@ Vuk has been operating inside a tolerance
 that exists entirely in one person's discretion.
 
 ## Tell
-When an official asks a question about his practices —
+When an official asks a question about his practices -
 answers what the question was
 rather than what prompted it.
 
 ---
-*persona_vuk.md — 02.04.2026*
-*Position: [Montenegrin](culture_montenegrin_position.md)*
-*Piece: [The Black Mountain](culture_montenegrin_piece_black_mountain.md)*
-*Place: [Nikšić](culture_montenegrin_place_podgorica.md)*
+*persona_vuk.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Persona: Inta
+﻿# Persona: Inta
 ## 47. Music teacher. Jūrmala.
 
 ## Owner
@@ -19,7 +19,7 @@ In the meantime she builds the lessons around the middle register.
 The students do not know the top notes are wrong.
 
 ## Action
-A student — fourteen, talented, difficult —
+A student - fourteen, talented, difficult -
 refuses to practise the piece Inta has assigned.
 He says it is boring.
 Inta does not argue.
@@ -34,28 +34,25 @@ He practises the assigned piece for three weeks.
 She does not mention the conversation again.
 
 ## Shadow
-She believes music is the argument —
+She believes music is the argument -
 that the work makes the case better than she can
 and her job is to set up the conditions.
 What she cannot see:
 the student who responded to this
 is the student she will remember.
-The others — the ones who practised without question,
-who played correctly and felt nothing —
+The others - the ones who practised without question,
+who played correctly and felt nothing -
 she has given them technique.
 She does not know what to give them beyond that.
 She has never tried the same method with them.
 She has decided, without deciding, that it would not work.
 
 ## Tell
-When a diligent student plays correctly —
+When a diligent student plays correctly -
 says *good*
 and moves to the next bar.
 
 ---
-*persona_inta.md — 02.04.2026*
-*Position: [Latvian](culture_latvian_position.md)*
-*Piece: [The Song and Dance Festival](culture_latvian_piece_song_festival.md)*
-*Place: [Jūrmala](culture_latvian_place_riga.md)*
+*persona_inta.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

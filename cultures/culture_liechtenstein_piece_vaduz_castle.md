@@ -1,4 +1,4 @@
-# Piece: Vaduz Castle
+﻿# Piece: Vaduz Castle
 ## The castle that is still a residence, not a museum.
 
 ## Owner
@@ -26,7 +26,7 @@ that 300 years of princely continuity provides.
 
 ## Apparent
 A medieval castle. Above Vaduz.
-The Princely House of Liechtenstein — resident since 1938.
+The Princely House of Liechtenstein - resident since 1938.
 Before 1938, the family owned Liechtenstein
 but lived in Vienna.
 Closed to the public.
@@ -39,7 +39,7 @@ The public can see the flag.
 The family needed a territory with imperial vote.
 Liechtenstein was the cheapest option.
 They bought it. They rarely visited.
-1938: the family moves to Vaduz — fleeing the Anschluss.
+1938: the family moves to Vaduz - fleeing the Anschluss.
 For the first time, the Princes actually live in Liechtenstein.
 1984: Prince Hans-Adam II takes over.
 He holds a referendum on his own veto rights.
@@ -51,8 +51,6 @@ The castle flag still flies.
 The arrangement still holds.
 
 ---
-*culture_liechtenstein_piece_vaduz_castle.md — 02.04.2026*
-*Position: [Liechtenstein](culture_liechtenstein_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_liechtenstein_piece_vaduz_castle.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

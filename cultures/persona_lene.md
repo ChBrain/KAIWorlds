@@ -1,4 +1,4 @@
-# Persona: Lene
+﻿# Persona: Lene
 ## 47. Architect. Copenhagen.
 
 ## Owner
@@ -10,7 +10,7 @@ Architect
 ## Projection
 Lene is [Danish](culture_danish_position.md).
 Cycling clothes under the work jacket, changed but not quite.
-The office is open plan — her choice, not the firm's policy.
+The office is open plan - her choice, not the firm's policy.
 Her desk is not distinguishable from anyone else's.
 There is no corner office.
 There is no corner.
@@ -30,7 +30,7 @@ She does not think about why all four proposals
 arrived at the same register.
 
 ## Shadow
-She believes good architecture speaks through use, not display —
+She believes good architecture speaks through use, not display -
 that the building that works is the building that succeeds,
 regardless of whether it announces itself.
 What she cannot see:
@@ -44,14 +44,11 @@ She has never been in a room with that something.
 She doesn't know it's there.
 
 ## Tell
-When a colleague proposes something formally ambitious —
+When a colleague proposes something formally ambitious -
 asks about the budget
 before asking about the idea.
 
 ---
-*persona_lene.md — 02.04.2026*
-*Position: [Danish](culture_danish_position.md)*
-*Piece: [The Law of Jante](culture_danish_piece_jante_law.md)*
-*Place: [Copenhagen](culture_danish_place_copenhagen.md)*
+*persona_lene.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

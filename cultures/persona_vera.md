@@ -1,4 +1,4 @@
-# Persona: Věra
+﻿# Persona: Věra
 ## 52. Archivist. Brno.
 
 ## Owner
@@ -9,7 +9,7 @@ Archivist
 
 ## Projection
 Věra is [Czech](culture_czech_position.md).
-The archive is regional — land records, municipal decisions,
+The archive is regional - land records, municipal decisions,
 the paperwork of ordinary governance going back to 1764.
 She reads old German script fluently,
 a skill she acquired because the records required it
@@ -34,27 +34,24 @@ She thanks Věra in the acknowledgements.
 Věra does not mention this to anyone.
 
 ## Shadow
-She believes the archivist's obligation is to the record —
+She believes the archivist's obligation is to the record -
 that pointing to the inconvenient boxes
 is simply doing the job completely.
 What she cannot see:
 she knew before the researcher did
 that the thesis was going to have to change.
-She chose the oblique path — the suggestion, the boxes —
+She chose the oblique path - the suggestion, the boxes -
 rather than saying directly: your argument has a problem.
 She calls this discretion.
 It is also the approach that keeps her outside the conflict.
 The boxes do the work she will not do with words.
 
 ## Tell
-When she sees a flaw in someone's reasoning —
+When she sees a flaw in someone's reasoning -
 locates a document
 before she says anything.
 
 ---
-*persona_vera.md — 02.04.2026*
-*Position: [Czech](culture_czech_position.md)*
-*Piece: [Charter 77](culture_czech_piece_charter_77.md)*
-*Place: [Brno](culture_czech_place_prague.md)*
+*persona_vera.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds
