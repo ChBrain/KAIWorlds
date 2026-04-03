@@ -1,4 +1,4 @@
-# Persona: Giorgi
+﻿# Persona: Giorgi
 ## 57. Stone carver. Kutaisi.
 
 ## Owner
@@ -9,8 +9,8 @@ Stone carver
 
 ## Projection
 Giorgi is [Georgian](culture_georgian_position.md).
-He carves the same motifs his teacher carved —
-vine, pomegranate, the Bolnisi cross —
+He carves the same motifs his teacher carved -
+vine, pomegranate, the Bolnisi cross -
 with additions that are recognisably his
 if you know the tradition well enough to see the addition.
 The studio is in a building that was a workshop
@@ -20,7 +20,7 @@ He breathes it regardless of the mask.
 The mask is for the visitors.
 
 ## Action
-A church restoration project — medieval, significant.
+A church restoration project - medieval, significant.
 He is asked to replace three carved panels
 that were damaged beyond preservation.
 He studies the surviving panels for two weeks before he begins.
@@ -32,7 +32,7 @@ He is not satisfied.
 He keeps photographs of the original fragments.
 
 ## Shadow
-He believes the tradition is alive —
+He believes the tradition is alive -
 that what he makes is in conversation with what was made,
 not a copy of it,
 and the conversation is the point.
@@ -47,14 +47,11 @@ He has been dissatisfied with his best work for thirty years
 and has called this high standards.
 
 ## Tell
-When someone praises the restoration panels —
+When someone praises the restoration panels -
 mentions the original fragments
 within two sentences.
 
 ---
-*persona_giorgi.md — 02.04.2026*
-*Position: [Georgian](culture_georgian_position.md)*
-*Piece: [The Georgian Script](culture_georgian_piece_georgian_script.md)*
-*Place: [Kutaisi](culture_georgian_place_tbilisi.md)*
+*persona_giorgi.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

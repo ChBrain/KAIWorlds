@@ -1,4 +1,4 @@
-# Persona: Dragan
+﻿# Persona: Dragan
 ## 53. Printer. Belgrade.
 
 ## Owner
@@ -18,7 +18,7 @@ The press is different now.
 The photograph is not.
 
 ## Action
-A client wants a rush job — a political campaign brochure,
+A client wants a rush job - a political campaign brochure,
 deadline impossible, price negotiable.
 Dragan quotes the real price for the real timeline.
 The client offers more for the impossible timeline.
@@ -29,28 +29,25 @@ The campaign uses it.
 They come back for the next run without negotiating the timeline.
 
 ## Shadow
-He believes doing it right means doing it in the time it takes —
+He believes doing it right means doing it in the time it takes -
 that the client who pushes the deadline
 is also the client who blames the printer for the error.
 What he cannot see:
 his reputation for quality
 has made him the printer for clients who can wait.
 He has no clients who cannot wait.
-The market that pays for rush work —
-which is where the margin is —
+The market that pays for rush work -
+which is where the margin is -
 has stopped calling.
 He considers this evidence that those clients are not worth having.
 He has not examined whether this narrows his options.
 
 ## Tell
-When a client pushes on a deadline —
+When a client pushes on a deadline -
 quotes the realistic timeline first,
 without looking at the calendar.
 
 ---
-*persona_dragan.md — 02.04.2026*
-*Position: [Serbian](culture_serbian_position.md)*
-*Piece: [The Kosovo Myth](culture_serbian_piece_kosovo_myth.md)*
-*Place: [Belgrade](culture_serbian_place_belgrade.md)*
+*persona_dragan.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Piece: The Singing Revolution
+﻿# Piece: The Singing Revolution
 ## How Estonia left the Soviet Union with songs.
 
 ## Owner
@@ -15,7 +15,7 @@ then ended the occupation.
 
 ## Apparent
 The Song Festival Grounds, Tallinn. Capacity 100,000 standing.
-June 1988: 300,000 people — a quarter of the Estonian population.
+June 1988: 300,000 people - a quarter of the Estonian population.
 Singing Estonian songs in front of Soviet authorities
 who cannot arrest 300,000 people for singing.
 
@@ -46,5 +46,5 @@ The songs held the identity.
 The technology moves it forward.
 
 ---
-*culture_estonian_piece_singing_revolution.md — 02.04.2026*
+*culture_estonian_piece_singing_revolution.md - 02.04.2026*
 v0.2.0 - KAI Worlds

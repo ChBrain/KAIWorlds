@@ -1,4 +1,4 @@
-# Piece: The Black Mountain
+﻿# Piece: The Black Mountain
 ## The terrain that became the national identity.
 
 ## Owner
@@ -6,7 +6,7 @@
 
 ## Place
 Podgorica. The national capital.
-Also: Mount Lovćen — the mountain above Cetinje,
+Also: Mount Lovćen - the mountain above Cetinje,
 the old royal capital.
 The Njegoš Mausoleum on the summit.
 1,749 metres. Visible from the Adriatic.
@@ -24,16 +24,16 @@ With it, Montenegro is the place that held.
 
 ## Apparent
 Mount Lovćen. 1,749 metres.
-The Njegoš Mausoleum — the national poet-prince, entombed at the summit.
+The Njegoš Mausoleum - the national poet-prince, entombed at the summit.
 Carved into the rock. Accessible by 461 steps.
 The view: the Adriatic, the Bay of Kotor,
 the interior mountains.
-The name Montenegro — the Venetian rendering of Crna Gora,
+The name Montenegro - the Venetian rendering of Crna Gora,
 Black Mountain.
 The name in use since the 15th century.
 
 ## Yearbook
-Medieval period: Zeta — the precursor state.
+Medieval period: Zeta - the precursor state.
 Ottoman expansion reaches the Balkans.
 Most of the Balkans falls.
 The mountainous interior of Montenegro holds.
@@ -52,8 +52,6 @@ The margin was narrow.
 The mountain was not.
 
 ---
-*culture_montenegrin_piece_black_mountain.md — 02.04.2026*
-*Position: [Montenegrin](culture_montenegrin_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_montenegrin_piece_black_mountain.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

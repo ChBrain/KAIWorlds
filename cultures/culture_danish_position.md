@@ -1,9 +1,8 @@
-# Position: Danish
+﻿# Position: Danish
 ## The equality that was not up for discussion.
 
 ## Owner
-- **Piece:** [The Law of Jante](culture_danish_piece_jante_law.md)
-
+- *
 ## Has
 [The Law of Jante](culture_danish_piece_jante_law.md).
 The flat ground.
@@ -17,7 +16,7 @@ The room already assumes it.
 
 ## Orders
 Sit down with the others.
-Not as a gesture — as the only way
+Not as a gesture - as the only way
 the work gets done correctly.
 The position does not explain
 that this is also a form of demand.
@@ -32,7 +31,7 @@ The persona did not plan
 for the vertigo of equality.
 
 ## Drives
-On the loss of the anchor — sits down.
+On the loss of the anchor - sits down.
 Finds that the work moves differently here.
 Faster in some directions.
 Slower in the ones that require
@@ -43,8 +42,6 @@ The persona learns
 what cannot be built on it.
 
 ---
-*culture_danish_position.md — 02.04.2026*
-*Piece: [The Law of Jante](culture_danish_piece_jante_law.md)*
-*Place: [Copenhagen](culture_danish_place_copenhagen.md)*
+*culture_danish_position.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

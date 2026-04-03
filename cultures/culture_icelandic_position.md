@@ -1,15 +1,14 @@
-# Position: Icelandic
+﻿# Position: Icelandic
 ## The consensus that also knew how to celebrate.
 
 ## Owner
-- **Piece:** [The Althing](culture_icelandic_piece_althing.md)
-
+- *
 ## Has
 [The Althing](culture_icelandic_piece_althing.md).
-The Nordic base — low power distance,
+The Nordic base - low power distance,
 individualist, feminine values, consensus orientation.
 Shared with Norway in profile.
-One divergence: high indulgence — IVR 81.
+One divergence: high indulgence - IVR 81.
 The isolation of the island
 produced something the mainland Nordic
 did not need to develop:
@@ -50,7 +49,7 @@ is both more demanding
 and more sustaining than expected.
 
 ## Drives
-On the loss of anonymity —
+On the loss of anonymity -
 becomes known.
 The position does not offer
 the refuge of professional distance.
@@ -60,9 +59,7 @@ the experience of being genuinely located
 in a community that will remember.
 
 ---
-*culture_icelandic_position.md — 02.04.2026*
+*culture_icelandic_position.md - 02.04.2026*
 *Hofstede anchors: PDI low, IDV high, MAS low, UAI moderate, IVR 81 (high indulgence)*
-*Dominant pressure: small-society full visibility — consensus and celebration simultaneous*
-*Nordic family — closest to Norwegian but diverges through high indulgence and island isolation*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

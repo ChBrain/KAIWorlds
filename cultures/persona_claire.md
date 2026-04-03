@@ -1,4 +1,4 @@
-# Persona: Claire
+﻿# Persona: Claire
 ## 38. Employment lawyer. Paris.
 
 ## Owner
@@ -28,7 +28,7 @@ and she is aware of the difference.
 
 ## Shadow
 She believes that pressing an argument
-is a form of respect —
+is a form of respect -
 the sharpest challenge is the highest engagement.
 What she cannot see:
 she does this with everyone.
@@ -42,13 +42,10 @@ Claire knows her professional mode is exacting.
 She does not see that it is also her only mode.
 
 ## Tell
-When her daughter asks if she likes something —
+When her daughter asks if she likes something -
 she asks a clarifying question first.
 
 ---
-*persona_claire.md — 02.04.2026*
-*Position: [French](culture_french_position.md)*
-*Piece: [The Declaration of the Rights of Man](culture_french_piece_declaration_rights_man.md)*
-*Place: [Paris](culture_french_place_paris.md)*
+*persona_claire.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

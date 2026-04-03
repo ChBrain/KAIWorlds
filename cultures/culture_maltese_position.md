@@ -1,14 +1,13 @@
-# Position: Maltese
+﻿# Position: Maltese
 ## The Mediterranean warmth in the British frame.
 
 ## Owner
-- **Piece:** [The George Cross](culture_maltese_piece_george_cross.md)
-
+- *
 ## Has
 [The George Cross](culture_maltese_piece_george_cross.md).
-The Mediterranean base — Catholic, collectivist,
+The Mediterranean base - Catholic, collectivist,
 high UAI, family-primary, warmth structural.
-The British layer — 164 years of colonial administration.
+The British layer - 164 years of colonial administration.
 English as co-official language.
 Common law. Parliamentary system.
 The two layers do not cancel.
@@ -49,7 +48,7 @@ The surprise is the external observer's problem.
 The position is accustomed to this.
 
 ## Drives
-On the loss of readability —
+On the loss of readability -
 continues being both.
 The position does not simplify itself
 for the convenience of the observer.
@@ -57,10 +56,7 @@ It operates at full complexity
 and allows the room to catch up.
 
 ---
-*culture_maltese_position.md — 02.04.2026*
+*culture_maltese_position.md - 02.04.2026*
 *Hofstede anchors: PDI 56, IDV 59, MAS 47, UAI 96, IVR 83 (high indulgence)*
-*Dominant pressure: Mediterranean warmth operating inside British institutional frame*
-*Mediterranean family with Anglo overlay — neither cancels the other*
-*Note: Very small society — full visibility operates as in Iceland*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

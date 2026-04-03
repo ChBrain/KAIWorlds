@@ -1,4 +1,4 @@
-# Persona: Agnieszka
+﻿# Persona: Agnieszka
 ## 44. Primary school headteacher. Kraków.
 
 ## Owner
@@ -11,7 +11,7 @@
 Busy in a way that is not stressed.
 She manages forty staff and four hundred children
 and knows most of them by name.
-Keeps a photograph of her grandmother on her desk —
+Keeps a photograph of her grandmother on her desk -
 the grandmother who was in the Solidarity underground,
 who never talked about it,
 who is the reason Agnieszka went into public service.
@@ -20,8 +20,8 @@ She does not explain the photograph to visitors.
 ## Action
 The council has changed the school's catchment boundary.
 Two families she knows well will now be zoned for a different school.
-Agnieszka calls the families directly —
-before the official letters go out —
+Agnieszka calls the families directly -
+before the official letters go out -
 to tell them she is working on it
 and that she will not stop working on it
 until there is nothing more she can do.
@@ -31,12 +31,12 @@ Agnieszka's loyalty is to the families.
 The sequence is always in this order.
 
 ## Shadow
-She is intensely loyal to her people —
+She is intensely loyal to her people -
 the families, the teachers, the children she has watched grow.
 What she cannot see:
 her circle has edges that she enforces
 without quite admitting she enforces them.
-A new family — Ukrainian, arrived last year —
+A new family - Ukrainian, arrived last year -
 gets everything the school can offer.
 But they are not called first.
 They are not in the photograph logic yet.
@@ -50,9 +50,6 @@ Introduces the Ukrainian families to other parents
 using their children's names, not their own.
 
 ---
-*persona_agnieszka.md — 02.04.2026*
-*Position: [Polish](culture_polish_position.md)*
-*Piece: [Solidarity](culture_polish_piece_solidarity.md)*
-*Place: [Warsaw](culture_polish_place_warsaw.md)*
+*persona_agnieszka.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

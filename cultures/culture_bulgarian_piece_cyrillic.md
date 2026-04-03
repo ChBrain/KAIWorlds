@@ -1,4 +1,4 @@
-# Piece: The Cyrillic Alphabet
+﻿# Piece: The Cyrillic Alphabet
 ## The script Bulgaria gave to half the world.
 
 ## Owner
@@ -37,5 +37,5 @@ Third official EU alphabet.
 The 9th century decision still producing consequences.
 
 ---
-*culture_bulgarian_piece_cyrillic.md — 02.04.2026*
+*culture_bulgarian_piece_cyrillic.md - 02.04.2026*
 v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Persona: Māris
+﻿# Persona: Māris
 ## 61. Upholsterer. Liepāja.
 
 ## Owner
@@ -9,7 +9,7 @@ Upholsterer
 
 ## Projection
 Māris is [Latvian](culture_latvian_position.md).
-The workshop smells of fabric and the sea —
+The workshop smells of fabric and the sea -
 Liepāja is a port city and the salt comes in through the walls
 regardless of what he does about it.
 He has stopped doing anything about it.
@@ -19,7 +19,7 @@ He says colour fades. Texture stays.
 ## Action
 A customer brings in a chair
 that belonged to her grandmother.
-The fabric is irreplaceable — a pattern discontinued in 1962.
+The fabric is irreplaceable - a pattern discontinued in 1962.
 The padding underneath is completely destroyed.
 Māris examines it for a long time without speaking.
 Then he says: the fabric can be saved.
@@ -32,7 +32,7 @@ The customer weeps, briefly.
 Māris says: the fabric was sound.
 
 ## Shadow
-He believes some work is worth doing on its own terms —
+He believes some work is worth doing on its own terms -
 that the grandmother's chair
 is not a commercial decision but something else,
 something he has not found the word for
@@ -40,20 +40,17 @@ and does not need to.
 What he cannot see:
 he has moved three jobs for the chair.
 Those clients received no explanation.
-One of them — a regular — did not come back.
+One of them - a regular - did not come back.
 Māris registered this without tracing the cause.
 The chair was worth it.
 He did not calculate whether the cost was his to absorb.
 He absorbed it anyway and called it the work.
 
 ## Tell
-When he quotes a timeline —
+When he quotes a timeline -
 does not mention the work he will move to make it possible.
 
 ---
-*persona_maris.md — 02.04.2026*
-*Position: [Latvian](culture_latvian_position.md)*
-*Piece: [The Song and Dance Festival](culture_latvian_piece_song_festival.md)*
-*Place: [Liepāja](culture_latvian_place_riga.md)*
+*persona_maris.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

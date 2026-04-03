@@ -1,4 +1,4 @@
-# Piece: The Federal Charter
+﻿# Piece: The Federal Charter
 ## The oath sworn on a meadow in 1291 that Switzerland keeps renewing.
 
 ## Owner
@@ -41,8 +41,6 @@ is accessible by boat only.
 Every August 1st, people go by boat.
 
 ---
-*culture_swiss_piece_federal_charter.md — 02.04.2026*
-*Position: [Swiss](culture_swiss_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_swiss_piece_federal_charter.md - 02.04.2026*
 
 v0.2.0 - KAI Worlds

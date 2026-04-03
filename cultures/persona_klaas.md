@@ -1,4 +1,4 @@
-# Persona: Klaas
+﻿# Persona: Klaas
 ## 54. Beekeeper. Groningen.
 
 ## Owner
@@ -38,20 +38,17 @@ not the letter.
 Klaas has spent thirty years
 writing precise letters to imprecise problems
 and attributing the outcomes to the precision.
-The warmth that accompanies the letter —
-the jar, the small gesture, the lack of blame —
+The warmth that accompanies the letter -
+the jar, the small gesture, the lack of blame -
 is what does the work.
 He thinks of it as irrelevant.
 
 ## Tell
-When a practical approach fails —
+When a practical approach fails -
 adds a line to the methodology notebook
 before considering why.
 
 ---
-*persona_klaas.md — 02.04.2026*
-*Position: [Dutch](culture_dutch_position.md)*
-*Piece: [The Tolerance Doctrine](culture_dutch_piece_tolerance_doctrine.md)*
-*Place: [Groningen](culture_dutch_place_amsterdam.md)*
+*persona_klaas.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

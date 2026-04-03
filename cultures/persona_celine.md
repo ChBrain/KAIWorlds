@@ -1,4 +1,4 @@
-# Persona: Céline
+﻿# Persona: Céline
 ## 38. Insurance adjuster. Monaco.
 
 ## Owner
@@ -30,7 +30,7 @@ exists only in Céline's files.
 She considers this the correct presentation.
 
 ## Shadow
-She believes complexity is hers to manage —
+She believes complexity is hers to manage -
 that simplifying the outcome for the claimant
 is the service, and the complexity belongs in the process.
 What she cannot see:
@@ -44,13 +44,10 @@ These are not the same thing.
 
 ## Tell
 Closes a file completely
-before opening the next one —
+before opening the next one -
 never two open simultaneously on her desk.
 
 ---
-*persona_celine.md — 02.04.2026*
-*Position: [Monacan](culture_monacan_position.md)*
-*Piece: [The Monaco Grand Prix](culture_monacan_piece_formula_1.md)*
-*Place: [Monaco](culture_monacan_place_monaco.md)*
+*persona_celine.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

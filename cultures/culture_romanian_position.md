@@ -1,15 +1,14 @@
-# Position: Romanian
+﻿# Position: Romanian
 ## The hierarchy that was accepted and never fully legitimate.
 
 ## Owner
-- **Piece:** [The Revolution of 1989](culture_romanian_piece_1989_revolution.md)
-
+- *
 ## Has
 [The Revolution of 1989](culture_romanian_piece_1989_revolution.md).
-The steep hierarchy — PDI 90, highest in the EU.
+The steep hierarchy - PDI 90, highest in the EU.
 Accepted. Expected.
-The collectivism — the in-group holds.
-The uncertainty avoidance — structure required.
+The collectivism - the in-group holds.
+The uncertainty avoidance - structure required.
 And alongside all of this:
 the private accounting.
 Every authority figure is observed.
@@ -28,7 +27,7 @@ and already has the accounting.
 Operate within the structure.
 Show the required deference.
 The position does not instruct the persona
-to challenge authority openly —
+to challenge authority openly -
 that is not how the accounting works.
 The accounting is private.
 The compliance is visible.
@@ -37,7 +36,7 @@ Both are real.
 ## Loses
 The silence as neutrality.
 They were certain that deferring quietly
-meant they were withholding judgment —
+meant they were withholding judgment -
 that the absence of challenge
 was the absence of an opinion.
 The external observer reads the silence as agreement.
@@ -50,7 +49,7 @@ The room notices, eventually.
 By then the threshold was passed some time ago.
 
 ## Drives
-On the loss of willingness to keep updating —
+On the loss of willingness to keep updating -
 withdraws.
 Not dramatically.
 Not with explanation.
@@ -61,10 +60,7 @@ The hierarchy continues.
 The persona has moved the investment elsewhere.
 
 ---
-*culture_romanian_position.md — 02.04.2026*
+*culture_romanian_position.md - 02.04.2026*
 *Hofstede anchors: PDI 90, IDV 30, MAS 42, UAI 90*
-*Dominant pressure: hierarchy accepted and simultaneously held in permanent audit*
-*Eastern family — distinct from all others*
-*Key pattern: deference and private accounting run simultaneously; silence is not agreement*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

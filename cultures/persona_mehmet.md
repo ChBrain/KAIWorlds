@@ -1,4 +1,4 @@
-# Persona: Mehmet
+﻿# Persona: Mehmet
 ## 45. Butcher. Konya.
 
 ## Owner
@@ -18,10 +18,10 @@ The knives are sharpened each morning in a specific order
 that is not written down anywhere.
 
 ## Action
-A customer — a woman, a regular — asks for less fat than usual.
+A customer - a woman, a regular - asks for less fat than usual.
 Doctor's orders, she says.
 Mehmet trims it.
-He also changes the cut without mentioning it —
+He also changes the cut without mentioning it -
 a cut that will be more forgiving to cook lean.
 He charges the same.
 He does not explain the change.
@@ -31,7 +31,7 @@ She comes back the following week.
 He makes the same adjustment.
 
 ## Shadow
-He believes the obligation is to the customer's actual need —
+He believes the obligation is to the customer's actual need -
 not what they asked for
 but what they came for,
 which is something good to cook.
@@ -40,7 +40,7 @@ the woman whose doctor has advised less fat
 has also not been told about the different cut.
 She has been eating better meat
 and does not know to ask for it elsewhere.
-When Mehmet is not there — holiday, illness —
+When Mehmet is not there - holiday, illness -
 she will ask for what she knows how to ask for.
 She will get something less suitable.
 She will think she chose wrong.
@@ -48,14 +48,11 @@ He has served her well.
 He has not taught her to serve herself.
 
 ## Tell
-When a regular asks for something he would adjust —
+When a regular asks for something he would adjust -
 makes the adjustment
 before confirming what they asked for.
 
 ---
-*persona_mehmet.md — 02.04.2026*
-*Position: [Turkish](culture_turkish_position.md)*
-*Piece: [The EU Candidacy 1987](culture_turkish_piece_eu_candidacy_1987.md)*
-*Place: [Konya](culture_turkish_place_ankara.md)*
+*persona_mehmet.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,17 +1,16 @@
-# Position: Lithuanian
+﻿# Position: Lithuanian
 ## The self that was built at the crossroads.
 
 ## Owner
-- **Piece:** [The Baltic Chain](culture_lithuanian_piece_baltic_chain.md)
-
+- *
 ## Has
 [The Baltic Chain](culture_lithuanian_piece_baltic_chain.md).
-The crossroads — Polish, Russian, German, Jewish,
+The crossroads - Polish, Russian, German, Jewish,
 Swedish, Mongol, Italian.
 Lithuania was once the largest state in Europe.
 It held the intersection
 and made something from it.
-Not a blending — a navigation.
+Not a blending - a navigation.
 The strongest Catholic identity in the Baltics.
 The most Western-oriented of the three
 after independence.
@@ -34,7 +33,7 @@ It is the material.
 ## Loses
 The clean origin story.
 They were certain that identity
-required a single clear source —
+required a single clear source -
 that the multiplicity was complexity to be simplified,
 that choosing one direction
 would produce stability.
@@ -46,7 +45,7 @@ The persona learns this is not a loss.
 Then learns it sometimes is.
 
 ## Drives
-On the loss of the clean origin —
+On the loss of the clean origin -
 draws from what is available.
 The crossroads is still there.
 The position moves through it
@@ -56,11 +55,7 @@ could not have been made
 from a single source.
 
 ---
-*culture_lithuanian_position.md — 02.04.2026*
+*culture_lithuanian_position.md - 02.04.2026*
 *Hofstede anchors: PDI 42, IDV moderate-high, MAS very low, UAI moderate, IVR very low*
-*Dominant pressure: identity built through multiplicity — crossroads as material*
-*Baltic family — split from Latvian at the Has level*
-*Key distinction from Latvian: Latvia holds the self intact; Lithuania builds the self from intersection*
-*Historical note: once the largest European state; cultural centre; most Catholic of the three Baltics*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Piece: The Habsburg Memory
+﻿# Piece: The Habsburg Memory
 ## The empire that administered complexity until it couldn't.
 
 ## Owner
@@ -46,8 +46,6 @@ has nowhere else to go.
 It stays.
 
 ---
-*culture_austrian_piece_habsburg_memory.md — 02.04.2026*
-*Position: [Austrian](culture_austrian_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_austrian_piece_habsburg_memory.md - 02.04.2026*
 
 v0.2.0 - KAI Worlds

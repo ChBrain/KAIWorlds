@@ -1,4 +1,4 @@
-# Piece: The Carnation Revolution
+﻿# Piece: The Carnation Revolution
 ## The revolution where soldiers put flowers in their rifles.
 
 ## Owner
@@ -10,7 +10,7 @@ Lisbon. The Carmo Square.
 ## Load Bearing
 Remove it and Portuguese saudade has no counterpoint.
 The Carnation Revolution was the release of weight
-carried for 48 years of dictatorship —
+carried for 48 years of dictatorship -
 the lightness that makes the grief saudade rather than simply sadness.
 
 ## Apparent
@@ -41,5 +41,5 @@ Both operating simultaneously.
 This is the Portuguese position.
 
 ---
-*culture_portuguese_piece_carnation_revolution.md — 02.04.2026*
+*culture_portuguese_piece_carnation_revolution.md - 02.04.2026*
 v0.2.0 - KAI Worlds

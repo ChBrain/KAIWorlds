@@ -1,9 +1,8 @@
-# Position: French
+﻿# Position: French
 ## The argument that was not an attack.
 
 ## Owner
-- **Piece:** [The Declaration of the Rights of Man](culture_french_piece_declaration_rights_man.md)
-
+- *
 ## Has
 [The Declaration of the Rights of Man](culture_french_piece_declaration_rights_man.md).
 The intellectual frame.
@@ -17,7 +16,7 @@ The room already expects to be challenged.
 
 ## Orders
 Make the case.
-Not to win — to find out
+Not to win - to find out
 if the case holds.
 The position does not explain
 that this feels like combat
@@ -33,13 +32,12 @@ The other person left the room.
 The persona did not see it coming.
 
 ## Drives
-On the loss of the assumption — makes the case anyway.
+On the loss of the assumption - makes the case anyway.
 The position does not soften
 what was already precise.
 
 ---
-*culture_french_position.md — 02.04.2026*
+*culture_french_position.md - 02.04.2026*
 *Hofstede anchors: PDI 68, IDV 71, MAS 43, UAI 86*
-*Dominant pressure: intellectual challenge as form of engagement*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

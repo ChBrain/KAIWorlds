@@ -1,4 +1,4 @@
-# Piece: The Lost Empire
+﻿# Piece: The Lost Empire
 ## The absence that still takes up the most room.
 
 ## Owner
@@ -18,7 +18,7 @@ the way they were assumed to go.
 Without the lost empire
 the Anglo position loses its emotional ground.
 The compression, the understatement,
-the performance of uncertainty —
+the performance of uncertainty -
 these are the surface.
 Underneath: the memory of having been
 the largest empire in history,
@@ -40,15 +40,15 @@ They understate because they once didn't need to state at all.
 No single object.
 The red on old maps, faded but still visible
 in certain archives.
-The Commonwealth — fifty-six countries,
+The Commonwealth - fifty-six countries,
 voluntary, the King as nominal head,
 the ghost of the structure that preceded it.
-The pound sterling — still trading.
-The English language — spoken by 1.5 billion people,
+The pound sterling - still trading.
+The English language - spoken by 1.5 billion people,
 most of whom the empire put it there.
-The seat on the UN Security Council — permanent,
+The seat on the UN Security Council - permanent,
 installed in 1945 when the empire was still half-intact.
-The word *abroad* — carrying the faint implication
+The word *abroad* - carrying the faint implication
 that what is abroad is less.
 
 ## Yearbook
@@ -74,10 +74,8 @@ still structurally present
 fifty years after the last colony.
 
 ---
-*culture_anglo_piece_lost_empire.md — 02.04.2026*
+*culture_anglo_piece_lost_empire.md - 02.04.2026*
 *Place: [London](culture_anglo_place_london.md)*
-*Position: [Anglo](culture_anglo_position.md)*
-*Process: process_world_is_spinning.md*
 *Note: This is the second London piece alongside piece_unwritten_constitution.md*
 *The unwritten constitution holds the operating system. The lost empire holds the emotional ground.*
 

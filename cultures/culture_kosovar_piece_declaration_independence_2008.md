@@ -1,4 +1,4 @@
-# Piece: The Declaration of Independence 2008
+﻿# Piece: The Declaration of Independence 2008
 ## The document 101 states recognise and 93 do not.
 
 ## Owner
@@ -40,9 +40,9 @@ Kosovo under UN administration.
 Serbian sovereignty technically intact.
 Nine years of UN administration.
 February 2008: the declaration.
-July 2010: ICJ advisory opinion — not illegal.
-2013: Brussels Agreement — Kosovo and Serbia dialogue.
-2023: Ohrid Agreement — further normalisation steps.
+July 2010: ICJ advisory opinion - not illegal.
+2013: Brussels Agreement - Kosovo and Serbia dialogue.
+2023: Ohrid Agreement - further normalisation steps.
 Both parties sign. Neither fully implements.
 2024: EU visa liberalisation for Kosovo citizens.
 16 years after independence.
@@ -50,8 +50,6 @@ The piece keeps running.
 Recognition is still lagging the function.
 
 ---
-*culture_kosovar_piece_declaration_independence_2008.md — 02.04.2026*
-*Position: [Kosovar](culture_kosovar_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_kosovar_piece_declaration_independence_2008.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

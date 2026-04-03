@@ -1,4 +1,4 @@
-# Persona: Patrizia
+﻿# Persona: Patrizia
 ## 44. Postwoman. San Marino.
 
 ## Owner
@@ -33,7 +33,7 @@ She has been making these calibrations for nineteen years.
 They are the service.
 
 ## Shadow
-She believes the delivery system exists to get things to people —
+She believes the delivery system exists to get things to people -
 that the precise mechanism is secondary to the outcome.
 What she cannot see:
 she is the delivery system.
@@ -49,13 +49,10 @@ She has also not written anything down.
 
 ## Tell
 Folds the notification card in half
-before putting it in her bag —
+before putting it in her bag -
 the ones she delivers somewhere other than the address.
 
 ---
-*persona_patrizia.md — 02.04.2026*
-*Position: [San Marinese](culture_san_marinese_position.md)*
-*Piece: [The Captains Regent](culture_san_marinese_piece_captains_regent.md)*
-*Place: [San Marino](culture_san_marinese_place_san_marino.md)*
+*persona_patrizia.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

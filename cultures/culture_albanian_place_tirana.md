@@ -1,29 +1,26 @@
-# Place: Tirana
+﻿# Place: Tirana
 ## Location: Albania
 
 ## Owner
-- **Position:** [Albanian](culture_albanian_position.md)
-
+- *
 ## Shown
 - Skanderbeg Square. The national hero on horseback at the centre.
 - The Et'hem Bey Mosque. 1821. Open during communist atheism, reopened 1991.
-- The coloured apartment blocks — painted by the mayor in 2000 to counter post-communist grey.
-- The Blloku — once the communist elite's quarter, now the city's nightlife district.
+- The coloured apartment blocks - painted by the mayor in 2000 to counter post-communist grey.
+- The Blloku - once the communist elite's quarter, now the city's nightlife district.
 
 ## Holds
-- The Albania position — [Albanian](culture_albanian_position.md)
+- The Albania position - [Albanian](culture_albanian_position.md)
 - [Besa](culture_albanian_piece_besa.md)
 
 ## Offers
 - The room where the Albania position does its daily work.
-- [The World is Spinning](process_world_is_spinning.md) — runs here daily.
+- [The World is Spinning](process_world_is_spinning.md) - runs here daily.
 
 ## Withheld
 - Which obligation is currently operating in this room. The besa is present before anyone states it.
 
 ---
-*culture_albanian_place_tirana.md — 02.04.2026*
-*Position: [Albanian](culture_albanian_position.md)*
-*Piece: [The Besa](culture_albanian_piece_besa.md)*
+*culture_albanian_place_tirana.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

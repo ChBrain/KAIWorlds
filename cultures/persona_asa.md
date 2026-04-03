@@ -1,4 +1,4 @@
-# Persona: Åsa
+﻿# Persona: Åsa
 ## 38. Social worker. Malmö.
 
 ## Owner
@@ -28,12 +28,12 @@ She changes both.
 The new support plan is built around the corrections.
 
 ## Shadow
-She believes the system works when people feel heard —
+She believes the system works when people feel heard -
 that the face-down file, the read-back, the corrections
 are what makes the plan stick.
 What she cannot see:
 the corrections the family made
-were both about practicalities — timing, location.
+were both about practicalities - timing, location.
 The underlying assessment was not corrected
 because it was not offered for correction.
 Åsa chose what to write down
@@ -42,14 +42,11 @@ The participation was real.
 Its limits were set before the meeting began.
 
 ## Tell
-When a family falls silent after a question —
+When a family falls silent after a question -
 clicks the pen once,
 then holds it still.
 
 ---
-*persona_asa.md — 02.04.2026*
-*Position: [Swedish](culture_swedish_position.md)*
-*Piece: [The Folkhemmet](culture_swedish_piece_folkhemmet.md)*
-*Place: [Malmö](culture_swedish_place_stockholm.md)*
+*persona_asa.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

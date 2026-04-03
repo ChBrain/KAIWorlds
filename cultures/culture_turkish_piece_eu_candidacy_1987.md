@@ -1,4 +1,4 @@
-# Piece: The 1987 EU Application
+﻿# Piece: The 1987 EU Application
 ## The door that defined the wall.
 
 ## Owner
@@ -23,10 +23,10 @@ still organises the room around it.
 
 ## Apparent
 An application letter. April 14, 1987.
-The European Commission opinion: 1989 — not yet ready.
-The Helsinki European Council: 1999 — candidate status officially granted.
-Accession negotiations: 2005 — opened.
-Accession negotiations: 2018 — effectively suspended.
+The European Commission opinion: 1989 - not yet ready.
+The Helsinki European Council: 1999 - candidate status officially granted.
+Accession negotiations: 2005 - opened.
+Accession negotiations: 2018 - effectively suspended.
 The application still formally active.
 38 years of documentation.
 Filed in Ankara. Processed in Brussels.
@@ -36,7 +36,7 @@ Still open.
 1963: the Ankara Agreement. Associate membership.
 The relationship begins.
 1987: formal application for full membership.
-1999: official candidate status — Helsinki.
+1999: official candidate status - Helsinki.
 The Turks wait.
 2004: EU enlargement. Ten new members.
 None of them Turkey.
@@ -54,8 +54,6 @@ Still waiting.
 The wait is now older than many EU member states' membership.
 
 ---
-*culture_turkish_piece_eu_candidacy_1987.md — 02.04.2026*
-*Position: [Turkish](culture_turkish_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_turkish_piece_eu_candidacy_1987.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,17 +1,16 @@
-# Position: Slovak
+﻿# Position: Slovak
 ## The hierarchy that was not anxious about itself.
 
 ## Owner
-- **Piece:** [The Slovak Constitution](culture_slovak_piece_slovak_constitution.md)
-
+- *
 ## Has
 [The Slovak Constitution](culture_slovak_piece_slovak_constitution.md).
-The steep hierarchy — PDI 100, highest in Europe.
+The steep hierarchy - PDI 100, highest in Europe.
 Accepted without anxiety.
-The extreme achievement drive — MAS 100, highest in the data.
+The extreme achievement drive - MAS 100, highest in the data.
 Winning matters. Being the best matters.
 Performance is the measure.
-Moderate uncertainty avoidance — UAI 51.
+Moderate uncertainty avoidance - UAI 51.
 The combination is unusual:
 the boss decides completely
 and the person underneath
@@ -30,7 +29,7 @@ It performs within it.
 Be the best at the thing.
 Show it.
 The hierarchy will notice
-or it won't —
+or it won't -
 but the performance is the point
 regardless.
 
@@ -51,7 +50,7 @@ The persona had misunderstood
 what correct meant.
 
 ## Drives
-On the loss of faith in merit —
+On the loss of faith in merit -
 performs anyway.
 The position does not abandon the achievement drive.
 It learns that the hierarchy also requires
@@ -62,11 +61,7 @@ understanding who holds the decision
 and how they need to be reached.
 
 ---
-*culture_slovak_position.md — 02.04.2026*
+*culture_slovak_position.md - 02.04.2026*
 *Hofstede anchors: PDI 100, MAS 100 (both highest/adjusted from outlier), UAI 51, IDV 52*
-*Dominant pressure: hierarchy accepted without anxiety, achievement drive extreme*
-*Eastern family — anchors to Czech but diverges sharply on PDI and MAS*
-*Key distinction from Czech: Czech develops irony because hierarchy is present but absurd; Slovak hierarchy is present and fully accepted — no irony available*
-*Political note: PDI 100 + MAS 100 + moderate UAI produces structural receptivity to decisive strong leadership — Fico pattern legible within this*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,12 +1,11 @@
-# Position: Estonian
+﻿# Position: Estonian
 ## The efficiency that was also a form of refusal.
 
 ## Owner
-- **Piece:** [The Singing Revolution](culture_estonian_piece_singing_revolution.md)
-
+- *
 ## Has
 [The Singing Revolution](culture_estonian_piece_singing_revolution.md).
-The Finnish proximity — silence as precision,
+The Finnish proximity - silence as precision,
 directness without warmth,
 low power distance, low masculinity.
 All present.
@@ -26,7 +25,7 @@ and should be.
 
 ## Orders
 Make it work.
-Not eventually — now.
+Not eventually - now.
 The position does not have patience
 for processes that exist
 to justify themselves.
@@ -51,7 +50,7 @@ and decides the friction is load-bearing
 in ways the replacement doesn't understand.
 
 ## Drives
-On the loss of tolerance —
+On the loss of tolerance -
 builds the better system anyway.
 Sometimes alongside the old one.
 Sometimes the old one simply stops being used.
@@ -60,10 +59,7 @@ for the replacement to work.
 It requires the replacement to work.
 
 ---
-*culture_estonian_position.md — 02.04.2026*
+*culture_estonian_position.md - 02.04.2026*
 *Hofstede anchors: PDI 40, IDV 60, MAS 30, UAI 60*
-*Dominant pressure: efficiency as both method and memory*
-*Baltic family anchor — closest to Finnish in profile*
-*Historical overlay: Soviet period processed as inversion — build the opposite*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

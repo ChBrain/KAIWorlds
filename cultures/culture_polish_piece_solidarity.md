@@ -1,4 +1,4 @@
-# Piece: Solidarity
+﻿# Piece: Solidarity
 ## The trade union that became a revolution.
 
 ## Owner
@@ -37,8 +37,6 @@ The communist government falls.
 The in-group had become the country.
 
 ---
-*culture_polish_piece_solidarity.md — 02.04.2026*
-*Position: [Polish](culture_polish_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_polish_piece_solidarity.md - 02.04.2026*
 
 v0.2.0 - KAI Worlds

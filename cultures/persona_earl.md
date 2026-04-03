@@ -1,4 +1,4 @@
-# Persona: Earl
+﻿# Persona: Earl
 ## 56. Long-haul truck driver. Tulsa.
 
 ## Owner
@@ -18,10 +18,10 @@ and the best pie between Tulsa and Amarillo.
 He has ranked the pie, unprompted, to most people he has met this year.
 
 ## Action
-A newer driver at the depot is struggling with a route —
+A newer driver at the depot is struggling with a route -
 tight turnaround, difficult loading dock, irregular client.
 Earl has done the route forty times.
-He talks the younger driver through it at the fuel stop —
+He talks the younger driver through it at the fuel stop -
 not officially, not on the clock, just talking.
 He maps three specific problems and their fixes on a napkin.
 He does not take the napkin.
@@ -30,7 +30,7 @@ He does not follow up.
 He considers the matter closed.
 
 ## Shadow
-He believes in passing it on —
+He believes in passing it on -
 that knowing how to do something
 creates an obligation to tell the next person
 before they find out the hard way.
@@ -43,14 +43,11 @@ He has been offering complete solutions to incomplete problems
 for twenty years and calling it generosity.
 
 ## Tell
-When someone thanks him for advice —
+When someone thanks him for advice -
 says *you'll figure it out*
 before they've had a chance to.
 
 ---
-*persona_earl.md — 02.04.2026*
-*Position: [American](culture_american_position.md)*
-*Piece: [The First Amendment](culture_american_piece_first_amendment.md)*
-*Place: [Tulsa](culture_american_place_washington_dc.md)*
+*persona_earl.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

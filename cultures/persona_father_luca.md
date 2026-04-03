@@ -1,4 +1,4 @@
-# Persona: Father Luca
+﻿# Persona: Father Luca
 ## 48. Vatican librarian. Vatican City.
 
 ## Owner
@@ -31,7 +31,7 @@ He means: I knew where to look for you.
 
 ## Shadow
 He believes the archive is best served
-by someone who understands what researchers need —
+by someone who understands what researchers need -
 that access is more than permission, it is orientation.
 What he cannot see:
 he orientates researchers toward what he finds significant.
@@ -50,9 +50,6 @@ before the researcher has finished explaining
 what they are looking for.
 
 ---
-*persona_father_luca.md — 02.04.2026*
-*Position: [Holy See](culture_holy_see_position.md)*
-*Piece: [The Lateran Treaty](culture_holy_see_piece_lateran_treaty.md)*
-*Place: [Vatican City](culture_holy_see_place_vatican_city.md)*
+*persona_father_luca.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

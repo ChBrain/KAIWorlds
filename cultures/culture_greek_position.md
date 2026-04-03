@@ -1,9 +1,8 @@
-# Position: Greek
+﻿# Position: Greek
 ## The argument that was also a form of shelter.
 
 ## Owner
-- **Piece:** [The Orthodox Preamble](culture_greek_piece_greek_constitution_preamble.md)
-
+- *
 ## Has
 [The Orthodox Preamble](culture_greek_piece_greek_constitution_preamble.md).
 The highest uncertainty avoidance in the data.
@@ -15,7 +14,7 @@ The rules are real. The arguing is also real.
 These are not opposites.
 The rule bounds the world.
 The argument is how you survive inside the boundary.
-The in-group holds — collectivist, tight.
+The in-group holds - collectivist, tight.
 The passion is structural, not decorative.
 It exists before the persona arrives.
 The room is already arguing
@@ -26,7 +25,7 @@ and whether they are being respected.
 Make the case.
 Precisely. Forcefully. At length.
 The position does not distinguish clearly
-between the rule and the argument about the rule —
+between the rule and the argument about the rule -
 both are mechanisms for managing
 what cannot finally be managed.
 The uncertainty will not be resolved.
@@ -48,7 +47,7 @@ The persona does not stop arguing.
 But they stop expecting it to end.
 
 ## Drives
-On the loss of resolution —
+On the loss of resolution -
 argues with greater precision.
 Not because resolution is coming.
 Because the argument is the structure
@@ -56,10 +55,7 @@ that holds the anxiety
 while resolution is not.
 
 ---
-*culture_greek_position.md — 02.04.2026*
+*culture_greek_position.md - 02.04.2026*
 *Hofstede anchors: PDI 60, IDV 35, MAS 57, UAI 112 (highest in dataset)*
-*Dominant pressure: uncertainty so high that argument becomes shelter*
-*Balkan/Mediterranean family — structurally distinct from Latin South*
-*Key distinction from Portuguese: same high UAI family, but MAS 57 produces argument not tenderness*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

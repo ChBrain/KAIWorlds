@@ -1,4 +1,4 @@
-# Piece: Die Doppeleiche
+﻿# Piece: Die Doppeleiche
 ## Two trunks, one crown, forever undivided.
 
 ## Owner
@@ -20,7 +20,7 @@ without both trunks dying.
 An oak with two trunks growing from one root.
 Sometimes joined at the base, sometimes diverging from the first growth.
 A shared crown above both.
-*Up ewig ungedeelt* — forever undivided —
+*Up ewig ungedeelt* - forever undivided -
 carved on the stones beside them.
 About 150 still standing from the mass plantings of 1898.
 Most recognised by local name only.
@@ -47,12 +47,12 @@ Hundreds of Doppeleichen planted across the region.
 The Doppeleichen in the north quietly removed.
 The ones in the south remain.
 Today: the border settled. The symbol stays.
-Not political now — regional.
+Not political now - regional.
 Two trunks. One crown.
+The position the piece holds
+is the position Kai carries personally.
 
 ---
-*culture_schleswig_holstein_piece_doppeleiche.md — 02.04.2026*
-*Position: [Schleswig-Holstein](culture_schleswig_holstein_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_german_schleswig_holstein_piece_doppeleiche.md - 03.04.2026*
 
 v0.1.0 - KAI Worlds

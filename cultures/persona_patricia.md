@@ -1,4 +1,4 @@
-# Persona: Patricia
+﻿# Persona: Patricia
 ## 51. Museum curator. Birmingham.
 
 ## Owner
@@ -17,7 +17,7 @@ Nobody has said so.
 She has not mentioned them.
 
 ## Action
-A donor offers a significant gift —
+A donor offers a significant gift -
 a private collection, with conditions attached about display prominence.
 Patricia thanks him warmly and says she'll need to discuss it with the trustees.
 She discusses it with the trustees.
@@ -30,7 +30,7 @@ Patricia believes she was helpful.
 Both are correct.
 
 ## Shadow
-She believes in the institution and what it holds —
+She believes in the institution and what it holds -
 that the collection serves the public
 and her job is to protect that service from interference,
 including well-meaning interference.
@@ -45,13 +45,10 @@ Patricia does not think of this as control.
 She thinks of it as preparation.
 
 ## Tell
-When someone proposes something she has already decided against —
+When someone proposes something she has already decided against -
 says *that's interesting* and writes nothing down.
 
 ---
-*persona_patricia.md — 02.04.2026*
-*Position: [Anglo](culture_anglo_position.md)*
-*Piece: [The Lost Empire](culture_anglo_piece_lost_empire.md)*
-*Place: [Birmingham](culture_anglo_place_london.md)*
+*persona_patricia.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

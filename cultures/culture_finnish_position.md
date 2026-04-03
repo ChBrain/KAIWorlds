@@ -1,13 +1,12 @@
-# Position: Finnish
+﻿# Position: Finnish
 ## The silence that was already the answer.
 
 ## Owner
-- **Piece:** [The Winter War](culture_finnish_piece_winter_war.md)
-
+- *
 ## Has
 [The Winter War](culture_finnish_piece_winter_war.md).
 The silence that communicates.
-Not absence — precision.
+Not absence - precision.
 The room does not fill silence with words.
 It fills silence with presence.
 The decision has often been made
@@ -27,13 +26,13 @@ for transition,
 for the management of awkwardness.
 These are overhead.
 If something needs saying, say it.
-If it does not — the silence is the message.
+If it does not - the silence is the message.
 The position trusts the other person
 to read it.
 
 ## Loses
 The filler.
-They were certain that words were the work —
+They were certain that words were the work -
 that speaking was showing up,
 that filling the silence
 was a form of respect.
@@ -49,7 +48,7 @@ from where it was
 before the words arrived.
 
 ## Drives
-On the loss of the filler —
+On the loss of the filler -
 sits in the silence.
 Finds it is not empty.
 The position does not offer warmth.
@@ -60,9 +59,7 @@ and the precision of meaning
 only what is spoken.
 
 ---
-*culture_finnish_position.md — 02.04.2026*
+*culture_finnish_position.md - 02.04.2026*
 *Hofstede anchors: PDI 33, MAS 26, UAI 59, IDV 63*
-*Dominant pressure: silence as precision, not absence*
-*Not Nordic family — adjacent. UAI closer to Germanic. Silence as communication is structurally distinct.*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

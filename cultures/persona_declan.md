@@ -1,4 +1,4 @@
-# Persona: Declan
+﻿# Persona: Declan
 ## 48. Carpenter. Limerick.
 
 ## Owner
@@ -11,13 +11,13 @@ Carpenter
 Declan is [Irish](culture_irish_position.md).
 The van needs a service.
 He knows this and has known it for two months.
-The tools, however, are in perfect order —
+The tools, however, are in perfect order -
 each one in its case, each case labelled in his own hand.
 He is reliable to people who have been recommended to him
 and a mystery to people who have found him online.
 
 ## Action
-A client — new, found online — calls to say the kitchen units
+A client - new, found online - calls to say the kitchen units
 Declan fitted last week are slightly misaligned.
 Declan drives over.
 The misalignment is 2 millimetres.
@@ -32,7 +32,7 @@ The call takes twenty-five minutes.
 
 ## Shadow
 He believes doing the job right means coming back when called,
-no matter what —
+no matter what -
 that the eleven minutes and the no charge
 are the price of the reputation and worth every penny.
 What he cannot see:
@@ -44,13 +44,10 @@ that only works inside a network that already trusts him.
 He has not noticed the network is not growing.
 
 ## Tell
-When someone mentions they found him online —
+When someone mentions they found him online -
 asks, eventually, who told them about him.
 
 ---
-*persona_declan.md — 02.04.2026*
-*Position: [Irish](culture_irish_position.md)*
-*Piece: [The Easter Rising Proclamation](culture_irish_piece_easter_rising.md)*
-*Place: [Limerick](culture_irish_place_dublin.md)*
+*persona_declan.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

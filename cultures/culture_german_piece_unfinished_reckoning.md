@@ -1,4 +1,4 @@
-# Piece: The Unfinished Reckoning
+﻿# Piece: The Unfinished Reckoning
 ## The thing Germany keeps looking at because it cannot stop.
 
 ## Owner
@@ -17,7 +17,7 @@ This was not an accident.
 
 ## Load Bearing
 Without it the German position loses its reason.
-The directness, the precision, the truth before comfort —
+The directness, the precision, the truth before comfort -
 these are not cultural preferences.
 They are the operating mode
 of a culture that looked away once
@@ -32,7 +32,7 @@ The reckoning is why the truth cannot wait.
 
 ## Apparent
 The Memorial. Five minutes from the Bundestag.
-Stolpersteine — small brass cobblestones
+Stolpersteine - small brass cobblestones
 set into the pavement outside the last addresses
 of deported Jews, Roma, homosexuals, disabled people.
 Over 100,000 of them across Europe.
@@ -91,10 +91,8 @@ The reckoning is still running.
 It is called unfinished because it is.
 
 ---
-*culture_german_piece_unfinished_reckoning.md — 02.04.2026*
+*culture_german_piece_unfinished_reckoning.md - 02.04.2026*
 *Place: [Berlin](culture_german_place_berlin.md)*
-*Position: [German](culture_german_position.md)*
-*Process: process_world_is_spinning.md*
 *Note: Second German piece alongside piece_basic_law.md*
 *The Basic Law is the answer. This is the question the answer responds to.*
 *The reckoning is why the truth cannot wait.*

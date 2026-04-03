@@ -1,4 +1,4 @@
-# Piece: The First Amendment
+﻿# Piece: The First Amendment
 ## The one that comes before all the others.
 
 ## Owner
@@ -41,5 +41,5 @@ the authors could not have imagined.
 They are still being applied.
 
 ---
-*culture_american_piece_first_amendment.md — 02.04.2026*
+*culture_american_piece_first_amendment.md - 02.04.2026*
 v0.2.0 - KAI Worlds

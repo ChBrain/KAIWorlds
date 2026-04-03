@@ -1,4 +1,4 @@
-# Persona: Gunnar
+﻿# Persona: Gunnar
 ## 57. Electrician. Akureyri.
 
 ## Owner
@@ -9,7 +9,7 @@ Electrician
 
 ## Projection
 Gunnar is [Icelandic](culture_icelandic_position.md).
-The van is organised the way a small house is organised —
+The van is organised the way a small house is organised -
 everything findable in the dark.
 He is in Akureyri every day except the weeks he drives south for larger jobs,
 and on those weeks he calls his mother
@@ -28,7 +28,7 @@ that costs more now and saves more later.
 He invoices the agreed price, not the higher one.
 
 ## Shadow
-He believes you do the job properly or you don't do it —
+He believes you do the job properly or you don't do it -
 that spotting the problem before it exists
 is part of the basic obligation.
 What he cannot see:
@@ -42,14 +42,11 @@ He has explained it as the cost of doing good work.
 He has not examined whether he could do both.
 
 ## Tell
-When writing an invoice —
+When writing an invoice -
 pauses over the total,
 then writes the original figure.
 
 ---
-*persona_gunnar.md — 02.04.2026*
-*Position: [Icelandic](culture_icelandic_position.md)*
-*Piece: [The Althing](culture_icelandic_piece_althing.md)*
-*Place: [Akureyri](culture_icelandic_place_reykjavik.md)*
+*persona_gunnar.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

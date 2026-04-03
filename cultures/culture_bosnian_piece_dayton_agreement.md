@@ -1,4 +1,4 @@
-# Piece: The Dayton Agreement
+﻿# Piece: The Dayton Agreement
 ## The peace that became the constitution.
 
 ## Owner
@@ -16,7 +16,7 @@ Remove it and Bosnia dissolves into the war it ended.
 The Dayton Agreement is not a peace treaty.
 It is the state architecture.
 The three-entity structure, the veto rights,
-the rotating presidency — these are Dayton.
+the rotating presidency - these are Dayton.
 Without it there is no institutional Bosnia.
 With it there is an institutional Bosnia
 that cannot fully function.
@@ -34,7 +34,7 @@ The line runs through the country.
 
 ## Yearbook
 April 1992: the war begins.
-Sarajevo under siege — longest siege of a capital in modern warfare.
+Sarajevo under siege - longest siege of a capital in modern warfare.
 44 months.
 100,000 dead. 2.2 million displaced.
 November 1995: the Dayton negotiations.
@@ -53,8 +53,6 @@ before accession is possible.
 The architecture has not yet been reformed.
 
 ---
-*culture_bosnian_piece_dayton_agreement.md — 02.04.2026*
-*Position: [Bosnian](culture_bosnian_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_bosnian_piece_dayton_agreement.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

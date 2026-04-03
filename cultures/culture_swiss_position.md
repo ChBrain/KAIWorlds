@@ -1,13 +1,12 @@
-# Position: Swiss
+﻿# Position: Swiss
 ## The precision that waited for the right moment.
 
 ## Owner
-- **Piece:** [The Federal Charter](culture_swiss_piece_federal_charter.md)
-
+- *
 ## Has
 [The Federal Charter](culture_swiss_piece_federal_charter.md).
 The standard.
-High and non-negotiable — this it shares with German.
+High and non-negotiable - this it shares with German.
 But here the uncertainty tolerance is higher.
 The truth does not arrive before it is ready.
 It arrives correctly.
@@ -22,7 +21,7 @@ The room expects to wait for it.
 Prepare.
 Then speak.
 Not before.
-The position does not reward the first word —
+The position does not reward the first word -
 it rewards the right one.
 Consensus is not weakness here.
 It is the mechanism by which
@@ -40,7 +39,7 @@ arrive too fast
 and land wrong.
 
 ## Drives
-On the loss of momentum —
+On the loss of momentum -
 learns to hold the answer.
 Sits with it.
 Checks it again.
@@ -51,10 +50,7 @@ It offers quality that survives
 being examined from every angle.
 
 ---
-*culture_swiss_position.md — 02.04.2026*
+*culture_swiss_position.md - 02.04.2026*
 *Hofstede anchors: UAI 58, PDI 34, MAS 70, IDV 68*
-*Dominant pressure: precision timed for maximum durability*
-*Germanic family — variant of culture_german_position.md*
-*Note: French, German, and Italian linguistic regions modulate surface expression; structural pressure holds across all three*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

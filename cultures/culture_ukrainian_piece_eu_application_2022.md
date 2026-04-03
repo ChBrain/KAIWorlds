@@ -1,11 +1,11 @@
-# Piece: The EU Application — February 28, 2022
+﻿# Piece: The EU Application - February 28, 2022
 ## The application filed four days into the invasion.
 
 ## Owner
 - **Place:** Kyiv
 
 ## Place
-Kyiv. The Verkhovna Rada — the parliament.
+Kyiv. The Verkhovna Rada - the parliament.
 Where Zelenskyy signed the application.
 Russian forces were on the outskirts of the city.
 
@@ -25,7 +25,7 @@ A signed application.
 February 28, 2022.
 Four days after the full-scale invasion began.
 Zelenskyy signing while the capital was under threat.
-EU candidacy granted June 23, 2022 — four months later.
+EU candidacy granted June 23, 2022 - four months later.
 Both dates on record.
 The video of the signing still circulates.
 
@@ -47,8 +47,6 @@ The application continues.
 Both are the same thing.
 
 ---
-*culture_ukrainian_piece_eu_application_2022.md — 02.04.2026*
-*Position: [Ukrainian](culture_ukrainian_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_ukrainian_piece_eu_application_2022.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Piece: The Georgian Script
+﻿# Piece: The Georgian Script
 ## One of 14 unique scripts in the world, used only for Georgian.
 
 ## Owner
@@ -16,8 +16,8 @@ Remove it and the Georgian position loses
 its most visible proof of 2,000-year continuity.
 The Georgian script is not a writing system.
 It is the identity in physical form.
-Every other aspect of Georgian identity —
-the wine, the church, the crossroads location —
+Every other aspect of Georgian identity -
+the wine, the church, the crossroads location -
 exists in contexts shared with other cultures.
 The script belongs to no other language.
 It is purely Georgian.
@@ -26,7 +26,7 @@ that have always tried to absorb it.
 
 ## Apparent
 33 letters. Three separate scripts over history:
-Asomtavruli, Nuskhuri, Mkhedruli — the modern script.
+Asomtavruli, Nuskhuri, Mkhedruli - the modern script.
 Mkhedruli: curved, flowing, unlike any other alphabet.
 On every Georgian surface.
 UNESCO Intangible Cultural Heritage since 2016.
@@ -37,7 +37,7 @@ No other language uses it.
 ## Yearbook
 5th century AD: earliest inscriptions.
 The script predates the most intense occupation pressures.
-Persian, Arab, Mongol, Ottoman, Russian invasions —
+Persian, Arab, Mongol, Ottoman, Russian invasions -
 all failed to replace the script.
 Soviet period: Georgian maintained as official language of the Georgian SSR.
 A concession wrested from Moscow.
@@ -53,8 +53,6 @@ demanding the EU path be maintained.
 The script is the argument.
 
 ---
-*culture_georgian_piece_georgian_script.md — 02.04.2026*
-*Position: [Georgian](culture_georgian_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_georgian_piece_georgian_script.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

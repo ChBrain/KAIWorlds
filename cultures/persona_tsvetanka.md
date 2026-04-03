@@ -1,4 +1,4 @@
-# Persona: Tsvetanka
+﻿# Persona: Tsvetanka
 ## 43. School librarian. Plovdiv.
 
 ## Owner
@@ -16,7 +16,7 @@ She runs both without explaining the distinction to visitors.
 Regulars use hers.
 
 ## Action
-A new headteacher wants to digitise the catalogue —
+A new headteacher wants to digitise the catalogue -
 an external system, centrally managed, standardised.
 Tsvetanka provides all the data required for migration.
 She formats it correctly.
@@ -41,14 +41,11 @@ She has not protected herself or the gap from scrutiny.
 The solution is invisible until it becomes a problem.
 
 ## Tell
-When someone asks if the catalogue is accurate —
+When someone asks if the catalogue is accurate -
 says yes,
 and does not specify which one.
 
 ---
-*persona_tsvetanka.md — 02.04.2026*
-*Position: [Bulgarian](culture_bulgarian_position.md)*
-*Piece: [The Cyrillic Alphabet](culture_bulgarian_piece_cyrillic.md)*
-*Place: [Plovdiv](culture_bulgarian_place_sofia.md)*
+*persona_tsvetanka.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

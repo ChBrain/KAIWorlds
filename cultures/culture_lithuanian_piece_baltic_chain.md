@@ -1,4 +1,4 @@
-# Piece: The Baltic Chain
+﻿# Piece: The Baltic Chain
 ## Two million people holding hands across three countries.
 
 ## Owner
@@ -10,7 +10,7 @@ Vilnius. The southern end of the chain.
 ## Load Bearing
 Remove it and the Lithuanian position loses its fullest expression.
 The Baltic Chain was three countries with three different histories
-making one gesture simultaneously — the crossroads capacity
+making one gesture simultaneously - the crossroads capacity
 demonstrated at two-million-person scale.
 
 ## Apparent
@@ -41,5 +41,5 @@ who knew, from the chain,
 that they could hold together.
 
 ---
-*culture_lithuanian_piece_baltic_chain.md — 02.04.2026*
+*culture_lithuanian_piece_baltic_chain.md - 02.04.2026*
 v0.2.0 - KAI Worlds

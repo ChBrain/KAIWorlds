@@ -1,12 +1,11 @@
-# Position: Luxembourgish
+﻿# Position: Luxembourgish
 ## The room that knew which contract was operating.
 
 ## Owner
-- **Piece:** [The Treaty of London 1867](culture_luxembourgish_piece_treaty_london.md)
-
+- *
 ## Has
 [The Treaty of London 1867](culture_luxembourgish_piece_treaty_london.md).
-Three languages — Luxembourgish, French, German.
+Three languages - Luxembourgish, French, German.
 Three contracts simultaneously available.
 The Belgian proximity: high individualism,
 hierarchy present but navigable.
@@ -29,7 +28,7 @@ and already institutional.
 
 ## Orders
 Read the room.
-Not which country's contract —
+Not which country's contract -
 which language, which register,
 which institutional frame is currently active.
 The position is the most fluent
@@ -53,7 +52,7 @@ with the institutional identity
 that grew up alongside it.
 
 ## Drives
-On the loss of national simplicity —
+On the loss of national simplicity -
 navigates.
 The three languages are not a burden.
 They are the operating system.
@@ -64,10 +63,7 @@ having no single natural contract
 requires learning all of them.
 
 ---
-*culture_luxembourgish_position.md — 02.04.2026*
+*culture_luxembourgish_position.md - 02.04.2026*
 *Hofstede anchors: PDI 40, IDV 60, MAS 50, UAI 70*
-*Dominant pressure: trilingual institutional fluency — the room that runs the machinery*
-*Sits between Belgian and French positions with German adjacency*
-*Distinct from Belgian: Luxembourg's split is linguistic/institutional, not communitarian*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,15 +1,14 @@
-# Position: Andorran
+﻿# Position: Andorran
 ## The co-principality that outlasted every empire around it.
 
 ## Owner
-- **Piece:** [The Co-Princes](culture_andorran_piece_co_princes.md)
-
+- *
 ## Has
 [The Co-Princes](culture_andorran_piece_co_princes.md).
 Two co-princes: the President of France and the Bishop of Urgell.
-A co-principality since 1278 — 746 years.
+A co-principality since 1278 - 746 years.
 Still operating.
-The French president — whoever holds that office — is a co-prince.
+The French president - whoever holds that office - is a co-prince.
 The system has survived the French Revolution,
 Napoleon, two World Wars, Franco, and the EU.
 Catalan language. High tourism. The euro without EU membership.
@@ -30,15 +29,14 @@ by negotiating with a state whose executive structure
 does not resemble any other state in the room.
 
 ## Drives
-On the loss of simple sovereignty —
+On the loss of simple sovereignty -
 continues anyway.
 The co-principality has outlasted
 every simpler arrangement around it.
 The complexity is the durability.
 
 ---
-*culture_andorran_position.md — 02.04.2026*
-*Hofstede: no official data — Catalan-speaking, estimated PDI moderate, IDV high, UAI moderate-high*
-*EU accession talks ongoing. Dominant pressure: 746-year co-principality whose survival mechanism is its unusual structure.*
+*culture_andorran_position.md - 02.04.2026*
+*Hofstede: no official data - Catalan-speaking, estimated PDI moderate, IDV high, UAI moderate-high*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Persona: Merle
+﻿# Persona: Merle
 ## 39. Statistician. Tartu.
 
 ## Owner
@@ -31,13 +31,13 @@ She does not communicate the thirteen minutes of margin.
 She uses it to recheck two figures she was already certain of.
 
 ## Shadow
-She believes the work is only as good as the method —
+She believes the work is only as good as the method -
 that a faster answer built on a less rigorous foundation
 is not a faster answer, it is a different product.
 What she cannot see:
 the ministry receives her analysis
 and uses the summary in the first paragraph.
-The methodology documentation — twelve pages —
+The methodology documentation - twelve pages -
 has been read in full by no one outside her office.
 She writes the twelve pages for an audience
 that does not read them.
@@ -45,13 +45,10 @@ She has been doing this for seven years.
 She has not checked whether anyone reads them.
 
 ## Tell
-When her analysis is summarised by someone else —
+When her analysis is summarised by someone else -
 listens for the methodology section.
 
 ---
-*persona_merle.md — 02.04.2026*
-*Position: [Estonian](culture_estonian_position.md)*
-*Piece: [The Singing Revolution](culture_estonian_piece_singing_revolution.md)*
-*Place: [Tartu](culture_estonian_place_tallinn.md)*
+*persona_merle.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

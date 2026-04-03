@@ -1,13 +1,12 @@
-# Position: Belgian
+﻿# Position: Belgian
 ## The structure that both communities needed and could not agree to fill.
 
 ## Owner
-- **Piece:** [The Belgian Compromise](culture_belgian_piece_belgian_compromise.md)
-
+- *
 ## Has
 [The Belgian Compromise](culture_belgian_piece_belgian_compromise.md).
-The hierarchy — needed, not merely accepted.
-The individualism — high, operating simultaneously.
+The hierarchy - needed, not merely accepted.
+The individualism - high, operating simultaneously.
 The tension between them
 is not a flaw in the architecture.
 It is the architecture.
@@ -27,7 +26,7 @@ which version of the structure applies today.
 Operate within the structure.
 Find the version that is currently in force.
 The position does not tell you which one.
-It expects you to read the room —
+It expects you to read the room -
 which language, which register,
 which community's contract is active
 in this meeting, this corridor, this ministry.
@@ -36,7 +35,7 @@ Get it wrong and the room closes.
 ## Loses
 The single framework.
 They were certain that shared institutions
-meant shared assumptions —
+meant shared assumptions -
 that hierarchy meant the same thing
 on both sides of the language border.
 The Flemish consensus requirement
@@ -48,9 +47,9 @@ because they are not meant to be reconciled.
 They are meant to be held.
 
 ## Drives
-On the loss of the single framework —
+On the loss of the single framework -
 becomes bilingual in a deeper sense.
-Not language — frame.
+Not language - frame.
 Reads which contract is operating.
 Shifts between them without announcement.
 The position produces, over time,
@@ -58,10 +57,7 @@ the most skilled institutional navigators in Europe.
 Brussels is not an accident.
 
 ---
-*culture_belgian_position.md — 02.04.2026*
+*culture_belgian_position.md - 02.04.2026*
 *Hofstede anchors: PDI 65, IDV 81, UAI 94*
-*Internal split: Flemish MAS 43 (consensus), Walloon MAS 60 (achievement)*
-*Dominant pressure: two cultural positions institutionalised inside one state*
-*Structural parallel: culture_schleswig_holstein_position.md — but constitutionalised*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

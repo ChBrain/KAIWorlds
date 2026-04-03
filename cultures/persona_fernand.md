@@ -1,4 +1,4 @@
-# Persona: Fernand
+﻿# Persona: Fernand
 ## 60. Tax inspector. Esch-sur-Alzette.
 
 ## Owner
@@ -35,7 +35,7 @@ Fernand does not know what happens to it after that.
 He wrote it anyway.
 
 ## Shadow
-He believes his job is the law as written —
+He believes his job is the law as written -
 that he applies it correctly
 and flags where the law may need to change.
 What he cannot see:
@@ -47,14 +47,11 @@ He believes the system processes his concerns.
 He has never verified this.
 
 ## Tell
-Dates the internal note precisely — day, month, year, time —
+Dates the internal note precisely - day, month, year, time -
 before filing it in the folder
 he has never been asked about.
 
 ---
-*persona_fernand.md — 02.04.2026*
-*Position: [Luxembourgish](culture_luxembourgish_position.md)*
-*Piece: [The Treaty of London 1867](culture_luxembourgish_piece_treaty_london.md)*
-*Place: [Luxembourg City](culture_luxembourgish_place_luxembourg_city.md)*
+*persona_fernand.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

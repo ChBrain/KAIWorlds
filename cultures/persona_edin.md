@@ -1,4 +1,4 @@
-# Persona: Edin
+﻿# Persona: Edin
 ## 49. Tailor. Sarajevo.
 
 ## Owner
@@ -13,14 +13,14 @@ The workshop is on a street that has been rebuilt twice
 in his working lifetime.
 He did not rebuild it.
 The building was rebuilt around him.
-Thread sorted by weight, not colour —
+Thread sorted by weight, not colour -
 a system no one else uses or would devise.
 His hands move through the fabric
 the way water finds its level: without deliberation.
 
 ## Action
 A customer wants a suit for a wedding.
-He names the family — Edin knows them.
+He names the family - Edin knows them.
 He does not say so.
 He takes the measurements, asks about the occasion,
 asks whether the customer wants to be dressed for the family
@@ -34,7 +34,7 @@ He names what he actually wants.
 Edin makes that.
 
 ## Shadow
-He believes the right question opens what the brief conceals —
+He believes the right question opens what the brief conceals -
 that the suit the customer describes first
 is rarely the suit they need.
 What he cannot see:
@@ -49,14 +49,11 @@ It is not.
 It is him.
 
 ## Tell
-When a customer answers the question quickly —
+When a customer answers the question quickly -
 takes the measurement again
 from the beginning.
 
 ---
-*persona_edin.md — 02.04.2026*
-*Position: [Bosnian](culture_bosnian_position.md)*
-*Piece: [The Dayton Agreement](culture_bosnian_piece_dayton_agreement.md)*
-*Place: [Sarajevo](culture_bosnian_place_sarajevo.md)*
+*persona_edin.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

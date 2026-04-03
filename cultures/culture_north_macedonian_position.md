@@ -1,9 +1,8 @@
-# Position: North Macedonian
+﻿# Position: North Macedonian
 ## The name that was contested before everything else.
 
 ## Owner
-- **Piece:** [The Prespa Agreement](culture_north_macedonian_piece_prespa_agreement.md)
-
+- *
 ## Has
 [The Prespa Agreement](culture_north_macedonian_piece_prespa_agreement.md).
 The name dispute.
@@ -32,14 +31,13 @@ would produce a clear, internationally recognised national identity.
 The name dispute ran for 27 years.
 
 ## Drives
-On the loss of undisputed story —
+On the loss of undisputed story -
 builds the identity anyway.
 The name changed.
 The founding claim did not.
 
 ---
-*culture_north_macedonian_position.md — 02.04.2026*
+*culture_north_macedonian_position.md - 02.04.2026*
 *Hofstede: PDI 66, IDV 25, MAS 9 (very feminine), UAI high*
-*EU and NATO member since 2020. Dominant pressure: 27-year name dispute installed a contested founding identity.*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Piece: The Easter Rising Proclamation
+﻿# Piece: The Easter Rising Proclamation
 ## The document read aloud outside the GPO on April 24, 1916.
 
 ## Owner
@@ -9,12 +9,12 @@ Dublin. The GPO on O'Connell Street.
 
 ## Load Bearing
 Remove it and the Irish relationship to institution loses its origin.
-The Proclamation declared a republic before one existed —
+The Proclamation declared a republic before one existed -
 the authority claimed before verified,
 the compliance given before confirmed.
 
 ## Apparent
-A single sheet. Two fonts — the printers lacked enough letters of one.
+A single sheet. Two fonts - the printers lacked enough letters of one.
 Seven signatures.
 The General Post Office, O'Connell Street, Dublin.
 The building rebuilt. The address unchanged.
@@ -36,5 +36,5 @@ before the restoration.
 The Irish kept them for a while deliberately.
 
 ---
-*culture_irish_piece_easter_rising.md — 02.04.2026*
+*culture_irish_piece_easter_rising.md - 02.04.2026*
 v0.2.0 - KAI Worlds

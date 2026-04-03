@@ -1,9 +1,8 @@
-# Place: Berlin
+﻿# Place: Berlin
 ## Location: Germany
 
 ## Owner
-- **Position:** [German](culture_german_position.md)
-
+- *
 ## Shown
 - A city built on rubble and built again.
   The layers are visible if you look.
@@ -30,15 +29,15 @@
   Berlin is always finishing something.
 
 ## Holds
-- The German position — [German](culture_german_position.md)
-- The memory of the wall — piece to be built
-- The Basic Law — piece to be built
+- The German position - [German](culture_german_position.md)
+- The memory of the wall - piece to be built
+- The Basic Law - piece to be built
 
 ## Offers
 - The room where precision meets historical weight.
   What is said here carries the responsibility
   of what was said and done here before.
-- [The World is Spinning](process_world_is_spinning.md) — runs here daily.
+- [The World is Spinning](process_world_is_spinning.md) - runs here daily.
   Today's German position pressing.
   Yesterday's Echo already in the room.
 
@@ -49,8 +48,6 @@
   It surfaces under pressure.
 
 ---
-*culture_german_place_berlin.md — 02.04.2026*
-*Position: [German](culture_german_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_german_place_berlin.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

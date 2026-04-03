@@ -1,4 +1,4 @@
-# Persona: Siarhei
+﻿# Persona: Siarhei
 ## 51. Accountant. Minsk.
 
 ## Owner
@@ -24,8 +24,8 @@ The figures are correct in two senses:
 correct as required by the filing,
 and correct as understood by Siarhei.
 He files what is required.
-He also maintains a separate ledger —
-not hidden, simply not submitted —
+He also maintains a separate ledger -
+not hidden, simply not submitted -
 that reflects what he understands.
 He has maintained it for seven years.
 He has not decided what it is for.
@@ -33,7 +33,7 @@ He maintains it because discontinuing it
 would be a decision he has not made.
 
 ## Shadow
-He believes accuracy is its own obligation —
+He believes accuracy is its own obligation -
 that the two ledgers are both accurate
 in their respective contexts,
 and maintaining both is not contradiction but precision.
@@ -47,14 +47,11 @@ He has been precise about the entries.
 He has not been precise about what they add up to.
 
 ## Tell
-When asked how the company is doing —
+When asked how the company is doing -
 answers the question that was asked,
 not the question he keeps the second ledger for.
 
 ---
-*persona_siarhei.md — 02.04.2026*
-*Position: [Belarusian](culture_belarusian_position.md)*
-*Piece: [The 2020 Election](culture_belarusian_piece_2020_election.md)*
-*Place: [Minsk](culture_belarusian_place_minsk.md)*
+*persona_siarhei.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

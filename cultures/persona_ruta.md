@@ -1,4 +1,4 @@
-# Persona: Rūta
+﻿# Persona: Rūta
 ## 43. University lecturer. Kaunas.
 
 ## Owner
@@ -22,7 +22,7 @@ A student submits an essay
 that reaches the correct conclusion through flawed reasoning.
 Rūta writes comments on every page.
 She passes it.
-The comments explain the better path —
+The comments explain the better path -
 not the destination, because the destination is correct,
 but the route.
 She gives the student an appointment.
@@ -34,7 +34,7 @@ She does not change the grade.
 She does not explain why the grade stays.
 
 ## Shadow
-She believes the grade reflects the conclusion —
+She believes the grade reflects the conclusion -
 that what a student thinks matters more than how they got there,
 and the comments are the real assessment.
 What she cannot see:
@@ -48,14 +48,11 @@ The record says they are the same.
 The student believes they are the same.
 
 ## Tell
-When a student gets the right answer for the wrong reasons —
+When a student gets the right answer for the wrong reasons -
 pauses before writing the mark,
 then writes it without changing it.
 
 ---
-*persona_ruta.md — 02.04.2026*
-*Position: [Lithuanian](culture_lithuanian_position.md)*
-*Piece: [The Baltic Chain](culture_lithuanian_piece_baltic_chain.md)*
-*Place: [Kaunas](culture_lithuanian_place_vilnius.md)*
+*persona_ruta.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds
