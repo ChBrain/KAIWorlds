@@ -239,6 +239,14 @@ A world built from the operating logic of Germany's sixteen federal states. 32 p
 
 ---
 
+### [Elections](elections/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/elections.zip)
+
+*Bundesrepublik Deutschland. Sixteen states. Berlin. Brussels. The ballot was already cast.*
+
+A world built from three simultaneous levels of German democratic life. 32 personas - voters and heads of government across sixteen states, plus the Federal Chancellor, the Federal Voter, a European voter, and an MEP. Each carrying the accumulated record of every election they have lived through. The state result changes the Bundesrat. The Bundesrat shapes federal legislation. Every ballot carries more than the voter was told it would. This world does not resolve. It runs.
+
+---
+
 ## Join the conversation
 
 Running a world? Found something the files didn't predict?
