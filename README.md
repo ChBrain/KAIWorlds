@@ -53,6 +53,14 @@ Eine Welt über *Mehr* — was ein Mensch tut, wenn Meisterschaft sich als unzur
 
 ---
 
+### [Via Dolorosa](via_dolorosa/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/via_dolorosa.zip)
+
+*Jerusalem. Good Friday. The road moves.*
+
+A world about what witnesses cannot see in themselves while witnessing. Nine personas, fourteen stations, seven pieces. The Bearer carries the cross from condemnation to burial. The road does not consult the people it passes through. Pilate watches the crowd decide. Simon didn't choose to be here. Veronica is the only voluntary position. This world does not resolve. It carries.
+
+---
+
 ### [April](april/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/april.zip)
 
 *The anatomy of a prank*
