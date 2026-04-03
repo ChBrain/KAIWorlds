@@ -223,6 +223,14 @@ A world built from the operating logic of 52 European cultures. 104 personas doi
 
 ---
 
+### [Reckoning](reckoning/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/reckoning.zip)
+
+*Sixteen states. The reckoning that was already underway is still underway.*
+
+A world built from the operating logic of Germany's sixteen federal states. 32 personas carrying regional positions they did not choose — Bavarian self-sufficiency, Berlin's divided memory, the Ruhr's last lump of coal, the empty villages of Mecklenburg. The dialect against the culture. The East against the West. One process: Germany is reckoning. This world does not resolve. It presses.
+
+---
+
 ## Join the conversation
 
 Running a world? Found something the files didn't predict?
