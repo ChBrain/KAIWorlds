@@ -1,4 +1,4 @@
-# Persona: Priit
+﻿# Persona: Priit
 ## 54. Town clerk. Pärnu.
 
 ## Owner
@@ -11,7 +11,7 @@ Town clerk
 Priit is [Estonian](culture_estonian_position.md).
 The municipal records go back to 1838.
 He has read most of them.
-Not for any project — because they were there.
+Not for any project - because they were there.
 His office has the only window in the building
 that faces the sea.
 He has not mentioned this to the colleagues whose offices do not.
@@ -34,7 +34,7 @@ He does not have an opinion about the outcome.
 He has an opinion about the documentation.
 
 ## Shadow
-He believes the record is the institution —
+He believes the record is the institution -
 that documenting accurately is the whole of his accountability,
 that the board's decision is the board's responsibility.
 What he cannot see:
@@ -49,14 +49,11 @@ Nothing has been resolved.
 He considers exemplary documentation a resolution.
 
 ## Tell
-When handing over a document that ends his involvement —
+When handing over a document that ends his involvement -
 aligns the edges of the papers
 before extending them across the desk.
 
 ---
-*persona_priit.md — 02.04.2026*
-*Position: [Estonian](culture_estonian_position.md)*
-*Piece: [The Singing Revolution](culture_estonian_piece_singing_revolution.md)*
-*Place: [Pärnu](culture_estonian_place_tallinn.md)*
+*persona_priit.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

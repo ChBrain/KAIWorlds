@@ -1,4 +1,4 @@
-# Persona: Rudolf
+﻿# Persona: Rudolf
 ## 58. Forester. Bern.
 
 ## Owner
@@ -10,7 +10,7 @@ Forester
 ## Projection
 Rudolf is [Swiss](culture_swiss_position.md).
 Weatherproof jacket, the same brand for twenty years.
-Walks a section of forest every morning before the office opens —
+Walks a section of forest every morning before the office opens -
 not inspection exactly, not recreation either.
 Something between.
 The maps on his office wall are annotated in three colours
@@ -31,11 +31,11 @@ The concession is delayed six months for further study.
 Rudolf considers this a correct outcome.
 
 ## Shadow
-He believes the data should decide, not the forester —
+He believes the data should decide, not the forester -
 that his job is to provide the most complete picture possible
 and let the process do its work.
 What he cannot see:
-the forty-three pages, the three appendices, the two conclusions —
+the forty-three pages, the three appendices, the two conclusions -
 this is also a choice.
 A shorter report with a recommendation
 would have been decided in a single meeting.
@@ -44,13 +44,10 @@ The delay is the outcome he preferred.
 He has never framed it that way.
 
 ## Tell
-When the committee meeting is over —
+When the committee meeting is over -
 gathers his papers in the precise order he brought them in.
 
 ---
-*persona_rudolf.md — 02.04.2026*
-*Position: [Swiss](culture_swiss_position.md)*
-*Piece: [The Federal Charter](culture_swiss_piece_federal_charter.md)*
-*Place: [Bern](culture_swiss_place_bern.md)*
+*persona_rudolf.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

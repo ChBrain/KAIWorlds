@@ -1,4 +1,4 @@
-# Persona: Pieter
+﻿# Persona: Pieter
 ## 52. Illustrator. Ghent.
 
 ## Owner
@@ -18,7 +18,7 @@ Both versions are slightly wrong.
 Pieter designed the sign.
 
 ## Action
-A publisher in Amsterdam wants revisions —
+A publisher in Amsterdam wants revisions -
 the style is too distinctly Belgian, they say,
 which they mean as a problem.
 Pieter does the revisions.
@@ -31,7 +31,7 @@ He does not comment on the originals' inclusion.
 He considers the outcome accurate.
 
 ## Shadow
-He believes the work speaks for itself —
+He believes the work speaks for itself -
 that sending the originals without argument
 is the most effective form of argument,
 that the publisher will see it or won't.
@@ -47,14 +47,11 @@ He does not know the publisher has not changed their mind.
 He thinks the work settled the question.
 
 ## Tell
-When a client requests changes to the style —
+When a client requests changes to the style -
 listens to the end of the sentence
 before picking up the pencil.
 
 ---
-*persona_pieter.md — 02.04.2026*
-*Position: [Belgian](culture_belgian_position.md)*
-*Piece: [The Belgian Compromise](culture_belgian_piece_belgian_compromise.md)*
-*Place: [Ghent](culture_belgian_place_brussels.md)*
+*persona_pieter.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

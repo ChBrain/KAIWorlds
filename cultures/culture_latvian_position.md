@@ -1,18 +1,17 @@
-# Position: Latvian
+﻿# Position: Latvian
 ## The self that survived by remaining itself.
 
 ## Owner
-- **Piece:** [The Song and Dance Festival](culture_latvian_piece_song_festival.md)
-
+- *
 ## Has
 [The Song and Dance Festival](culture_latvian_piece_song_festival.md).
-The language — one of the oldest in Europe,
+The language - one of the oldest in Europe,
 held through German, Swedish, Russian, Soviet occupation.
-The songs — the Song and Dance Festival
+The songs - the Song and Dance Festival
 is not a cultural event.
 It is the mechanism by which
 the culture confirmed it still existed.
-The land — the amber coast,
+The land - the amber coast,
 the forests, the seasons that dictate the pace.
 Four thousand years in the same location.
 Every power came. Every power left.
@@ -36,8 +35,8 @@ that this is also a form of resistance.
 
 ## Loses
 The expectation of reciprocity.
-They were certain that holding —
-the care, the persistence, the quiet continuity —
+They were certain that holding -
+the care, the persistence, the quiet continuity -
 would be met with equivalent investment
 from the other side.
 That the relationship would hold
@@ -50,7 +49,7 @@ It has been the condition
 longer than any living person remembers.
 
 ## Drives
-On the loss of reciprocity —
+On the loss of reciprocity -
 holds anyway.
 The position does not require
 the other party to hold.
@@ -58,10 +57,7 @@ It requires the thing to be held.
 That is sufficient.
 
 ---
-*culture_latvian_position.md — 02.04.2026*
+*culture_latvian_position.md - 02.04.2026*
 *Hofstede anchors: PDI moderate-low, MAS very low, UAI moderate, IDV moderate-high, IVR very low*
-*Dominant pressure: identity held intact through occupation — resilience as cultural inheritance*
-*Baltic family — split from Lithuanian at the Has level*
-*Key distinction from Lithuanian: Latvia holds the self; Lithuania builds the self*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

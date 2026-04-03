@@ -1,4 +1,4 @@
-# Piece: The Captains Regent
+﻿# Piece: The Captains Regent
 ## Two heads of state, six-month terms, since 1243.
 
 ## Owner
@@ -16,8 +16,8 @@ Remove it and San Marino loses its governing mechanism
 and its reason for existing as a republic.
 The Captain-Regent system is not a historical curiosity.
 It is the operational government.
-Two serve simultaneously — to prevent tyranny.
-Neither can serve consecutive terms — to prevent accumulation.
+Two serve simultaneously - to prevent tyranny.
+Neither can serve consecutive terms - to prevent accumulation.
 The design is 780 years old.
 It still works.
 Remove it and the oldest republic in the world
@@ -33,7 +33,7 @@ The three towers on the mountain above.
 The ceremony has the weight of 780 years.
 
 ## Yearbook
-301 AD: the founding legend — Saint Marinus the stonemason.
+301 AD: the founding legend - Saint Marinus the stonemason.
 1243: the first recorded Captains Regent.
 The system formalised.
 1463: San Marino acquires additional territories.
@@ -53,8 +53,6 @@ The republic survives.
 The Captains Regent still sworn in April 1st and October 1st.
 
 ---
-*culture_san_marinese_piece_captains_regent.md — 02.04.2026*
-*Position: [San Marinese](culture_san_marinese_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_san_marinese_piece_captains_regent.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

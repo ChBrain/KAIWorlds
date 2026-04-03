@@ -1,13 +1,12 @@
-# Position: Georgian
+﻿# Position: Georgian
 ## The oldest Christian nation at the crossroads of everything.
 
 ## Owner
-- **Piece:** [The Georgian Script](culture_georgian_piece_georgian_script.md)
-
+- *
 ## Has
 [The Georgian Script](culture_georgian_piece_georgian_script.md).
-The oldest Christian nation — 327 AD.
-The Georgian script — one of 14 unique scripts in the world,
+The oldest Christian nation - 327 AD.
+The Georgian script - one of 14 unique scripts in the world,
 used only for Georgian.
 8,000 years of winemaking.
 The crossroads: Russia, Turkey, Armenia, Azerbaijan.
@@ -36,14 +35,13 @@ The position split between government and population.
 The persona carries both.
 
 ## Drives
-On the loss of uncomplicated path —
+On the loss of uncomplicated path -
 holds the script, the church, the wine.
 These survived everything before.
 The current government is not the last test.
 
 ---
-*culture_georgian_position.md — 02.04.2026*
+*culture_georgian_position.md - 02.04.2026*
 *Hofstede: PDI 74, IDV 25, MAS 65, UAI 75*
-*EU applied 2022. Dominant pressure: 2,000-year identity at permanent crossroads, EU path disputed between government and population.*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

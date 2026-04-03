@@ -1,4 +1,4 @@
-# Piece: The George Cross
+﻿# Piece: The George Cross
 ## The medal Britain gave to an island.
 
 ## Owner
@@ -42,5 +42,5 @@ The warmth and the frame,
 together, on the flag.
 
 ---
-*culture_maltese_piece_george_cross.md — 02.04.2026*
+*culture_maltese_piece_george_cross.md - 02.04.2026*
 v0.2.0 - KAI Worlds

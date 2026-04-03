@@ -1,12 +1,11 @@
-# Position: Czech
+﻿# Position: Czech
 ## The compliance that was also a critique.
 
 ## Owner
-- **Piece:** [Charter 77](culture_czech_piece_charter_77.md)
-
+- *
 ## Has
 [Charter 77](culture_czech_piece_charter_77.md).
-The moderate everything — by the numbers.
+The moderate everything - by the numbers.
 Moderate hierarchy. Moderate individualism.
 Moderate achievement drive. High enough UAI
 to want structure.
@@ -30,7 +29,7 @@ and has already decided how to respond.
 Comply.
 Precisely. Thoroughly. With visible good cheer.
 Follow the letter.
-The spirit was never the point —
+The spirit was never the point -
 the spirit is how the system claims
 more than it is owed.
 The position does not explain
@@ -42,9 +41,9 @@ while appearing cooperative.
 
 ## Loses
 The expectation of acknowledgment.
-They were certain that the quality of the compliance —
+They were certain that the quality of the compliance -
 its thoroughness, its technical perfection,
-the obvious effort invested in the absurdity —
+the obvious effort invested in the absurdity -
 would be noticed.
 That the system would understand
 what was being said without being said.
@@ -56,7 +55,7 @@ The persona is never surprised.
 The irony remains.
 
 ## Drives
-On the loss of acknowledgment —
+On the loss of acknowledgment -
 complies again.
 More thoroughly.
 The position does not require the system to notice.
@@ -66,11 +65,7 @@ to everyone except the system.
 That is sufficient.
 
 ---
-*culture_czech_position.md — 02.04.2026*
+*culture_czech_position.md - 02.04.2026*
 *Hofstede anchors: PDI 57, IDV 58, MAS 57, UAI 74, IVR 29 (low indulgence/cynicism)*
-*Dominant pressure: irony as load-bearing cultural technology*
-*Eastern family — distinct from Polish (in-group over system) and Hungarian (frame disappointment)*
-*Key concept: Švejkism — technically correct compliance as critique*
-*Historical overlay: Habsburg, Nazi, Soviet governance — three distinct systems all requiring the same response*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

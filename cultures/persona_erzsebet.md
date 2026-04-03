@@ -1,4 +1,4 @@
-# Persona: Erzsébet
+﻿# Persona: Erzsébet
 ## 41. Pastry chef. Pécs.
 
 ## Owner
@@ -10,7 +10,7 @@ Pastry chef
 ## Projection
 Erzsébet is [Hungarian](culture_hungarian_position.md).
 The konditorei is her grandmother's.
-Not legally — legally it is hers since 2019 —
+Not legally - legally it is hers since 2019 -
 but in the way she thinks about it,
 in the way she explains it to customers,
 it is her grandmother's.
@@ -31,7 +31,7 @@ She is polite to the journalist throughout.
 
 ## Shadow
 She believes the konditorei's value
-is in what cannot be replicated —
+is in what cannot be replicated -
 that giving the recipe is giving the thing away,
 and the thing is not the recipe.
 What she cannot see:
@@ -40,20 +40,17 @@ She has no children.
 Her one apprentice left for Vienna two years ago.
 The recipe she kept from the journalist
 she has also not written down.
-It lives where her grandmother's lived —
+It lives where her grandmother's lived -
 in a person.
 She has protected the recipe from the world
 and not yet arranged for the world to receive it.
 
 ## Tell
-When someone says the rétes is the best they have ever had —
+When someone says the rétes is the best they have ever had -
 thanks them
 and does not explain what is in it.
 
 ---
-*persona_erzsebet.md — 02.04.2026*
-*Position: [Hungarian](culture_hungarian_position.md)*
-*Piece: [The Crown of Saint Stephen](culture_hungarian_piece_crown_saint_stephen.md)*
-*Place: [Pécs](culture_hungarian_place_budapest.md)*
+*persona_erzsebet.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

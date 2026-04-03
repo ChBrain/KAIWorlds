@@ -1,9 +1,8 @@
-# Position: Polish
+﻿# Position: Polish
 ## The loyalty that was already owed before the question was asked.
 
 ## Owner
-- **Piece:** [Solidarity](culture_polish_piece_solidarity.md)
-
+- *
 ## Has
 [Solidarity](culture_polish_piece_solidarity.md).
 The in-group.
@@ -17,7 +16,7 @@ The room already knows who is inside it.
 
 ## Orders
 Hold the circle.
-Not as sentiment — as structure.
+Not as sentiment - as structure.
 The position does not explain
 that the circle has a cost
 for everyone standing outside it.
@@ -35,13 +34,11 @@ The weight of what the circle cost
 does not put itself down.
 
 ## Drives
-On the loss of neutrality — protects the circle.
+On the loss of neutrality - protects the circle.
 The system will have to manage.
 
 ---
-*culture_polish_position.md — 02.04.2026*
+*culture_polish_position.md - 02.04.2026*
 *Hofstede anchors: PDI 68, IDV 60, MAS 64, UAI 93*
-*Dominant pressure: in-group over institution*
-*Eastern family anchor*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Piece: The Prespa Agreement
+﻿# Piece: The Prespa Agreement
 ## The name change that bought the future.
 
 ## Owner
@@ -17,7 +17,7 @@ on every international integration the country sought.
 The Prespa Agreement resolved the block.
 The price: the country's name.
 The gain: the open door.
-The load bearing is the transaction —
+The load bearing is the transaction -
 the identity cost of the path chosen.
 
 ## Apparent
@@ -36,7 +36,7 @@ bordered by hills, quiet.
 The name: Republic of Macedonia.
 Greece objects. The dispute begins.
 1993: UN membership under the provisional name
-Former Yugoslav Republic of Macedonia — FYROM.
+Former Yugoslav Republic of Macedonia - FYROM.
 27 years of FYROM on every international document.
 2018: Zaev and Tsipras meet. The Prespa Agreement.
 February 2019: constitutional amendment ratified.
@@ -48,8 +48,6 @@ now governs a country with a different name.
 Both the cost and the gain are real.
 
 ---
-*culture_north_macedonian_piece_prespa_agreement.md — 02.04.2026*
-*Position: [North Macedonian](culture_north_macedonian_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_north_macedonian_piece_prespa_agreement.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

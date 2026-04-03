@@ -1,4 +1,4 @@
-# Piece: Transnistria
+﻿# Piece: Transnistria
 ## The frozen conflict on Moldovan soil since 1992.
 
 ## Owner
@@ -6,7 +6,7 @@
 
 ## Place
 Chișinău. The Parliament of the Republic of Moldova.
-Also: the Nistru River — the eastern boundary of Moldova proper.
+Also: the Nistru River - the eastern boundary of Moldova proper.
 Transnistria is east of the river.
 Transnistria is not administered from Chișinău.
 It is administered from Tiraspol.
@@ -39,7 +39,7 @@ A line that is present when it needs to be.
 1990: Transnistria declares sovereignty.
 1992: the War of Transnistria.
 Five months. 700–1,500 dead.
-Ceasefire. Russian 14th Army — peacekeepers — remain.
+Ceasefire. Russian 14th Army - peacekeepers - remain.
 Moldova internationally recognised.
 Transnistria internationally unrecognised.
 Both persist.
@@ -53,8 +53,6 @@ The frozen conflict is still frozen.
 The EU application continues regardless.
 
 ---
-*culture_moldovan_piece_transnistria.md — 02.04.2026*
-*Position: [Moldovan](culture_moldovan_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_moldovan_piece_transnistria.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

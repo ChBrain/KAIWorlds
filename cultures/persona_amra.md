@@ -1,4 +1,4 @@
-# Persona: Amra
+﻿# Persona: Amra
 ## 34. Kindergarten teacher. Tuzla.
 
 ## Owner
@@ -17,7 +17,7 @@ She knows which ones eat breakfast before they arrive
 by the way they sit at nine o'clock.
 
 ## Action
-Two children — one from each community — are fighting
+Two children - one from each community - are fighting
 over the same toy with the regularity of a schedule.
 Amra does not adjudicate.
 She puts a second identical toy in the box
@@ -29,7 +29,7 @@ She notes it in her own notebook, not the official one.
 
 ## Shadow
 She believes children sort themselves out
-when the environment is right —
+when the environment is right -
 that her job is to arrange the conditions,
 not manage the outcomes.
 What she cannot see:
@@ -45,14 +45,11 @@ would require a meeting,
 and she does not like meetings.
 
 ## Tell
-When a colleague describes a problem she has already solved —
+When a colleague describes a problem she has already solved -
 listens to the end
 without mentioning the notebook.
 
 ---
-*persona_amra.md — 02.04.2026*
-*Position: [Bosnian](culture_bosnian_position.md)*
-*Piece: [The Dayton Agreement](culture_bosnian_piece_dayton_agreement.md)*
-*Place: [Tuzla](culture_bosnian_place_sarajevo.md)*
+*persona_amra.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Persona: Mindaugas
+﻿# Persona: Mindaugas
 ## 56. Courier. Vilnius.
 
 ## Owner
@@ -9,7 +9,7 @@ Courier
 
 ## Projection
 Mindaugas is [Lithuanian](culture_lithuanian_position.md).
-Knows Vilnius by bicycle — not the roads exactly,
+Knows Vilnius by bicycle - not the roads exactly,
 the gaps between roads.
 The alleys that save four minutes,
 the courtyard that is technically private
@@ -18,19 +18,19 @@ A phone mount on the handlebars
 he almost never uses for navigation.
 
 ## Action
-A delivery address is wrong —
+A delivery address is wrong -
 transposed numbers, a common building, two possible locations.
 He tries both.
 The second is correct.
 The recipient is surprised he found it.
 Mindaugas says the numbers were switched.
 The recipient says it was an old address.
-Mindaugas makes a note on his own map — not the app's.
+Mindaugas makes a note on his own map - not the app's.
 The app will suggest the wrong address again next time.
 His note will not.
 
 ## Shadow
-He believes the route is built by doing it —
+He believes the route is built by doing it -
 that the note on his own map
 is the only record that matters
 because it is the only one he controls.
@@ -46,14 +46,11 @@ He has chosen control over continuity.
 He has not framed it as a choice.
 
 ## Tell
-When offered a new routing app —
+When offered a new routing app -
 says he'll look at it
 and does not look at it.
 
 ---
-*persona_mindaugas.md — 02.04.2026*
-*Position: [Lithuanian](culture_lithuanian_position.md)*
-*Piece: [The Baltic Chain](culture_lithuanian_piece_baltic_chain.md)*
-*Place: [Vilnius](culture_lithuanian_place_vilnius.md)*
+*persona_mindaugas.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

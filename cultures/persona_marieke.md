@@ -1,4 +1,4 @@
-# Persona: Marieke
+﻿# Persona: Marieke
 ## 37. Translator. Rotterdam.
 
 ## Owner
@@ -13,7 +13,7 @@ Works from home, which means the kitchen table between nine and one
 and the desk in the spare room from one until she is finished.
 The distinction is important to her.
 Three dictionaries on the desk, none of them Dutch.
-She reads the source text twice before beginning —
+She reads the source text twice before beginning -
 once for meaning, once for register.
 She has a rubric for this that she has never written down.
 
@@ -22,7 +22,7 @@ A client sends a text with a passage
 that is technically translatable in two ways
 and politically different in both.
 Marieke sends back both versions,
-with a paragraph explaining the distinction —
+with a paragraph explaining the distinction -
 not which to choose, what the choice means.
 The client writes back asking which she recommends.
 She recommends the one that is accurate
@@ -32,7 +32,7 @@ Marieke notes this in her project file and invoices.
 
 ## Shadow
 She believes her job ends at the delivery of accurate options
-with accurate explanation —
+with accurate explanation -
 that the client's choice is the client's responsibility
 and she has discharged hers by making the stakes clear.
 What she cannot see:
@@ -44,14 +44,11 @@ The project file is hers.
 It will not be in the room when the problem arrives.
 
 ## Tell
-When a client overrides her recommendation —
+When a client overrides her recommendation -
 adds a line to the project file
 before she closes the email.
 
 ---
-*persona_marieke.md — 02.04.2026*
-*Position: [Dutch](culture_dutch_position.md)*
-*Piece: [The Tolerance Doctrine](culture_dutch_piece_tolerance_doctrine.md)*
-*Place: [Rotterdam](culture_dutch_place_amsterdam.md)*
+*persona_marieke.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

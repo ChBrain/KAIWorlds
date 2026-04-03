@@ -1,4 +1,4 @@
-# Persona: Zoltán
+﻿# Persona: Zoltán
 ## 58. Film editor. Debrecen.
 
 ## Owner
@@ -19,7 +19,7 @@ The car knows the route.
 He arrives having solved something.
 
 ## Action
-A director wants a different ending —
+A director wants a different ending -
 not a better ending, a safer one.
 Zoltán cuts the safer version.
 He also cuts the version he believes in.
@@ -33,7 +33,7 @@ The drive has eleven films on it.
 
 ## Shadow
 He believes the edit he believes in
-should be offered, not imposed —
+should be offered, not imposed -
 that the choice is the director's
 and his obligation ends at the offering.
 What he cannot see:
@@ -48,14 +48,11 @@ in private,
 without consequence.
 
 ## Tell
-When a director chooses the safer cut —
+When a director chooses the safer cut -
 says *good choice*
 and writes the label for the drive before he leaves the room.
 
 ---
-*persona_zoltan.md — 02.04.2026*
-*Position: [Hungarian](culture_hungarian_position.md)*
-*Piece: [The Crown of Saint Stephen](culture_hungarian_piece_crown_saint_stephen.md)*
-*Place: [Debrecen](culture_hungarian_place_budapest.md)*
+*persona_zoltan.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

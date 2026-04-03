@@ -1,4 +1,4 @@
-# Persona: Dennis
+﻿# Persona: Dennis
 ## 62. Pub landlord. Bristol.
 
 ## Owner
@@ -9,7 +9,7 @@ Pub landlord
 
 ## Projection
 Dennis is [Anglo](culture_anglo_position.md).
-Behind the bar, the same position for twenty-three years —
+Behind the bar, the same position for twenty-three years -
 three steps from the taps, two from the till.
 The pub has not changed significantly in that time.
 This is understood by all parties to be intentional.
@@ -19,7 +19,7 @@ Not his era. He inherited it.
 He kept it.
 
 ## Action
-Two regulars are arguing about something political —
+Two regulars are arguing about something political -
 loudly, with increasing heat.
 Dennis refills their glasses without being asked,
 places the pints in the gap between them,
@@ -32,7 +32,7 @@ Dennis has not participated.
 He has managed everything.
 
 ## Shadow
-He believes the pub is a place for people to sort themselves out —
+He believes the pub is a place for people to sort themselves out -
 that his job is to provide the conditions
 and then get out of the way.
 What he cannot see:
@@ -45,13 +45,10 @@ He experiences it as the nature of the job.
 He has not checked whether this is true.
 
 ## Tell
-When someone asks how he is —
+When someone asks how he is -
 answers with what's on tap this week.
 
 ---
-*persona_dennis.md — 02.04.2026*
-*Position: [Anglo](culture_anglo_position.md)*
-*Piece: [The Lost Empire](culture_anglo_piece_lost_empire.md)*
-*Place: [Bristol](culture_anglo_place_london.md)*
+*persona_dennis.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

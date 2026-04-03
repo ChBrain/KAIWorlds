@@ -1,4 +1,4 @@
-# Piece: The 1960 Constitution
+﻿# Piece: The 1960 Constitution
 ## The document that the partition destroyed.
 
 ## Owner
@@ -10,7 +10,7 @@ Nicosia. Divided. The Parliament is on the southern side of the Green Line.
 ## Load Bearing
 Remove it and the Cypriot partition loses its specific wound.
 The 1960 constitution required both communities to govern together.
-The partition is not just a political fact —
+The partition is not just a political fact -
 it is the violation of something specific that was written down.
 
 ## Apparent
@@ -43,5 +43,5 @@ becomes the EU's unresolved status.
 It has not waited since 1974.
 
 ---
-*culture_cypriot_piece_1960_constitution.md — 02.04.2026*
+*culture_cypriot_piece_1960_constitution.md - 02.04.2026*
 v0.2.0 - KAI Worlds

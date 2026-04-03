@@ -1,4 +1,4 @@
-# Piece: The Third Rome
+﻿# Piece: The Third Rome
 ## Moscow as the spiritual successor to Constantinople.
 
 ## Owner
@@ -6,7 +6,7 @@
 
 ## Place
 Moscow. The Kremlin.
-The Cathedral of the Assumption — where Tsars were crowned.
+The Cathedral of the Assumption - where Tsars were crowned.
 The Third Rome doctrine did not need a single building.
 It needed the claim.
 The claim lives in the Kremlin.
@@ -20,7 +20,7 @@ Moscow is the Third Rome.
 There will be no fourth.
 This doctrine, formulated in the 16th century,
 organises how the Russian position understands
-its relationship to the West —
+its relationship to the West -
 not as a student or a peer
 but as a parallel civilisation
 with equal or superior legitimacy.
@@ -38,7 +38,7 @@ The Orthodox Church with the Moscow Patriarchate as its head.
 The Kremlin. The iconography.
 The language of Russian foreign policy
 which consistently frames the West
-as the Other — not the standard.
+as the Other - not the standard.
 
 ## Yearbook
 1453: Constantinople falls to the Ottomans.
@@ -46,15 +46,15 @@ The Byzantine Empire ends.
 The Orthodox Church loses its centre.
 Moscow claims the inheritance.
 c.1510: Philotheus formulates the Third Rome doctrine.
-1547: Ivan IV — Ivan the Terrible — crowned Tsar.
+1547: Ivan IV - Ivan the Terrible - crowned Tsar.
 The first Russian ruler to use the title.
 The Roman claim explicit.
 1917: the Revolution. The Tsars fall.
-The Third Rome claim suspended — officially.
+The Third Rome claim suspended - officially.
 It continues in the substratum.
 1991: the Soviet Union falls.
 The Russian Orthodox Church re-emerges.
-Patriarch Kirill — close to Putin.
+Patriarch Kirill - close to Putin.
 The Third Rome language returns to official discourse.
 2022: Patriarch Kirill blesses the war in Ukraine.
 The Third Rome claim operating in active warfare.
@@ -62,8 +62,6 @@ The doctrine is 500 years old.
 It is still producing consequences.
 
 ---
-*culture_russian_piece_third_rome.md — 02.04.2026*
-*Position: [Russian](culture_russian_position.md)*
-*Process: process_world_is_spinning.md*
+*culture_russian_piece_third_rome.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

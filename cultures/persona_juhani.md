@@ -1,4 +1,4 @@
-# Persona: Juhani
+﻿# Persona: Juhani
 ## 59. Forest machine operator. Joensuu.
 
 ## Owner
@@ -20,7 +20,7 @@ Outside the cab the forest is louder than it seems from inside.
 He knows the difference.
 
 ## Action
-A new operator is assigned to the adjacent section —
+A new operator is assigned to the adjacent section -
 younger, from the city, technically certified.
 Juhani watches his line for two days without commenting.
 On the third day, at the morning break,
@@ -33,7 +33,7 @@ Two weeks later the new operator's line improves.
 Juhani does not mention this.
 
 ## Shadow
-He believes the work teaches if you let it —
+He believes the work teaches if you let it -
 that the one thing at the right moment
 is more than ten things before the person is ready,
 and that watching first is how you know when the moment is.
@@ -48,13 +48,10 @@ It was also made in his own time,
 not in anyone else's.
 
 ## Tell
-When someone makes an error he has seen coming —
+When someone makes an error he has seen coming -
 does not move until they have made it.
 
 ---
-*persona_juhani.md — 02.04.2026*
-*Position: [Finnish](culture_finnish_position.md)*
-*Piece: [The Winter War](culture_finnish_piece_winter_war.md)*
-*Place: [Joensuu](culture_finnish_place_helsinki.md)*
+*persona_juhani.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

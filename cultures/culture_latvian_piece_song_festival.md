@@ -1,4 +1,4 @@
-# Piece: The Song and Dance Festival
+﻿# Piece: The Song and Dance Festival
 ## How Latvia kept itself.
 
 ## Owner
@@ -9,7 +9,7 @@ Riga. The Great Song Festival Grounds.
 
 ## Load Bearing
 Remove it and the Latvian position loses its continuity mechanism.
-The Song Festival is the technology by which Latvia held itself —
+The Song Festival is the technology by which Latvia held itself -
 not a monument, not a document, a practice repeated every five years
 regardless of who was governing.
 
@@ -29,7 +29,7 @@ in modified, censored form.
 The songs survived the modifications.
 1988: the Awakening begins.
 The festival becomes political.
-The Latvian flag — banned under Soviet rule —
+The Latvian flag - banned under Soviet rule -
 appears in the crowd.
 The Soviet authorities do not intervene.
 1991: independence.
@@ -41,5 +41,5 @@ what it was worth.
 They already knew.
 
 ---
-*culture_latvian_piece_song_festival.md — 02.04.2026*
+*culture_latvian_piece_song_festival.md - 02.04.2026*
 v0.2.0 - KAI Worlds

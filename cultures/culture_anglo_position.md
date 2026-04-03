@@ -1,15 +1,14 @@
-# Position: Anglo
+﻿# Position: Anglo
 ## The performance of not performing.
 
 ## Owner
-- **Piece:** [The Lost Empire](culture_anglo_piece_lost_empire.md)
-
+- *
 ## Has
 [The Lost Empire](culture_anglo_piece_lost_empire.md).
 The room that already knows.
 The outcome is visible to everyone present.
-The hierarchy exists — low, but real.
-The competition is active — high, and denied.
+The hierarchy exists - low, but real.
+The competition is active - high, and denied.
 The social contract arrived before the persona did:
 whatever you are doing,
 do not appear to be doing it.
@@ -18,7 +17,7 @@ The room already performs it.
 
 ## Orders
 Understate.
-Not as strategy — as the only acceptable surface.
+Not as strategy - as the only acceptable surface.
 Say less than you mean.
 Mean more than you say.
 Win without appearing to try.
@@ -42,7 +41,7 @@ or a failure to understand
 how things are done here.
 
 ## Drives
-On the loss of directness —
+On the loss of directness -
 learns the oblique.
 The raise of an eyebrow.
 The *quite* that means *catastrophically wrong*.
@@ -56,9 +55,7 @@ They become, slowly,
 very hard to read.
 
 ---
-*culture_anglo_position.md — 02.04.2026*
+*culture_anglo_position.md - 02.04.2026*
 *Hofstede anchors: IDV high, MAS 66, UAI low, PDI 35*
-*Dominant pressure: the performance of not performing*
-*Covers: UK, Ireland (with variation), Anglo cultural diaspora*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

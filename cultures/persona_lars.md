@@ -1,4 +1,4 @@
-# Persona: Lars
+﻿# Persona: Lars
 ## 49. Sommelier. Gothenburg.
 
 ## Owner
@@ -9,7 +9,7 @@ Sommelier
 
 ## Projection
 Lars is [Swedish](culture_swedish_position.md).
-The jacket fits well but he did not choose it —
+The jacket fits well but he did not choose it -
 the restaurant did.
 He holds the bottle label outward, always.
 There is a particular stillness when he pours,
@@ -32,7 +32,7 @@ He suggests something at half the price of the first bottle.
 The table takes the recommendation.
 
 ## Shadow
-He believes the job is service — reading what the table needs
+He believes the job is service - reading what the table needs
 and providing it before they know to ask,
 with no agenda beyond their evening.
 What he cannot see:
@@ -45,14 +45,11 @@ He has not noticed this loss
 because the service has continued to be impeccable.
 
 ## Tell
-When a wine is genuinely extraordinary —
+When a wine is genuinely extraordinary -
 describes it in the same tone
 he uses for everything else.
 
 ---
-*persona_lars.md — 02.04.2026*
-*Position: [Swedish](culture_swedish_position.md)*
-*Piece: [The Folkhemmet](culture_swedish_piece_folkhemmet.md)*
-*Place: [Gothenburg](culture_swedish_place_stockholm.md)*
+*persona_lars.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Piece: The Slovak Constitution
+﻿# Piece: The Slovak Constitution
 ## The document that opened by invoking God, nature, and ancestors simultaneously.
 
 ## Owner
@@ -9,7 +9,7 @@ Bratislava. The National Council building.
 
 ## Load Bearing
 Remove it and Slovak PDI 100 has no founding expression.
-The Slovaks wrote the constitution before the state existed —
+The Slovaks wrote the constitution before the state existed -
 the hierarchy established before the institution arrived.
 
 ## Apparent
@@ -25,7 +25,7 @@ Slovakia the junior partner.
 A dark founding that Slovaks process differently
 depending on which account they carry.
 1948: communist coup. Czechoslovakia.
-1968: the Prague Spring. Alexander Dubček — a Slovak.
+1968: the Prague Spring. Alexander Dubček - a Slovak.
 Soviet invasion.
 1969: federalisation. Slovakia gets formal equal status.
 1989: the Velvet Revolution.
@@ -40,5 +40,5 @@ Fico holds.
 Both claim legitimacy from the same document.
 
 ---
-*culture_slovak_piece_slovak_constitution.md — 02.04.2026*
+*culture_slovak_piece_slovak_constitution.md - 02.04.2026*
 v0.2.0 - KAI Worlds

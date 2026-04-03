@@ -1,9 +1,8 @@
-# Place: Copenhagen
+﻿# Place: Copenhagen
 ## Location: Denmark
 
 ## Owner
-- **Position:** [Danish](position_danish.md)
-
+- *
 ## Shown
 - The Folketing. The parliament. One chamber. 179 seats.
 - The harbour front. Nyhavn. Coloured buildings, restored.
@@ -11,19 +10,17 @@
 - The flat skyline. No building dominates.
 
 ## Holds
-- The Denmark position — [Danish](position_danish.md)
+- The Denmark position - [Danish](position_danish.md)
 - [Jante Law](culture_danish_piece_jante_law.md)
 
 ## Offers
 - The room where the Denmark position does its daily work.
-- [The World is Spinning](process_world_is_spinning.md) — runs here daily.
+- [The World is Spinning](process_world_is_spinning.md) - runs here daily.
 
 ## Withheld
 - The consensus that was reached before the meeting started. The meeting is where it is ratified, not where it is made.
 
 ---
-*culture_danish_place_copenhagen.md — 02.04.2026*
-*Position: position_danish.md*
-*Piece: [The Law of Jante](culture_danish_piece_jante_law.md)*
+*culture_danish_place_copenhagen.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

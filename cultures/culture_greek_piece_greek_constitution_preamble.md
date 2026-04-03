@@ -1,4 +1,4 @@
-# Piece: The Orthodox Preamble
+﻿# Piece: The Orthodox Preamble
 ## The constitution that opens in the name of the Trinity.
 
 ## Owner
@@ -9,7 +9,7 @@ Athens. The Hellenic Parliament.
 
 ## Load Bearing
 Remove it and Greek argument loses its theological ground.
-The Orthodox preamble is not decoration —
+The Orthodox preamble is not decoration -
 it is the frame that survived three thousand years
 of intersection between East and West, ancient and modern.
 
@@ -17,7 +17,7 @@ of intersection between East and West, ancient and modern.
 The preamble: *In the name of the Holy
 and Consubstantial and Indivisible Trinity.*
 The Archbishop of Athens present at every presidential swearing-in.
-*Christos Anesti* — Christ is Risen — exchanged as greeting
+*Christos Anesti* - Christ is Risen - exchanged as greeting
 by people who may not attend church the other 364 days.
 
 ## Yearbook
@@ -40,5 +40,5 @@ The argument is the Greek position.
 The preamble is what the argument is about.
 
 ---
-*culture_greek_piece_greek_constitution_preamble.md — 02.04.2026*
+*culture_greek_piece_greek_constitution_preamble.md - 02.04.2026*
 v0.2.0 - KAI Worlds

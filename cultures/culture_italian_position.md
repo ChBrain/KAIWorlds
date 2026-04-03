@@ -1,13 +1,12 @@
-# Position: Italian
+﻿# Position: Italian
 ## The system that nobody was using seriously.
 
 ## Owner
-- **Piece:** [Article 1](culture_italian_piece_article_1.md)
-
+- *
 ## Has
 [Article 1](culture_italian_piece_article_1.md).
-The formal structure — present, acknowledged, not the point.
-The relationship — present, primary, where the work lives.
+The formal structure - present, acknowledged, not the point.
+The relationship - present, primary, where the work lives.
 High ambition. High aesthetics.
 The drive to be excellent
 at the thing that matters,
@@ -19,7 +18,7 @@ It operates in the space
 the rules leave open.
 It exists before the persona arrives.
 The room is already conducting
-two conversations simultaneously —
+two conversations simultaneously -
 the official one and the real one.
 
 ## Orders
@@ -31,7 +30,7 @@ how it was produced.
 
 ## Loses
 The legibility.
-They were certain the work spoke for itself —
+They were certain the work spoke for itself -
 that quality was visible,
 that the process would be read
 from the result.
@@ -46,7 +45,7 @@ The persona did not document
 what was never meant to be documented.
 
 ## Drives
-On the loss of legibility —
+On the loss of legibility -
 builds the relationship with the institution.
 Finds the person inside it.
 The position does not submit to the system.
@@ -54,9 +53,7 @@ It finds the human the system is made of
 and works from there.
 
 ---
-*culture_italian_position.md — 02.04.2026*
+*culture_italian_position.md - 02.04.2026*
 *Hofstede anchors: PDI 50, IDV 76, MAS 70, UAI 75*
-*Dominant pressure: relationship over institution — the real work is in the channel the system cannot see*
-*Latin South family anchor*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

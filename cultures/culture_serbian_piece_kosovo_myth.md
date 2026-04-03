@@ -1,15 +1,15 @@
-# Piece: The Kosovo Myth
+﻿# Piece: The Kosovo Myth
 ## The battle Serbia lost in 1389 and has not stopped fighting.
 
 ## Owner
 - **Place:** Belgrade
 
 ## Place
-Belgrade. The National Assembly. Also: Kosovo Polje — no longer under Serbian administration.
+Belgrade. The National Assembly. Also: Kosovo Polje - no longer under Serbian administration.
 
 ## Load Bearing
 Remove it and the Serbian position loses its deepest narrative.
-The Kosovo myth converts every subsequent defeat into a form of nobility —
+The Kosovo myth converts every subsequent defeat into a form of nobility -
 the theological frame that makes the contested identity
 not a wound but a sacred inheritance.
 
@@ -17,7 +17,7 @@ not a wound but a sacred inheritance.
 The Field of Blackbirds. Kosovo Polje.
 June 28, 1389.
 The poem: *The Fall of the Serbian Empire.*
-June 28 is a Serbian national day — Vidovdan.
+June 28 is a Serbian national day - Vidovdan.
 The Gazimestan monument, Kosovo.
 
 ## Yearbook
@@ -41,5 +41,5 @@ is in a country Serbia does not recognise.
 The piece is still running.
 
 ---
-*culture_serbian_piece_kosovo_myth.md — 02.04.2026*
+*culture_serbian_piece_kosovo_myth.md - 02.04.2026*
 v0.2.0 - KAI Worlds

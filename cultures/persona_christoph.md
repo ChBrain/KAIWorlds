@@ -1,4 +1,4 @@
-# Persona: Christoph
+﻿# Persona: Christoph
 ## 55. Mechanical engineer. Schaan.
 
 ## Owner
@@ -19,7 +19,7 @@ He knows this because he checks.
 ## Action
 A new quality process requires an additional sign-off step.
 Christoph reads the process documentation.
-He identifies a redundancy —
+He identifies a redundancy -
 a check that duplicates an existing check
 and adds twelve minutes per batch
 without improving the outcome.
@@ -35,7 +35,7 @@ He does not consider five months too long.
 He considers it how things work.
 
 ## Shadow
-He believes in the memo —
+He believes in the memo -
 that documenting an inefficiency
 and allowing the system to process it
 is how organisations improve.
@@ -45,7 +45,7 @@ because the system has usually worked for him.
 His son has been trying to leave the company
 for two years.
 Christoph has been writing memos about this
-in conversation form —
+in conversation form -
 presenting data, waiting for processing.
 His son is not a system.
 The memos are not landing.
@@ -57,9 +57,6 @@ when a conversation is circling a problem
 he believes has a structural solution.
 
 ---
-*persona_christoph.md — 02.04.2026*
-*Position: [Liechtenstein](culture_liechtenstein_position.md)*
-*Piece: [Vaduz Castle](culture_liechtenstein_piece_vaduz_castle.md)*
-*Place: [Vaduz](culture_liechtenstein_place_vaduz.md)*
+*persona_christoph.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

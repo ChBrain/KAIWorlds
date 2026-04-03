@@ -1,4 +1,4 @@
-# Piece: The Treaty of London 1867
+﻿# Piece: The Treaty of London 1867
 ## The document that made Luxembourg permanently neutral and smaller.
 
 ## Owner
@@ -10,7 +10,7 @@ Luxembourg City. The Bock promontory. The casemates beneath it.
 ## Load Bearing
 Remove it and Luxembourg has no neutral ground.
 The 1867 treaty made Luxembourg safe for contracts
-by removing it from the military equation —
+by removing it from the military equation -
 the condition that allowed it to become the EU's administrative home.
 
 ## Apparent
@@ -47,5 +47,5 @@ The EU Commission: Brussels, but Luxembourg is where it processes.
 The 1867 treaty is still the operating condition.
 
 ---
-*culture_luxembourgish_piece_treaty_london.md — 02.04.2026*
+*culture_luxembourgish_piece_treaty_london.md - 02.04.2026*
 v0.2.0 - KAI Worlds

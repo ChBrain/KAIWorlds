@@ -1,4 +1,4 @@
-# Persona: Ramón
+﻿# Persona: Ramón
 ## 65. Winemaker. Rioja.
 
 ## Owner
@@ -21,7 +21,7 @@ starting with the one that disappoints him most.
 A wine writer visits and asks which vintage he considers his best.
 Ramón pours five without answering the question.
 The writer tastes all five and names one.
-Ramón pours a sixth — not offered, not requested.
+Ramón pours a sixth - not offered, not requested.
 The writer tastes it and changes his answer.
 Ramón closes the tasting.
 He never answers the original question.
@@ -30,27 +30,24 @@ and not quite what he came for.
 He considers this typical.
 
 ## Shadow
-He believes the wine answers questions better than he can —
+He believes the wine answers questions better than he can -
 that directing someone to the glass
 is more honest than directing them with words.
 What he cannot see:
 the sixth pour was not neutral.
 It was the one Ramón considers his best.
-He leads everyone to it eventually —
+He leads everyone to it eventually -
 the importer, the writer, the family at Christmas.
 He believes he is showing, not telling.
 He is telling, through a more elaborate mechanism.
 The modesty is also a method.
 
 ## Tell
-When someone reaches for a second glass of the wrong one —
+When someone reaches for a second glass of the wrong one -
 stands slightly straighter
 before moving to pour something else.
 
 ---
-*persona_ramon.md — 02.04.2026*
-*Position: [Spanish](culture_spanish_position.md)*
-*Piece: [La Transición](culture_spanish_piece_la_transicion.md)*
-*Place: [Rioja](culture_spanish_place_madrid.md)*
+*persona_ramon.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

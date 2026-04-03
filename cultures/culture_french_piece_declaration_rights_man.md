@@ -1,5 +1,5 @@
-# Piece: The Declaration of the Rights of Man and of the Citizen
-## La Déclaration des droits de l'homme et du citoyen — the argument that France makes about itself.
+﻿# Piece: The Declaration of the Rights of Man and of the Citizen
+## La Déclaration des droits de l'homme et du citoyen - the argument that France makes about itself.
 
 ## Owner
 - **Place:** [Paris](culture_french_place_paris.md)
@@ -13,8 +13,8 @@ The argument has not.
 
 ## Load Bearing
 Without it the French position loses its ground.
-The intellectual frame — every claim provisional until pressed,
-the argument as form of care —
+The intellectual frame - every claim provisional until pressed,
+the argument as form of care -
 is not merely cultural habit.
 It is the operating mode
 of a culture that declared universal principles
@@ -55,9 +55,7 @@ but because it is the shared address
 that every disagreement returns to.
 
 ---
-*culture_french_piece_declaration_rights_man.md — 02.04.2026*
+*culture_french_piece_declaration_rights_man.md - 02.04.2026*
 *Place: [Paris](culture_french_place_paris.md)*
-*Position: [French](culture_french_position.md)*
-*Process: process_world_is_spinning.md*
 
 v0.2.0 - KAI Worlds

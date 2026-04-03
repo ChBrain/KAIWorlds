@@ -1,14 +1,13 @@
-# Position: Croatian
+﻿# Position: Croatian
 ## The position that faced two directions and chose.
 
 ## Owner
-- **Piece:** [The Homeland War](culture_croatian_piece_homeland_war.md)
-
+- *
 ## Has
 [The Homeland War](culture_croatian_piece_homeland_war.md).
-The Western pull — Austro-Hungarian history,
+The Western pull - Austro-Hungarian history,
 Catholic majority, Central European administrative legacy.
-The Balkan base — collectivist, high UAI,
+The Balkan base - collectivist, high UAI,
 the in-group as primary structure.
 The position holds both
 and has made a choice:
@@ -27,7 +26,7 @@ and why.
 
 ## Orders
 Hold the western orientation.
-Not defensively — deliberately.
+Not defensively - deliberately.
 The position does not require
 that the past be erased.
 It requires that the direction be clear.
@@ -39,7 +38,7 @@ The direction is chosen. It also remains.
 ## Loses
 The expectation that direction resolves the tension.
 They were certain that choosing the West
-would simplify the position —
+would simplify the position -
 that the choice would be complete
 once it was made.
 The past does not simplify.
@@ -50,7 +49,7 @@ The persona navigates this gap
 more often than expected.
 
 ## Drives
-On the loss of expected simplicity —
+On the loss of expected simplicity -
 holds both.
 The direction is chosen and kept.
 The in-group is maintained.
@@ -58,10 +57,7 @@ The tension between them is not resolved.
 It is carried.
 
 ---
-*culture_croatian_position.md — 02.04.2026*
+*culture_croatian_position.md - 02.04.2026*
 *Hofstede anchors: PDI 73, IDV 33, MAS 40, UAI 80 (official); empirical study: PDI 41, MAS 14, IDV 68, UAI 88*
-*Note: significant divergence between official estimates and empirical study — both anchors listed*
-*Dominant pressure: deliberate western orientation held alongside Balkan collectivist base*
-*Balkan family — distinct from Serbian and Bulgarian through Austro-Hungarian layer and post-1991 EU trajectory*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Piece: La Transición
+﻿# Piece: La Transición
 ## The negotiated democracy that Spain chose instead of revenge.
 
 ## Owner
@@ -9,7 +9,7 @@ Madrid. The Cortes Generales.
 
 ## Load Bearing
 Remove it and Spanish democracy is a rupture.
-With it, Spanish democracy is a negotiation with the past —
+With it, Spanish democracy is a negotiation with the past -
 which is more durable.
 The left did not prosecute. The right did not resist. Both agreed to begin.
 
@@ -41,5 +41,5 @@ The Transition's terms renegotiated generationally.
 The structure it built: still standing.
 
 ---
-*culture_spanish_piece_la_transicion.md — 02.04.2026*
+*culture_spanish_piece_la_transicion.md - 02.04.2026*
 v0.2.0 - KAI Worlds

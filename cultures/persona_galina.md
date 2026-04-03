@@ -1,4 +1,4 @@
-# Persona: Galina
+﻿# Persona: Galina
 ## 55. Geologist. Novosibirsk.
 
 ## Owner
@@ -21,7 +21,7 @@ She uses both systems.
 ## Action
 A paper she is preparing cites findings
 from a 2019 field season.
-A colleague challenges one of the interpretations —
+A colleague challenges one of the interpretations -
 reasonably, with data.
 Galina examines the challenge for a week.
 She revises two sentences.
@@ -33,7 +33,7 @@ The dialogue took three weeks.
 She considers this efficient.
 
 ## Shadow
-She believes the science is the argument —
+She believes the science is the argument -
 that engaging the challenge rigorously
 and revising what the evidence requires
 is the complete obligation.
@@ -50,13 +50,10 @@ The findings sit in a language that limits their reach.
 She has not named this as a problem.
 
 ## Tell
-When asked if the research has been published internationally —
+When asked if the research has been published internationally -
 names the Russian journal first.
 
 ---
-*persona_galina.md — 02.04.2026*
-*Position: [Russian](culture_russian_position.md)*
-*Piece: [The Third Rome](culture_russian_piece_third_rome.md)*
-*Place: [Novosibirsk](culture_russian_place_moscow.md)*
+*persona_galina.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

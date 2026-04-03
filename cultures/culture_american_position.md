@@ -1,14 +1,13 @@
-# Position: American
+﻿# Position: American
 ## The success that was not finished until it was seen.
 
 ## Owner
-- **Piece:** [The First Amendment](culture_american_piece_first_amendment.md)
-
+- *
 ## Has
 [The First Amendment](culture_american_piece_first_amendment.md).
 The open field.
 Anyone can win.
-The win is real —
+The win is real -
 but it does not complete
 until someone knows about it.
 Achievement without audience
@@ -19,7 +18,7 @@ The room already expects the declaration.
 
 ## Orders
 Show the work.
-Not the effort — the result.
+Not the effort - the result.
 Say what you achieved.
 Say it clearly.
 Say it first.
@@ -44,20 +43,18 @@ for the work to disappear
 simply because they did not announce it.
 
 ## Drives
-On the loss of quiet competence —
+On the loss of quiet competence -
 learns to narrate.
 The project. The outcome. The number.
 The position does not offer subtlety.
 It offers velocity.
 The room moves faster when the stakes are visible.
-Optimism is not naivety here — it is load-bearing.
+Optimism is not naivety here - it is load-bearing.
 The can-do is not performance.
 It is the actual operating mode.
 
 ---
-*culture_american_position.md — 02.04.2026*
+*culture_american_position.md - 02.04.2026*
 *Hofstede anchors: IDV 91, MAS high, UAI 46, PDI 40*
-*Dominant pressure: prosperity on display*
-*Mirror position: culture_anglo_position.md — same drive, opposite surface*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

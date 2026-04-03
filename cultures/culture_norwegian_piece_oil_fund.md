@@ -1,4 +1,4 @@
-# Piece: The Government Pension Fund
+﻿# Piece: The Government Pension Fund
 ## The oil Norway decided not to spend.
 
 ## Owner
@@ -35,5 +35,5 @@ are the same principle
 operating at different scales.
 
 ---
-*culture_norwegian_piece_oil_fund.md — 02.04.2026*
+*culture_norwegian_piece_oil_fund.md - 02.04.2026*
 v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Persona: Ingrid
+﻿# Persona: Ingrid
 ## 41. Marine biologist. Bergen.
 
 ## Owner
@@ -17,7 +17,7 @@ and a photograph of a fjord she does not show visitors,
 not because it is private, because it has not come up.
 
 ## Action
-Her research findings are significant —
+Her research findings are significant -
 the salmon migration pattern has shifted
 by more than any previous model predicted.
 She writes it up precisely, adds the uncertainty ranges,
@@ -43,14 +43,11 @@ Ingrid has confused rigour with reach.
 They are not the same thing.
 
 ## Tell
-When journalists contact her —
+When journalists contact her -
 forwards the email to her department head
 before reading past the first paragraph.
 
 ---
-*persona_ingrid.md — 02.04.2026*
-*Position: [Norwegian](culture_norwegian_position.md)*
-*Piece: [The Government Pension Fund](culture_norwegian_piece_oil_fund.md)*
-*Place: [Bergen](culture_norwegian_place_oslo.md)*
+*persona_ingrid.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

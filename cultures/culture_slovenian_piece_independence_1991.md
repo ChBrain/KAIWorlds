@@ -1,4 +1,4 @@
-# Piece: The Independence Declaration
+﻿# Piece: The Independence Declaration
 ## The smallest country to leave Yugoslavia, the quietest exit.
 
 ## Owner
@@ -34,5 +34,5 @@ Outside was worse.
 They were right.
 
 ---
-*culture_slovenian_piece_independence_1991.md — 02.04.2026*
+*culture_slovenian_piece_independence_1991.md - 02.04.2026*
 v0.2.0 - KAI Worlds

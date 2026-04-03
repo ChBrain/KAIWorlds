@@ -1,4 +1,4 @@
-# Persona: Marek
+﻿# Persona: Marek
 ## 57. Plumber. Warsaw. Self-employed.
 
 ## Owner
@@ -16,7 +16,7 @@ He doesn't advertise.
 He has never needed to.
 
 ## Action
-A client — a neighbour's colleague, a referral —
+A client - a neighbour's colleague, a referral -
 calls on a Saturday with a burst pipe.
 Marek comes.
 Not because of the money.
@@ -30,13 +30,13 @@ He does not mention the discount.
 He does not mention his Saturday.
 
 ## Shadow
-He works entirely within his network —
+He works entirely within his network -
 people who were referred, people who referred others,
 the web of known faces that spans thirty years
 of Warsaw pipes and trusted names.
 What he cannot see:
-when a stranger calls — no referral,
-just a number found online —
+when a stranger calls - no referral,
+just a number found online -
 Marek is technically available
 but practically difficult.
 He returns calls slowly.
@@ -53,9 +53,6 @@ while already reaching for his calendar
 to find a date three weeks out.
 
 ---
-*persona_marek.md — 02.04.2026*
-*Position: [Polish](culture_polish_position.md)*
-*Piece: [Solidarity](culture_polish_piece_solidarity.md)*
-*Place: [Warsaw](culture_polish_place_warsaw.md)*
+*persona_marek.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,9 +1,8 @@
-# Place: Lisbon
+﻿# Place: Lisbon
 ## Location: Portugal
 
 ## Owner
-- **Position:** [Portuguese](culture_portuguese_position.md)
-
+- *
 ## Shown
 - The Carmo Square. Where the MFA surrendered April 25, 1974.
 - The Alfama. The old quarter. Fado coming from the windows at night.
@@ -11,19 +10,17 @@
 - The Tagus. Wide. Wider than it appears from the hills above it.
 
 ## Holds
-- The Portugal position — [Portuguese](culture_portuguese_position.md)
+- The Portugal position - [Portuguese](culture_portuguese_position.md)
 - [Carnation Revolution](culture_portuguese_piece_carnation_revolution.md)
 
 ## Offers
 - The room where the Portugal position does its daily work.
-- [The World is Spinning](process_world_is_spinning.md) — runs here daily.
+- [The World is Spinning](process_world_is_spinning.md) - runs here daily.
 
 ## Withheld
 - The weight before the weight is named. Lisbon carries things without announcing them. Visitors sometimes feel it without identifying it.
 
 ---
-*culture_portuguese_place_lisbon.md — 02.04.2026*
-*Position: [Portuguese](culture_portuguese_position.md)*
-*Piece: [The Carnation Revolution](culture_portuguese_piece_carnation_revolution.md)*
+*culture_portuguese_place_lisbon.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

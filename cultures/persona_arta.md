@@ -1,4 +1,4 @@
-# Persona: Arta
+﻿# Persona: Arta
 ## 33. Nurse. Shkodër.
 
 ## Owner
@@ -18,7 +18,7 @@ This costs her more than it would cost someone
 for whom this was not a choice.
 
 ## Action
-A patient's family member arrives outside visiting hours —
+A patient's family member arrives outside visiting hours -
 has driven four hours, cannot return tomorrow.
 Arta looks at the schedule, looks at the family member,
 looks at the patient.
@@ -31,7 +31,7 @@ She says nothing and returns to the ward.
 
 ## Shadow
 She believes the obligation to the person
-overrides the obligation to the system —
+overrides the obligation to the system -
 that the forty minutes in the unlocked room
 is the right thing, full stop.
 What she cannot see:
@@ -48,15 +48,12 @@ She is probably right.
 She has not checked.
 
 ## Tell
-When she opens a door for someone who should not be there —
+When she opens a door for someone who should not be there -
 looks down the corridor first,
 then at the person,
 in that order.
 
 ---
-*persona_arta.md — 02.04.2026*
-*Position: [Albanian](culture_albanian_position.md)*
-*Piece: [The Besa](culture_albanian_piece_besa.md)*
-*Place: [Shkodër](culture_albanian_place_tirana.md)*
+*persona_arta.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

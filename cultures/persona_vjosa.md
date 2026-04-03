@@ -1,4 +1,4 @@
-# Persona: Vjosa
+﻿# Persona: Vjosa
 ## 32. Youth worker. Prizren.
 
 ## Owner
@@ -18,7 +18,7 @@ None of the three groups knew about the others.
 The murals coexist without a plan.
 
 ## Action
-A grant application — EU funding, significant —
+A grant application - EU funding, significant -
 requires documentation the organisation does not have
 in the format required.
 Vjosa has two weeks.
@@ -33,13 +33,13 @@ The grant comes through.
 Her director thanks the team.
 
 ## Shadow
-She believes the work is what matters —
+She believes the work is what matters -
 that the documentation and the late nights
 are the price of the outcome, not worth mentioning.
 What she cannot see:
 the director does not know what Vjosa can do.
 Not fully.
-Not because Vjosa hides it —
+Not because Vjosa hides it -
 because she has never named it,
 never asked for what that knowledge is worth,
 never made her capacity legible.
@@ -48,14 +48,11 @@ in an organisation that thinks she has more to give.
 The next grant will be the same.
 
 ## Tell
-When someone thanks the team for something Vjosa did alone —
+When someone thanks the team for something Vjosa did alone -
 says *we managed it*
 before anything else.
 
 ---
-*persona_vjosa.md — 02.04.2026*
-*Position: [Kosovar](culture_kosovar_position.md)*
-*Piece: [The Declaration of Independence 2008](culture_kosovar_piece_declaration_independence_2008.md)*
-*Place: [Prizren](culture_kosovar_place_pristina.md)*
+*persona_vjosa.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

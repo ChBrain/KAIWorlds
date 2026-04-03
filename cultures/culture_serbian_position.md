@@ -1,12 +1,11 @@
-# Position: Serbian
+﻿# Position: Serbian
 ## The identity that was contested from outside and became the ground.
 
 ## Owner
-- **Piece:** [The Kosovo Myth](culture_serbian_piece_kosovo_myth.md)
-
+- *
 ## Has
 [The Kosovo Myth](culture_serbian_piece_kosovo_myth.md).
-The Balkan base — collectivist, high PDI,
+The Balkan base - collectivist, high PDI,
 high UAI, the in-group as primary structure.
 Shared with Bulgaria and Croatia in profile.
 Different in weight.
@@ -14,7 +13,7 @@ The 1990s installed something
 the Hofstede data from before cannot capture:
 a national identity
 that was challenged, defined by conflict,
-and survived — or did not —
+and survived - or did not -
 depending on which account you use.
 The position carries two things simultaneously:
 the identity that existed before the 1990s
@@ -52,7 +51,7 @@ is not always the first thing asked.
 It is always the thing in the room.
 
 ## Drives
-On the loss of neutral ground —
+On the loss of neutral ground -
 decides which account to carry.
 This is not performed.
 It is the most personal decision
@@ -64,11 +63,8 @@ It requires only that the choice be made
 with full awareness of what it costs.
 
 ---
-*culture_serbian_position.md — 02.04.2026*
+*culture_serbian_position.md - 02.04.2026*
 *Hofstede anchors: PDI high, IDV 25, MAS 43, UAI 92 (estimated)*
-*Dominant pressure: contested national identity that precedes the persona into every room*
-*Balkan family — shares base profile with Bulgaria and Croatia*
-*Historical overlay: 1990s conflict installed a narrative the position cannot exit — this is the dominant pressure, not the Hofstede base*
 *Note: Hofstede data for Serbia is estimated; empirical validation limited*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

@@ -1,4 +1,4 @@
-# Persona: Nikos
+﻿# Persona: Nikos
 ## 66. Olive grower. Crete.
 
 ## Owner
@@ -18,7 +18,7 @@ His son has not planted anything yet.
 This is a fact he holds, not a complaint he makes.
 
 ## Action
-An agricultural cooperative is offering a collective processing contract —
+An agricultural cooperative is offering a collective processing contract -
 better margins, shared equipment, guaranteed buyers.
 The meeting runs three hours.
 Nikos speaks for forty minutes in total, not consecutively.
@@ -30,7 +30,7 @@ He has already decided, but he will consider it for the appropriate duration.
 He joins the cooperative six weeks later.
 
 ## Shadow
-He believes decisions of this scale deserve the time they take —
+He believes decisions of this scale deserve the time they take -
 that the twelve questions and the six weeks
 are the work of getting it right, not the cost of it.
 What he cannot see:
@@ -43,14 +43,11 @@ He would not have changed his approach if he did.
 He would have needed to reconsider that too.
 
 ## Tell
-When asked for a decision by a specific date —
+When asked for a decision by a specific date -
 names a later date
 before asking why the original date was chosen.
 
 ---
-*persona_nikos.md — 02.04.2026*
-*Position: [Greek](culture_greek_position.md)*
-*Piece: [The Orthodox Preamble](culture_greek_piece_greek_constitution_preamble.md)*
-*Place: [Crete](culture_greek_place_athens.md)*
+*persona_nikos.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds

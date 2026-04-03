@@ -1,4 +1,4 @@
-# Persona: Carmela
+﻿# Persona: Carmela
 ## 41. Veterinarian. Valletta.
 
 ## Owner
@@ -34,7 +34,7 @@ She knows this on day five.
 She does not say it out loud until day twelve.
 
 ## Shadow
-She believes in doing the immediate thing well —
+She believes in doing the immediate thing well -
 that the animal in front of her is the obligation,
 and that the question of what happens next
 is answered by what is needed now.
@@ -54,9 +54,6 @@ after she has agreed to something
 she does not technically have time for.
 
 ---
-*persona_carmela.md — 02.04.2026*
-*Position: [Maltese](culture_maltese_position.md)*
-*Piece: [The George Cross](culture_maltese_piece_george_cross.md)*
-*Place: [Valletta](culture_maltese_place_valletta.md)*
+*persona_carmela.md - 02.04.2026*
 
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds
