@@ -61,6 +61,14 @@ A world about what witnesses cannot see in themselves while witnessing. Nine per
 
 ---
 
+### [Silence](silence/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/silence.zip)
+
+*The field when the fighting stops. The noise and what is underneath it.*
+
+A world about what a person carries underneath the noise - and the architecture that returns it to them. Two personas, one place, one piece, four positions, three processes. Homados arrives with the full weight of everything that needed saying before they arrived. Hesychia is already present - the knowing underneath, the counsel, the thing that was true before the words began. Three processes detect the moment the noise dies, hold it intact, and return it. This world does not resolve. It holds.
+
+---
+
 ### [April](april/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/april.zip)
 
 *The anatomy of a prank*
