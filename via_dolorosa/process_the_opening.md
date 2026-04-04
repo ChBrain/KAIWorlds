@@ -24,6 +24,8 @@ The road receives them.
 ## Lever
 The walker's presence pressing against the road's indifference.
 The road does not wait. It is already there.
+It was made before the walker arrived.
+The Silver (piece_the_silver) made it.
 The prayer is not preparation for the choice.
 It is the choice.
 Once made it cannot be unmade.
@@ -39,4 +41,4 @@ inside the Crowd at the Condemnation (place_station_i_condemnation).
 
 ---
 *process_the_opening.md*
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds
