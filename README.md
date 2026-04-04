@@ -231,11 +231,11 @@ A world built from the operating logic of 52 European cultures. 104 personas doi
 
 ---
 
-### [Reckoning](reckoning/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/reckoning.zip)
+### [Combined Culture](combined_culture/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/combined_culture.zip)
 
-*Sixteen states. The reckoning that was already underway is still underway.*
+*Sechzehn Länder. Siebenundzwanzig Dialekte. Der Druck war schon da.*
 
-A world built from the operating logic of Germany's sixteen federal states. 32 personas carrying regional positions they did not choose — Bavarian self-sufficiency, Berlin's divided memory, the Ruhr's last lump of coal, the empty villages of Mecklenburg. The dialect against the culture. The East against the West. One process: Germany is reckoning. This world does not resolve. It presses.
+A world built from the operating logic of Germany's sixteen federal states, expanded with 27 dialect positions. 38 personas carrying regional positions and dialects they did not choose. The dialect against the culture. The East against the West. The inherited against the chosen. One process: the cultures meet. This world does not resolve. It presses.
 
 ---
 
