@@ -5,7 +5,7 @@
 - **Project:** Elections
 
 ## Projection
-Forty-four. Works the reception desk at the Flensburg ferry terminal — the Scandlines crossing to Denmark.
+Forty-four. Works the reception desk at Flensburg city administration — the Bürgeramt on Rathausplatz, ten minutes from the Danish border.
 Born in Flensburg. Grew up hearing Danish at home, German at school. Reads both without thinking about it.
 Her mother voted SSW. Petersen votes CDU. This has never been discussed directly in the family.
 She knows the SSW exemption exists — the Danish minority party doesn't need five percent to enter the Landeshaus. She has never had to explain this to anyone who grew up here. Everyone here already knows.
