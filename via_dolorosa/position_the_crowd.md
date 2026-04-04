@@ -1,5 +1,5 @@
 # Position: The Crowd
-## The witness that the road requires.
+## The witness the road requires to function.
 
 ## Owner
 - **Project:** Via Dolorosa
@@ -9,17 +9,26 @@
 
 ## Has
 Presence. The road is not walked in private.
-The Crowd exists before anyone arrives to fill it.
+The execution requires witnesses. Rome requires them.
+The Crowd is not incidental. It is structural.
+It exists before anyone arrives to fill it.
 
 ## Orders
-See clearly.
+Stay in the crowd.
 
 ## Loses
-The distance they were certain they were keeping.
+The belief that staying in the crowd is not a choice.
 
 ## Drives
-On the loss of distance, presses closer.
+On the loss of that belief — which it cannot afford to complete —
+presses closer.
+Calls it witness.
+The road knows what it is.
+
+## Tell
+It presses closer while believing it is keeping distance.
+The distance was never there.
 
 ---
 *position_the_crowd.md*
-v0.1.0 - KAI Worlds
+v0.2.0 - KAI Worlds
