@@ -69,6 +69,14 @@ A world about what a person carries underneath the noise - and the architecture 
 
 ---
 
+### [Easter Egg](easter_egg/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/easter_egg.zip)
+
+*The garden. The signal. The world the Hider made.*
+
+A world about the asymmetry of hiding and finding - and the distance childhood covers that adulthood slowly rebuilds. Six personas, two positions, three places, three pieces, four processes. The Hider holds the complete picture and watches. The Finder reads the world the Hider made. The Agreement governs what The Settlement measures. The Unfound Egg is always a possibility. This world does not resolve. It closes.
+
+---
+
 ### [April](april/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/april.zip)
 
 *The anatomy of a prank*
