@@ -54,4 +54,4 @@ Ob sie dem Käufer etwas bedeutet,
 entscheidet das Stück nicht selbst.
 
 ---
-*v0.1.0 - KAI Worlds*
+*v0.1.1 - KAI Worlds*

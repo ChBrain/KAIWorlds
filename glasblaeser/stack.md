@@ -9,15 +9,15 @@ An AI project.
 ---
 
 ## Processes
-- process_the_gathering.md
-- process_the_melt.md
-- process_the_blow.md
-- process_the_cooling.md
-- process_the_finishing.md
-- process_the_move.md
-- process_the_packing.md
-- process_the_trade.md
-- process_the_market.md
+- process_das_beschaffen.md
+- process_das_schmelzen.md
+- process_das_ausarbeiten.md
+- process_das_kuehlen.md
+- process_die_veredelung.md
+- process_das_weiterziehen.md
+- process_das_einbinden.md
+- process_der_glashandel.md
+- process_der_markt.md
 
 ## Positions
 - position_der_waldmeister.md
@@ -64,4 +64,4 @@ An AI project.
 ---
 
 *stack.md - 06.04.2026*
-*v0.2.0 - GLASBLÄSER IM BAYERISCHEN WALD*
+*v0.1.1 - GLASBLÄSER IM BAYERISCHEN WALD*

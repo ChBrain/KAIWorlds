@@ -45,7 +45,6 @@ He slows slightly
 in the last three steps
 before the Kühlofen.
 He does this every time.
-He believes it makes a difference.
 
 ---
-*v0.1.0 - KAI Worlds*
+*v0.1.1 - KAI Worlds*

@@ -99,14 +99,36 @@ Source: erlebe.bayern (Glas und Handwerk im Bayerischen Wald).
 The persona and place files in this folder are original works by Kai Schlueter,
 derived from but not reproducing the historical record of the Bayerischer Wald glass trade.
 
-Historical persons who died before 1900 are used as the basis for personas
-where documented in public domain sources.
+Two categories of persona exist in this world:
+
+**Documented historical figures** - persons named in public domain historical sources,
+dead before 1900, used as the basis for personas:
+- Albrecht von Degenberg: documented as Grundherr of the Zwieseler Winkel, Salbuch 1434/37.
+- Franz Poschinger (1637–1701): documented Hüttenherr auf Frauenau, records survive.
+- Georg Hilz: documented as marrying the widowed Hüttenherrin Anna Maria Wirdinger in 1637.
+
+**Fictional personas placed at documented locations** - invented characters
+carrying documented positions at real historical sites:
+- Anna Wirdinger (der Einbläser, Schönauer Hütte, 1638): fictional.
+  The Wirdinger name derives from the documented family; the persona is invented.
+- Maria Wirdinger (die Fasserin, Schönauer Hütte, 1638): fictional.
+  The sources name no individual Fasserinnen. This is one of them.
+- Veit Schürer (der Einträger, Schönauer Hütte, 1638): fictional.
+  The sources say children carried glass to the Kühlofen. He is one of them.
+- Hans Kiefer (der Schürer, Schönauer Hütte, 1638): fictional.
+  The Schürer role is documented; this individual is invented.
+- Margarethe Hafenbrädl (der Veredler, 1720): fictional persona
+  carrying the documented Hafenbrädl family name.
+- Hannes Köck (der Glasträger, 1680): fictional.
+- Rudolf Seidl (der Glashändler, 2024): fictional composite.
+- Clara Steinbach (der Lehrmeister, 2024): fictional composite.
+
 Living persons and living families are not represented.
-Composite fictional personas are used for contemporary positions.
+No claim is made that fictional personas were real.
 
 The KAI HACKS AI architecture - its methods, templates, and structural elements -
 is the original contribution claimed under the LICENSE.
 
 ---
 
-*v0.1.0 - KAI Worlds - Kai Schlueter - April 2026*
+*v0.1.1 - KAI Worlds - Kai Schlueter - April 2026*

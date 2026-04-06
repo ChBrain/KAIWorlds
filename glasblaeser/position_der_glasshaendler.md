@@ -3,7 +3,7 @@
 
 ## Owner
 - **Project:** Glasbläser im Bayerischen Wald
-- **Process:** [The Market](process_the_market.md)
+- **Process:** [der Markt](process_der_markt.md)
 - **Place:** [die Glasstraße](place_die_glasstrasse.md)
 
 ## Has
@@ -45,4 +45,4 @@ Die Kette schließt sich oder sie wartet.
 Beides ist der Markt.
 
 ---
-*v0.1.0 - KAI Worlds*
+*v0.1.1 - KAI Worlds*

@@ -66,4 +66,4 @@ ist nicht garantiert.
 Das Zeugnis ist echt.
 
 ---
-*v0.1.0 - KAI Worlds*
+*v0.1.1 - KAI Worlds*

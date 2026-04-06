@@ -3,7 +3,7 @@
 
 ## Owner
 - **Project:** Glasbläser im Bayerischen Wald
-- **Process:** [The Trade](process_the_trade.md)
+- **Process:** [der Glashandel](process_der_glashandel.md)
 - **Place:** [die Glasstraße](place_die_glasstrasse.md)
 
 ## Has
@@ -41,4 +41,4 @@ ist die einzige Möglichkeit,
 die es je gegeben hat.
 
 ---
-*v0.1.0 - KAI Worlds*
+*v0.1.1 - KAI Worlds*
