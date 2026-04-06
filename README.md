@@ -85,6 +85,14 @@ A world built on a road that was never built. Ten personas, ten pieces, six plac
 
 ---
 
+### [Glasbläser im Bayerischen Wald](glasblaeser/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/glasblaeser.zip)
+
+*Bayerischer Wald - 14. Jahrhundert bis heute*
+
+A world built from a question the region cannot answer for itself. Eleven personas, seven pieces, five places, eleven positions, nine processes. For seven centuries the forest made glass possible. The forest is now a national park. The craft is still there. On the shelf in the Werksverkauf: two pieces. One from here. One from elsewhere. Both glass.
+
+---
+
 ### [April](april/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/april.zip)
 
 *The anatomy of a prank*
