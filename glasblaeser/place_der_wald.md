@@ -3,8 +3,8 @@
 
 ## Owner
 - **Project:** Glasbläser im Bayerischen Wald
-- **Process:** [The Gathering](process_the_gathering.md)
-- **Process:** [The Move](process_the_move.md)
+- **Process:** [das Beschaffen](process_das_beschaffen.md)
+- **Process:** [das Weiterziehen](process_das_weiterziehen.md)
 
 ## Shown
 Waldreichstes Mittelgebirge Deutschlands.
@@ -36,7 +36,7 @@ unverbrauchten Bestand messen.
 kann hier so lange betrieben werden,
 wie das Holz in Reichweite ist.
 Wenn es das nicht mehr ist:
-[The Move](process_the_move.md).
+[das Weiterziehen](process_das_weiterziehen.md).
 
 ## Withheld
 Wie viele Saisons noch bleiben.
@@ -47,4 +47,4 @@ Die Berechnung kann falsch sein.
 Der Wald korrigiert das nicht im Voraus.
 
 ---
-*v0.1.0 - KAI Worlds*
+*v0.1.1 - KAI Worlds*

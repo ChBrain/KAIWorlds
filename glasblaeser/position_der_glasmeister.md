@@ -3,8 +3,8 @@
 
 ## Owner
 - **Project:** Glasbläser im Bayerischen Wald
-- **Process:** [The Melt](process_the_melt.md)
-- **Process:** [The Blow](process_the_blow.md)
+- **Process:** [das Schmelzen](process_das_schmelzen.md)
+- **Process:** [das Ausarbeiten](process_das_ausarbeiten.md)
 - **Place:** [die Glashütte](place_die_glashuette.md)
 
 ## Has
@@ -40,4 +40,4 @@ bis der Glasmeister aufgehört hat,
 zu bemerken, worauf er schaut.
 
 ---
-*v0.1.0 - KAI Worlds*
+*v0.1.1 - KAI Worlds*

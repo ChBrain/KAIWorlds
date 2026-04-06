@@ -3,8 +3,8 @@
 
 ## Owner
 - **Project:** Glasbläser im Bayerischen Wald
-- **Process:** [The Blow](process_the_blow.md)
-- **Process:** [The Cooling](process_the_cooling.md)
+- **Process:** [das Ausarbeiten](process_das_ausarbeiten.md)
+- **Process:** [das Kühlen](process_das_kuehlen.md)
 - **Place:** [die Glashütte](place_die_glashuette.md)
 
 ## Has
@@ -40,4 +40,4 @@ Auf die Übergabe hin -
 kehrt zur Hütte zurück.
 
 ---
-*v0.1.0 - KAI Worlds*
+*v0.1.1 - KAI Worlds*

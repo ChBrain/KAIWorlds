@@ -3,8 +3,8 @@
 
 ## Owner
 - **Project:** Glasbläser im Bayerischen Wald
-- **Process:** [The Gathering](process_the_gathering.md)
-- **Process:** [The Move](process_the_move.md)
+- **Process:** [das Beschaffen](process_das_beschaffen.md)
+- **Process:** [das Weiterziehen](process_das_weiterziehen.md)
 - **Place:** [der Wald](place_der_wald.md)
 
 ## Has
@@ -37,4 +37,4 @@ Die Saison kann nicht auf eine Gewissheit warten,
 die nicht kommt.
 
 ---
-*v0.1.0 - KAI Worlds*
+*v0.1.1 - KAI Worlds*

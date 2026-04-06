@@ -3,10 +3,10 @@
 
 ## Owner
 - **Project:** Glasbläser im Bayerischen Wald
-- **Process:** [The Melt](process_the_melt.md)
-- **Process:** [The Blow](process_the_blow.md)
-- **Process:** [The Cooling](process_the_cooling.md)
-- **Process:** [The Packing](process_the_packing.md)
+- **Process:** [das Schmelzen](process_das_schmelzen.md)
+- **Process:** [das Ausarbeiten](process_das_ausarbeiten.md)
+- **Process:** [das Kühlen](process_das_kuehlen.md)
+- **Process:** [das Einbinden](process_das_einbinden.md)
 
 ## Shown
 Ein Holzschuppen, lang, mit Rauchdach.
@@ -29,6 +29,7 @@ Im Winter: Reparatur der Öfen,
 Holzbeschaffung für die nächste Saison.
 
 ## Holds
+[das Waldglas als Rohstoff](piece_das_waldglas_als_rohstoff.md)
 [das Glas](piece_das_glas.md)
 
 ## Offers
@@ -47,4 +48,4 @@ Das gibt die Hütte nicht preis,
 bis der Ofen geöffnet wird.
 
 ---
-*v0.1.0 - KAI Worlds*
+*v0.1.1 - KAI Worlds*

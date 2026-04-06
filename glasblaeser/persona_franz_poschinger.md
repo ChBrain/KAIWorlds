@@ -50,8 +50,8 @@ They record what he rebuilt.
 ## Tell
 He draws a second Fadenprobe
 when the first is clear.
-It is always clear.
-He draws it anyway.
+His hand moves before he decides to move it.
+He notices this afterward, not before.
 
 ---
-*v0.1.0 - KAI Worlds*
+*v0.1.1 - KAI Worlds*

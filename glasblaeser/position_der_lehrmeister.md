@@ -3,7 +3,7 @@
 
 ## Owner
 - **Project:** Glasbläser im Bayerischen Wald
-- **Process:** [The Finishing](process_the_finishing.md)
+- **Process:** [die Veredelung](process_die_veredelung.md)
 - **Place:** [die Glasfachschule](place_die_glasfachschule.md)
 
 ## Has
@@ -45,4 +45,4 @@ Das Handwerk wird nicht weniger wert,
 weil das Ziel sich verändert hat.
 
 ---
-*v0.1.0 - KAI Worlds*
+*v0.1.1 - KAI Worlds*

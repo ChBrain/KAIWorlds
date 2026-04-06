@@ -3,7 +3,7 @@
 
 ## Owner
 - **Project:** Glasbläser im Bayerischen Wald
-- **Process:** [The Finishing](process_the_finishing.md)
+- **Process:** [die Veredelung](process_die_veredelung.md)
 
 ## Shown
 Ein Gebäude im Ort -
@@ -40,4 +40,4 @@ vor dem ersten Schnitt.
 Der erste Schnitt ist bereits eine Entscheidung.
 
 ---
-*v0.1.0 - KAI Worlds*
+*v0.1.1 - KAI Worlds*

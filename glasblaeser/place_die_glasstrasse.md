@@ -3,8 +3,8 @@
 
 ## Owner
 - **Project:** Glasbläser im Bayerischen Wald
-- **Process:** [The Trade](process_the_trade.md)
-- **Process:** [The Market](process_the_market.md)
+- **Process:** [der Glashandel](process_der_glashandel.md)
+- **Process:** [der Markt](process_der_markt.md)
 
 ## Shown
 250 Kilometer.
@@ -46,4 +46,4 @@ Die Straße hält keinen Schutz bereit.
 Sie hält nur den Weg offen.
 
 ---
-*v0.1.0 - KAI Worlds*
+*v0.1.1 - KAI Worlds*
