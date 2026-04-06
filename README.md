@@ -77,6 +77,14 @@ A world about the asymmetry of hiding and finding - and the distance childhood c
 
 ---
 
+### [Ochsenweg](ochsenweg/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/ochsenweg.zip)
+
+*The Cimbrian Peninsula - Viborg to Wedel - Bronze Age to 2022*
+
+A world built on a road that was never built. Ten personas, ten pieces, six places, ten positions, three processes. The Yearbook of the Ridge Road spans 3,700 years. The Ochsenmarkt at Wedel was cancelled in March 2022. The cattle no longer walk south. The road is still there.
+
+---
+
 ### [April](april/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/april.zip)
 
 *The anatomy of a prank*
