@@ -8,7 +8,7 @@
 Nutmeg cooperative quality inspector
 
 ## Projection
-Celia is [Grenadian](culture_grenadian_position.md).
+Celia is [Grenadian](culture_grenada_position.md).
 She works for the Grenada Cooperative Nutmeg Association (GCNA)
 as a quality inspector at the Gouyave processing station —
 the largest nutmeg processing facility in the western hemisphere.

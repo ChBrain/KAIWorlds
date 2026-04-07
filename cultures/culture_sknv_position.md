@@ -66,6 +66,6 @@ It maintains the relationship across the water. That is the work.
 *Hofstede: PDI ~46, IDV ~34, MAS ~52, UAI ~50 (estimated — Saint Kitts and Nevis not in Hofstede dataset)*
 
 ---
-*culture_kittitian_nevisian_position.md - 07.04.2026*
+*culture_sknv_position.md - 07.04.2026*
 
 v0.1.0 - KAI Worlds

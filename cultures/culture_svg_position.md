@@ -63,6 +63,6 @@ The position accepts this responsibility. It tends the island.
 *Hofstede: PDI ~48, IDV ~30, MAS ~52, UAI ~48 (estimated — Saint Vincent not in Hofstede dataset)*
 
 ---
-*culture_vincentian_position.md - 07.04.2026*
+*culture_svg_position.md - 07.04.2026*
 
 v0.1.0 - KAI Worlds

@@ -8,7 +8,7 @@
 Secondary school civics teacher
 
 ## Projection
-Vernon is [Grenadian](culture_grenadian_position.md).
+Vernon is [Grenadian](culture_grenada_position.md).
 He teaches civics and social studies at St. David's Secondary School
 in Grenada's eastern parish. His students: ages fourteen to seventeen.
 His curriculum includes Caribbean history, Grenada's constitution,

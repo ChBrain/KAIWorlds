@@ -62,6 +62,6 @@ it happened here. It can happen again. The capacity is in the island.
 *Hofstede: PDI ~42, IDV ~32, MAS ~50, UAI ~55 (estimated — Saint Lucia not in Hofstede dataset)*
 
 ---
-*culture_saintlucian_position.md - 07.04.2026*
+*culture_saintlucia_position.md - 07.04.2026*
 
 v0.1.0 - KAI Worlds

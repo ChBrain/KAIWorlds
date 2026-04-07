@@ -8,7 +8,7 @@
 Marine park warden
 
 ## Projection
-Franklyn is [Vincentian](culture_vincentian_position.md).
+Franklyn is [Vincentian](culture_svg_position.md).
 He is a warden for the Tobago Cays Marine Park.
 He has been a warden for eleven years.
 He arrives by government vessel each morning from Union Island.

@@ -3,7 +3,7 @@
 
 ## Owner
 - **Project:** Cultures — Americas
-- **Position:** [Kittitian and Nevisian](culture_kittitian_nevisian_position.md)
+- **Position:** [Kittitian and Nevisian](culture_sknv_position.md)
 
 ## Shown
 Basseterre: the capital of Saint Kitts. The Independence Square: the central square,
@@ -24,7 +24,7 @@ The ferry crosses it. On a clear day you can see both islands simultaneously.
 They are close enough to misunderstand each other precisely.
 
 ## Holds
-- [Kittitian and Nevisian](culture_kittitian_nevisian_position.md)
+- [Kittitian and Nevisian](culture_sknv_position.md)
 - [The Right to Leave — Section 113](culture_sknv_piece_section113.md)
 
 ## Offers

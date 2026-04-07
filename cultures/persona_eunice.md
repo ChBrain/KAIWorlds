@@ -8,7 +8,7 @@
 Barbuda Council land rights defender (community representative)
 
 ## Projection
-Eunice is [Antiguan and Barbudan](culture_antiguan_barbudan_position.md).
+Eunice is [Antiguan and Barbudan](culture_antigua_barbuda_position.md).
 She is Barbudan. Born in Codrington.
 She is not an elected member of the Barbuda Council
 but serves as a community advocate and paralegal —

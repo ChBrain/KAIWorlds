@@ -68,6 +68,6 @@ The nutmeg is patient.
 *Hofstede: PDI ~45, IDV ~30, MAS ~55, UAI ~45 (estimated — Grenada not in Hofstede dataset; scores built from adjacent data)*
 
 ---
-*culture_grenadian_position.md - 07.04.2026*
+*culture_grenada_position.md - 07.04.2026*
 
 v0.1.0 - KAI Worlds
