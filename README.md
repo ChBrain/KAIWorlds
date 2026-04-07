@@ -93,6 +93,14 @@ A world built from a question the region cannot answer for itself. Eleven person
 
 ---
 
+### [Temptation](temptation/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/temptation.zip)
+
+*A waiting room. Seven sins, seven virtues. 2026.*
+
+A world about the pull before it is named. One persona, one place, 14 pieces, 14 positions, one process. The Sin does not know it is tempting. The Virtue does not know it is tempted. Vera is already there. This world does not resolve. It holds.
+
+---
+
 ### [April](april/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/april.zip)
 
 *The anatomy of a prank*
