@@ -5,7 +5,7 @@
 - **Project:** Cultures — Americas
 
 ## Has
-[The Declaration of Independence 1804](culture_haitian_piece_declaration_1804.md).
+[The Declaration of Independence 1804](culture_haiti_piece.md).
 The *lakou* — the family compound.
 The extended family as the structural unit of survival.
 Not the nuclear family — the *lakou*:

@@ -12,12 +12,12 @@
 - The doubles stand on the corner of any main road, 5am to 10am, sold out. Bara and channa. Indo-Trinidadian street food that is also everyone's breakfast.
 
 ## Holds
-- The Trinidadian position — [Trinidadian](culture_trinidadian_position.md)
-- [1834 and 1845: The Two Arrivals](culture_trinidadian_piece_arrivals.md)
+- The Trinidadian position — [Trinidadian](culture_trinidad_tobago_position.md)
+- [1834 and 1845: The Two Arrivals](culture_trinidad_tobago_piece.md)
 
 ## Offers
 - The room where the Trinidadian position does its daily work.
-- [The Lime](process_the_lime.md) — runs here continuously, without agenda, until it ends naturally.
+- The Lime — runs here continuously, without agenda, until it ends naturally.
 
 ## Withheld
 - The ethnic arithmetic that runs underneath every political calculation. T&T's elections are won and lost on ethnic lines — the PNM draws primarily Afro-Trinidadian votes; the UNC draws primarily Indo-Trinidadian. The arithmetic is known by everyone and mentioned by no one in polite company. The room presents plurality. The calculation is in the back.

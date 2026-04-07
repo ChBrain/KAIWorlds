@@ -12,12 +12,12 @@
 - The Parlamento. The legislative palace. The legislature that produced the first old-age pension in the Americas (1919), the eight-hour work day (1915), the legalisation of divorce (1907), women's suffrage (1927), and the legalisation of cannabis (2013). The building looks like a European parliament because the people who built it were thinking about European parliaments.
 
 ## Holds
-- The Uruguayan position — [Uruguayan](culture_uruguayan_position.md)
-- [Batllismo 1903–1915: The State as Social Contract](culture_uruguayan_piece_batllismo.md)
+- The Uruguayan position — [Uruguayan](culture_uruguay_position.md)
+- [Batllismo 1903–1915: The State as Social Contract](culture_uruguay_piece.md)
 
 ## Offers
 - The room where the Uruguayan position does its daily work.
-- [El Mate](process_el_mate.md) — runs here continuously; shared, never given away.
+- El Mate — runs here continuously; shared, never given away.
 
 ## Withheld
 - The specific grief of Uruguay's size. Uruguay is 3.5 million people between Argentina (45 million) and Brazil (215 million). The country has produced more per capita Nobel Prizes, writers, and football champions than either of its neighbours. It is nonetheless described, internationally, as "that small country between Argentina and Brazil." The room shows a composed face. Inside the composure is a precise sense of what has been built and a frustration that the building is not more widely recognised.

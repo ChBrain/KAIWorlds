@@ -12,12 +12,12 @@
 - The Mercado Central. The fish market near the river. Families on Sundays. Conger eel stew. The oldest restaurants in the city. The things that remain.
 
 ## Holds
-- The Chilean position — [Chilean](culture_chilean_position.md)
-- [September 11, 1973 and the Laboratory](culture_chilean_piece_1973.md)
+- The Chilean position — [Chilean](culture_chile_position.md)
+- [September 11, 1973 and the Laboratory](culture_chile_piece.md)
 
 ## Offers
 - The room where the Chilean position does its daily work.
-- [El Estallido](process_el_estallido.md) — runs when the room reaches capacity.
+- El Estallido — runs when the room reaches capacity.
 
 ## Withheld
 - The specific form of Chilean reserve: what is thought and what is said are often different, and the distance between them is managed with exquisite social precision. The room shows a courteous surface. It does not display what the surface is covering.

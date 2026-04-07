@@ -5,7 +5,7 @@
 - **Project:** Cultures — Americas
 
 ## Has
-[Batllismo 1903–1915: The State as Social Contract](culture_uruguayan_piece_batllismo.md).
+[Batllismo 1903–1915: The State as Social Contract](culture_uruguay_piece.md).
 The system that holds the anxiety.
 The pension fund. The public defender's office. The state bank.
 The state monopoly on cannabis distribution.

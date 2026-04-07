@@ -5,7 +5,7 @@
 - **Project:** Cultures — Americas
 
 ## Has
-[The 2009 Constitution](culture_bolivian_piece_constitution.md).
+[The 2009 Constitution](culture_bolivia_piece.md).
 The *ayllu* not just as survival mechanism
 but as cosmological framework:
 the community is not separate from the land;

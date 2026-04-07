@@ -3,10 +3,10 @@
 
 ## Owner
 - **Project:** Cultures — Americas
-- **Place:** [Managua, Nicaragua](../places/place_nicaragua_managua.md)
+- **Place:** [Managua, Nicaragua](culture_nicaragua_place.md)
 
 ## Place
-[Managua, Nicaragua](../places/place_nicaragua_managua.md)
+[Managua, Nicaragua](culture_nicaragua_place.md)
 
 ## Load Bearing
 Remove July 19, 1979 and Nicaragua is a Central American country

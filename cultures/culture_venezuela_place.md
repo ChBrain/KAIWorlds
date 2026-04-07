@@ -12,12 +12,12 @@
 - The airport. Maiquetía. Where 7.7 million people have left from. The largest displacement in Latin American history. The queues. The weight limits. The things that can be carried.
 
 ## Holds
-- The Venezuelan position — [Venezuelan](culture_venezuelan_position.md)
-- [The Barroso No. 2 Well and What It Built](culture_venezuelan_piece_oil.md)
+- The Venezuelan position — [Venezuelan](culture_venezuela_position.md)
+- [The Barroso No. 2 Well and What It Built](culture_venezuela_piece.md)
 
 ## Offers
 - The room where the Venezuelan position does its daily work.
-- [El Pran](process_el_pran.md) — the informal authority structure that fills the space the formal state vacates.
+- El Pran — the informal authority structure that fills the space the formal state vacates.
 
 ## Withheld
 - The specific conversation that has been happening since 2015: whether to leave, and who is already gone, and what staying means now. Every gathering in Caracas has this conversation underneath it. The room does not display this. It presents warmth. The warmth is real. The conversation is also real.

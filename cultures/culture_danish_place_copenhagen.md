@@ -10,7 +10,7 @@
 - The flat skyline. No building dominates.
 
 ## Holds
-- The Denmark position - [Danish](position_danish.md)
+- The Denmark position - [Danish](culture_danish_position.md)
 - [Jante Law](culture_danish_piece_jante_law.md)
 
 ## Offers

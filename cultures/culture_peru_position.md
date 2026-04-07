@@ -5,7 +5,7 @@
 - **Project:** Cultures — Americas
 
 ## Has
-[The Ayllu and What Survived](culture_peruvian_piece_ayllu.md).
+[The Ayllu and What Survived](culture_peru_piece.md).
 The deep collectivism — IDV 16.
 Two forms of it, running simultaneously.
 The vertical: respect for the *patrón*, the authority, the person who has power —

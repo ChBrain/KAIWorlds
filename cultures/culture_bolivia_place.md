@@ -12,12 +12,12 @@
 - The Salar de Uyuni. The largest salt flat in the world. 10,582 square kilometres of white. The world's largest lithium reserve underneath. The sky reflects in the wet season. Both facts are the country.
 
 ## Holds
-- The Bolivian position — [Bolivian](culture_bolivian_position.md)
-- [The 2009 Constitution: The Earth Has Rights](culture_bolivian_piece_constitution.md)
+- The Bolivian position — [Bolivian](culture_bolivia_position.md)
+- [The 2009 Constitution: The Earth Has Rights](culture_bolivia_piece.md)
 
 ## Offers
 - The room where the Bolivian position does its daily work.
-- [Ayni](process_ayni.md) — runs here when the task exceeds one person.
+- Ayni — runs here when the task exceeds one person.
 
 ## Withheld
 - The specific tension between the *Plurinational State* as constitutional document and the country's daily extractive economy. The lithium is being mined. The *Pachamama* has legal rights and the *Pachamama* is being opened. The room does not resolve this. It holds both simultaneously. The constitution is real. The mining contracts are also real.
