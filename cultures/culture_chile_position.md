@@ -5,7 +5,7 @@
 - **Project:** Cultures — Americas
 
 ## Has
-[September 11, 1973 and the Laboratory](culture_chilean_piece_1973.md).
+[September 11, 1973 and the Laboratory](culture_chile_piece.md).
 The form. The procedure. The completed document.
 The Chilean who does something unusual
 explains it before anyone asks.

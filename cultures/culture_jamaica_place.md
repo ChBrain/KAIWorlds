@@ -12,8 +12,8 @@
 - The Blue Mountains behind the city. Where the Maroons — escaped enslaved people — held out for a hundred years and forced the British to sign peace treaties. The mountains that were never fully conquered.
 
 ## Holds
-- The Jamaica position — [Jamaican](culture_jamaican_position.md)
-- [Reggae and Rastafari](culture_jamaican_piece_reggae_rastafari.md)
+- The Jamaica position — [Jamaican](culture_jamaica_position.md)
+- [Reggae and Rastafari](culture_jamaica_piece.md)
 
 ## Offers
 - The room where the Jamaica position does its daily work.

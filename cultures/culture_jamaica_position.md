@@ -5,7 +5,7 @@
 - **Project:** Cultures — Americas
 
 ## Has
-[Reggae and Rastafari](culture_jamaican_piece_reggae_rastafari.md).
+[Reggae and Rastafari](culture_jamaica_piece.md).
 The moderate hierarchy — PDI 45.
 Not flat, not steep.
 The elder is respected. The boss is acknowledged.

@@ -5,7 +5,7 @@
 - **Project:** Cultures — Americas
 
 ## Has
-[December 1, 1948: The Barracks Become Schools](culture_costarican_piece_army.md).
+[December 1, 1948: The Barracks Become Schools](culture_costa_rica_piece.md).
 The low hierarchy — PDI 35.
 The boss is accessible. The subordinate speaks.
 The teacher is respected because teachers are what the army budget paid for.

@@ -5,7 +5,7 @@
 - **Project:** Cultures — Americas
 
 ## Has
-[1834 and 1845: The Two Arrivals](culture_trinidadian_piece_arrivals.md).
+[1834 and 1845: The Two Arrivals](culture_trinidad_tobago_piece.md).
 The moderate hierarchy — PDI 47.
 The boss is acknowledged but not untouchable.
 The Trinidadian who disagrees with the boss

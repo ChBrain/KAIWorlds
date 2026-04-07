@@ -12,12 +12,12 @@
 - The Mercado Central. The street food. The *caldo de 31* — the soup that cures everything. The *guatita* — stomach stew. The food that the guidebooks do not always recommend and the Quiteños eat every day.
 
 ## Holds
-- The Ecuadorian position — [Ecuadorian](culture_ecuadorian_position.md)
-- [Article 71: Nature Has Rights — and the Yasuní Decision](culture_ecuadorian_piece_constitution.md)
+- The Ecuadorian position — [Ecuadorian](culture_ecuador_position.md)
+- [Article 71: Nature Has Rights — and the Yasuní Decision](culture_ecuador_piece.md)
 
 ## Offers
 - The room where the Ecuadorian position does its daily work.
-- [Minga](process_minga.md) — communal work; runs here when the community decides the task is collective.
+- Minga — communal work; runs here when the community decides the task is collective.
 
 ## Withheld
 - The gap between Article 71 and the extraction contracts. The room holds the constitution. It does not display the extraction. Both are real. The constitution has not stopped the drilling. The drilling has not repealed the constitution. The position holds both simultaneously and does not yet know how to resolve the tension. It is possible the tension is not resolvable. The room does not announce this.

@@ -5,7 +5,7 @@
 - **Project:** Cultures — Americas
 
 ## Has
-[Article 71 and the Yasuní Decision](culture_ecuadorian_piece_constitution.md).
+[Article 71 and the Yasuní Decision](culture_ecuador_piece.md).
 The *minga* — the communal labour for collective benefit.
 The group that includes the river. The land.
 The community's relationship to both.

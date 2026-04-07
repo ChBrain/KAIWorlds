@@ -12,12 +12,12 @@
 - The roads. San José's traffic is biblical and unremarked upon. The *Ticos* discuss it at length and accept it completely. *Pura vida* from inside a two-hour gridlock.
 
 ## Holds
-- The Costa Rican position — [Costa Rican](culture_costarican_position.md)
-- [December 1, 1948: The Barracks Become Schools](culture_costarican_piece_army.md)
+- The Costa Rican position — [Costa Rican](culture_costa_rica_position.md)
+- [December 1, 1948: The Barracks Become Schools](culture_costa_rica_piece.md)
 
 ## Offers
 - The room where the Costa Rican position does its daily work.
-- [Pura Vida](process_pura_vida.md) — runs here continuously and without requiring instruction.
+- Pura Vida — runs here continuously and without requiring instruction.
 
 ## Withheld
 - The specific anxiety underneath *pura vida*: UAI 86, the high uncertainty avoidance that means the relaxed surface is managed with considerable care. The Costa Rican who says *pura vida* is not the Costa Rican who feels no stress. They are the Costa Rican who has decided that stress is not the appropriate public response. The room shows *pura vida*. It does not display the management required to maintain it.

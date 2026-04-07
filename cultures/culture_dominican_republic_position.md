@@ -5,7 +5,7 @@
 - **Project:** Cultures — Americas
 
 ## Has
-[The Mirabal Sisters, November 25, 1960](culture_dominican_piece_mirabal.md).
+[The Mirabal Sisters, November 25, 1960](culture_dominican_republic_piece.md).
 The hierarchy — PDI 65.
 Not the anxious hierarchy that proliferates rules to manage uncertainty.
 The pragmatic hierarchy: *el jefe* is real, is respected, is the ideal boss

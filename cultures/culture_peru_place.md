@@ -12,12 +12,12 @@
 - Callao. The port. Where the goods move. Where the city's supply chain is visible and unglamorous and essential.
 
 ## Holds
-- The Peruvian position — [Peruvian](culture_peruvian_position.md)
-- [The Ayllu and What Survived](culture_peruvian_piece_ayllu.md)
+- The Peruvian position — [Peruvian](culture_peru_position.md)
+- [The Ayllu and What Survived](culture_peru_piece.md)
 
 ## Offers
 - The room where the Peruvian position does its daily work.
-- [Minka](process_minka.md) — runs here when the community needs something the individual cannot provide alone.
+- Minka — runs here when the community needs something the individual cannot provide alone.
 
 ## Withheld
 - The distance between Lima and everywhere else. The coastal capital that holds political power and looks at the ocean, while the sierra and selva hold the majority of the culture, the language, and the *ayllu*. The room does not display this fracture. It presents a unified national face. The fracture is structural and permanent and runs through everything.

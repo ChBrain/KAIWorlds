@@ -12,8 +12,8 @@
 - The noise. Port-au-Prince is always audible. Music, generators, voices, traffic, *Rara* processions. The silence would mean something had gone wrong.
 
 ## Holds
-- The Haiti position — [Haitian](culture_haitian_position.md)
-- [The Declaration of Independence 1804](culture_haitian_piece_declaration_1804.md)
+- The Haiti position — [Haitian](culture_haiti_position.md)
+- [The Declaration of Independence 1804](culture_haiti_piece.md)
 
 ## Offers
 - The room where the Haiti position does its daily work.
