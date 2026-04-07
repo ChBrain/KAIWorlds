@@ -8,7 +8,7 @@
 Nevis Island Assembly procedural clerk
 
 ## Projection
-Howard is [Kittitian and Nevisian](culture_kittitian_nevisian_position.md).
+Howard is [Kittitian and Nevisian](culture_sknv_position.md).
 He is Nevisian. He is the procedural clerk of the Nevis Island Assembly —
 the eleven-member legislature in Charlestown
 that gives Nevis its constitutional autonomy within the federation.

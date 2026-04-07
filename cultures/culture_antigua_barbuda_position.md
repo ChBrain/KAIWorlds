@@ -57,6 +57,6 @@ It fights what it can fight. It remains on the island.
 *Hofstede: PDI ~47, IDV ~33, MAS ~55, UAI ~50 (estimated — Antigua and Barbuda not in Hofstede dataset)*
 
 ---
-*culture_antiguan_barbudan_position.md - 07.04.2026*
+*culture_antigua_barbuda_position.md - 07.04.2026*
 
 v0.1.0 - KAI Worlds

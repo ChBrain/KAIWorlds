@@ -8,7 +8,7 @@
 *Kwéyòl* language teacher
 
 ## Projection
-Maricel is [Saint Lucian](culture_saintlucian_position.md).
+Maricel is [Saint Lucian](culture_saintlucia_position.md).
 She teaches *Kwéyòl* — Saint Lucian French Creole — at a primary school in Castries
 as part of the national *Kwéyòl* education programme.
 *Kwéyòl* is the first language of most Saint Lucian children

@@ -3,7 +3,7 @@
 
 ## Owner
 - **Project:** Cultures — Americas
-- **Position:** [Vincentian](culture_vincentian_position.md)
+- **Position:** [Vincentian](culture_svg_position.md)
 
 ## Shown
 Kingstown: the capital. The Botanical Gardens — established 1765,
@@ -19,7 +19,7 @@ The Tobago Cays. The southern Grenadines — five uninhabited islets
 surrounded by a horseshoe reef. A marine park. Sea turtles nesting.
 
 ## Holds
-- [Vincentian](culture_vincentian_position.md)
+- [Vincentian](culture_svg_position.md)
 - [Baliceaux — The Island the Garifuna Left From](culture_svg_piece_baliceaux.md)
 
 ## Offers

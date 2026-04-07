@@ -3,7 +3,7 @@
 
 ## Owner
 - **Project:** Cultures — Americas
-- **Position:** [Grenadian](culture_grenadian_position.md)
+- **Position:** [Grenadian](culture_grenada_position.md)
 
 ## Shown
 The harbour. St. George's is one of the most beautiful harbours in the Caribbean:
@@ -20,7 +20,7 @@ Gouyave. The nutmeg processing station on the western coast.
 The largest nutmeg processing facility in the western hemisphere.
 
 ## Holds
-- [Grenadian](culture_grenadian_position.md)
+- [Grenadian](culture_grenada_position.md)
 - [October 1983 and the Airport's Name](culture_grenada_piece_1983_airport.md)
 
 ## Offers

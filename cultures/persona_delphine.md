@@ -8,7 +8,7 @@
 Sugar industry heritage archive director
 
 ## Projection
-Delphine is [Kittitian and Nevisian](culture_kittitian_nevisian_position.md).
+Delphine is [Kittitian and Nevisian](culture_sknv_position.md).
 She manages the sugar industry archives at the National Museum in Basseterre —
 the documentary record of the industry that built Saint Kitts and was closed after the 2005 harvest.
 The archive: estate ledgers, labour records, payroll books, maps of estate boundaries,

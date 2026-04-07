@@ -3,7 +3,7 @@
 
 ## Owner
 - **Project:** Cultures — Americas
-- **Position:** [Saint Lucian](culture_saintlucian_position.md)
+- **Position:** [Saint Lucian](culture_saintlucia_position.md)
 
 ## Shown
 Derek Walcott Square. The central square in Castries, named 2017 after the poet's death.
@@ -20,7 +20,7 @@ UNESCO World Heritage Site. The most photographed thing in Saint Lucia.
 St. Mary's College. The school where Arthur Lewis and Derek Walcott both studied. Still operating.
 
 ## Holds
-- [Saint Lucian](culture_saintlucian_position.md)
+- [Saint Lucian](culture_saintlucia_position.md)
 - [January 23 — Two Nobel Prizes from One Island](culture_saintlucia_piece_nobel.md)
 
 ## Offers

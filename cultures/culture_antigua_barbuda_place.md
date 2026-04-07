@@ -3,7 +3,7 @@
 
 ## Owner
 - **Project:** Cultures — Americas
-- **Position:** [Antiguan and Barbudan](culture_antiguan_barbudan_position.md)
+- **Position:** [Antiguan and Barbudan](culture_antigua_barbuda_position.md)
 
 ## Shown
 St. John's: the capital of Antigua. The cruise ships at the deep-water harbour.
@@ -22,7 +22,7 @@ The channel between Antigua and Barbuda: forty kilometres of Caribbean Sea.
 The ferry crosses it. Barbuda is close enough to govern and far enough to misunderstand.
 
 ## Holds
-- [Antiguan and Barbudan](culture_antiguan_barbudan_position.md)
+- [Antiguan and Barbudan](culture_antigua_barbuda_position.md)
 - [Barbuda Land Is Not for Sale](culture_antigua_barbuda_piece_land.md)
 
 ## Offers

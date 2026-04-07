@@ -8,7 +8,7 @@
 Arrowroot processor
 
 ## Projection
-Alicia is [Vincentian](culture_vincentian_position.md).
+Alicia is [Vincentian](culture_svg_position.md).
 She works at the Owia Arrowroot Processing Plant at the northern tip of Saint Vincent —
 the only remaining arrowroot processing facility on the island.
 Saint Vincent produces approximately 90% of the world's arrowroot starch.

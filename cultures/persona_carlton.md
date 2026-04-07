@@ -8,7 +8,7 @@
 Sailing regatta operations coordinator
 
 ## Projection
-Carlton is [Antiguan and Barbudan](culture_antiguan_barbudan_position.md).
+Carlton is [Antiguan and Barbudan](culture_antigua_barbuda_position.md).
 He is Antiguan. He coordinates logistics for Antigua Sailing Week —
 350 to 400 yachts, 50 nationalities, 5 days of racing.
 His role: race committee vessels, course marking, safety launches,

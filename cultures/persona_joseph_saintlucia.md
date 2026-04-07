@@ -8,7 +8,7 @@
 Banana farmer
 
 ## Projection
-Joseph is [Saint Lucian](culture_saintlucian_position.md).
+Joseph is [Saint Lucian](culture_saintlucia_position.md).
 He has farmed bananas in the Cul de Sac valley south of Castries for thirty-eight years.
 His father farmed the same land before him. His grandfather planted the first banana trees.
 In 1993, at the height of the Windward Islands banana trade,
