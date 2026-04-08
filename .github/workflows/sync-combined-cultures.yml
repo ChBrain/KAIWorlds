@@ -23,9 +23,10 @@ jobs:
 
       - name: Copy updated files
         run: |
+          mkdir -p target/project
           rsync -av --delete \
             --exclude='.git/' \
-            combined_culture/ target/
+            combined_culture/ target/project/
 
       - name: Check for changes
         id: diff
