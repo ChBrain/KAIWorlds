@@ -287,6 +287,14 @@ A world built from three simultaneous levels of German democratic life. 32 perso
 
 ---
 
+### [Comprehend](comprehend/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/comprehend.zip)
+
+*To take hold of. With the hands. Arnstadt, February 1706 — Erfurt, April 2026.*
+
+A world built from a single question: what travels across three hundred years? Bach walks to Lübeck in 1705. Someone pulls over in a car park in Weimar in 2026. The pull is identical. 8 personas — Bach, Buxtehude, C.P.E. Bach, Mendelssohn, Sara Levy, and others — carry the work across institutions, salons, and manuscript copies. 9 positions. 8 places. 8 objects. 6 processes: building, carrying, finding, hearing, losing, walking. This world does not explain. It transmits.
+
+---
+
 ## Join the conversation
 
 Running a world? Found something the files didn't predict?
