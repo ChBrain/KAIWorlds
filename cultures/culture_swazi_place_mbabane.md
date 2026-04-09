@@ -5,75 +5,45 @@
 - *
 
 ## Shown
-- Lobamba royal kraal.
-  The *sibaya*. The cattle byre.
-  The physical centre of Swazi sovereignty.
-  Where the *Incwala* is performed.
-  Where the king's authority is renewed
-  through ritual contact
-  with the first fruits of the season.
-  The ceremony that a king without it
-  would be a king without legitimacy.
-  The ceremony is not decoration.
-  It is the installation.
-  Renewed every year.
-  It has been renewed for centuries.
-- The *Umhlanga* Reed Dance site.
-  Ludzidzini Royal Residence.
-  Every September.
-  Fifty thousand young women
-  from across the country.
-  The reeds carried to the queen mother.
-  The dance performed before the king.
-  The spectacle visible to journalists,
-  tourists, development workers,
-  who read it through different lenses:
-  cultural ceremony / royal pageantry /
-  the king reviewing potential wives /
-  the most genuine popular participation
-  in any Swazi political institution.
-  All of these readings are in the room.
-  The ceremony proceeds regardless.
-- Mbabane city centre.
-  The administrative capital.
-  The government buildings.
-  The market.
-  The Swazi citizens going about daily life
-  in a country that ranks
-  among the world's poorest
-  by income distribution
-  despite technically being
-  lower-middle income by GDP.
-  The gap between the aggregate income
-  and the poverty rate
-  is where Mswati's palaces live.
-  The city does not advertise this gap.
-  The city holds it.
-- Sibebe Rock.
-  The world's second-largest exposed granite dome.
-  Outside Mbabane.
-  The landscape the monarchy inhabits —
-  ancient, massive, indifferent to governments.
-  The rock was here before the Swazi came.
-  It will be here if the monarchy ends.
-  The Swazi relationship to their landscape
-  is as old as the landscape.
-  The political arrangement is newer.
-- Mkhaya Game Reserve.
-  The black and white rhino conservation.
-  One of the most successful rhino programmes
-  in Africa.
-  Run by a Swazi wildlife charity.
-  The conservation works.
-  The rhinos still have their horns.
-  Eswatini shoots poachers.
-  The wildlife is one of the things
-  the kingdom does genuinely well.
-  The rhino conservation
-  is not diminished
-  by the political critique.
-  It is the same country.
-  Both are true.
+- Lobamba. The royal village.
+  The *Lozitha Palace*. The parliament buildings.
+  The national museum.
+  The space where the *umhlanga* is performed —
+  the field that empties for eleven months
+  and fills for one,
+  with tens of thousands of women in ceremony dress.
+  The seat of actual power.
+  Visitors sometimes miss it
+  by going to Mbabane.
+- Mbabane. The administrative capital.
+  The market. The government offices.
+  The Swazi Plaza shopping centre.
+  The taxis. The hawkers.
+  The ordinary commerce of a small city
+  that happens to be the administrative centre
+  of the last absolute monarchy in Africa.
+  The ordinariness is real.
+  The monarchy is also real.
+  Both are present in the traffic.
+- The Hlane Royal National Park.
+  White rhino. Lion. Elephant.
+  The royal hunting ground
+  that became a conservation area.
+  The king still owns it.
+  The tourists pay to enter it.
+  The revenue is the king's.
+  The ecology is genuinely protected.
+  The transaction is genuinely feudal.
+  Both things are true.
+- The *tinkhundla* centres.
+  The local governance nodes.
+  Where the chief's representative sits.
+  Where the community meets.
+  Where the homestead registers its issues.
+  The political system made physical
+  in every corner of the country.
+  Not a polling station. An administrative node.
+  The distinction is the system.
 
 ## Holds
 - The Swazi position — [Swazi](culture_swazi_position.md)
@@ -81,31 +51,25 @@
 
 ## Offers
 - The room where the Swazi position does its daily work.
-  A room between the royal kraal
-  and the city centre,
-  where the *Sive Siyinye* principle
-  is upheld in the ceremony
-  and contested in the streets,
-  where the reed is genuinely brought
-  and the petition boxes were genuinely burned.
+  A small highland kingdom
+  where the ceremony is the politics
+  and the king is the constitution
+  and the cattle still matter more than the ballot.
 - [The World is Spinning](process_world_is_spinning.md) — runs here daily.
 
 ## Withheld
-- Whether you participated in the ceremony.
-  The *Umhlanga* and *Incwala* participation
-  is formally voluntary.
-  The social cost of non-participation
-  in small communities with strong traditional structures
-  is not negligible.
-  The young person who did not go
-  and the young person who went but didn't want to —
-  both are in the room.
-  The ceremony's attendance figures
-  do not distinguish between them.
-  The room knows the difference.
-  The room does not discuss it.
+- The names of the 2021 protest dead.
+  The activists in prison.
+  The Thulani Maseko case —
+  the human rights lawyer
+  shot in his home in 2023.
+  No arrest made.
+  The room shows the Reed Dance and the parks.
+  The political detentions are withheld
+  in the way that things are withheld
+  when the king does not name them.
 
 ---
-*culture_swazi_place_mbabane.md - 08.04.2026*
+*culture_swazi_place_mbabane.md - 09.04.2026*
 
 v0.1.0 - KAI Worlds
