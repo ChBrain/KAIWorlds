@@ -233,6 +233,14 @@ A world about custodial grief — the grief of tending something that declines d
 
 *For the person tracing what the water was before it was what it is.*
 
+---
+
+### [Baltic Sea — The Wrong Sea](baltic_sea_wrong_sea/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_wrong_sea.zip)
+
+*A sperm whale in the wrong sea. Western Baltic coast, March–April 2026.*
+
+*For the person at the tape who cannot leave and has not yet found the words for why.*
+
 A foundation world — not a standalone session. Ten timeslots, ten personas, ten places, ten pieces, eight processes. The chain runs from 3.8 billion years ago to 2026. At Timeslot 7, the chain branches: two futures, one process. The Scientist stands at the branch point. The water holds both.
 
 ---
