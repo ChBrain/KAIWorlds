@@ -5,7 +5,7 @@
 - Place: [the A7](place_the_a7.md)
 
 ## Shown
-The Volkspark exit. The sign: Hamburg-Volkspark, Schnackenburgallee. The stadium visible to the right. The road descending toward [the Elbtunnel](place_a7_elbtunnel.md). This is the last exit before the tunnel. [Hamburg-Bahrenfeld](place_a7_28_hamburg_bahrenfeld.md) is after the tunnel but currently closed.
+The Volkspark exit. The sign: Hamburg-Volkspark, Schnackenburgallee. The stadium visible to the right. [Westkreuz Hamburg](place_a7_westkreuz_hamburg.md) immediately ahead.
 
 - 1 km north: [Hamburg-Stellingen](place_a7_26_hamburg_stellingen.md)
 - 1 km south: [Westkreuz Hamburg](place_a7_westkreuz_hamburg.md)
