@@ -5,7 +5,7 @@
 - Place: [the A7](place_the_a7.md)
 
 ## Shown
-The Bahrenfeld exit. The sign: Hamburg-Bahrenfeld. South of [the Elbtunnel](place_a7_elbtunnel.md). Currently closed: Lärmschutztunnel construction until early 2027. The ramp is there. The signs are there. The exit is not available.
+The Bahrenfeld exit. The sign: Hamburg-Bahrenfeld. North of [the Elbtunnel](place_a7_elbtunnel.md). Currently closed: Lärmschutztunnel construction until 2028. The ramp is there. The signs are there. The exit is not available.
 
 - 1 km north: [Westkreuz Hamburg](place_a7_westkreuz_hamburg.md)
 - 2 km south: [Hamburg-Othmarschen](place_a7_29_hamburg_othmarschen.md)
