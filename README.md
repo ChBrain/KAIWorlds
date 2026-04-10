@@ -187,6 +187,14 @@ A world about the comedy in the seriousness, and the earth that outlasts everyon
 
 ---
 
+### [Asparagus](asparagus/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/asparagus.zip)
+
+*Germany. April to June 24th. The date outlived its reason.*
+
+A world about identity that was never chosen - only noticed. Five personas, three places, four positions, four processes. The cut and the crowning run simultaneously without mutual acknowledgment. The saint is gone. The ceremony remains. This world does not resolve. It closes on schedule.
+
+---
+
 ### [Baltic Sea Ecosystem](baltic_sea_ecosystem/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/baltic_sea_ecosystem.zip)
 
 *The western Baltic. Kiel Bight and the Belts. Deep past to present.*
