@@ -15,7 +15,7 @@ Hold the date.
 The reason. The position was certain the date derived its authority from the reason behind it. The reason departed. The date did not. The authority is now the date itself. The position holds a date with no reason and full authority. This is not diminishment. It may be the position's final form.
 
 ## Drives
-On the loss of the reason — holds the date anyway. June 24th. Every year. The ferns grow tall. The crowns come off. The helpers leave. The date does not require the saint to function.
+On the loss of the reason - holds the date anyway. June 24th. Every year. The ferns grow tall. The crowns come off. The helpers leave. The date does not require the saint to function.
 
 ---
 *position_the_saint.md - 10.04.2026*

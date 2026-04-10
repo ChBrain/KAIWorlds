@@ -1,4 +1,4 @@
-# References
+﻿# References
 
 ## The German Asparagus Season
 

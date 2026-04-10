@@ -7,10 +7,10 @@
 - **Position:** [Harvest Helper](position_harvest_helper.md)
 
 ## Initiated by
-The field is ready. The [Harvest Helper](position_harvest_helper.md) is present — bent at the waist, knife in hand, reading the slight rise in the soil above a ready stalk. The knowledge of how to read this cannot be written down. It is in the body. Dawn. The work runs from dawn to midday.
+The field is ready. The [Harvest Helper](position_harvest_helper.md) is present - bent at the waist, knife in hand, reading the slight rise in the soil above a ready stalk. The knowledge of how to read this cannot be written down. It is in the body. Dawn. The work runs from dawn to midday.
 
 ## Direction
-Toward the stalk — underground, unbroken, cut at the crown before it reaches light. Toward the basket. Toward the lorry. Away from the field and toward the market that does not see the field.
+Toward the stalk - underground, unbroken, cut at the crown before it reaches light. Toward the basket. Toward the lorry. Away from the field and toward the market that does not see the field.
 
 ## Lever
 **Carrying force:** the accumulated knowledge of this specific field. Where it drains. Where it holds. Where a stalk has come up before. Many [Harvest Helpers](position_harvest_helper.md) return to the same farm year after year. Some know particular rows better than the [Grower](position_grower.md) who owns them.

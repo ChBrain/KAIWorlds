@@ -12,10 +12,10 @@ The [crown](piece_the_crown.md). The regional claim. The term: eight to ten week
 Represent the season.
 
 ## Loses
-The completeness. They were certain that representing the season meant representing what the season is — the labor, the ground, the workers, the eight-week bent-back dawn-to-midday cut. The position represents the season's face. The face and the season are not identical. The position cannot close that gap. It does not tell the holder this in advance.
+The completeness. They were certain that representing the season meant representing what the season is - the labor, the ground, the workers, the eight-week bent-back dawn-to-midday cut. The position represents the season's face. The face and the season are not identical. The position cannot close that gap. It does not tell the holder this in advance.
 
 ## Drives
-On the loss of completeness — represents the season as the position requires. The [crown](piece_the_crown.md) is worn. The markets are attended. The gap is carried invisibly.
+On the loss of completeness - represents the season as the position requires. The [crown](piece_the_crown.md) is worn. The markets are attended. The gap is carried invisibly.
 
 ---
 *position_asparagus_queen.md - 10.04.2026*
