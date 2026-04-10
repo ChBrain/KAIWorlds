@@ -1,11 +1,11 @@
 ﻿# The Asparagus Season [↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/asparagus.zip)
-## A German World — Historical & Cultural
+## A German World - Historical & Cultural
 
 ---
 
-**Hypothesis:** A world about identity that was never chosen — only noticed. The season is the form. The question is what persists when the reason is forgotten and only the date remains.
+**Hypothesis:** A world about identity that was never chosen - only noticed. The season is the form. The question is what persists when the reason is forgotten and only the date remains.
 
-**Finding (next cycle):** The regional museum claims — Schwetzingen, Beelitz, Schrobenhausen — as a second layer of the world's central question. Werner Falk holds the door.
+**Finding (next cycle):** The regional museum claims - Schwetzingen, Beelitz, Schrobenhausen - as a second layer of the world's central question. Werner Falk holds the door.
 
 ---
 
@@ -85,7 +85,7 @@ A user can enter through any persona and find a different face of the same quest
 ## The world's spine
 *(Vimes's finding, filed)*
 
-Three of five personas share the same structural mechanism: *something is being distributed, withheld, or framed in a way that nobody decided and nobody reviews.* Ingrid, Marta, Hanna. The other two — Klaus and Werner — run on active investment: a tradition built on unexamined ground, an identity built on geology that won't hold the weight. Five directions. Same world.
+Three of five personas share the same structural mechanism: *something is being distributed, withheld, or framed in a way that nobody decided and nobody reviews.* Ingrid, Marta, Hanna. The other two - Klaus and Werner - run on active investment: a tradition built on unexamined ground, an identity built on geology that won't hold the weight. Five directions. Same world.
 
 ---
 
