@@ -5,7 +5,7 @@
 - Place: [the A7](place_the_a7.md)
 
 ## Shown
-The Othmarschen exit. The sign: Hamburg-Othmarschen, Altona, Bahrenfeld. South of [the Elbtunnel](place_a7_elbtunnel.md). Currently serving as the alternative exit for [Hamburg-Bahrenfeld](place_a7_28_hamburg_bahrenfeld.md) traffic due to the closure. The road here four lanes, the city fully present.
+The Othmarschen exit. The sign: Hamburg-Othmarschen, Altona, Bahrenfeld. North of [the Elbtunnel](place_a7_elbtunnel.md). Currently serving as the alternative exit for [Hamburg-Bahrenfeld](place_a7_28_hamburg_bahrenfeld.md) traffic due to the closure. The road here four lanes, the city fully present.
 
 - 2 km north: [Hamburg-Bahrenfeld](place_a7_28_hamburg_bahrenfeld.md)
 - 4 km south: [Hamburg-Waltershof](place_a7_30_hamburg_waltershof.md)
