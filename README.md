@@ -311,6 +311,14 @@ A world built from a single question: what travels across three hundred years? B
 
 ---
 
+### [DRY](dry/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/dry.zip)
+
+*A world where the bottle has been put down. The war continues without it.*
+
+A world built around one mechanism: the dry alcoholic - someone who has stopped drinking and has not recovered. Three personas: a man holding, a woman who stopped watching long enough to become someone who stopped, a child building a taxonomy of the house's weather without knowing she has built anything at all. Four processes. The bottle is absent. The reasons it was there are not. 3 personas. 6 pieces. 5 places. 6 positions. 4 processes.
+
+---
+
 ## Join the conversation
 
 Running a world? Found something the files didn't predict?
