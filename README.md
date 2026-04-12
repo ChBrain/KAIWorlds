@@ -319,13 +319,13 @@ A world built around one mechanism: the dry alcoholic - someone who has stopped 
 
 ---
 
-## Join the conversation
+### [Stelle](stelle/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/stelle.zip)
 
-Running a world? Found something the files didn't predict?
+*A traveller enters the afterlife. The road moves. The guide changes.*
 
-[Join the Discord](https://discord.gg/jYwAXTKKSV)
+A world built from Dante Alighieri's Commedia. Two guides: Virgil, the Guide of Reason, who names everything and cannot enter what lies beyond; Dante, the Guide of Memory, who walked this road in flesh and goes first. The road ends on the word the world is named for: stelle - stars. 2 personas. 5 pieces. 4 places. 6 positions. 4 processes.
 
-The most useful thing you can do is tell us what happened.
+---
 
 ---
 
