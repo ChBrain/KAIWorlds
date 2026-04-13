@@ -2,7 +2,7 @@
 
 ## Cultures
 
-The 52 cultural positions in this world are built from the operating logic of living cultures - their constitutions, their defining historical moments, their load-bearing symbols.
+The 198 cultural positions in this world are built from the operating logic of living cultures - their constitutions, their defining historical moments, their load-bearing symbols.
 
 This world does not reproduce those cultures. It follows the pressure each one exerts, wherever that pressure leads.
 

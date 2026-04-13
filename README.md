@@ -281,9 +281,9 @@ A world about the accumulated whole that no single desk in the chain can see. Se
 
 ### [Cultures](cultures/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/cultures.zip)
 
-*52 cultural positions. Each one already running. Each one holding what it holds.*
+*198 cultural positions. Each one already running. Each one holding what it holds.*
 
-A world built from the operating logic of 52 European cultures. 104 personas doing ordinary work — a headteacher in Krakow, a prison officer in Hrodna, a historian in Vilnius. Each carrying a cultural position they did not choose and mostly do not name. Each acting from it anyway. One process: the world is spinning. This world does not resolve. It runs.
+A world built from the operating logic of 198 cultures across 5 regions. Hundreds of personas doing ordinary work - a headteacher in Krakow, a prison officer in Hrodna, a historian in Vilnius. Each carrying a cultural position they did not choose and mostly do not name. Each acting from it anyway. One process: the world is spinning. This world does not resolve. It runs.
 
 ---
 
