@@ -32,7 +32,7 @@
 ## Holds
 - Everything that has been thrown here.
   The mat holds it without record.
-- [piece_kano.md](piece_kano.md). On the wall.
+- [piece_kano_image.md](piece_kano_image.md). On the wall.
 
 ## Offers
 - The mat. For whatever you bring.
