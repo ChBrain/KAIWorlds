@@ -19,7 +19,7 @@ jobs:
           mkdir -p dist
           for dir in */; do
             name="${dir%/}"
-            if [ -f "$name/stack.md" ]; then
+            if [ -f "$name/stack.md" ] || [ -f "$name/engine/stack.md" ]; then
               zip -r "dist/$name.zip" "$name/"
               echo "Zipped: $name"
             fi
