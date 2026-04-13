@@ -327,6 +327,14 @@ A world built from Dante Alighieri's Commedia. Two guides: Virgil, the Guide of 
 
 ---
 
+### [Nietzsche](nietzsche/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/nietzsche.zip)
+
+*Which transformation are you in?*
+
+A world built from the three metamorphoses in *Thus Spoke Zarathustra*. The camel bears the weight it did not choose. The lion breaks the rule whose authority has expired. The child makes something that did not exist before. Four personas carry one transformation each. The Observer watches all three and is in one without knowing it. Nietzsche is present - not as a position in the sequence, but as the pressure behind it. 5 personas, 7 pieces, 5 places, 4 positions, 3 processes.
+
+---
+
 ---
 
 ## Contact
