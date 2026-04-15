@@ -335,6 +335,14 @@ A world built from the three metamorphoses in *Thus Spoke Zarathustra*. The came
 
 ---
 
+### [Commedia](commedia/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/commedia.zip)
+
+*Italian troupes. 1550-1750. The mask that covers what the stage requires.*
+
+A world about mask agreements - the ones people enter consciously, the ones that grow over their face without announcement, and the moments when the face shows through regardless. Seven personas who built the form and paid its costs. Ten positions the world requires to run. Four places, four pieces, four processes. Every mask has a Tell. The Tell is involuntary. The Keeper holds the agreement intact between the crises, not just during them. The Unmasker names the moment. The world resets, not to zero. 7 personas, 10 positions, 4 places, 4 pieces, 4 processes.
+
+---
+
 ---
 
 ## Contact
