@@ -26,7 +26,7 @@ It does not offer resolution. It offers recognition.
 ## What this world does not contain
 
 A recovered person. That is deliberate.
-[Process: Recovered](process_recovered.md) exists. It may or may not initiate.
+[Process: Recovered](engine/process_recovered.md) exists. It may or may not initiate.
 What follows it is not in this world.
 What follows it is a life. Lives are not built here.
 
@@ -64,12 +64,12 @@ it is the shape of how she moves through rooms.
 
 ## The pieces
 
-[The Bottle](piece_the_bottle.md) - the object the war lands on.
-[The Wound](piece_the_wound.md) - what the bottle was standing in front of.
-[The Excuse](piece_the_excuse.md) - the only door out of the loop, when it fails.
-[The Morning](piece_the_morning.md) - what accumulates until the Excuse can't cover it.
-[The Silence](piece_the_silence.md) - the agreement nobody signed. Requires everyone.
-[The Thing The Child Carries](piece_the_thing_the_child_carries.md) - unnamed. Becomes The Wound in the next generation.
+[The Bottle](engine/piece_the_bottle.md) - the object the war lands on.
+[The Wound](engine/piece_the_wound.md) - what the bottle was standing in front of.
+[The Excuse](engine/piece_the_excuse.md) - the only door out of the loop, when it fails.
+[The Morning](engine/piece_the_morning.md) - what accumulates until the Excuse can't cover it.
+[The Silence](engine/piece_the_silence.md) - the agreement nobody signed. Requires everyone.
+[The Thing The Child Carries](engine/piece_the_thing_the_child_carries.md) - unnamed. Becomes The Wound in the next generation.
 
 The Wound and The Thing The Child Carries are the same piece at different points in time.
 
@@ -77,7 +77,7 @@ The Wound and The Thing The Child Carries are the same piece at different points
 
 ## How to enter
 
-Read [instructions.md](instructions.md).
+Read [instructions.md](engine/instructions.md).
 The house is already running.
 Bring what you have.
 
