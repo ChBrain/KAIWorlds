@@ -343,6 +343,14 @@ A world about mask agreements - the ones people enter consciously, the ones that
 
 ---
 
+### [Poetics](poetics/) - [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/poetics.zip)
+
+*Aristotle - Poetics, 335 BCE.*
+
+A world about the mechanics of tragedy. One persona, four processes, four positions, four pieces, three places. Mythos is the parent process. Desis tightens the knot. Catastrophe fires Peripeteia and Anagnorisis together. Lysis releases Catharsis into the audience. The engine runs on any story. Load it. Find what is running. Find what is missing. This world does not resolve. It names.
+
+---
+
 ---
 
 ## Contact
