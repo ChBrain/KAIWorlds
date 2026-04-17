@@ -16,9 +16,11 @@ jobs:
         run: curl https://rclone.org/install.sh | sudo bash
 
       - name: Configure rclone
+        env:
+          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
         run: |
           mkdir -p ~/.config/rclone
-          echo "${{ secrets.RCLONE_CONF }}" > ~/.config/rclone/rclone.conf
+          printf '%s' "$RCLONE_CONF" > ~/.config/rclone/rclone.conf
 
       - name: Sync KAIWorlds
         run: rclone sync . "gdrive:KAI/KAIWorlds/" --transfers=4 --delete-after --exclude ".github/**"
