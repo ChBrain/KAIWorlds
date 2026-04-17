@@ -19,7 +19,7 @@ jobs:
           # Find world folders with a newly added README.md
           added_readmes=$(git diff --name-status origin/$base...HEAD \
             | awk '/^A\t/ {print $2}' \
-            | grep -E '^[^/]+/README\.md$')
+            | grep -E '^[^/]+/README\.md$' || true)
 
           # Filter to worlds that are genuinely new (folder didn't exist in base)
           new_worlds=""
