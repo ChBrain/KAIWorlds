@@ -2,9 +2,8 @@
 ## Location: Pfarrhaus, oberes Stockwerk, Waldersbach
 
 ## Owner
-**Project:** Lenz
-
-**Persona:** Lenz
+- **Project:** Lenz
+- **Persona:** [Lenz](persona_lenz.md)
 
 ## Shown
 - Ein kleiner Raum. Ein Bett. Ein Fenster.
@@ -25,6 +24,5 @@
 
 ---
 
-*place_guestroom.md — 24.03.2026*
-
-v0.1.0 — KAI Worlds
+*place_guestroom.md - 24.03.2026*
+*v0.1.0 - KAI Worlds / Lenz*

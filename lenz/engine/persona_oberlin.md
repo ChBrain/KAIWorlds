@@ -2,9 +2,7 @@
 ## Title: Pfarrer
 
 ## Owner
-**Project:** Lenz
-
-**Persona:** Oberlin
+- **Project:** Lenz
 
 Er hat für alle im Tal gesorgt — und der im Gästezimmer ist der, den er nicht erreichen kann.
 
@@ -22,6 +20,6 @@ Er greift nach der Feder.
 
 ---
 
-*persona_oberlin.md — 24.03.2026*
-
-v0.1.0 — KAI Worlds
+*persona_oberlin.md - 24.03.2026*
+*Type: Real*
+*v0.1.0 - KAI Worlds / Lenz*

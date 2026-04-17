@@ -1,10 +1,8 @@
 # Piece: Das Fensterbrett
-## Das Ding, das die Schwelle physisch macht.
 
 ## Owner
-**Project:** Lenz
-
-**Persona:** Lenz
+- **Project:** Lenz
+- **Persona:** [Lenz](persona_lenz.md)
 
 ---
 
@@ -22,6 +20,5 @@ Es ist länger hier als Lenz. Es wird hier sein, nachdem er gegangen ist. Es unt
 
 ---
 
-*piece_windowsill.md — 24.03.2026*
-
-v0.1.0 — KAI Worlds
+*piece_windowsill.md - 24.03.2026*
+*v0.1.0 - KAI Worlds / Lenz*

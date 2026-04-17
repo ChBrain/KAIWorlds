@@ -2,9 +2,8 @@
 ## Location: Die Vogesen, beim Überqueren
 
 ## Owner
-**Project:** Lenz
-
-**Persona:** The Vosges
+- **Project:** Lenz
+- **Persona:** [Die Vogesen](persona_vosges.md)
 
 ## Shown
 - Schnee auf den Gipfeln. Graues Gestein darunter, dann Tannen, Felsen.
@@ -24,6 +23,5 @@
 
 ---
 
-*place_mountain.md — 24.03.2026*
-
-v0.1.0 — KAI Worlds
+*place_mountain.md - 24.03.2026*
+*v0.1.0 - KAI Worlds / Lenz*
