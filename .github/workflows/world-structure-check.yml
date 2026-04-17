@@ -1,0 +1,94 @@
+name: World structure check
+
+on:
+  pull_request:
+
+jobs:
+  check-structure:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check new world structure
+        run: |
+          base=${{ github.base_ref }}
+
+          # Find world folders with a newly added README.md
+          added_readmes=$(git diff --name-status origin/$base...HEAD \
+            | awk '/^A\t/ {print $2}' \
+            | grep -E '^[^/]+/README\.md$')
+
+          # Filter to worlds that are genuinely new (folder didn't exist in base)
+          new_worlds=""
+          for readme in $added_readmes; do
+            world=$(dirname "$readme")
+            if [ -z "$(git ls-tree origin/$base "$world" 2>/dev/null)" ]; then
+              new_worlds="$new_worlds $world"
+            fi
+          done
+
+          if [ -z "$new_worlds" ]; then
+            echo "No new worlds detected. Skipping structure check."
+            exit 0
+          fi
+
+          failed=0
+
+          for world in $new_worlds; do
+            echo "Checking: $world/"
+            world_ok=1
+
+            # Required root files
+            for f in LICENSE README.md REFERENCES.md; do
+              if [ ! -f "$world/$f" ]; then
+                echo "  ERROR: missing $world/$f"
+                failed=1; world_ok=0
+              fi
+            done
+
+            # No unexpected files at root (only LICENSE, README.md, REFERENCES.md)
+            while IFS= read -r -d '' f; do
+              name=$(basename "$f")
+              if [[ "$name" != "LICENSE" && "$name" != "README.md" && "$name" != "REFERENCES.md" ]]; then
+                echo "  ERROR: unexpected file at root: $world/$name"
+                echo "         (all working files must go in engine/ or a named subfolder)"
+                failed=1; world_ok=0
+              fi
+            done < <(find "$world" -maxdepth 1 -type f -print0)
+
+            # engine/ folder must exist
+            if [ ! -d "$world/engine" ]; then
+              echo "  ERROR: missing $world/engine/ folder"
+              failed=1; world_ok=0
+            else
+              # Required engine files
+              for f in stack.md instructions.md; do
+                if [ ! -f "$world/engine/$f" ]; then
+                  echo "  ERROR: missing $world/engine/$f"
+                  failed=1; world_ok=0
+                fi
+              done
+            fi
+
+            if [ "$world_ok" -eq 1 ]; then
+              echo "  OK"
+            fi
+          done
+
+          if [ "$failed" -eq 1 ]; then
+            echo ""
+            echo "Expected structure for new worlds:"
+            echo "  <world>/LICENSE"
+            echo "  <world>/README.md"
+            echo "  <world>/REFERENCES.md"
+            echo "  <world>/engine/instructions.md"
+            echo "  <world>/engine/stack.md"
+            echo "  <world>/engine/... (other working files)"
+            echo "  <world>/<optional-subfolders>/   (additional folders allowed)"
+            exit 1
+          fi
+
+          echo "All new worlds passed structure check."
