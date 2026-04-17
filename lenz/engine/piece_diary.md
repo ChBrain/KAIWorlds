@@ -1,10 +1,8 @@
 # Piece: Das Protokollbuch
-## Das Ding, das hält, was Oberlin benennen konnte — nicht was geschah.
 
 ## Owner
-**Project:** Lenz
-
-**Persona:** Oberlin
+- **Project:** Lenz
+- **Persona:** [Oberlin](persona_oberlin.md)
 
 ---
 
@@ -22,6 +20,5 @@ Die Feder bewegt sich in dem Moment, in dem der Mann am Fenster es nicht tut. Da
 
 ---
 
-*piece_diary.md — 24.03.2026*
-
-v0.1.0 — KAI Worlds
+*piece_diary.md - 24.03.2026*
+*v0.1.0 - KAI Worlds / Lenz*

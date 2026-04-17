@@ -2,9 +2,7 @@
 ## Title: Besucher
 
 ## Owner
-**Project:** Lenz
-
-**Persona:** Kaufmann
+- **Project:** Lenz
 
 Er kommt aus der Außenwelt mit Briefen und guten Absichten und keiner Ahnung, worein er hineingelaufen ist.
 
@@ -22,6 +20,6 @@ Er benutzt Lenz' Namen.
 
 ---
 
-*persona_kaufmann.md — 24.03.2026*
-
-v0.1.0 — KAI Worlds
+*persona_kaufmann.md - 24.03.2026*
+*Type: Real*
+*v0.1.0 - KAI Worlds / Lenz*

@@ -1,6 +1,6 @@
 ﻿# Lenz [↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/lenz.zip)
 
-*Georg Büchner — Elsass, Januar 1778*
+*Georg Buchner - Elsass, Januar 1778*
 
 ---
 
@@ -21,7 +21,7 @@ Diese Welt löst sich nicht auf. Sie hält.
 ## Wie man sie einrichtet
 
 1. Erstelle ein neues KI-Projekt — [Claude](https://claude.ai), Grok, Copilot und Gemini funktionieren alle
-2. Upload to your AI project: all .md files in this folder
+2. Upload to your AI project: all .md files in the `engine/` folder
 3. Beginne ein Gespräch — bring, was du hast
 
 Die Welt wählt die Persona, deren Schatten den stärksten Druck auf das ausübt, was du mitbringst. Eine Persona übergibt, wenn ihr Schatten getan hat, was er tun kann. Die Kette kehrt zu dir zurück, wenn sie ohne dich nicht weiterkommt.
@@ -57,6 +57,8 @@ Die Welt wählt die Persona, deren Schatten den stärksten Druck auf das ausübt
 **Das Protokollbuch** — hält, was Oberlin benennen konnte. Nicht was geschah.
 
 **Das Fensterbrett** — hält die Entfernung zwischen dem Raum und allem draußen.
+
+**Der Brief** — kehrt in die Welt zurück, die Lenz nicht erreichen kann.
 
 **Der Brief** — kann zurück in die Welt, die ihn geschickt hat. Lenz nicht.
 

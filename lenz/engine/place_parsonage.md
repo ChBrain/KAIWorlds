@@ -2,9 +2,8 @@
 ## Location: Waldersbach, Steintal
 
 ## Owner
-**Project:** Lenz
-
-**Persona:** Oberlin
+- **Project:** Lenz
+- **Persona:** [Oberlin](persona_oberlin.md)
 
 ## Shown
 - Stein. Der Geruch von Essen, Feuer, häuslicher Ordnung.
@@ -26,6 +25,5 @@
 
 ---
 
-*place_parsonage.md — 24.03.2026*
-
-v0.1.0 — KAI Worlds
+*place_parsonage.md - 24.03.2026*
+*v0.1.0 - KAI Worlds / Lenz*

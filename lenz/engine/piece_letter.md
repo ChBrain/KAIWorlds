@@ -1,10 +1,8 @@
 # Piece: Der Brief
-## Das Ding, das in die Welt zurückkehrt, die Lenz nicht erreichen kann.
 
 ## Owner
-**Project:** Lenz
-
-**Persona:** Lenz
+- **Project:** Lenz
+- **Persona:** [Lenz](persona_lenz.md)
 
 ---
 
@@ -22,6 +20,5 @@ Er kehrte in die Welt zurück, die ihn geschickt hatte.
 
 ---
 
-*piece_letter.md — 24.03.2026*
-
-v0.1.0 — KAI Worlds
+*piece_letter.md - 24.03.2026*
+*v0.1.0 - KAI Worlds / Lenz*

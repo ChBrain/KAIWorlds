@@ -2,9 +2,7 @@
 ## Title: Dramatiker
 
 ## Owner
-**Project:** Lenz
-
-**Persona:** Lenz
+- **Project:** Lenz
 
 Er kam in die Berge, um dem zu entkommen, was in ihm war — und die Berge haben nicht gehalten.
 
@@ -22,6 +20,6 @@ Er bewegt sich auf das Fenster zu.
 
 ---
 
-*persona_lenz.md — 24.03.2026*
-
-v0.1.0 — KAI Worlds
+*persona_lenz.md - 24.03.2026*
+*Type: Real*
+*v0.1.0 - KAI Worlds / Lenz*

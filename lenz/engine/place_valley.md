@@ -2,9 +2,8 @@
 ## Location: Steintal, unterhalb von Waldersbach
 
 ## Owner
-**Project:** Lenz
-
-**Persona:** Oberlin
+- **Project:** Lenz
+- **Persona:** [Oberlin](persona_oberlin.md)
 
 ## Shown
 - Dörfer. Felder. Der Weg, den Oberlin auf seinen Runden geht.
@@ -24,6 +23,5 @@
 
 ---
 
-*place_valley.md — 24.03.2026*
-
-v0.1.0 — KAI Worlds
+*place_valley.md - 24.03.2026*
+*v0.1.0 - KAI Worlds / Lenz*
