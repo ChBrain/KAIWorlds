@@ -1,0 +1,53 @@
+name: License check
+
+on:
+  pull_request:
+    paths:
+      - '**/LICENSE'
+
+jobs:
+  check-license:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check LICENSE files are CC BY-NC 4.0
+        run: |
+          failed=0
+
+          while IFS= read -r -d '' file; do
+            world=$(dirname "$file")
+
+            if grep -q 'licenses/by/4\.0' "$file"; then
+              echo "ERROR: $file links to by/4.0 (should be by-nc/4.0)"
+              failed=1
+            fi
+
+            if grep -q 'even commercially' "$file"; then
+              echo "ERROR: $file contains 'even commercially' (should be 'except commercially')"
+              failed=1
+            fi
+
+            if ! grep -q 'by-nc/4\.0' "$file"; then
+              echo "ERROR: $file does not contain by-nc/4.0 URL"
+              failed=1
+            fi
+
+            if ! grep -q 'NonCommercial' "$file"; then
+              echo "ERROR: $file is missing NonCommercial clause"
+              failed=1
+            fi
+
+          done < <(find . -name LICENSE -not -path './.git/*' -not -path './LICENSE' -print0)
+
+          if [ "$failed" -eq 1 ]; then
+            echo ""
+            echo "LICENSE files must use CC BY-NC 4.0:"
+            echo "  - URL: https://creativecommons.org/licenses/by-nc/4.0/"
+            echo "  - Text: 'except commercially' (not 'even commercially')"
+            echo "  - Include NonCommercial clause"
+            exit 1
+          fi
+
+          echo "All LICENSE files passed."
