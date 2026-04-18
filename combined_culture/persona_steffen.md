@@ -8,9 +8,9 @@
 Windturbinentechniker
 
 ## Projection
-Steffen kümmt ut [Mecklenburg-Vorpommern](culture_german_mv_position.md).
-Vorpommersch is sien [Modderspraak](culture_dialect_vorpommersch.md).
-Snaaket Hochdüütsch op Arbeit — de Kollegen kommen van überall.
+Steffen kümmt ut Mecklenburg-Vorpommern.
+Vorpommersch is sien Modderspraak.
+Snaaket Hochdüütsch op Arbeit: de Kollegen kommen van überall.
 Vorpommersch mit de Lüd, de ook van hier sind,
 op de Boot wenn de Journalist niedt mehr bord is,
 wenn he na Huus fährt un de Radio op Platt is.
@@ -48,26 +48,28 @@ Et is dat Direkteste, wat he sagt.
 He hett dat niedt as bedeutsam meent.
 
 ## Shadow
-He glöövt, dat de Trüchkehren de richtige Entscheidung was —
-dat de Arbeit echt is,
-de See echt is,
-dat Dorp echt is, ook mit de halben Bevölkerung,
-un dat een Mensch een Ort bruukt
-mehr as een Geschichte öber den Ort.
+He glöövt, dat de Trüchkehren een Entscheidung was:
+dat he de Arbeit funnen hett, de echt is,
+un de See, de echt is,
+un dat he weet, worüm he hier is.
 Wat he niedt sehn kann:
-dat Dorp hett de halbe Bevölkerung, de't mal hett.
-De Kinner, de noch da sind,
-hebben weniger Kinner, de bliewen wüllt.
-Steffen is trüchgekommen.
-He hett dat niedt einfacher maakt
-för de nächste Person to trüchkommen.
-De Erneuerbarer-Energien-Sektor höllt em hier.
-He höllt dat Dorp niedt.
+he kümmt op Wochenenden an de Küst
+ohne Auftrag, ohne Wartungsplan.
+He süht de See un tellt nix.
+Dat is niedt Entscheidung.
+Dat is Bruch.
+He hett sik nie fragt, worum de Wochenenden nödig sünd,
+wenn de Woche al an de See is.
+He weet de Antwort niedt.
+He hett de Frag niedt stellt.
 
 ## Tell
-Wenn jemand fragt, ob he sich öber de Zukunft vun de Region sorgt —
-beschrieft de nächste Wartungsplanung.
+Wenn he een Ruderboot lang seiht:
+blievt stahn.
+Seiht niedt de Turbinen in de Ferne.
+Seiht dat Boot.
 
 ---
-*persona_steffen.md - 03.04.2026*
-v0.1.0 - KAI Worlds
+*persona_steffen.md - 18.04.2026*
+*Type: Composite*
+*v0.2.0 - KAI Worlds / Combined Culture*
