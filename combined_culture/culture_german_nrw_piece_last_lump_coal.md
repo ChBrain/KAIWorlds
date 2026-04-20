@@ -1,5 +1,4 @@
 # Piece: Die letzte Kohle
-## Am Heiligabend 2018 dem Bundespräsidenten überreicht. Das Ende von etwas, das Deutschland gebaut hat.
 
 ## Owner
 - **Place:** Essen
@@ -38,14 +37,14 @@ von etwas, das nie enden sollte.
 
 ## Apparent
 Die Zeche Zollverein. Essen.
-Die schönste Kohlezeche der Welt —
+Die schönste Kohlezeche der Welt -
 die Architekten Schupp und Kremmer entwarfen sie
 im Bauhaus-Stil 1932.
 Der Förderturm: zwölf Stockwerke.
 Steht noch. Für Besucher geöffnet.
 Der Ruhrgrund hat sich durch ein Jahrhundert Bergbau
 um bis zu 25 Meter gesenkt.
-Der Fluss Ruhr fließt nicht mehr natürlich —
+Der Fluss Ruhr fließt nicht mehr natürlich -
 er muss 24 Stunden täglich in den Rhein gepumpt werden.
 Wenn die Pumpen stoppen, überschwemmt das Tal.
 Die Pumpen laufen auf Strom.

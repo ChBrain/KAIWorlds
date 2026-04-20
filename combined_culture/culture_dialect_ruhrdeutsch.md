@@ -1,10 +1,11 @@
-# culture_dialect_ruhrdeutsch.md
-## Keen echtet Platt. Keen echtet Hoogdüütsch. Dat Dazwischen vun de Zeche.
+# Dialekt: Ruhrdeutsch
 
 ## Owner
 - *
 
 ## Has
+
+Keen echtet Platt. Keen echtet Hoogdüütsch. Dat Dazwischen vun de Zeche.
 
 Ruhrdeutsch is keen Dialekt im klassischen Sinn.
 Et is een Kontaktsprake —
@@ -32,8 +33,8 @@ Dat Ruhrpottdeutsche kam durch die Zeche.
 Beide sitzen.
 In Besprechungen: Hochdeutsch.
 Am Förderband, in der Kantine, auf dem Heimweg: Ruhrpottdeutsch.
-Dieter wechselt ohne Ankündigung.
-Er weiß es nicht immer.
+De Persona wechselt ohne Ankündigung.
+Se weiß et nicht immer.
 
 De Direktheit.
 Kein Smalltalk bevor de Arbeit anfangt.
