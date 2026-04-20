@@ -279,11 +279,13 @@ A world about the accumulated whole that no single desk in the chain can see. Se
 
 ---
 
-### [Cultures](cultures/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/cultures.zip)
+### [Cultures](https://github.com/ChBrain/Cultures) — [Download ↓](https://github.com/ChBrain/Cultures/releases/latest/download/cultures-full.zip)
 
 *198 cultural positions. Each one already running. Each one holding what it holds.*
 
 A world built from the operating logic of 198 cultures across 5 regions. Hundreds of personas doing ordinary work - a headteacher in Krakow, a prison officer in Hrodna, a historian in Vilnius. Each carrying a cultural position they did not choose and mostly do not name. Each acting from it anyway. One process: the world is spinning. This world does not resolve. It runs.
+
+This world is maintained in its own repository: [ChBrain/Cultures](https://github.com/ChBrain/Cultures).
 
 ---
 
@@ -348,6 +350,54 @@ A world about mask agreements - the ones people enter consciously, the ones that
 *Aristotle - Poetics, 335 BCE.*
 
 A world about the mechanics of tragedy. One persona, four processes, four positions, four pieces, three places. Mythos is the parent process. Desis tightens the knot. Catastrophe fires Peripeteia and Anagnorisis together. Lysis releases Catharsis into the audience. The engine runs on any story. Load it. Find what is running. Find what is missing. This world does not resolve. It names.
+
+---
+
+### [Plato](plato/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/plato.zip)
+
+*The Academy. The cave. The sun. The diagram.*
+
+A world about what happens to someone who has seen what the shadows are made from and has to go back in. One persona, two pieces, three places, four positions, three processes. The Examination dismantles what the person holds as knowledge. The Ascent moves them toward the source. The Return sends them back — with the knowledge, without the certainty that the transmission will work. Plato does not see the Power Structure. He drew the diagram to solve the transmission problem. The transmission problem was never the real problem. This world does not resolve. It sends you back.
+
+---
+
+### [Socrates](socrates/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/socrates.zip)
+
+*Athens. 399 BC. The question is already running.*
+
+A world about a man who made thinking into a public act and a city that experienced public thinking as a threat. Four personas, three pieces, three places, three positions, three processes. The question was never whether he was right. Everything we know arrives through Plato. Plato was not in the room when it ended. He wrote it anyway, forty years later. It is perfect. This world does not resolve. It continues.
+
+---
+
+### [Emilia Galotti](emilia_galotti/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/emilia_galotti.zip)
+
+*Gotthold Ephraim Lessing — Brunswick, 1772. The anteroom. Odoardo has the dagger.*
+
+A world about what honour costs and who pays it. Four personas, two places, eight positions, two processes. A father with a dagger. A daughter on the other side of a door who does not yet know he is there. A prince who took what he wanted and called it love. A mistress who was discarded and came back with the truth. The world begins at Act V. The ending is not a surprise. The world does not treat it as one. This world does not resolve. It closes.
+
+---
+
+### [Grimm](grimm/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/grimm.zip)
+
+*Jacob Grimm and Wilhelm Grimm — Germany, 1785 to 1863*
+
+A world about what happens when people believe they are recording something that was already there. Five personas, four pieces, three places, five positions, four processes. Four people whose life's work consists of turning living material into fixed forms, each one convinced that the fixing is faithful to the original, each one unable to see that the fixing is also the making. Thirty-four years in a shared workroom. One marriage, two desks, four children, a configuration no word in German names. When Wilhelm dies, Jacob does not move the furniture. Goethe is not in this world. He is the pressure under which it stands. This world does not resolve. It continues.
+
+---
+
+### [Restoration](restoration/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/restoration.zip)
+
+*The surface is present. Bring what needs to be read.*
+
+A world about what a person does when they read surfaces for a living and have not yet read their own. One persona, five pieces, three places, four positions, nine processes. Vera stands at the angle the raking light requires. Before the history is offered, she asks one question. She has done this for twenty years. The gloves went on after the accident. They have not come off since. The work chain and the body chain run simultaneously. This world does not repair. It reads.
+
+---
+
+### [Rowing](rowing/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/rowing.zip)
+
+*The boat moves. The rower does not arrive.*
+
+A world about a cycle that does not stop. Fourteen personas, four pieces, three places, four positions, seven processes. The stroke is indivisible: catch forces drive, drive forces finish, finish forces recovery, recovery forces the next catch. The rower returns to the same starting position at a different point on the water. The coxswain is the only one facing forward. Everyone else faces the direction the boat came from. This world does not resolve. It cycles.
 
 ---
 
