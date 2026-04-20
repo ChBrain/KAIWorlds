@@ -1,10 +1,10 @@
 # Position: North Rhine-Westphalian
-## Die Solidarität, die die Republik gebaut hat und sich jetzt selbst neu aufbaut.
 
 ## Owner
 - *
 
 ## Has
+Die Solidarität, die die Republik gebaut hat und sich jetzt selbst neu aufbaut.
 [Die letzte Kohle](culture_german_nrw_piece_last_lump_coal.md).
 Die Arbeitsidentität — nicht als Ideologie, als Struktur.
 Das Ruhrgebiet hat sich um die Arbeit herum gebaut,
