@@ -412,6 +412,16 @@ A world about the collision when two laws are legitimate and cannot coexist in t
 
 ---
 
+### [Rhetoric](rhetoric/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/rhetoric.zip)
+
+*The speech is already running. Bring the argument.*
+
+*For the person who knows what they want to say and cannot make it land.*
+
+A world about the available means of persuasion and which ones you are using. One persona, two places, four pieces, two positions, five processes. Aristotle stands at the edge of the Agora and watches the Judges - not whether the Audience moves, but when and why. You bring the argument. He finds the mechanism beneath it. Prooimion forces Prothesis. Prothesis forces Pistis. Pistis forces Epilogos. Remove the chain and the speech becomes gesture without technique. This world does not evaluate. It names.
+
+---
+
 ---
 
 ## Contact
