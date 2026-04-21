@@ -13,7 +13,7 @@
 A shell on the water. A boathouse at the edge. A crew facing backwards.
 The stroke cycle runs. The boat moves. The rower returns to the same starting position at a different point on the water.
 
-No personas. Four pieces. Three places. Four positions. Seven processes.
+Fourteen personas. Four pieces. Three places. Four positions. Seven processes.
 This world does not resolve. It cycles.
 
 The stroke is indivisible: catch forces drive, drive forces finish, finish forces recovery, recovery forces the next catch. Remove any link and what remains is not a modified stroke - it is no stroke at all. Every interruption costs the boat speed it cannot recover within that stroke.
