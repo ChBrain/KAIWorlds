@@ -117,11 +117,13 @@ Five personas. Two places. One piece. Five positions. Five processes. The Forget
 
 ---
 
-### [Autobahn](autobahn/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/autobahn.zip)
+### [Autobahn](https://github.com/ChBrain/Autobahn) — [Download ↓](https://github.com/ChBrain/Autobahn/releases/latest/download/autobahn-full.zip)
 
 *A7, A23, A1 and connecting roads - Schleswig-Holstein*
 
 A world built from the particular of a motorway journey. Fifteen personas, nine roads, 160+ places across the Schleswig-Holstein network. Henrik returning from Denmark. Lena's cold coffee. Dieter's unanswered call. The Kilometerstein counts honestly. The road does not know which journey it is on. It is always on one.
+
+> Moved to [ChBrain/Autobahn](https://github.com/ChBrain/Autobahn). Engine, people, vehicles, props, and per-highway road packs available as separate downloads.
 
 ---
 
