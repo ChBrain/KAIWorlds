@@ -403,6 +403,15 @@ A world about a cycle that does not stop. Fourteen personas, four pieces, three 
 
 ---
 
+### [Antigone](antigone/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/antigone.zip)
+
+*Thebes. The war is over. The edict is posted. The burial has already happened.*
+*Two laws are in the same city at the same time. Neither will yield.*
+
+A world about the collision when two laws are legitimate and cannot coexist in the same act. Six personas, two places, two pieces, seven positions, two processes. Antigone enacted the obligation without performing it. Kreon applied the authority without performing it. Haimon holds neither law and is destroyed by both. Teiresias names the mechanism and is not heard in time. The Chorus tells the audience what to feel about what it cannot change. Sophocles asked the question in 442 BCE. The world does not treat it as answered. This world does not resolve. It collides.
+
+---
+
 ---
 
 ## Contact
