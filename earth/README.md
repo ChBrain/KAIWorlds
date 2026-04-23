@@ -85,4 +85,4 @@ This world runs on one question: can the human processes -- Knows Everything, Pr
 ---
 
 *README.md*
-*v0.1.1 - KAI Worlds / Earth*
+*v0.1.0 - KAI Worlds / Earth*

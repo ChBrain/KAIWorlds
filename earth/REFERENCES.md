@@ -73,4 +73,4 @@ Earth Day 2026 falls on 23 April 2026.
 ---
 
 *REFERENCES.md*
-*v0.1.1 - KAI Worlds / Earth*
+*v0.1.0 - KAI Worlds / Earth*
