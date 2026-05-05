@@ -1,17 +1,11 @@
 # Stack
 
 ## Owner
-- **Project:** Romeo and Juliet
+Project: Romeo and Juliet
 
 ## Overview
-Source: William Shakespeare, *Romeo and Juliet* (c. 1595).
-
-## Model
-claude-sonnet-4-6
-
-## Platform
-Claude.ai - fresh project, engine files only.
+An AI project
 
 ---
-*stack.md*
-*v0.1.0 - Romeo and Juliet*
+*stack.md - 05.05.2026*
+*v0.1.0 - KAI Worlds*
