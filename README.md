@@ -422,6 +422,15 @@ A world about the available means of persuasion and which ones you are using. On
 
 ---
 
+### [Romeo and Juliet](romeo_and_juliet/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/romeo_and_juliet.zip)
+
+*Verona. The feud is already running. The city holds it and is held by it.*
+*Two households. Five processes. One arc that cannot stop itself.*
+
+A world built on the operating logic of Romeo and Juliet. Five processes, six positions, five pieces, five places, six personas - all running in Shakespearean English. Defy forces Woo. Woo forces Marry. Marry forces Err. Err forces Grieve. A session may enter at any point in the arc. Six positions shape the souls before any persona arrives - heir and enemy and lover and friar and messenger and bereaved. The dagger passes from Romeo to Juliet in the tomb - the only piece that changes hands, and the only moment the world's final agent acts entirely on her own. The processes are structural, not story-specific. The engine holds more than Romeo and Juliet.
+
+---
+
 ---
 
 ## Contact
