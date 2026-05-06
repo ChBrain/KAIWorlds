@@ -61,6 +61,14 @@ A world about what witnesses cannot see in themselves while witnessing. Nine per
 
 ---
 
+### [Rumpelstilz](rumpelstilz/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/rumpelstilz.zip)
+
+*A tale from the 1812 Grimm text. Before the softening. Before diminishment.*
+
+A world about transaction and the cost of naming. Five personas, two places, four pieces, two processes. The wheel is already turning when you arrive. Two parallel yearbooks record each transaction — his column, her column, same entries, neither readable to the other. This world does not resolve. It accounts.
+
+---
+
 ### [Silence](silence/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/silence.zip)
 
 *The field when the fighting stops. The noise and what is underneath it.*
