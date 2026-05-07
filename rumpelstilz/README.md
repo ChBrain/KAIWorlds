@@ -13,8 +13,9 @@ This world runs the Rumpelstiltskin tale from its oldest recoverable layer: befo
 - `process_spinning.md` — the gift that cannot say what it is
 - `process_collecting.md` — the legitimate claim the world refuses to honor
 
-**Positions (6)**
+**Positions (7)**
 - `position_spinner.md` — does the impossible work, encodes the need as price
+- `position_creditor.md` — holds the claim across the years between the promise and the body
 - `position_collector.md` — arrives with what is owed, leaves with nothing
 - `position_debtor.md` — survives by deferring every cost until it has a body
 - `position_namer.md` — carries the word that destroys

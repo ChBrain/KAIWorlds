@@ -19,7 +19,7 @@ Resistance: the asymmetry. She receives survival. He receives an object, a ring,
 
 ## Echo
 
-[Collecting](process_collecting.md) inherits a [Debtor](position_debtor.md) who has survived three nights at a cost she has not calculated, a Yearbook holding three entries, and a [Spinner](position_spinner.md) who has become a [Collector](position_collector.md) without changing his need at all.
+[Collecting](process_collecting.md) inherits a [Debtor](position_debtor.md) who has survived three nights at a cost she has not calculated, a Yearbook holding three entries, and a [Spinner](position_spinner.md) who has become a [Creditor](position_creditor.md) without changing his need at all.
 
 ---
 
