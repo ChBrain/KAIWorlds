@@ -19,9 +19,7 @@ The door is locked from outside. [The miller's daughter](persona_millers_daughte
 
 ## Offers
 
-The condition under which [Spinning](process_spinning.md) is inevitable. The room does not remember the previous night. The [Debtor](position_debtor.md) does.
-
-Salvation and imprisonment are the same room.
+Enter at any of three nights. The room does not require you to remember which. Stand at [The Wheel](piece_the_wheel.md) without spinning. Watch a transaction the world will not record. Cross the threshold the [Debtor](position_debtor.md) does not cross after the first night.
 
 ## Withheld
 

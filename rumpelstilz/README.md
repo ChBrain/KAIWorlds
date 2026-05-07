@@ -5,8 +5,6 @@ The wheel is already turning when you arrive.
 
 This world runs the Rumpelstiltskin tale from its oldest recoverable layer: before the 1857 softening, before the diminutive, before he became a comic obstacle. Rumpelstilz gives in the dark. The world takes in the light. The world does not mark the loss.
 
-Two Yearbooks run simultaneously through every transaction. His column. Her column. Same entries. Neither party can read the other's.
-
 ---
 
 ## What this world contains
@@ -36,9 +34,9 @@ Two Yearbooks run simultaneously through every transaction. His column. Her colu
 **Personas (5)**
 - `persona_rumpelstilz.md` — does not check the tree line
 - `persona_millers_daughter.md` — sends the messenger to find what he is called, not who he is
-- `persona_the_messenger.md` — had the name after the first repetition and stayed for the rest
+- `persona_the_messenger.md` — speaks the name with his weight still pitched toward the fire
 - `persona_the_father.md` — tells the story one sentence after the lie
-- `persona_the_king.md` — never in the room where the cost of his rooms is paid
+- `persona_the_king.md` — at the threshold his hand finds the doorframe and stops
 
 ---
 
@@ -50,7 +48,6 @@ The world opens hot. No introduction. The wheel is already turning.
 
 Default entry: the fire, third night.
 Second door: the tower room, first night.
-Third door: the road where the miller speaks.
 
 ---
 

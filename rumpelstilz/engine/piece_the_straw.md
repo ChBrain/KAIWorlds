@@ -22,9 +22,9 @@ By morning it is gone. Not a strand remains.
 
 ## Yearbook
 
-Night 1: a necklace. The room is refilled.
-Night 2: a ring. The room is refilled.
-Night 3: a firstborn not yet born. The room is not refilled.
+Night 1: [Spinner](position_spinner.md) spins for the [Debtor's](position_debtor.md) necklace. The room is refilled.
+Night 2: [Spinner](position_spinner.md) spins for the [Debtor's](position_debtor.md) ring. The room is refilled.
+Night 3: [Spinner](position_spinner.md) spins for the [Debtor's](position_debtor.md) firstborn not yet born. The room is not refilled. The entry that turns the [Spinner](position_spinner.md) into the [Collector](position_collector.md).
 
 After Night 3: the debt it generated will not be collected until the child is born.
 

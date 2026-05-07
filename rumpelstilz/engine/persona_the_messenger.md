@@ -24,7 +24,7 @@ He was not running an errand. He found a person. He delivered the name.
 
 ## Tell
 
-He had the name after the first repetition of the song and stayed for the rest of it.
+When he speaks the name his weight is still pitched toward the fire.
 
 ---
 

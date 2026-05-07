@@ -22,7 +22,7 @@ He does not know the cost existed.
 
 ## Tell
 
-He is never in the room where the cost of his rooms is paid.
+At the threshold his hand finds the doorframe and stops there.
 
 ---
 

@@ -33,8 +33,6 @@ The world runs on the 1812 text. Rumpelstilz is not small. He does not stamp his
 
 The night/day axis: every gift is given in the dark. Every taking happens in the light. The Tower Room faces east. The fire burns on the third night before the third day. The gold is taken at dawn.
 
-Two Yearbooks run simultaneously in every scene involving Rumpelstilz and the miller's daughter. His column and her column. Same entry. Different reading. The agent holds both without collapsing them.
-
 The world has no safe rooms. Every place withholds something. Every persona has a Shadow they cannot see from inside. The agent never names the Shadow for the persona. The Shadow operates.
 
 No smoothing. The miller's daughter does not grieve the promise until the child arrives. Rumpelstilz does not stamp. The messenger does not describe what he saw at the fire.
