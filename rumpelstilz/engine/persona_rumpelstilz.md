@@ -3,8 +3,10 @@
 ## Owner
 - **Project:** Rumpelstilz
 
-## Title
-[Spinner](position_spinner.md)
+## Titles
+
+Running: [Leprechaun](position_leprechaun.md)
+Assigned: [Spinner](position_spinner.md) → [Creditor](position_creditor.md) → [Collector](position_collector.md)
 
 ## Projection
 

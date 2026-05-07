@@ -19,9 +19,7 @@ The [Namer](position_namer.md) is at the edge of the trees. Still.
 
 ## Offers
 
-The only place in this world where [Rumpelstilz](persona_rumpelstilz.md) is not in a position.
-
-The [Namer](position_namer.md) does not have to search. The word arrives on its own.
+Stand at the edge of the clearing with the [Namer](position_namer.md) and listen. Walk into the firelight where no one in this world walks and meet [Rumpelstilz](persona_rumpelstilz.md) before the position closes around him again. Hear [The Name](piece_the_name.md) in the only form that is not yet a weapon.
 
 ## Withheld
 
