@@ -13,11 +13,14 @@ This world runs the Rumpelstiltskin tale from its oldest recoverable layer: befo
 - `process_spinning.md` — the gift that cannot say what it is
 - `process_collecting.md` — the legitimate claim the world refuses to honor
 
-**Positions (7)**
+**Positions (10)**
 - `position_spinner.md` — does the impossible work, encodes the need as price
 - `position_creditor.md` — holds the claim across the years between the promise and the body
 - `position_collector.md` — arrives with what is owed, leaves with nothing
 - `position_debtor.md` — survives by deferring every cost until it has a body
+- `position_daughter.md` — assigned by the father's mouth in the road
+- `position_queen.md` — assigned by the king at the dawn after Night 3
+- `position_mother.md` — assigned by the child at birth
 - `position_namer.md` — carries the word that destroys
 - `position_liar.md` — starts the chain and exits before it lands
 - `position_greed.md` — the position that never hits a wall

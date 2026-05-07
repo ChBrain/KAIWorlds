@@ -3,8 +3,10 @@
 ## Owner
 - **Project:** Rumpelstilz
 
-## Title
-[Debtor](position_debtor.md)
+## Titles
+
+Running: [Debtor](position_debtor.md)
+Assigned: [Daughter](position_daughter.md) → [Queen](position_queen.md) → [Mother](position_mother.md)
 
 ## Projection
 

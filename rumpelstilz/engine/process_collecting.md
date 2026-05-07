@@ -5,7 +5,7 @@
 
 ## Initiated by
 
-The child is born. The third entry in [The Straw](piece_the_straw.md) Yearbook has a body now. The [Creditor](position_creditor.md) arrives. The arrival turns the [Creditor](position_creditor.md) into the [Collector](position_collector.md). Late enough that the love is the thing that makes the arrival unbearable.
+The child is born. The third entry in [The Straw](piece_the_straw.md) Yearbook has a body now. The [Queen](position_queen.md) has become the [Mother](position_mother.md); the [Creditor](position_creditor.md) arrives. The arrival turns the [Creditor](position_creditor.md) into the [Collector](position_collector.md). Late enough that the love is the thing that makes the arrival unbearable.
 
 ## Direction
 
