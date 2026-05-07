@@ -13,7 +13,8 @@ This world runs the Rumpelstiltskin tale from its oldest recoverable layer: befo
 - `process_spinning.md` — the gift that cannot say what it is
 - `process_collecting.md` — the legitimate claim the world refuses to honor
 
-**Positions (10)**
+**Positions (11)**
+- `position_leprechaun.md` — folkloric type that assumes the rules of other folktales still apply here
 - `position_spinner.md` — does the impossible work, encodes the need as price
 - `position_creditor.md` — holds the claim across the years between the promise and the body
 - `position_collector.md` — arrives with what is owed, leaves with nothing
