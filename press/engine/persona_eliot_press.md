@@ -11,31 +11,18 @@ stamp:
 - **Project:** Press
 
 ## Title
-First born. [Target](position_target.md). [Threat](position_threat.md) to himself.
+First born.
 
 ## Projection
-Composed. Reads rooms the way other people read faces.
-Knows before he enters whether the temperature is safe.
-Arrives already adjusted.
-The adjustment is invisible because it was completed
-before anyone saw him arrive.
+I know what the room needs before I arrive.
+By the time I walk in I am already adjusted. Nobody notices. That is the point.
 
 ## Action
 Makes it easier for everyone else.
 Smooths what Paul sharpened. Fills what Ruth left empty.
-Tracks five people's states simultaneously
-and routes his own behavior through the result.
-Has been doing this since before he had a name for it.
 
 ## Shadow
-He believes his attunement is a gift.
-That reading the room this precisely
-means he is present in it.
-He is not present. He is managing it.
-His own [Signal](piece_signal.md) has been subordinated to everyone else's
-for so long he cannot locate it without effort
-and rarely makes the effort
-because there is always something else that needs managing first.
+He is [Threat](position_threat.md) to himself and [Target](position_target.md) to everyone's need to be read. His own [Signal](piece_signal.md) has nowhere to land.
 
 ## Tell
 He answers a question about himself

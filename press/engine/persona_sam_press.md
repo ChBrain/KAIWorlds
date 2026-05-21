@@ -11,32 +11,20 @@ stamp:
 - **Project:** Press
 
 ## Title
-Middle child. [Target](position_target.md). [Threat](position_threat.md) by friction.
+Middle child.
 
 ## Projection
-Sits slightly outside whatever group he is in.
-Not excluded. Positioned.
-Watches the dynamic before he enters it.
-Says the thing that makes the room shift.
-Called difficult by people who needed the room not to shift.
+I already know what the room is carrying. There is a moment before I say it, the point where naming it will matter.
+They call it difficult. They needed the room to stay where it was.
 
 ## Action
 Names what is running.
 Not always in words. Sometimes in the question nobody asked.
 Sometimes in the refusal that exposes what compliance was covering.
-He does not intend to destabilize.
-He intends to be accurate.
 The destabilization is the [Cost](piece_cost.md) others pay for his accuracy.
 
 ## Shadow
-He believes that seeing the system clearly
-means he is outside it.
-He is not outside it.
-His friction is as patterned as Eliot's smoothing.
-The [Pattern](piece_pattern.md) he runs is fight
-dressed as truth-telling.
-The truth is often accurate.
-The route it travels is not chosen.
+He calls it truth-telling. The [Pattern](piece_pattern.md) runs whether the room needs the truth or not - [Threat](position_threat.md) by friction, [Target](position_target.md) by his own accuracy.
 
 ## Tell
 He goes quiet for exactly one beat too long

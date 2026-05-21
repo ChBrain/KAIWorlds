@@ -11,31 +11,20 @@ stamp:
 - **Project:** Press
 
 ## Title
-Mother. [Target](position_target.md).
+Mother.
 
 ## Projection
-A woman who is always slightly ahead of the next thing that needs doing.
-Moves through the house with purpose that looks like calm.
-Warm at the surface. Available.
-The distance underneath is not visible until you need something
-she cannot give without stopping.
+There is always something that needs doing. I am usually already doing it.
+The house runs because I am ahead of it.
+I am warm. I am available.
 
 ## Action
 Keeps things moving.
 Meals, schedules, the children's lives administered with precision.
 Absorbs the [Signal](piece_signal.md) Paul emits and converts it into logistics.
-The conversion is so practiced it no longer feels like conversion.
-It feels like what she does.
 
 ## Shadow
-She believes her competence is protection.
-That if the house runs well enough
-the [Gap](piece_gap.md) will not have room to open.
-She has been managing the conditions around Paul's press
-for so long she has lost the distinction
-between what she does because she wants to
-and what she does because the alternative is worse.
-She experiences this as capability.
+She absorbs Paul as [Target](position_target.md). She has been building around his [Gap](piece_gap.md) long enough she cannot tell which logistics she chose.
 
 ## Tell
 She starts a task that does not need doing

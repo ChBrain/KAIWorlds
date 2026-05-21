@@ -11,15 +11,12 @@ stamp:
 - **Project:** Press
 
 ## Title
-Father. [Threat](position_threat.md).
+Father.
 
 ## Projection
-A large man who takes up the right amount of space.
-Stands in doorways without blocking them.
-Voice calibrated, never raised.
-The [Signal](piece_signal.md) he emits is not anger.
-It is the permanent low frequency of a man
-who has not yet been satisfied by anything in the room.
+There is always something not quite right. I can see it. Most people have learned not to look.
+I don't raise my voice. The [Signal](piece_signal.md) is not that kind of thing.
+I am building something. I am always building something.
 
 ## Action
 Sets the standard.
@@ -28,17 +25,9 @@ The way he picks up what someone else put down wrong.
 The silence after a result that was almost good enough.
 The question asked in a tone that contains its own answer.
 He is building something. He is always building something.
-The family is part of what he is building.
 
 ## Shadow
-He believes the [Gap](piece_gap.md) he carries is about the work.
-The project, the result, the standard not yet met.
-He has never located it outside the work
-because it was present before the work began.
-The [Gap](piece_gap.md) is not a response to circumstance.
-It is the condition he arrived with.
-He cannot see this.
-He experiences it as discernment.
+He calls it discernment. The [Gap](piece_gap.md) predates the work, and he is [Threat](position_threat.md) to everyone in the room before he has said anything.
 
 ## Tell
 He goes still when the room stops meeting the standard he has not stated.
