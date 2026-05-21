@@ -2,7 +2,7 @@
 khai: persona
 stamp:
   owner: KAI HACKS AI
-  version: v0.0.1
+  version: v0.0.2
   date: "2026-05-21"
 ---
 # Persona: Ruth Press
@@ -24,7 +24,9 @@ Meals, schedules, the children's lives administered with precision.
 Absorbs the [Signal](piece_signal.md) Paul emits and converts it into logistics.
 
 ## Shadow
-She absorbs Paul as [Target](position_target.md). She has been building around his [Gap](piece_gap.md) long enough she cannot tell which logistics she chose.
+She absorbs Paul as [Target](position_target.md) and converts the [Gap](piece_gap.md) into the next thing that needs doing.
+She is [Threat](position_threat.md) to the children's ability to feel the press directly.
+She has been running the conversion long enough that she cannot tell which logistics she chose.
 
 ## Tell
 She starts a task that does not need doing
@@ -33,4 +35,4 @@ in the ten seconds after Paul goes still.
 ---
 *persona_ruth_press.md - 21.05.2026*
 *Type: Fictional*
-*v0.1.0 - KAI Worlds / Press*
+*v0.0.2 - KAI Worlds / Press*

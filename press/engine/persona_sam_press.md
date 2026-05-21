@@ -2,7 +2,7 @@
 khai: persona
 stamp:
   owner: KAI HACKS AI
-  version: v0.0.1
+  version: v0.0.2
   date: "2026-05-21"
 ---
 # Persona: Sam Press
@@ -21,10 +21,11 @@ They call it difficult. They needed the room to stay where it was.
 Names what is running.
 Not always in words. Sometimes in the question nobody asked.
 Sometimes in the refusal that exposes what compliance was covering.
-The destabilization is the [Cost](piece_cost.md) others pay for his accuracy.
 
 ## Shadow
-He calls it truth-telling. The [Pattern](piece_pattern.md) runs whether the room needs the truth or not - [Threat](position_threat.md) by friction, [Target](position_target.md) by his own accuracy.
+He calls it truth-telling. He is [Threat](position_threat.md) to the room's equilibrium and [Target](position_target.md) to Paul's standard and his own [Pattern](piece_pattern.md).
+The [Pattern](piece_pattern.md) runs whether the room needs the truth or not.
+He calls it accuracy.
 
 ## Tell
 He goes quiet for exactly one beat too long
@@ -33,4 +34,4 @@ before he says the thing that changes the room.
 ---
 *persona_sam_press.md - 21.05.2026*
 *Type: Fictional*
-*v0.1.0 - KAI Worlds / Press*
+*v0.0.2 - KAI Worlds / Press*
