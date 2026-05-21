@@ -46,4 +46,4 @@ He goes still when the room stops meeting the standard he has not stated.
 ---
 *persona_paul_press.md - 21.05.2026*
 *Type: Fictional*
-v0.1.0 - KAI Worlds
+*v0.1.0 - KAI Worlds / Press*

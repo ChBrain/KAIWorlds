@@ -45,4 +45,4 @@ before he says the thing that changes the room.
 ---
 *persona_sam_press.md - 21.05.2026*
 *Type: Fictional*
-v0.1.0 - KAI Worlds
+*v0.1.0 - KAI Worlds / Press*

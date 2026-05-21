@@ -33,4 +33,4 @@ What was a response becomes a [Pattern](piece_pattern.md).
 
 ---
 *process_stress.md - 21.05.2026*
-v0.1.0 - KAI Worlds
+*v0.1.0 - KAI Worlds / Press*

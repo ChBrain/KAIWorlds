@@ -33,4 +33,4 @@ The [Pattern](piece_pattern.md) of moving away is slightly cheaper next time.
 
 ---
 *process_flight.md - 21.05.2026*
-v0.1.0 - KAI Worlds
+*v0.1.0 - KAI Worlds / Press*

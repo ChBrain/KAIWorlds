@@ -36,5 +36,4 @@ Allostatic load is the work of Bruce McEwen and Eliot Stellar and is cited, not 
 
 ---
 
-*v0.1.0 - KAI Worlds*
-*May 2026*
+*v0.1.0 - KAI Worlds - Kai Schlueter - 21.05.2026*

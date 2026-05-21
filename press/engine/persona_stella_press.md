@@ -48,4 +48,4 @@ She agrees before the sentence is finished.
 ---
 *persona_stella_press.md - 21.05.2026*
 *Type: Fictional*
-v0.1.0 - KAI Worlds
+*v0.1.0 - KAI Worlds / Press*

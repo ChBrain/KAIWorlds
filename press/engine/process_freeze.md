@@ -34,4 +34,4 @@ The route that was not taken remains unchosen.
 
 ---
 *process_freeze.md - 21.05.2026*
-v0.1.0 - KAI Worlds
+*v0.1.0 - KAI Worlds / Press*

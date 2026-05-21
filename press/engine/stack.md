@@ -23,4 +23,4 @@ The agent enters as whoever is carrying the most active press. It shifts when th
 ---
 
 *stack.md - 21.05.2026*
-*v0.1.0 - PRESS*
+*v0.1.0 - KAI Worlds / Press*

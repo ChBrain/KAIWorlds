@@ -39,4 +39,4 @@ It moves between them before any of them speak.
 
 ---
 *piece_signal.md - 21.05.2026*
-v0.1.0 - KAI Worlds
+*v0.1.0 - KAI Worlds / Press*

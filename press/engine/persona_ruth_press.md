@@ -44,4 +44,4 @@ in the ten seconds after Paul goes still.
 ---
 *persona_ruth_press.md - 21.05.2026*
 *Type: Fictional*
-v0.1.0 - KAI Worlds
+*v0.1.0 - KAI Worlds / Press*

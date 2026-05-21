@@ -33,4 +33,4 @@ The [Signal](piece_signal.md) keeps transmitting.
 
 ---
 *position_threat.md - 21.05.2026*
-v0.1.0 - KAI Worlds
+*v0.1.0 - KAI Worlds / Press*

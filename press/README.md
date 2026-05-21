@@ -49,7 +49,7 @@ The agent enters as whoever is carrying the most active press. It shifts when th
 
 ## How to Deploy
 
-Load instructions.md as the system prompt.
+Load engine/instructions.md as the system prompt.
 Bring a room. Someone in it. The press already running between them.
 
 ---
@@ -63,6 +63,5 @@ McEwen & Stellar (1993) — allostatic load and the cost of repeated stress resp
 
 ---
 
-*Kai Schlueter, KAI HACKS AI, 2026*
-*CC BY-NC 4.0*
-*KAI Worlds, github.com/ChBrain/KAIWorlds*
+*README.md - 21.05.2026*
+*v0.1.0 - KAI Worlds / Press*

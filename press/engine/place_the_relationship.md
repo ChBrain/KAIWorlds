@@ -38,4 +38,4 @@ or whether the old [Pattern](piece_pattern.md) will reassert before the room cle
 
 ---
 *place_the_relationship.md - 21.05.2026*
-v0.1.0 - KAI Worlds
+*v0.1.0 - KAI Worlds / Press*

@@ -37,4 +37,4 @@ for anyone to see what it holds.
 
 ---
 *place_the_room_after.md - 21.05.2026*
-v0.1.0 - KAI Worlds
+*v0.1.0 - KAI Worlds / Press*

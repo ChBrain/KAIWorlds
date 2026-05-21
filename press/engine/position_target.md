@@ -35,4 +35,4 @@ It experiences the route as decision.
 
 ---
 *position_target.md - 21.05.2026*
-v0.1.0 - KAI Worlds
+*v0.1.0 - KAI Worlds / Press*
