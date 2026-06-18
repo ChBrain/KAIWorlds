@@ -371,6 +371,14 @@ A world about what happens to someone who has seen what the shadows are made fro
 
 ---
 
+### [Press](press/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/press.zip)
+
+*One family. Five members. One house. The press runs between them before anyone speaks.*
+
+A world about how stress moves through people and between them. Five personas, two positions, four pieces, three places, five processes. The agent enters as whoever is carrying the most active press. It shifts when the press moves. This world does not resolve. It runs.
+
+---
+
 ### [Socrates](socrates/) — [Download ↓](https://github.com/ChBrain/KAIWorlds/releases/latest/download/socrates.zip)
 
 *Athens. 399 BC. The question is already running.*
